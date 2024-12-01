@@ -1,4 +1,4 @@
-# cardiovascular-symptom-checker
+# cardiovascular-pathology-checker
 
 ## Description
 - The purpose of this project is to provide individuals who have cardiovascular symptoms with a trustworthy tool for telling them what is likely causing their symptoms
