@@ -1,1 +1,6 @@
-
+- Going to prompt the user to answer yes or no with a list of every symptom and risk factor associated with these pathologies
+- Will store responses
+- Compare the number of present symptoms and risk factors to the total number of symptoms and risk factors for each pathology
+- If the number of present symptoms/risk factors is over 50% then the pathology is said to be active
+- Output will list all pathologies that are matched about 50%, highlighting the most prevalent one
+- If no pathologies are matched about 50% then the output will state these symptoms do not align to a great extent with any one pathology, however, they are worrisome and you should contact your family doctor.
