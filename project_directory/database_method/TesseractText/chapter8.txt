@@ -1,0 +1,1484 @@
+.
+¥ 1g —
+mi
+fl
+Valvular Heart Disease “
+rs - ' * j)
+Elizabeth Ryznar .
+Patrick T. O'Gara Jy
+Leonard S. Lilly
+4 .
+——
+Chapter Outline T his chapter describes the pathophysiologic abnor-
+malities in patients with common valvular heart dis-
+Mitral Nalve Disease eases. Each condition is discussed separately because
+Mtral Stenosis a a :
+Mitral Recurgitation unifying principles do not govern the behavior of all ste-
+Mtral Valve Prolapse notic or regurgitant valves. Effective patient management
+Aortic Valve Disease requires accurate identif cation of the valve lesion, a deter-
+Aortic Stenosis mination of its severity, and a clear understanding of the
+SOIC Nepean pathophysiologic consequences and natural history of the
+ns e Disease condition.
+i nosi
+a The evaluation of a patient with suspected valvular
+Tricuspid Regurgitation
+Palinciic Waive TRecisc disease begins at the bedside with a careful history and
+Pulmonic Stenosis physical examination from which the trained clinician can
+Pulmonic Regurgitation usually identify the type of abnormality present. Defni-
+i . . rn cat echocardiography (TIE), which allows for staging of disease
+Pathogenesis . ; a . oor .
+Ginical- Manifestations severity. In selected patients, additional investigation with
+ST exercise testing or cardiac catheterization may be neces-
+Prevention sary to fully defne the signifcance of the condition and
+guide therapy.
+Management of patients with heart valve disease often
+involves serial clinical and echocardiographic assessments.
+Pharmacologic therapy is sometimes prescribed for sympto-
+matic improvement, but recognition of timely indications for
+valve repair or replacement is essential, as will be described
+192
+Valvular Heart Disease 193
+MITRAL VALVE DISEASE
+Mitral Stenosis
+Hiology
+By far, the most common underlying cause of mitral stenosis (MS) is prior rheumatic fever
+(see Box 8-1). Approximately 50% to 70% of patients with symptomatic MS provide a history
+of acute rheumatic fever occurring, on average, 20 years before presentation. Other rare etiol-
+ogies of MS include calcification of the mitral annulus that extends onto the leaf ets, infective
+a
+BOX8-1 Rheumatic Fever
+Acute rheumatic fever (ARF) is an inf ammatory condition that primarily affects the heart, skin,
+and connective tissues. Its incidence has waned greatly in the past century in industrialized
+societies, where it is now rare, but it remains a major burden in developing countries. ARF arises
+as a complication of pharyngitis caused by group A beta-hemolytic streptococci and mainly aff icts
+children and young adults. During prior epidemics, approximately 3% of patients with acute
+streptococcal pharyngitis developed ARF 2 to 3 weeks after the initial throat infection. G@mmon
+presenting symptoms are chills, fever, fatigue, and migratory arthritis. The cardinal clinical
+manifestations that establish the diagnosis are known as Jones criteria (see Table below).
+Involvement of the heart is thought to result from autoimmune cross-reactivity between bacterial
+and cardiac antigens. Pathologically, carditis (cardiac inf ammation) aff icts all layers of the heart
+(pericardium, myocardium, and endocardium). Histopathologic examination may demonstrate
+Aschoff bodies, areas of focal fibrinoid necrosis surrounded by inf ammatory cells (see Figure) that
+later resolve to form fibrous scar tissue. During the acute episode, carditis may cause tachycardia,
+impaired ventricular contractility, a pericardial friction rub, and transient heart murmurs that ref ect
+turbulent f ow across inf amed valve leaf ets. Treatment of the acute episode includes high-dose
+aspirin to reduce inf ammation and penicillin to eliminate residual streptococcal infection.
+The most important sequela of ARF is chronic rheumatic heart disease (RHD) characterized
+by permanent deformity and impairment of one or more cardiac valves. Symptoms of valvular
+dysfunction, however, do not manifest until 10 to 30 years after ARF has subsided. This latency
+period may be shorter with more aggressive disease sometimes observed in developing countries.
+RHD affects the mitral valve in almost all cases, the aortic valve in 20% to 30%, and rarely the
+tricuspid valve as well. Stenosis and/or regurgitation of each valve can result.
+Management of RHD includes prophylaxis against recurrent streptococcal infection and
+treatment of the chronic valve lesions. Recurrences of ARF can incite further cardiac damage, so
+individuals with ARF should receive preventive low-dose penicillin prophylaxis at least until early
+adulthood, by which time exposure and susceptibility to streptococcal infections have diminished.
+Figure. Histopathology of an Aschoff body in acute rheumatic carditis. Mononuclear
+inf ammatory cells surround a center of focal necrosis. (Gourtesy of Dr Frederick J. Schoen,
+Brigham and Women’s Hospital, Boston.)
+(continues on page 194)
+194 chapter 8
+Ce nl
+BOX8-1 Rheumatic Fever (continued)
+Citeria for Diagnosis of Rheumatic Fever
+Mgjor criteria
+Carditis (inf ammation of all three heart layers)
+Meratory arthritis (mainly large joints)
+Sydenham chorea (involuntary movements)
+Erythema marginatum (skin rash with advancing edge and clearing center)
+Subcutaneous nodules
+Minor criteria
+Arthralgias
+Fever
+Hevated acute-phase reactants (ESR, CRP)
+Prolonged PR interval on electrocardiogram
+Evidence of group A streptococcal infection
+Antistreptolysin O antibodies
+Positive throat culture or rapid antigen test
+eC
+
+‘Diagnosis requires evidence of streptococcal infection and either: two major criteria or one major plus two
+
+minor criteria.
+
+ESR, erythrocyte sedimentation rate; CRP, Greactive protein.
+endocarditis with large vegetations that obstruct the valve orifice, and rare congenital stenosis
+of the valve.
+
+Pathology
+Acute and recurrent inf ammation produces the typical pathologic features of MS due to rheu-
+matic heart disease. These include fibrous thickening and calcification of the valve leaf ets,
+fusion of the commissures (the borders where the leaf ets meet), and thickening and shorten-
+ing of the chordae tendineae.
+
+Pathophysiology
+In early diastole in the normal heart, the mitral valve opens and blood f ows freely from the
+left atrium (LA) into the left ventricle (LV), such that there is a negligible pressure difference
+between the two chambers. In MS, however, there is obstruction to blood fow across the
+valve such that emptying of the LA is impeded and there is an abnormal pressure gradient
+between the LA and LV (Figs. 8-1 and 8-2). As a result, the left atrial pressure increases.
+Hemodynamic changes become apparent when the cross-sectional area of the valve, normally
+4 to 6 cm’, is reduced to less than 2 cm’.
+
+The high left atrial pressure in MS is transmitted retrograde to the pulmonary circulation,
+resulting in increased pulmonary venous and capillary pressures (see Fig. 8-1). This elevation
+of hydrostatic pressure in the pulmonary vasculature may cause transudation of plasma into
+the lung interstitium and alveoli. The patient may therefore experience dyspnea and other
+symptoms of heart failure (as described in Chapter 9). In severe cases, significant elevation
+of pulmonary venous pressure leads to the opening of collateral channels between the pul-
+monary and bronchial veins. Subsequently, an engorged bronchial vein may rupture into a
+bronchus, resulting in hemoptysis (coughing up blood).
+Valvular Heart Disease 195
+Elevated pulmonary
+and right heart pressures
+BZ Wwe
+Aorta C/A T Pressure
+T Volume
+LA
+HGURE 8-1. Pathophysiology of |
+mitral stenosis. In the normal heart,
+blood f ows freely from the left atrium LV
+(LA) into the left ventricle (LV) during
+diastole (blue arrow). In mitral stenosis,
+there is obstruction to LA emptying
+(red arrow). Thus, the LA pressure
+increases, which in turn elevates
+pulmonary and right heart pressures. Normal (dias tole) Mitral s tenos is
+The elevation of left atrial pressure in MS can result in two distinct forms of pulmonary
+hypertension: passive and reactive. Most patients with MS exhibit passive pulmonary hyper-
+tension, related to the backward transmission of the elevated LA pressure into the pulmonary
+vasculature as described in the previous paragraph. This actually represents an “obligatory”
+increase in pulmonary artery pressure that preserves forward f ow in the setting of increased
+left atrial and pulmonary venous pressures. Additionally, approximately 40% of patients with
+MS demonstrate reactive pulmonary hypertension with medial hypertrophy and intimal fibro-
+sis of the pulmonary arterioles. Reactive pulmonary hypertension initially serves a “benefi-
+cial” role because the increased arteriolar resistance impedes blood f ow into the engorged
+pulmonary capillary bed and thus reduces capillary hydrostatic pressure (thereby “protect-
+ing” the pulmonary capillaries from even higher pressures). However, this benefit is at the
+cost of decreased blood fow through the pulmonary vasculature and elevation of the right-
+sided heart pressures, as the right ventricle pumps against the increased resistance. Chronic
+ECG | A
+110
+DB 90
+-
+HGURE 8-2. Hemodynamic prof le &
+of mitral stenosis. The left atrial(LA) £ 7
+pressure is elevated, and there is a @
+pressure gradient (shaded area) between 3 50
+the LAand left ventricle (LV) during 8
+diastole. Gmpare with schematic of a 0 LA
+normal tracing (see Fig. 2-1). Abnormal \
+heart sounds are present: there is 10
+a diastolic opening snap (OS) that weLV
+corresponds to the opening of the mitral
+valve, followed by a decrescendo murmur. Time
+There is an accentuation of the murmur
+just before S, owing to the increased Heart
+pressure gradient when the LA contracts sounds | | im | |
+in patients in sinus rhythm (presystolic Ninn. ll
+accentuation). S{ S2 OS S} Se
+196 Chapter 8
+elevation of right ventricular pressure leads to hypertrophy and dilatation of that chamber and
+ultimately to right-sided heart failure.
+
+Chronic pressure overload of the LA in MS leads to left atrial enlargement. Left atrial
+dilatation stretches the atrial conduction fibers and may disrupt the integrity of the cardiac con-
+duction system, resulting in atrial f brillation (a rapid irregular heart rhythm; see Chapter 12).
+Atrial fibrillation contributes to a decline in cardiac output in MS because the increased heart
+rate shortens diastole. This reduces the time available for blood to f ow across the obstructed
+mitral valve to fill the LV, and, at the same time, further augments the elevated left atrial pres-
+sure. In addition, with atrial fibrillation, there is a loss of the late diastolic atrial contraction
+that normally contributes to LV filling.
+
+The relative stagnation of blood fow in the dilated LA in MS, especially when combined
+with the development of atrial fibrillation, predisposes to intra-atrial thrombus formation.
+Thromboemboli to the brain and other organs may follow, leading to devastating complica-
+tions such as cerebrovascular occlusion (stroke). Thus, MS patients who develop atrial fibril-
+lation require chronic anticoagulation therapy.
+
+The consequences of MS primarily affect the left atrium and the pulmonary vasculature,
+as described above. Left ventricular pressures are usually normal, but impaired filling of the
+chamber through the stenotic valve may reduce LV stroke volume and cardiac output.
+
+Cinical Manifestations and Evaluation
+
+Presentation
+The natural history of MS is variable. Survival exceeds 80% in asymptomatic or minimally symp-
+tomatic patients at 10 years. However, the 10-year survival of untreated patients after onset of
+symptoms is only 50-60%. Longevity is much more limited for patients with advanced symptoms
+and is dismal for those who develop significant pulmonary hypertension, with a mean survival of
+less than 3 years.
+
+The clinical presentation of MS depends largely on the degree of reduction of the valve
+area. The more severe the stenosis, the greater the symptoms related to elevation of left
+atrial and pulmonary venous pressures. The earliest manifestations are those of dyspnea and
+reduced exercise capacity. In mild MS, dyspnea may be absent at rest; however, it develops
+on exertion as LA pressure rises with the exercise-induced increase in blood f ow through the
+heart and faster heart rate (i.e., decreased diastolic filling time). Other conditions and activi-
+ties that augment heart rate and cardiac blood f ow and precipitate or exacerbate symptoms
+of MS include fever, anemia, hyperthyroidism, pregnancy, rapid arrhythmias such as atrial
+fibrillation, emotional stress, and sexual intercourse.
+
+With more severe MS (i.e., a smaller valve area), dyspnea occurs even at rest. Increasing
+fatigue and more severe signs of pulmonary congestion, such as orthopnea and paroxys-
+mal nocturnal dyspnea (described in Chapter 9), occur. With advanced MS and pulmonary
+hypertension, signs of right-sided heart failure ensue, including jugular venous distention,
+hepatomegaly, ascites, and peripheral edema. Compression of the recurrent laryngeal nerve
+by an enlarged pulmonary artery or LA may cause hoarseness (known as Ortner syndrome).
+
+Less often, the diagnosis of MS is heralded by one of its complications: atrial fibrillation,
+thromboembolism, infective endocarditis, or hemoptysis, as described in the earlier section
+on Pathophysiology.
+
+Examination
+On examination, there are several typical findings of MS. Palpation of the chest may reveal
+a right ventricular “tap” in patients with increased right ventricular pressure. Auscultation
+discloses a loud S, (the first heart sound, which is associated with mitral valve closure) in the
+early stages of the disease. The increased S, results from the high pressure gradient between
+Valvular Heart Disease 197
+the atrium and ventricle, which keeps the mobile portions of the mitral valve leaf ets widely
+separated throughout diastole; at the onset of systole, ventricular contraction abruptly slams
+the leaf ets together from a relatively wide position, causing the closure sound to be more
+prominent (see Chapter 2). In late stages of the disease, the intensity of S, may normalize or
+become reduced as the valve leaf ets thicken, calcify, and become less mobile.
+
+A main feature of auscultation in MS is a high-pitched “opening snap” (OS) that follows
+S,. The OS is thought to result from the sudden tensing of the chordae tendineae and ste-
+notic leaf ets on opening of the abnormal valve. The interval between S, and the OS relates
+inversely to the severity of MS. That is, the more severe the MS, the higher the LA pressure
+and the earlier the valve is forced open in diastole. The OS is followed by a low-frequency
+decrescendo murmur (termed diastolic rumble) caused by turbulent f ow across the stenotic
+valve during diastole (see Fig. 8-2). The duration, but not the intensity, of the diastolic mur-
+mur relates to the severity of MS. The more severe the stenosis, the longer it takes for the
+LA to empty and for the gradient between the LA and LV to dissipate. Near the end of dias-
+tole, contraction of the LA in patients in sinus rhythm causes the pressure gradient between
+the LA and LV to rise again (see Fig. 8-2); therefore, the murmur brief y becomes louder at
+that time (termed presystolic accentuation). This final accentuation of the murmur does not
+occur if atrial fibrillation has developed because there is no effective atrial contraction in that
+situation.
+
+Murmurs caused by other valve lesions are often found concurrently in patients with MS.
+For example, mitral regurgitation (discussed later in this chapter) frequently coexists with MS.
+Additionally, right-sided heart failure caused by severe MS may induce tricuspid regurgitation
+as a result of right ventricular enlargement. A diastolic decrescendo murmur along the left
+sternal border may be present owing to coexistent aortic regurgitation (because of rheumatic
+involvement of the aortic leaf ets) or pulmonic regurgitation (because of MS-induced pulmo-
+nary hypertension).
+
+The electrocardiogram in MS routinely shows left atrial enlargement and, if pulmonary
+hypertension has developed, right ventricular hypertrophy. Atrial fibrillation may be pres-
+ent. The chest radiograph reveals left atrial enlargement, pulmonary vascular redistribution,
+interstitial edema, and Kerley B lines resulting from edema within the pulmonary septae (see
+Chapter 3). With the development of pulmonary hypertension, right ventricular enlargement
+and prominence of the pulmonary arteries appear.
+
+Echocardiography is of major diagnostic value in MS. Structural findings include thick-
+ened mitral leafets with abnormal fusion of their commissures and restricted separation
+during diastole. The degree of left atrial enlargement can be quantified, and if present, intra-
+atrial thrombus may be visualized. The mitral valve area can be measured directly on cross-
+sectional views or calculated from Doppler velocity measurements (a technique known as
+the “diastolic pressure half-time”). Patients can be stratified into stages of disease severity
+based partly on the mitral valve area. A normal mitral valve orifice measures between 4 and
+6 cm’. Current guidelines define clinically important “severe” MS as a valve area <1.5 cm’, a
+state that is typically accompanied by LA enlargement and elevated pulmonary artery systolic
+pressure. A valve area <1.0 cm? is termed “very severe” MS. If the findings determined by
+echocardiography seem milder than the patient’s history and examination suggest, an exercise
+test with accompanying Doppler assessment, or cardiac catheterization may be warranted to
+further define hemodynamic measurements.
+
+Treatment
+Salt intake restriction and diuretic therapy may improve symptoms due to vascular conges-
+tion. Heart rate slowing agents, such as B-blockers or nondihydropyridine calcium channel
+blockers (e.g., diltiazem or verapamil, see Chapter 17), increase diastolic LV filling time and
+therefore ease symptoms that occur during exercise. These drugs, or digoxin, are similarly
+useful to slow the ventricular rate in patients with accompanying rapid atrial fibrillation.
+198 chapter 8
+Anticoagulant therapy to prevent thromboembolism is recommended for MS patients with
+atrial fibrillation, or an identified atrial thrombus, or prior embolic events.
+
+Percutaneous or surgical valve interventions are the only treatments that alter the natural
+history of MS and are indicated in patients with severe, symptomatic MS. Percutaneous balloon
+mitral valvuloplasty is the treatment of choice in appropriately selected patients (those without
+advanced anatomic deformity of the valve, mitral regurgitation, or left atrial thrombus). During
+this procedure, a balloon catheter is advanced from the femoral vein into the right atrium,
+across the atrial septum (by intentionally puncturing the interatrial septum), and through the
+narrowed mitral valve orifice. The balloon is then rapidly inf ated, thereby “cracking” open the
+fused commissures. The short- and long-term results of this procedure are typically excellent
+and compare favorably with those of surgical treatment in anatomically appropriate patients.
+In young adults with the most suitable anatomy for the procedure, the event-free survival rate
+approaches 80% to 90% over 3 to 7 years of follow-up. Approximately 5% of patients undergo-
+ing balloon mitral valvuloplasty are left with a residual atrial septal defect due to the transseptal
+puncture. Less frequent complications include cerebral emboli at the time of valvuloplasty, car-
+diac perforation by the catheter, or the unintentional creation of substantial mitral regurgitation.
+
+Open mitral valve commissurotomy (an operation in which the stenotic commissures are
+separated under direct visualization) may be undertaken in patients for whom percutaneous
+balloon valvuloplasty is not feasible or successful. It is effective in relieving obstruction, and
+restenosis occurs in fewer than 20% of patients over 10 to 20 years of follow-up. Perioperative
+mortality rates are low (2%). Mitral valve replacement is considered in patients who are not
+appropriate candidates for balloon valvuloplasty or open commissurotomy.
+
+Mitral Regurgitation
+Etiology
+The mitral valve apparatus is a complex structure composed of an annulus, two leaf ets,
+chordae tendineae, and papillary muscles, supported by the adjacent myocardium to which
+the annulus and papillary muscles are attached (Fig. 8-3). Disruption to the structural integ-
+rity of any of these components or their coordinated action can result in abnormal closure
+of the valve during systole, with ensuing mitral regurgitation (MR). MR is categorized as
+Mitral annulus
+¢ Annular calcification
+Leaflets
+¢e Myxomatous degeneration (“MVP”)
+«Rheumatic disease
+¢ Endocarditis
+¢ SAM (hypertrophic cardiomyopathy)
+Chordae tendineae
+¢ Rupture (idiopathic)
+¢ Endocarditis
+Papillary muscles
+¢ Dysfunction or rupture
+HGURE8-3. The mitral valve
+Left ventricle apparatus and associated common
+* Cavity dilatation etiologies of mitral regurgitation.
+MVP, mitral valve prolapse; SAM
+systolic anterior motion.
+Valvular Heart Disease 199
+primary if it is due to a structural defect of one or more of the valve components, or second-
+ary if the valve is structurally normal, but regurgitation instead results from left ventricular
+enlargement. In the latter case, MR arises from abnormal coaptation and closure of the mitral
+leaf ets owing to dilatation of the mitral annulus by the enlarged LV, and/or spatial separa-
+tion of the papillary muscles, which places traction of the chordae and attached leaf ets.
+Furthermore, depending on the nature of the valvular insult, MR can present as an “acute” or
+“chronic” condition, with different pathophysiologic consequences.
+
+Most cases of acute MR are primary in nature and result from sudden damage to compo-
+nents of the valve apparatus. For example, rupture of an infarcted papillary muscle can occur
+within days of an acute ST-segment elevation MI, often resulting in severe MR (see Chapter 7).
+Acute MR due to sudden rupture of chordae tendineae can result from infective endocarditis,
+blunt trauma to the chest, or from degeneration of the chordae owing to connective tissue
+disorders such as Marfan syndrome.
+
+Chronic MRhas multiple primary causes, including myxomatous degeneration of the valve,
+in which “foppy” leafets allow regurgitation to occur by bowing excessively into the LA
+during systole (termed “mitral valve prolapse” and described in the next section). Other
+causes of chronic primary MR include rheumatic deformity of the valve, congenital valve
+defects, and extensive calcification of the mitral annulus, which prevents normal movement
+of the valve leaf ets, thus interfering with valve closure.
+
+Secondary (also termed “functional”) chronic MR results from LV enlargement and/or
+dysfunction as described above, as may occur with prior myocardial infarction, chronic
+ischemic heart disease, or dilated cardiomyopathy (see Chapter 10).
+
+Pathophysiology
+In MR, a portion of the left ventricular stroke volume is ejected backward into the low-
+pressure LA during systole (Fig. 8-4). As a result, the forward cardiac output (into the
+aorta) is less than the LV’s total output (forward fow plus backward leak). Therefore, the
+Pulmonary
+edema C—O
+High LA elevated
+WS LA \S pressure \S pressure
+Normal Acute mitral Chronic mitral
+(sys tole) regurgitation regurgitation
+HGURE 8-4. Pathophysiology of mitral regurgitation. In the normal heart, left ventricular (LV) contraction during
+systole forces blood exclusively through the aortic valve into the aorta (green arrow); the closed mitral valve prevents
+regurgitation into the left atrium (LA). In mitral regurgitation (MR), a portion of LVoutput is forced backward into the
+LA (red arrows), so that forward cardiac output into the aorta is reduced. In acute MR, the LA is of normal size and is
+relatively noncompliant, such that the LA pressure rises signif cantly and pulmonary edema may result. In chronic MR, the
+LAhas enlarged and is more compliant, so that the LA pressure is less elevated and pulmonary congestive symptoms are
+less common. The LVenlargement and the eccentric hypertrophy result from the chronically elevated volume load.
+200 chapter 8
+direct consequences of MR include (1) an elevation of left atrial volume and pressure, (2) a
+reduction of forward cardiac output, and (3) a volume-related stress on the LV because the
+regurgitant volume returns to the LV in diastole along with the normal pulmonary venous
+return. To meet normal circulatory needs and to eject the additional volume, LV stroke volume
+must rise. This increase is accomplished by the Frank—Starling mechanism (see Chapter 9),
+whereby the elevated LV diastolic volume augments myofiber stretch and stroke volume. The
+hemodynamic consequences of MR vary depending on the degree of regurgitation and how
+long it has been present.
+The severity of MR and the ratio of forward cardiac output to backward f ow are dictated
+by five factors: (1) the size of the mitral orifice during regurgitation, (2) the systolic pressure
+gradient between the LV and LA, (3) the systemic vascular resistance opposing forward LV
+blood f ow, (4) left atrial compliance, and (5) the duration of regurgitation with each systolic
+contraction.
+The regurgitant fraction in MR is defined as follows:
+Volume of MR
+Total LV stroke volume
+This ratio rises whenever the resistance to aortic outf ow is increased (i.e., blood fol-
+lows the path of least resistance). For example, high systemic blood pressure or the pres-
+ence of aortic stenosis will increase the regurgitant fraction. The extent to which left
+atrial pressure rises in response to the regurgitant volume
+is determined by the left atrial compliance. Compliance is
+ECG A ~ a measure of the chamber’s pressure—volume relationship,
+ref ecting the ease or difficulty with which the chamber can
+be filled (see Table 9.1).
+110 In acute MR, left atrial compliance undergoes little imme-
+diate change. Because the LA is a relatively stiff chamber, its
+90 Tally pressure increases substantially when it is suddenly exposed
+LV wave to a regurgitant volume load (see Fig. 8-4). This elevated pres-
+70 sure is transmitted backward to the pulmonary circulation and
+can result in rapid pulmonary congestion and edema, a medi-
+50 cal emergency.
+In acute MR, the LA pressure, or the pulmonary capillary
+30 wedge pressure (an indirect measurement of LA pressure; see
+LA Chapter 3), demonstrates a prominent v wave (often referred
+10 to as a “cv” wave when it merges with the preceding c wave),
+ref ecting the increased LA filling during systole (Fig. 8-5).
+Time Additionally, as in MS, pulmonary artery and right-heart pres-
+Heart sures passively rise.
+sounds: Li In acute MR, the LV accommodates the increased volume
+S, S, load returning from the LA according to the Frank—Starling
+FIGURE8-5. Hemodynamic prof le of relationship. The result is a compensatory increase in the
+mitral regurgitation (MR). A large systolic v LV stroke volume and ejection fraction, such that at the
+wave is noted in the left atrial (LA) pressure end of each systolic contraction, LV volume remains normal
+tracing. A holosystolic murmur is present in in the nonfailing heart. Systolic emptying of the ventricle
+chronic MR (as shown here), beginning at the is facilitated in MR by the reduced total impedance to LV
+first heart sound (S;) and continuing through —¢gntraction (i.e., the afterload is lower than normal), since
+the second heart sound (S2). In acute severe portion of the LV output is directed into the relatively
+MR, the systolic murmur may actually have . . .
+a decrescendo quality, ref ecting rapid low-impedance LA, rather than into the higher-pressure
+equilibration of LVand LA pressures owing aorta.
+to the relatively low LA compliance. ECG In contrast to the acute situation, the more gradual develop-
+electrocardiogram; LV left ventricle. ment of chronic MR permits the LA to undergo compensatory
+Valvular Heart Disease 201
+changes that lessen the effects of regurgitation on the pulmonary circulation (see Fig. 8-4).
+In particular, the LA dilates and its compliance increases such that the chamber is able to
+accommodate a larger volume without a substantial increase in pressure. Left atrial dilatation
+is therefore adaptive in that it prevents significant increases in pulmonary vascular pressures.
+However, this adaptation occurs at the cost of reduced forward cardiac output, because the
+compliant LA becomes a preferred low-pressure “sink” for left ventricular ejection, compared
+with the aorta. Consequently, as progressively larger fractions of blood regurgitate into the
+LA, symptoms of chronic MR include those of low forward cardiac output (e.g., weakness
+and fatigue). In addition, chronic left atrial dilatation predisposes to the development of atrial
+fibrillation.
+Thus, major pathophysiologic differences between acute and chronic MR relate to a great
+extent to left atrial size and compliance (see Fig. 8-4):
+Acute MR: Normal LA size and compliance — High LA pressure — High pulmonary
+venous pressure — Pulmonary congestion and edema
+Chronic MR: Increased LA size and compliance — Relatively normal LA and pulmonary
+venous pressures, but decreased forward cardiac output
+In chronic MR, the LV also undergoes gradual compensatory dilatation in response to
+the volume load through eccentric hypertrophy (see Chapter 9). Compared with acute MR,
+the resulting increased ventricular compliance accommodates the augmented filling vol-
+ume with relatively normal diastolic pressures. Forward output in chronic MR is preserved
+to near-normal levels for an extended period by maintaining a higher stroke volume via
+the Frank—Starling mechanism. Over years, however, chronic volume overload results in
+deterioration of systolic ventricular function, a decline in forward output, and symptoms
+of heart failure.
+Ginical Manifestations and Evaluation
+Presentation
+As should be clear from the pathophysiology discussion, patients with acute MR usually
+present with symptoms of pulmonary edema (see Chapter 9). The symptoms of chronic MR
+are predominantly due to low cardiac output, especially during exertion, and include fatigue
+and weakness. Patients with severe MR or those who develop LV contractile dysfunction often
+complain of dyspnea, orthopnea, and/or paroxysmal nocturnal dyspnea. In chronic severe
+MR, symptoms of right heart failure (e.g., increased abdominal girth, peripheral edema) may
+develop as well.
+Examination
+The physical examination of a patient with chronic MR typically reveals an apical holosys-
+tolic (also termed pansystolic) murmur that often radiates to the axilla. The holosystolic
+nature of the murmur ref ects the continued pressure gradient between LV and LA throughout
+systole (see Fig. 8-5). This description, accurate for rheumatic MR, has several exceptions.
+For example, in patients with isolated posterior mitral leaf et prolapse, the regurgitant jet is
+directed anteriorly. In this setting, the murmur may instead radiate to the base of the heart
+and could be confused with the murmur of aortic stenosis (AS) in that location. Fortunately,
+the distinction between the systolic murmur of MR and that of AS can be made by simple
+bedside maneuvers. If the patient is instructed to clench his/her fists and forearms, systemic
+vascular resistance will increase and the murmur of MR will intensify, whereas the murmur
+of AS will not. Even more helpful in this distinction is the effect of varying cardiac cycle
+length (the time between consecutive heart beats) on the intensity of the systolic murmur. In
+a patient with atrial fibrillation or with frequent premature beats, the LV fills to a degree that
+202 (chapter 8
+
+directly depends on the preceding cycle length (i.e., a longer cycle length permits greater left
+ventricular filling). The systolic murmur of AS becomes louder in the beat after a long cycle
+length because even small pressure gradients are amplified as more blood is ejected across
+the reduced aortic orifice. In MR, however, the intensity of the murmur does not vary signifi-
+cantly because the change in the LV-LA pressure gradient is minimally affected by alterations
+in the cycle length. In addition to the systolic murmur, a common finding in chronic MR is the
+presence of an S;, which ref ects increased volume returning to the LV in early diastole (see
+Chapter 2). Additionally, in chronic MR, the cardiac apical impulse is often laterally displaced
+toward the axilla because of LV enlargement.
+
+In patients with severe acute MR, the character of the systolic murmur is often different,
+occurring in early to mid systole with a decrescendo quality. The length and quality of the
+murmur are dictated by the systolic pressure gradient between the left ventricle and the rela-
+tively noncompliant left atrium. That is, as the LA pressure rises in systole in acute MR, the
+LV and LA pressures quickly equalize, thus truncating the murmur. Patients with acute MR
+often display signs of pulmonary congestion.
+
+The chest radiograph may display pulmonary edema in acute MR but in chronic
+asymptomatic MR more likely demonstrates left ventricular and atrial enlargement, with-
+out pulmonary congestion. Calcification of the mitral annulus may be seen if that is the
+cause of the MR. In chronic MR, the electrocardiogram typically demonstrates left atrial
+enlargement and signs of left ventricular hypertrophy. Echocardiography can often iden-
+tify the structural cause of MR and assess its severity. Cardiac catheterization is used to
+identify accompanying coronary artery disease and left ventriculography can confirm
+MR severity. The characteristic hemodynamic finding is a large v wave in the pulmonary
+capillary wedge pressure tracing (ref ective of LA pressure—see Chapter 3). The v wave
+becomes less conspicuous, however, with progressive LA dilatation and greater compli-
+ance over time.
+
+Natural History and Treatment
+
+Acute severe MR is a surgical emergency with a poor prognosis, even with appropriate
+treatment, with a 30-day mortality rate of 20% to 25%. The natural history of chronic
+MR is related to its underlying cause. For example, in RHD, the course is one of very slow
+progression with a 15-year survival rate of 70%. On the other hand, abrupt worsening
+of chronic MR of any cause can occur with superimposed complications, such as rup-
+ture of chordae tendineae or endocarditis, and can result in an immediate life-threatening
+situation.
+
+The treatment of acute MR almost always requires surgical intervention. Pharmacologic
+therapy is useful only to stabilize patients until surgery. For example, intravenous nitroprus-
+side is a potent vasodilator that decreases arterial resistance, thereby augmenting forward
+fow and diminishing the regurgitant volume. In this way, cardiac output and pulmonary con-
+gestion may improve at least transiently. Surgical intervention consists of either mitral valve
+repair (reconstruction of the native valve as described below) or replacement, depending on
+the underlying cause and valve anatomy.
+
+Management of chronic MR depends on the etiology. In chronic primary MR, the continu-
+ous left ventricular volume overload can slowly impair left ventricular contractile function,
+ultimately, resulting in heart failure. Medical treatment with vasodilators is less useful than in
+acute MR and has not been shown to delay the need for valve surgery in chronic MR. Surgical
+intervention should be undertaken in symptomatic patients, or at the earliest sign of LV con-
+tractile dysfunction on imaging studies (e.g., a fall in EF to < 60% by echocardiography) even
+before symptoms develop. Surgical intervention is also sometimes recommended for patients
+Valvular Heart Disease 203
+with chronic asymptomatic severe primary MR with recent onset atrial fibrillation or findings
+of pulmonary hypertension.
+
+Surgical options for chronic MR include mitral valve repair or replacement. Mitral valve
+repair is the preferred operative technique when feasible, and involves the reconstruction of
+parts of the valve responsible for the regurgitation. For example, a perforated leaf et may be
+patched with transplanted autologous pericardium, or ruptured chordae may be reattached
+to a papillary muscle. Mitral repair preserves native valve tissue, and eliminates many of
+the problems associated with artificial valves described later in the chapter. In patients who
+undergo repair, the postoperative survival rate appears to be better than the natural history of
+MR and has provided impetus toward earlier surgical intervention. Operative mortality rates
+for unselected patients with MR in the Society for Thoracic Surgeons database are less than
+2% for mitral valve repair and 5% to 7% for mitral valve replacement. These rates are higher
+if concurrent coronary artery bypass grafting is performed. In general, mitral valve repair
+is more often appropriate for younger patients with myxomatous involvement of the mitral
+valve, and mitral replacement is more often undertaken in older patients with more extensive
+valve pathology.
+
+In patients with chronic, severe, symptomatic primary MR who are at prohibitive oper-
+ative risk, a recently developed technique of transcatheter mitral valve repair can be
+considered. In this procedure, a catheter is advanced percutaneously from the femoral
+vein into the right side of the heart, then into the left atrium via a puncture through the
+interatrial septum (similar to mitral balloon valvuloplasty), and advanced into the left
+ventricle. A mechanical clip is then deployed, which grasps and tethers the anterior and
+posterior mitral leaf ets together at one location and is left in place, reducing the size of
+the regurgitant orifice. The procedure has been shown to be safe and effective in prospec-
+tive observational studies of high surgical risk patients, with improvement in the sever-
+ity of MR and functional status. However, in a randomized trial of percutaneous repair
+versus valve surgery for patients with severe primary MR, surgery proved more effective
+and remains the intervention of choice is patients who are acceptable candidates for an
+operation.
+
+Because chronic, secondary MR is often a result of left ventricular dysfunction, pharma-
+cologic rather than mechanical intervention is the mainstay of treatment, using a standard
+combination of heart failure medications, including diuretics, ACE inhibitors or angiotensin
+receptor blockers, beta-blockers, and aldosterone antagonists (see Chapter 9). Surgical inter-
+vention is considered only when a patient with chronic, severe secondary MR has persistent
+symptoms despite optimal medical therapy.
+
+Mitral Valve Prolapse
+
+Mitral valve prolapse (MVP) is characterized by abnormal billowing of a portion of one or
+both mitral leafets into the LA during ventricular systole, and is frequently accompanied
+by MR (Fig. 8-6). Other names for this condition include f oppy mitral valve, myxomatous
+mitral valve, and Barlow syndrome. MVP may be inherited as a primary autosomal dominant
+disorder with variable penetrance, or it may accompany certain connective tissue diseases,
+such as Marfan syndrome or Ehlers—Danlos syndrome. Pathologically, the valve leaf ets, par-
+ticularly the posterior leaf et, are enlarged, and the normal dense collagen and elastin matrix
+of the valvular fibrosa is fragmented and replaced with loose myxomatous connective tissue.
+Additionally, in more severe lesions, elongated or ruptured chordae, annular enlargement, or
+thickened leaf ets may be present. A recent rigorous echocardiographic study indicated that
+MVP occurs in about 2% of the population and is more common among women, especially
+those who are thin and lean.
+204 (chapter 8
+Pa MVP is often asymptomatic but affected individu-
+Aorta an , Bx als may describe chest pain or palpitations because
+a ae, | xt of associated arrhythmias. Most often it is identified
+| \y on routine physical examination by the presence of a
+; ’ . LA midsystolic click and late systolic murmur heard best
+\ row J vs at the cardiac apex. The midsystolic click is thought
+\ ~ Taher” to correspond to the sudden tensing of the involved
+iy T . mitral leaf et or chordae tendineae as the leaf et is
+Z We il? forced back toward the LA; the murmur corresponds
+% | to regurgitant fow through the incompetent valve.
+RV . .
+é a The click and murmur are characteristically altered
+lv during dynamic auscultation at the bedside: maneu-
+F vers that increase the volume of the LV (e.g., sudden
+squatting, which increases venous return) place trac-
+tion of the chordae tendineae, limiting and delaying
+FIGURE 8-6. Mitral valve prolapse. Long-axis view the occurrence of prolapse in systole and cause the
+of the left ventricle (LV) demonstrates a myxomatous, . .
+elongated appearance of the mitral valve with prolapse click and MUTE to occur later (Le., turther irom
+of the posterior leaf et (arrow) into the left atrium S). Conversely, if the volume of blood in the LV is
+(LA). RY right ventricle. (From Schoen FJ, Mtchell decreased (e.g., on sudden standing), prolapse occurs
+RN. The heart. In: Kumar V Abbas A, Aster JC eds. earlier and the click and murmur move closer to §,.
+Robbins and tran Pathologic Basis of Disease. 9th ed. Confirmation of the diagnosis is obtained by echo-
+Philadelphia, PA: Hsevier Saunders; 2015.) cardiography, which demonstrates posterior displace-
+ment of a portion of one or both mitral leaf ets into
+the LA during systole. The electrocardiogram and chest radiograph are usually normal unless
+chronic MR has resulted in left atrial and left ventricular enlargement.
+
+The clinical course of MVP is most often benign. Treatment consists of reassurance
+about the usually good prognosis and monitoring for the development of progressive MR.
+Occasionally, rupture of myxomatous chordae in this condition can cause sudden, severe
+regurgitation and pulmonary edema. Other potential complications include infective endo-
+carditis, peripheral emboli owing to microthrombus formation on the redundant valve tissue,
+and atrial or ventricular arrhythmias.
+
+AORTIC VALVE DISEASE
+
+Aortic Stenosis
+
+Etiology
+Among adult patients, there are three major causes of aortic stenosis (AS): (1) degenera-
+tive calcification of a previously normal trileaf et aortic valve, (2) calcification of a congeni-
+tally bicuspid aortic valve, and (3) rheumatic aortic valve disease. Degenerative disease of a
+trileaf et valve shares many pathologic features in common with atherosclerosis, as described
+below. Bicuspid aortic valves are present in 1% to 2% of the population (with men affected
+more commonly than women) and such patients typically develop signs of severe valve
+disease about a decade earlier than patients with the trileafet, degenerative type of AS.
+Rheumatic aortic valve disease is now uncommon in developed countries. It is nearly always
+accompanied by rheumatic involvement of the mitral valve.
+
+Pathology
+The pathologic appearance in AS is dependent on its etiology. Degenerative, calcific AS
+results from a dynamic process of endothelial dysfunction, lipid accumulation, inf ammation,
+Valvular Heart Disease 205
+and alteration of signaling pathways that appears similar to
+atherogenesis. Over time, valvular myofibroblasts differen- Aorta a
+tiate into osteoblasts and deposit calcium hydroxyapatite 14
+crystals, resulting in leaf et thickening and stiffening. This
+process is likely exacerbated by abnormal shear forces, as
+occur with congenitally deformed (bicuspid) valves, and
+could explain the earlier presentation of such patients. As
+with atherosclerosis, risk factors for calcific, degenerative a
+AS include dyslipidemia, smoking, and hypertension (see
+Chapter 5).
+In rheumatic AS, endocardial inf ammation leads to orga-
+nization and fibrosis of the valve and ultimately to fusion of
+the commissures and formation of calcified masses within the HIGURES-7. Pathophysiology
+aortic cusps. of aortic stenosis (AS). The
+impediment to left ventricular
+(LV) outf ow in AS results in
+7 elevated LVpressures and
+Pathophysiology secondary concentric ventricular
+In AS, blood f ow across the aortic valve is impeded during hypertrophy.
+systole (Fig. 8-7). Progressive reduction of the aortic valve
+area requires elevation of left ventricular systolic pressure to overcome the impedance to f ow
+to drive blood into the aorta (Fig. 8-8).
+Since the obstruction in AS develops gradually, the LV is able to compensate by undergo-
+ing concentric hypertrophy in response to the increased pressure load. Initially, such hyper-
+trophy serves an important role in reducing LV wall stress
+(remember from Chapter 6 that wall stress = (P x r) + 2h,
+in which h represents wall thickness). Over time, however,
+150 it also reduces the compliance of the ventricle. The resulting
+{ \ elevation of diastolic LV pressure causes the LA to hypertro-
+130 fe) phy, which facilitates filling of the “stiffened” LV. Whereas
+10 f left atrial contraction contributes only a small portion of
+Lh the left ventricular stroke volume in normal individuals,
+90 PN it may provide more than 25% of the stroke volume to the
+stiffened LV in AS patients. Thus, left atrial hypertrophy is
+70 Aorta Ey beneficial, and the loss of effective atrial contraction (e.g.,
+/ development of atrial fibrillation) can cause marked clinical
+°0 deterioration.
+30 Three major manifestations occur in patients with
+advanced AS: (1) angina, (2) exertional syncope, and (3)
+10 heart failure, all of which can be explained on the basis
+- of the underlying pathophysiology. Each manifestation, in
+Time order, heralds an increasingly ominous prognosis (Table 8-1).
+Heart AS may result in angina because it creates a substan-
+sounds: | stiffly tial imbalance between myocardial oxygen supply and
+Sy Sp demand. Myocardial oxygen demand is increased in two
+ways. First, the muscle mass of the hypertrophied LV
+FIGURE 8-8. Hemodynamic prof le of aortic is increased, requiring greater-than-normal perfusion.
+stenosis. Asystolic pressure gradient (shaded Second, wall stress is increased because of the elevated
+area) is present between the left ventricle . . we
+(LV) and aorta. The second heart sound (S,) is systolic ventricular pressure. In addition, AS reduces myo-
+diminished in intensity, and there is a crescendo— cardial oxygen supply because the elevated left ventricular
+decrescendo systolic murmur that does not extend diastolic pressure reduces the coronary perfusion pressure
+beyond §,. EGG electrocardiogram. gradient between the aorta and the myocardium.
+206 Chapter 8
+
+TABLE 8-1
+
+Cinical Symptoms Median Survival
+
+Angina 5 years
+
+Syncope 3 years
+
+Heart failure 2 years
+Cee
+Derived from Ross J Jz, Braunwald E Aortic stenosis. Greulation. 1968;38(suppl.v):61.
+
+AS may cause syncope during exertion. Although left ventricular hypertrophy allows the
+chamber to generate a high pressure and maintain a normal cardiac output at rest, the ven-
+tricle cannot significantly increase its cardiac output during exercise because of the fixed
+stenotic aortic orifice. In addition, exercise leads to vasodilatation of the peripheral muscle
+beds. Thus, the combination of peripheral vasodilatation and the inability to augment cardiac
+output contributes to decreased cerebral perfusion pressure and, potentially, loss of con-
+sciousness on exertion.
+
+Finally, AS can result in symptoms of heart failure. Early in the course of AS, an abnor-
+mally increased left atrial pressure occurs primarily at the end of diastole, when the LA
+contracts into the thickened noncompliant LV. As a result, the mean left atrial pressure and
+the pulmonary venous pressure are not greatly affected early in the disease. However, with
+progression of the stenosis, the LV may develop contractile dysfunction because of the insur-
+mountably high afterload, leading to increased left ventricular diastolic volume and pressure.
+The accompanying marked elevation of LA and pulmonary venous pressures incites pulmo-
+nary alveolar congestion and symptoms of heart failure.
+
+A normal aortic valve has a cross-sectional area of 3 to 4 cm’ and a mean systolic pressure
+gradient between the LV and aorta of less than 5 mm Hg. As the valve area decreases in AS,
+the pressure gradient rises. When the valve area declines to less than 1.0 cm’, or the mean
+pressure gradient increases to greater than 40 mm Hg, a patient is considered to have severe
+aortic stenosis and symptoms typically appear.
+
+Cinical Manifestations and Evaluation
+
+Presentation
+Angina, syncope, and heart failure may appear after many asymptomatic years of slowly pro-
+gressive valve stenosis. Once these symptoms develop, they confer a significantly decreased
+survival if invasive correction of AS is not undertaken (see Table 8-1).
+
+Examination
+Physical examination often permits accurate detection and estimation of the severity of
+AS. The key features of advanced AS include (1) a coarse late-peaking systolic ejection
+murmur and (2) a weakened (parvus) and delayed (tardus) upstroke of the carotid
+artery owing to the obstructed LV outf ow. Other common findings on cardiac examina-
+tion include the presence of an S, (because of atrial contraction into the “stiff LV—see
+Chapter 2) and reduced intensity, or complete absence, of the aortic component of the
+second heart sound (see Fig. 8-8).
+Valvular Heart Disease 207
+
+On the electrocardiogram, left ventricular hypertrophy is common in advanced AS.
+Echocardiography is a more sensitive technique to assess LV wall thickness and displays the
+abnormal anatomy and reduced excursion of the stenotic valve. The transvalvular pressure
+gradient and aortic valve area can be readily calculated by Doppler echocardiography (see
+Chapter 3). Cardiac catheterization is sometimes used to confirm the severity of AS and to
+define the coronary anatomy, because concurrent coronary artery bypass surgery is often
+appropriate at the time of aortic valve replacement in patients with coexisting coronary
+disease.
+
+Natural History and Treatment
+Mild, asymptomatic AS has a slow rate of progression such that over a 20-year period, only
+20% of patients will progress to severe or symptomatic disease. There is no current effective
+medical therapy for slowing the rate of progression of aortic stenosis. Since the natural his-
+tory of severe, symptomatic, uncorrected AS is very poor (see Table 8-1), effective treatment
+requires replacement of the valve.
+
+Aortic valve replacement (AVR) is indicated when a patient with severe AS devel-
+ops symptoms, or when there is evidence of progressive LV dysfunction in the absence
+of symptoms. The left ventricular ejection fraction almost always increases after valve
+replacement, even in patients with impaired preoperative left ventricular function. The
+effect of AVR on the natural history of AS is dramatic, as the 10-year survival rate rises to
+approximately 60%.
+
+Unlike its successful role in mitral stenosis, percutaneous balloon valvuloplasty has been
+disappointing as a sole treatment of adults with calcific AS. Although balloon dilatation of the
+aortic valve orifice can fracture calcified masses leading to a slight reduction in valve obstruc-
+tion, up to 50% of patients develop restenosis within 6 months. Valvuloplasty is occasionally
+used as a temporizing measure in patients too ill to proceed directly to valve replacement, and
+can also be an effective treatment in young patients with noncalcified bicuspid AS.
+
+In distinction, for patients with severe AS who are at prohibitive or high risk for cardiac
+surgery, transcatheter aortic valve replacement (TAVR) has emerged as a successful treatment
+option. This technique involves percutaneous insertion of a specially designed bioprosthetic
+valve into the narrowed orifice of the stenotic native valve that is first prepared with balloon
+valvuloplasty. TAVR has been validated in randomized prospective trials, and for inoper-
+able patients, TAVR outcomes are superior to standard medical therapy. In high surgical risk
+patients, TAVR is noninferior to surgical AVR, with similar 1- and 2-year survival rates, though
+its use 1s associated with higher risks of periprocedural stroke and paravalvular regurgita-
+tion. Longer-term data indicate that the difference in stroke rates equalizes over time, and
+it is likely that the use of TAVR will gradually be extended to greater numbers of high and
+intermediate surgical risk patients.
+
+Aortic Regurgitation
+
+Etiology
+Aortic regurgitation (AR), also termed aortic insuff ciency, may result either from abnormali-
+ties of the aortic valve leafets or from dilatation of the aortic root. Primary valvular causes
+include: (1) bicuspid aortic valve (in some patients AR predominates over aortic stenosis), (2)
+infective endocarditis (due to perforation or erosion of a leaf et), and (3) rheumatic heart dis-
+ease (due to thickening and shortening of the aortic valve cusps). Primary aortic root disease
+results in AR when the aortic annulus dilates sufficiently to cause separation of the leaf ets,
+preventing normal coaptation in diastole. Examples include age-related degenerative dilation
+of the aortic root, aortic aneurysms, and aortic dissection, which are described in Chapter 15.
+208 Chapter 8
+
+Pathophysiology
+In AR, abnormal regurgitation of blood occurs from the aorta into the LV during diastole.
+Therefore, with each contraction, the LV must pump that regurgitant volume plus the normal
+quantity of blood entering from the LA. Hemodynamic compensation relies on the Frank—
+Starling mechanism to augment stroke volume. Factors infuencing the severity of AR are
+analogous to those of MR: (1) the size of the regurgitant aortic orifice, (2) the pressure gradi-
+ent across the aortic valve during diastole, and (3) the duration of diastole.
+
+As in MR, the hemodynamic abnormalities and symptoms differ in acute and chronic AR
+(Fig. 8-9). In acute AR, the LV is of normal size and relatively noncompliant. Thus, the vol-
+ume load of regurgitation causes the LV diastolic pressure to rise substantially. The sudden
+high diastolic LV pressure is transmitted to the LA and pulmonary circulation, often produc-
+ing dyspnea and pulmonary edema. Thus, acute severe AR is usually a surgical emergency,
+requiring immediate valve replacement.
+
+In chronic AR, the LV undergoes compensatory adaptation in response to the long-
+standing regurgitation. AR subjects the LV primarily to volume overload but also to an
+excessive pressure load; therefore, the ventricle compensates through chronic dilatation
+(eccentric hypertrophy, with replication of sarcomeres in series—see Chapter 9) and, to a
+lesser degree, increased thickness. Over time, the dilatation increases the compliance of
+the LV and allows it to accommodate a larger regurgitant volume with less of an increase
+in diastolic pressure, reducing the pressure transmitted into the LA and pulmonary circula-
+tion. However, by accommodating the large regurgitant volume, the aortic (and therefore
+systemic arterial) diastolic pressure drops substantially. The combination of a high LV
+stroke volume (and high systolic arterial pressure) with a reduced aortic diastolic pressure
+produces a widened pulse pressure (the difference between arterial systolic and dia-
+stolic pressures), a hallmark of chronic AR (Fig. 8-10). As a result of the decreased aortic
+diastolic pressure, the coronary artery perfusion pressure falls, potentially reducing myo-
+cardial oxygen supply. This, coupled with the increase in LV size (which causes increased
+wall stress and myocardial oxygen demand), can produce angina, even in the absence of
+atherosclerotic coronary disease.
+
+Compensatory left ventricular dilatation and hypertrophy are generally adequate to meet
+the demands of chronic AR for many years, during which affected patients are asymp-
+tomatic. Gradually, however, progressive remodeling of the LV occurs, resulting in systolic
+
+Pulmonary
+
+congestion Bo Ww HGURE 8-9. Pathophysiology of acute
+
+Aorta _ ie ssure and chronic aortic regurgitation (AR).
+\S N-t Abnormal regurgitation of blood from the
+Pressure aorta into the left ventricle (LV) is shown
+\ Mt & in each schematic drawing (red arrows).
+In acute AR, the LVis of normal size
+and relatively low compliance, such that
+its diastolic pressure rises significantly;
+this pressure increase is ref ected back
+Pressure to the left atrium (LA) and pulmonary
+1 Til ee » vasculature, resulting in pulmonary
+congestion or edema. In chronic AR,
+adaptive LV and LA enlargement have
+occurred, such that a greater volume
+of regurgitation can be accommodated
+with less of an increase in diastolic LV
+Acute aortic Chronic aortic pressure, so that pulmonary congestion is
+regurgitation regurgitation less likely. N, normal.
+Valvular Heart Disease 209
+dysfunction. This causes decreased forward cardiac ECG |
+output as well as an increase in left atrial and pul-
+monary vascular pressures. At that point, the patient
+develops symptoms of heart failure. a
+LP 90
+: f
+ee ° ° E Aorta
+Cinical Manifestations and Assessment o.
+Presentation B 50
+Common symptoms of chronic AR include dyspnea * 30 LV
+on exertion, fatigue, decreased exercise tolerance, and 10
+the uncomfortable sensation of a forceful heartbeat
+associated with the high pulse pressure. Time
+Heart
+ces | ins,
+oo. 34 Se
+Examination
+; Lo, . HGURE 8-10. Hemodynamic prof le of
+Physical examination may show bounding pulses juice regurgitation. During diastole, the
+and other stigmata of the widened pulse pressure aortic pressure falls rapidly (arrow), and
+(Table 8-2), in addition to a hyperdynamic LV impulse __ left ventricular (LV) pressure rises as blood
+and a blowing murmur of AR in early diastole along _ regurgitates from the aorta into the LV A
+the left sternal border (see Fig. 8-10). It is best heard diastolic decrescendo murmur, beginning at
+with the patient leaning forward, after exhaling. In the second heart sound (S,), corresponds
+addition, a low-frequency mid-diastolic rumbling with the abnormal regurgitant fow. BOG
+. . electrocardiogram.
+sound may be auscultated at the cardiac apex in some
+patients with severe AR. Known as the Austin Flint murmur, it is thought to ref ect turbulence
+of blood fow through the mitral valve during diastole owing to downward displacement of
+the mitral anterior leaf et by the regurgitant stream of AR. It can be distinguished from the
+murmur of mitral stenosis by the absence of an OS or presystolic accentuation.
+
+In chronic AR, the chest radiograph shows an enlarged left ventricular silhouette. This
+is usually absent in acute AR, in which pulmonary vascular congestion is the more likely
+finding. Doppler echocardiography can identify and quantify the degree of AR and often can
+identify its cause. Cardiac catheterization with contrast angiography can be obtained for fur-
+ther quantification of the degree of AR, and assessment of coexisting coronary artery disease.
+
+Treatment
+Data from natural history studies indicate that clinical progression of patients with asymp-
+tomatic chronic AR and normal LV contractile function is very slow. Therefore, asymptomatic
+patients are monitored with periodic examinations and assessment of LV function, usually by
+Name Description
+Bisferiens pulse Double systolic impulse in carotid or brachial artery
+Qrrigan pulse “Water-hammer” pulses with marked distention and collapse
+Hill sign Popliteal systolic pressure more than 60 mm Hg greater than brachial
+systolic pressure
+Quincke sign @pillary pulsations visible at the lip or proximal nail beds
+Tee
+210 (chapter 8
+serial echocardiography. Patients with asymptomatic severe AR may benefit from afterload
+reducing vasodilators (e.g., a calctum channel blocker or an angiotensin-converting enzyme
+inhibitor) for treatment of accompanying hypertension. However, such agents do not prolong
+the compensated stage of chronic AR.
+
+Symptomatic patients, or asymptomatic patients with severe AR and impaired LV contrac-
+tile function (1.e., an ejection fraction less than 0.50), should be offered surgical correction to
+prevent progressive deterioration. Studies of such patients show that without surgery, death
+usually occurs within 4 years after the development of angina or 2 years after the onset of
+heart failure symptoms.
+
+TRICUSPID VALVE DISEASE
+
+Tricuspid Stenosis
+Tricuspid stenosis (TS) is rare and is usually a long-term consequence of rheumatic fever. The
+OS and diastolic murmur of TS are similar to those of MS, but the murmur is heard closer
+to the sternum and it intensifies on inspiration because of increased right heart blood fow.
+In TS, the neck veins are distended and may show a large a wave as a result of right atrial
+contraction against the stenotic tricuspid valve orifice when sinus rhythm is present (see
+Chapter 2). Patients may develop abdominal distention and hepatomegaly owing to passive
+venous congestion. Percutaneous balloon dilatation or surgical correction (valvuloplasty or
+valve replacement) is usually required.
+
+Tricuspid Regurgitation
+Tricuspid regurgitation (TR) is usually functional rather than structural in nature; that is, it
+most commonly results from right ventricular enlargement (e.g., owing to pressure or volume
+overload) rather than from primary valve disease. Among patients with rheumatic mitral ste-
+nosis, 20% also have significant TR (of whom 80% have functional TR because of pulmonary
+hypertension with right ventricular enlargement, and 20% have structural TR resulting from
+rheumatic involvement of the tricuspid valve). A rare cause of TR is carcinoid syndrome,
+in which a type of neuroendocrine tumor (usually in the small bowel or appendix, with
+metastases to the liver) releases serotonin metabolites into the bloodstream. These metabo-
+lites are thought to be responsible for the formation of endocardial plaques in the right side
+of the heart. Involvement of the tricuspid valve immobilizes the leaf ets, often resulting in
+substantial TR and, less often, TS.
+
+The most common physical signs of TR are prominent v waves in the jugular veins
+(see Chapter 2) and a pulsatile liver because of regurgitation of right ventricular blood into
+the systemic veins. The systolic murmur of TR is heard at the lower left sternal border. It is
+often soft but becomes louder on inspiration. Doppler echocardiography readily detects TR
+and can quantify it. The treatment of functional TR is directed at the conditions responsible
+for the elevated right ventricular size or pressure, and diuretic therapy; surgical repair of the
+valve is indicated in severe cases.
+
+PULMONIC VALVE DISEASE
+
+Pulmonic Stenosis
+Pulmonic stenosis (PS) is rare, and its cause is almost always congenital deformity of
+the valve. Carcinoid syndrome, described in the previous section, is another rare etiol-
+ogy, in which encasement and immobilization of the valve leafets can occur. The systolic
+Valvular Heart Disease 211
+crescendo—decrescendo murmur of PS is usually loudest at the second or third left intercostal
+space close to the sternum. It may radiate to the neck or left shoulder and is often preceded
+by an ejection click (see Chapter 2).
+
+PS is considered to be severe if the peak systolic pressure gradient across the valve is
+greater than 80 mm Hg, moderate if the gradient is 40 to 80 mm Hg, and mild if the gradient
+is less than 40 mm Hg. Only patients with moderate-to-severe gradients are symptomatic. In
+such cases, transcatheter balloon valvuloplasty is usually effective therapy.
+
+Pulmonic Regurgitation
+Pulmonic regurgitation (PR) most commonly develops in the setting of severe pulmonary
+hypertension and results from dilatation of the valve ring by the enlarged pulmonary artery.
+Auscultation reveals a high-pitched decrescendo murmur along the left sternal border that
+is often indistinguishable from AR (the two conditions are easily differentiated by Doppler
+echocardiography).
+
+PROSTHETIC VALVES
+The patient who undergoes valve replacement surgery often benefits dramatically from hemo-
+dynamic and symptomatic improvement, but also acquires a new set of potential complica-
+tions related to the valve prosthesis itself. Because all available valve substitutes have certain
+limitations, valve replacement surgery is not a true “cure.”
+
+Currently available valve substitutes include mechanical and bioprosthetic (derived
+from animal or human tissue) devices (Fig. 8-11). One example of a mechanical valve is
+the St. Jude prosthesis, a hinged bileafet valve consisting of two pyrolytic carbon discs
+that open opposite one another. Mechanical valves, while durable, present foreign throm-
+bogenic surfaces to the circulating blood and require lifelong anticoagulation to prevent
+thromboembolism.
+
+In contrast, bioprosthetic valves display a very low rate of thromboembolism and do not
+require long-term anticoagulation therapy. The most commonly used bioprostheses are made from
+glutaraldehyde-fixed porcine (pig) valves secured in a support frame. In addition, bovine (cow)
+pericardium and human homograft (aortic valves harvested and cryopreserved from cadavers)
+
+\ ~ ae >
+, ‘4 " a 9 "eal A
+A scans” B
+HGURE8-11. Examples of prosthetic heart valves. A. St. Jude mechanical bileaf et valve in the open
+position. (Gourtesy of St. Jude Medical, Inc., St. Paul, MN.) B A bioprosthetic aortic valve with leaf ets in the
+closed position. (Gourtesy of Medtronic, Inc., Mnneapolis, MN.)
+212 (chapter 8
+prostheses are used. For patients who undergo AVR because of endocarditis, human homograft
+replacements are especially useful because they have low rates of subsequent reinfection.
+
+Bioprosthetic valves have limited durability compared with mechanical valves, and struc-
+tural failure occurs in up to 50% by 15 years after implantation. The principal causes of failure
+are leaf et tears and calcification. Failure rates vary greatly depending on the position of the
+valve. For example, bioprosthetic valves in the mitral position deteriorate more rapidly than
+those in the aortic position. This is likely because the mitral valve is exposed to higher closing
+forces, resulting in greater leaf et stress than that experienced by aortic prostheses.
+
+Common to all types of valve replacement is the risk of infective endocarditis (discussed
+in the next section), which occurs with an incidence of 1% to 2% per patient per year. If
+endocarditis occurs in the first 60 days after valve surgery, the mortality rate is exceedingly
+high (50% to 80%). If endocarditis occurs later, mortality rates range from 20% to 50%.
+Reoperation is usually required when endocarditis involves a mechanical prosthesis because
+an adjacent abscess is frequently present. Some cases of bioprosthetic valve endocarditis may
+respond to antibiotic therapy alone.
+
+Given their respective advantages and disadvantages, the mortality and complication
+rates of mechanical and bioprosthetic valves are similar for the first 10 years after replace-
+ment. In 20-year follow-up studies of randomized, controlled trials, mechanical valves have
+been shown to be superior to bioprosthetic valves for event-free survival, except for bleed-
+ing complications related to anticoagulation therapy. Therefore, the decision about which
+type of prosthesis to use in a patient often centers on (1) the patient’s expected lifespan in
+comparison to the functional longevity of the valve, (2) risk-versus-benefit considerations
+of chronic anticoagulation therapy, and (3) patient and surgeon preferences. Mechanical
+valves are often recommended for younger patients and for those who will be tolerant
+of, and compliant with, anticoagulant therapy. Bioprosthetic valves are generally suitable
+choices for patients 65 years of age or older and for patients with contraindications to
+chronic anticoagulation.
+
+INFECITVE ENDOCARDITIS
+Infection of the endocardial surface of the heart, including the cardiac valves, can lead to
+extensive tissue damage and is often fatal. Infective endocarditis (IE) carries an overall
+6-month mortality rate of 20% to 25%, even with appropriate therapy, and a 100% mortality
+rate if it is not recognized and treated correctly.
+
+There are three clinically useful ways to classify IE: (1) by clinical course, (2) by host
+substrate, or (3) by the specific infecting microorganism. In the first classification scheme,
+IE is termed acute bacterial endocarditis (ABE) when the syndrome presents as an acute,
+fulminant infection, and a highly virulent and invasive organism such as Staphylococcus
+aureus is causal. Because of the aggressiveness of the responsible microorganism, ABE may
+occur on previously healthy heart valves. When JE presents with a more insidious clinical
+course, it is termed subacute bacterial endocarditis (SBE) and less virulent organisms such
+as viridans streptococci are typically involved. SBE most frequently occurs in individuals with
+prior underlying valvular damage.
+
+The second means of classification of IE is according to the host substrate: (1) native
+valve endocarditis, (2) prosthetic valve endocarditis, or (3) endocarditis in the setting of
+intravenous drug abuse. Of these, native valve endocarditis accounts for 60% to 80% of
+patients. Different microorganisms and clinical courses are associated with each of these cat-
+egories. For example, the skin contaminant Staphylococcus epidermidis is a common cause of
+prosthetic valve endocarditis, but that is rarely the case when endocarditis occurs on a native
+heart valve. Intravenous drug users have a propensity for S. aureus endocarditis of the right-
+sided heart valves.
+Valvular Heart Disease 213
+
+The third classification of IE is according to the specific infecting microorganism
+(e.g. S. aureus endocarditis). As described below, the most common responsible organisms
+are gram-positive cocci. Certain bacterial strains that cause endocarditis are associated with
+particular anatomic sources. For example, viridans group streptococci usually originate from
+oropharyngeal tissue. Endocarditis due to Streptococcus bovis (more recently termed S. gal-
+lolyticus) commonly arises from the gastrointestinal tract and should prompt investigation for
+colonic polyps or adenocarcinoma.
+
+Although the remainder of this discussion focuses on the endocarditis syndromes based on
+clinical course, it is important to recognize that all three classifications of IE are used.
+
+Pathogenesis
+
+The pathogenesis of endocarditis requires several conditions: (1) endocardial surface
+injury, (2) platelet—fibrin-thrombus formation at the site of injury, (3) bacterial entry
+into the circulation, and (4) bacterial adherence to the injured endocardial surface. The
+first two conditions provide an environment favorable to infection, whereas the latter two
+permit implantation of the organism on the endocardial surface. The most common cause
+of endothelial injury is turbulent blood fow resulting from preexisting cardiac or intra-
+vascular abnormalities, including acquired valvular heart lesions (e.g., mitral regurgita-
+tion or aortic stenosis), congenital heart diseases, and hypertrophic cardiomyopathy (see
+Chapter 10). Endothelial injury may also be incited by foreign material within the circula-
+tion, such as indwelling venous catheters, prosthetic heart valves, and other implanted
+cardiac devices.
+
+Once an endocardial surface is injured, platelets adhere to the exposed subendocardial con-
+nective tissue and initiate the formation of a sterile thrombus (termed a vegetation) through
+fibrin deposition. This process is referred to as nonbacterial thrombotic endocarditis (NBTE).
+NBTE makes the endocardium more hospitable to microbes in two ways. First, the fibrin—
+platelet deposits provide a surface for adherence by bacteria. Second, the fibrin covers adher-
+ent organisms and protects them from host defenses by inhibiting chemotaxis and migration
+of phagocytes.
+
+When NBTE is present, the delivery of microorganisms in the bloodstream to the injured
+surface can lead to IE. Three factors determine the ability of an organism to induce IE: (1)
+access to the bloodstream, (2) survival of the organism in the circulation, and (3) adherence
+of the bacteria to the endocardium. Bacteria can be introduced into the bloodstream when-
+ever a mucosal or skin surface harboring an organism is traumatized, such as from the mouth
+during dental procedures, or from the skin during illicit intravenous drug use. However, while
+transient bacteremia is a relatively common event, only microorganisms suited for survival
+in the circulation and able to adhere to the platelet—fibrin mesh overlying the endocardial
+defect will cause IE. For example, gram-positive organisms account for the majority of cases
+of endocarditis largely because of their resistance to destruction in the circulation by comple-
+ment and their particular tendency to adhere to endothelial and platelet surface proteins.
+The ability of certain streptococcal species to produce dextran, a bacterial cell wall compo-
+nent that adheres to thrombus, correlates with their inciting endocarditis. Table 8-3 lists the
+infectious agents reported to be the most common causes of endocarditis in modern tertiary
+centers; staphylococci (especially S. aureus) and streptococci are the most frequent. Of note,
+the proportion of patients with viridans group streptococci is higher in series of patients with
+community-acquired endocarditis.
+
+Once organisms adhere to the injured surface, they may be protected from phagocytic
+activity by the overlying fibrin. The organisms are then free to multiply, which enlarges the
+infected vegetation. The latter provides a source for continuous bacteremia and can lead
+to several complications, including (1) mechanical cardiac injury, (2) thrombotic or septic
+214 (Chapter 8
+Organism Incidence (%)
+Staphylococci
+S. aureus 31.6
+@agulase negative 10.5
+Streptococci
+Viridans 18.0
+Enterococci 10.6
+S. bovis 6.5
+Other streptococci 5.1
+Other organisms (e.g., gram-negative 8.7
+bacteria, fungi)
+Culture negative or polymicrobial ~9.4
+a
+Derived from Fowler VG Jr, Mro JM Hoen B, et al. Staphylococcus aureus endocardi-
+tis: a consequence of medical progress. JAMA 2005;293:3012-3021.
+emboli, and (3) immune injury mediated by antigen—antibody deposition. For example,
+local extension of the infection within the heart can result in progressive valvular damage,
+abscess formation, or erosion into the cardiac conduction system. Portions of a vegetation
+may embolize, often to the central nervous system, kidneys, or spleen, and incite infec-
+tion or infarction of the target organs. Each of these is a potentially fatal complication.
+Additionally, immune complex deposition can result in glomerulonephritis, arthritis, or
+vasculitis.
+
+The epidemiology of IE has evolved in recent decades as bacteria resistant to antibiot-
+ics have become ubiquitous in the hospital setting and have spread into the community.
+Antibiotic resistant strains such as methicillin-resistant S. aureus and vancomycin-resistant
+enterococci have become more common and are associated with increased mortality rates
+from IE.
+
+Cinical Manifestations
+
+A patient with acute IE is likely to report an explosive and rapidly progressive illness with
+high fever and shaking chills. In contrast, subacute IE presents less dramatically with low-
+grade fever often accompanied by nonspecific constitutional symptoms such as fatigue,
+anorexia, weakness, myalgia, and night sweats. These symptoms are not specific for IE and
+could easily be mistaken for infuenza or an upper respiratory tract infection. Thus, the
+diagnosis of subacute IE requires a high index of suspicion. A history of a valve lesion or
+other condition known to predispose to endocarditis is helpful. A thorough history should
+also inquire about injection drug use, recent dental procedures, or other potential sources
+of bacteremia.
+
+Cardiac examination may reveal a murmur representing underlying valvular pathology that
+predisposed the patient to IE, or a new murmur of valvular insufficiency owing to IE-induced
+damage. The development of right-sided valve lesions (e.g., tricuspid regurgitation), although
+rare in normal hosts, is particularly common in endocarditis associated with intravenous drug
+abuse. Serial examination in ABE may be especially useful because changes in a murmur
+(i.e., worsening regurgitation) over time may correspond with rapidly progressive valvular
+Valvular Heart Disease 215
+destruction. During the course of endocarditis, severe valvular destruction may result in signs
+of heart failure, which is the leading cause of death in patients with IE.
+
+Other physical findings that may appear in JE are those associated with septic embolism or
+immune complex deposition. Central nervous system emboli occur in up to 40% of patients,
+often resulting in new neurologic findings on physical examination. Injury to the kidneys, of
+embolic or immunologic origin, may manifest as f ank pain, hematuria, or renal failure. Lung
+infarction (septic pulmonary embolism) or infection (pneumonia) is particularly common in
+endocarditis that involves right-sided valves.
+
+Embolic infarction and seeding of the vasa vasorum of arteries can cause localized aneu-
+rysm formation (termed a mycotic aneurysm) that weakens the vessel wall and may rupture.
+Mycotic aneurysms may be found in the aorta, viscera, or peripheral organs, and are par-
+ticularly dangerous in cerebral vessels, because rupture there can result in fatal intracranial
+hemorrhage.
+
+Skin findings resulting from septic embolism or immune complex vasculitis are often col-
+lectively referred to as peripheral stigmata of endocarditis. For example, petechiae may appear
+as tiny, circular, red-brown discolorations on mucosal surfaces or skin. Splinter hemorrhages,
+the result of subungual microemboli, are small, longitudinal hemorrhages found beneath
+nails. Other peripheral stigmata of IE, which are now rarely encountered, include painless,
+f at, irregular discolorations found on the palms and soles called Janeway lesions; tender, pea-
+sized, erythematous nodules found primarily in the pulp space of the fingers and toes termed
+Osler nodes; and emboli to the retina that produce Roth spots, microinfarctions that appear as
+white dots surrounded by hemorrhage.
+
+The systemic inf ammatory response produced by the infection is responsible for fever and
+splenomegaly, as well as for a number of laboratory findings, including an elevated white
+blood cell count with a leftward shift (increase in proportion of neutrophils and immature
+granulocytes), an elevated erythrocyte sedimentation rate and C-reactive protein level, and in
+approximately 50% of cases, an elevated serum rheumatoid factor.
+
+The electrocardiogram may help identify extension of the infection into the cardiac conduc-
+tion system, manifest by various degrees of heart block or new arrhythmias. Echocardiography
+is used to visualize vegetations, valvular dysfunction, and associated abscess formation.
+Echocardiographic assessment can consist of transthoracic echocardiography (TTE) or trans-
+esophageal echocardiography (TEE), as described in Chapter 3. TTE is useful in detecting
+large vegetations and has the advantage of being noninvasive and easy to obtain. However,
+while the specif city of TTE for vegetations is high, the sensitivity for finding vegetations is
+less than 60%. TEE, on the other hand, is much more sensitive (> 90%) for the detection of
+vegetations and myocardial abscess formation and can be particularly useful for the evalua-
+tion of infection involving prosthetic valves.
+
+Central to the diagnosis and appropriate treatment of endocarditis is the identification of
+the responsible microorganism by blood culture. Once positive culture results are obtained,
+treatment can be tailored to the causative organism according to its antibiotic sensitivities. A
+specific etiologic agent is identified approximately 90% of the time. However, blood cultures
+may return negative if antibiotics have already been administered or if the organism has
+unusual growth requirements.
+
+Even after a careful history, examination, and evaluation of laboratory data, the diag-
+nosis of IE can be elusive. Therefore, attempts have been made to standardize the diag-
+nosis, resulting in the now widely used Duke criteria (Table 8-4). By this standard, the
+diagnosis of endocarditis rests on the presence of either two major criteria, one major
+and three minor criteria, or five minor criteria. Positive blood cultures and endocardial
+involvement detected by echocardiography provide the strongest evidence for IE and are
+considered major criteria. Minor criteria relate to clinical risk factors and findings on
+physical examination.
+216 (Chapter 8
+Mbjor Citeria Minor Giteria
+I. Positive blood culture, defned as either Aor B _— Predisposing cardiac condition or intravenous
+A. Typical microorganism for IE from two drug use
+separate blood cultures Fever (= 38.0°O
+1. Streptococci viridans, S. bovis, HACEK Vascular phenomena (septic arterial or pulmonary
+group; or emboli, mycotic aneurysm, intracranial hemor-
+2. Staphylococcus aureus or enterococci, in rhage, conjunctival hemorrhage, Janeway
+the absence of a primary focus lesions)
+B. Mcroorganisms consistent with IE from Immunologic phenomena (glomerulonephritis,
+persistently positive blood cultures Osler nodes, Roth spots, rheumatoid factor)
+1. Blood cultures drawn >12 hr apart, or Positive blood cultures not meeting major
+2. All of three, or most of four separate cul- criteria or serologic evidence of infection with
+tures drawn at least 1 hr apart organism consistent with IE
+3. Single positive blood culture for @xiella
+bumetii or antiphase I IgGantibody titer
+> 1:800
+il. Evidence of endocardial involvement, def ned
+as Aor B
+A. Echocardiogram positive for endocarditis:
+|. Oscillating intracardiac mass, or
+2. Myocardial abscess, or
+3. New partial detachment of prosthetic
+valve
+B. New valvular regurgitation
+a
+Clinical diagnosis of def nite endocarditis requires two major criteria, one major plus three minor criteria, or f ve
+minor criteria. Possible endocarditis requires one major plus one minor criteria or three minor criteria.
+HACEK, Haemophilus spp., Actinobacillus actinomycetemcomitans, Gardiobacterium hominis, Hkenella spp., and
+Kingella kingae.
+Derived from Li JS, Sexton DJ, Mck N, et al. Proposed modif cations to the Duke criteria for the diagnosis of
+infective endocarditis. Cin Infect Dis. 2000;30:633-638.
+Treatment
+Treatment of endocarditis entails 4 to 6 weeks of high-dose intravenous antibiotic therapy.
+Although empiric broad-spectrum antibiotics may be used initially (after blood cultures are
+obtained) for patients who are severely ill or hemodynamically unstable, specifc, directed
+therapy is appropriate once the causative microorganism has been identif ed. Surgical inter-
+vention, usually with valve replacement, is indicated for patients with persistent bacteremia
+or fever despite appropriate antibiotic therapy, for those with severe valvular dysfunction
+leading to heart failure, and for individuals who develop myocardial abscesses or recurrent
+endocarditis-related thromboemboli.
+Prevention
+An additional essential concept is prevention of endocarditis by administering antibiotics to
+certain susceptible individuals before invasive procedures that are likely to result in bactere-
+mia. The American Heart Association recommends such antibiotic prophylaxis for the cardiac
+conditions that place them at the highest risk for developing an adverse outcome from IE, as
+delineated in Table 8-5, when such individuals are subjected to procedures listed in the table.
+Valvular Heart Disease 217
+Cardiac conditions for which antibiotic prophylaxis is reasonable’
+1. Presence of a prosthetic heart valve or prior valve repair with prosthetic material
+2. Prior history of endocarditis
+3. G@rtain congenital heart diseases (CHD):
+* Unrepaired cyanotic CHD (described in Chapter 16)
+* @mpletely repaired congenital heart defects with prosthetic material, during the frst 6 months
+after the procedure (1.e., prior to protective endothelialization)
+* Repaired GHD with residual defects adjacent to the site of prosthetic material (which inhibits
+endothelialization)
+4. Cardiac transplant recipients who develop cardiac valve abnormalities
+Procedures that warrant antibiotic therapy for conditions listed above
+1. Dental procedures that involve manipulation of gingival tissue, manipulation of periapical region
+of the teeth, or perforation of the oral mucosa
+2. Upper respiratory tract procedures, only if involves incision or biopsy of mucosa
+(e.g., tonsillectomy, bronchoscopy with biopsy)
+3. Genitourinary or gastrointestinal procedures, only if infections of those systems are present
+4. Procedures on infected skin or musculoskeletal tissue
+
+a
+
+*The conditions on this list have the highest risk of adverse outcomes from endocarditis.
+
+Derived from Wilson W Taubert KA, Gewitz M et al. Prevention of infective endocarditis: guidelines from the
+
+American Heart Association: a guideline from the American Heart Association Rheumatic Fever, Endocarditis, and
+
+Kawasaki Disease Committee, Council on Cardiovascular Disease in the Young, and the Gouncil on Cinical Cardiology,
+
+Quncil on Cardiovascular Surgery and Anesthesia, and the Quality of Gare and Outcomes Research Interdisciplinary
+
+Working Group. Greulation. 2007;116:1736—1754.
+
+SUMMARY
+
+° Unifying principles do not govern the behavior of all valvular heart diseases—effective
+management requires identification of the valve abnormality, a determination of its sever-
+ity, and an understanding of the pathophysiologic consequences and natural history of
+the condition (Table 8-6).
+
+e Diagnosis of valvular disease is assisted by transthoracic echocardiography (TTE), which
+allows for staging of disease severity; in selected patients, additional investigation with
+exercise testing or cardiac catheterization may be necessary to define the significance of
+the condition.
+
+° Management of patients with stenotic or regurgitant valves involves serial clinical and
+echocardiographic assessments; pharmacologic therapy is sometimes prescribed for
+symptomatic improvement, but recognition of timely indications for valve repair or
+replacement is essential.
+
+e Mitral stenosis usually results from prior rheumatic fever; left atrial (LA) enlargement and
+atrial fibrillation are common.
+
+° Mitral regurgitation (MR) results from disruption of the structural integrity of any of the
+components of the mitral valve apparatus or their coordinated action; with chronic MR,
+
+LA enlargement, and left ventricular (LV) volume overload are typical.
+
+e In mitral valve prolapse, the valve leaf ets are elongated, and the normal dense collagen and
+elastin matrix of the valvular fibrosa is fragmented and replaced with loose myxomatous
+connective tissue; one or both leaf ets bow into the LA during systole resulting in lack of
+coaptation and mitral regurgitation.
+
+e Aortic stenosis has three primary causes: (1) degenerative calcification of a previously
+normal trileaf et aortic valve, (2) calcification of a congenitally bicuspid aortic valve, and
+(3) rheumatic valve disease; the primary hemodynamic consequence is LV pressure overload
+with compensatory LV hypertrophy; cardinal symptoms are chest discomfort, exertional
+dyspnea, and exertional light-headedness.
+218 Chapter 8
+Dh
+— | — —
+—_—_—_— —_—_—_—_—_— — EE
+a PCC
+Dh
+es
+qa
+Dh
+qw
+qe
+rr aw
+uw
+qe
+qe
+qe
+qe
+qe
+Qu
+uw
+on, a
+qe
+we
+Qe
+we
+we
+Valvular Heart Disease 219
+
+° Aortic regurgitation may result either from abnormalities of the aortic valve leaf ets or from
+dilatation of the aortic root; the primary hemodynamic perturbation is LV volume overload.
+
+° Tricuspid stenosis is rare and is usually a long-term consequence of rheumatic fever.
+
+° Tricuspid regurgitation is usually functional (due to RV enlargement) rather than structural
+in nature.
+
+° Pulmonic stenosis is rare, and its cause is almost always congenital deformity of the valve.
+
+e Pulmonic regurgitation most commonly develops in the setting of severe pulmonary hyper-
+tension and results from dilatation of the valve ring by an enlarged pulmonary artery.
+
+° The pathogenesis of endocarditis requires endocardial surface injury, platelet—fibrin—
+thrombus formation at the site of injury, bacterial entry into the circulation, and bacterial
+adherence to the injured endocardial surface.
+
+Acknowledgments
+
+Contributors to previous editions of this chapter were Christopher A. Miller, MD; Mia M.
+
+Edwards, MD; Patrick Yachimski, MD; Stephen K. Frankel, MD; Edward Chan, MD; Elia Duh, MD;
+
+Brian Stidham, MD; and John A. Bittl, MD.
+
+Additional Reading
+
+Gerber MA, Baltimore RS, Eaton CB, et al. Prevention Internal Medicine. 18th ed. New York, NY: McGraw-Hill;
+of rheumatic fever and diagnosis and treatment 2012:1929-1950.
+of acute streptococcal pharyngitis. Circulation. Vahanian A, Alfieri O, Andreotti F, et al. Guidelines on the
+2009;119:1541—-1551. management of valvular heart disease (version 2012); The
+
+Habib G, Hoen B, Tomos P, et al. Guidelines on the preven- Joint Task Force on the Management of Valvular Heart
+tion, diagnosis, and treatment of infective endocarditis Disease of the European Society of Cardiology and the
+(new version 2009); The Task Force on the Prevention, European Association for Cardio-Thoracic Surgery. Eur
+Diagnosis, and Treatment of Infective Endocarditis of the Heart J. 2012;33:2451-2496.
+European Society of Cardiology. Eur Heart J. 2009;30: Wilson W, Taubert KA, Gewitz M, et al. Prevention of
+2369-2413. infective endocarditis: guidelines from the American
+
+Nishimura RA, Otto CM, Bonow RO, et al. 2014 AHA/ ACC Heart Association: a guideline from the American Heart
+guideline for the management of patients with valvu- Association Rheumatic Fever, Endocarditis, and Kawasaki
+lar heart disease: a report of the American College of Disease Committee, Council on Cardiovascular Disease in
+Cardiology/ American Heart Association Task Force on the Young, and the Council on Clinical Cardiology, Council
+Practice Guidelines. J Am Coll Cardiol. 2014;63:e57-e185. on Cardiovascular Surgery and Anesthesia, and the Quality
+
+O’Gara P, Loscalzo J. Valvular heart disease. In: Longo DL, of Care and Outcomes Research Interdisciplinary Working
+Fauci AS, Kasper DL, et al., eds. Harrison’s Principles of Group. Circulation. 2007;116:1736—1754.
+”
+1 F 4 } =z
+1 i
+Heart Failure é
+'
+David Miranda \ i,
+Gregory D. Lewis
+Michael A. Fifer
+-
+=
+Chapter Outline T he heart normally accepts blood at low flling pressures
+during diastole and then propels it forward at higher
+Physiology . . .
+pressures in systole. Heart failure is present when the heart
+
+Determinants of Contractile . :
+
+Function in the Intact Heart is unable to pump blood forward at a suff cient rate to meet
+
+Pressure—Volume Loops the metabolic demands of the body or is able to do so only
+
+Pathophysiology if cardiac flling pressures are abnormally high. Although
+
+Heart Failure with Reduced EF conditions outside the heart may cause this def nition to be
+
+Heart Farture with Preserved EF met through inadequate tissue perfusion (e.g., severe hemor-
+
+Right-Sided Heart Failure . . .
+
+. rhage) or increased metabolic demands (e.g., hyperthyroid-
+@mpensatory Mechanisms . . . . .
+
+Frnalevesiingsvsohenions ism), in this chapter, only cardiac causes of heart failure are
+
+Neurohormonal Alterations considered.
+
+Ventricular Hypertrophy and Heart failure results in a clinical syndrome of fatigue, short-
+
+Remodeling ness of breath, and often volume overload. It may be the fnal
+ee _ SHE sca se. TOTTI coronary EIS CET
+Cinical Manifestations infarction, valvular diseases, hypertension, congenital heart
+
+Symptoms disease, and the cardiomyopathies. More than 550,000 new
+
+Physical Signs cases are diagnosed each year in the United States, where the
+
+Diagnostic Studies current prevalence is approximately 5.8 million. The number
+
+Prognosis of patients with heart failure is increasing, not only because
+Treatment Of Heart Failure With — : : ;
+: : the population is aging but also because of interventions
+
+Reduced Kection Fraction . . _.
+
+Diuretics that prolong survival after damaging cardiac insults such as
+myocardial infarction. As a result, heart failure now accounts
+for more than 12 million medical offce visits annually and
+
+220

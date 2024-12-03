@@ -1,0 +1,1144 @@
+.
+ioe
+1a
+Atherosclerosis
+é
+|.
+Sarrah Shahawy \ a
+Peter Libby
+a
+Chapter Outline A therosclerosis is the leading cause of mortality and
+morbidity in developed nations. Through its major mani-
+Vascular Biology of Atherosclerosis festations of myocardial infarction and stroke, it has also become
+Normal Arterial Wall ; ,
+Atherosclerotic Arterial Wall a major cause of death in the developing world. Gmmonly
+Qmplications of Atherosclerosis known as “hardening of the arteries,” atherosclerosis derives
+Atherosclerosis Risk Factors its name from the Geek roots athere-, meaning “gruel,” and
+Genetics -skleros, meaning “hardness.” Recent evidence has demon-
+Traditional RISK FaCtOrs strated that chronic inflammation drives the atherosclerotic
+fom ers MNCL process and transduces traditional risk factors (such as hyper-
+a cholesterolemia) into altered behavior of vascular wall cells,
+contributing to the disease and its thrombotic complications.
+The course of atherogenesis can smolder throughout adult-
+hood, punctuated by acute cardiovascular events.
+describes the normal arterial wall, the pathogenesis of ather-
+osclerotic plaque formation, and the complications that lead
+to clinical manifestations of the disease. The second section
+describes fndings from population studies that have identi-
+fed specifc risk factors for atherosclerotic events, thereby
+offering opportunities for prevention and treatment.
+VASCULAR BIOLOGY OF ATHEROSCLEROSIS
+iii
+Atherosclerosis 113
+Internal elastic lamina Ea External elastic lamina
+LAB a Re)
+Cif FAN
+Vy —_ SAK XS
+Yj ey SN \
+HiGURE 5-1. Schematic diagram i, Wy ~ \\
+of the arterial wall. The intima, if If ( \ i} \ i .
+the innermost layer, overlies the ! ¢ ( ' Lumen TW An Endothelial cells
+muscular media demarcated by Adventitia mi i , y \
+the internal elastic lamina. The ‘ AN y) I iy
+external elastic lamina separates \\ \ ~ = y My ly i
+the media from the outer layer, SY LOSS yi} Wy
+the adventitia. (Modifed from YY Ws SSL yf
+Lieberman M Marks’ Basic Medical \ SSS Sfp)
+Biochemistry: A Clinical Approach. QS PRL
+4th ed. Philadelphia, PA: Wolters Media Si ee eee Intima
+Kluwer Health; 2013:649.) (Smooth muscle cells)
+separate this middle layer from the intima and adventitia, respectively. The media consists of
+smooth muscle cells (SMCs) and extracellular matrix and serves the contractile and elastic
+functions of the vessel. The elastic component, more prominent in large arteries (e.g., the aorta
+and its primary branches), stretches during the high pressure of systole and then recoils during
+diastole, propelling blood forward. The muscular component, more prominent in smaller arter-
+ies such as arterioles, constricts or relaxes to alter vessel resistance and therefore luminal blood
+flow (flow = pressure/resistance; see Chapter 6). The adventitia contains nerves, lymphatics,
+and blood vessels (vasa vasorum) that nourish the cells of the arterial wall.
+
+Far from an inert conduit, the living arterial wall hosts dynamic interchanges between its
+cellular components—most importantly, endothelial cells, vascular SMC, and their surround-
+ing extracellular matrix. An understanding of the dysfunction that leads to atherosclerosis
+requires knowledge of the normal function of these components.
+
+Fndothelial Gils
+
+In a healthy artery, the endothelium performs structural, metabolic, and signaling functions
+that maintain homeostasis of the vessel wall. The tightly adjoined endothelial cells form a
+barrier that contains blood within the lumen of the vessel and controls the passage of large
+molecules from the circulation into the subendothelial space. As blood traverses the vascu-
+lar tree, it encounters antithrombotic molecules produced by the normal endothelium that
+prevent it from clotting or that promote fbrinolysis (the breakdown of fbrin clots). Some
+of these molecules reside on the endothelial surface (e.g., heparan sulfate, thrombomodu-
+lin, and plasminogen activators; see Chapter 7), while other antithrombotic products of the
+endothelium enter the circulation (e.g., prostacyclin and nitric oxide [NO]; see Chapter 6).
+Although a net anticoagulant state normally prevails, the endothelium can also produce pro-
+thrombotic and antif brinolytic molecules when subjected to various stressors.
+
+Furthermore, endothelial cells secrete substances that modulate contraction of SMC in the
+underlying medial layer. These substances include vasodilators (e.g., NO and prostacyclin)
+and vasoconstrictors (e.g., endothelin) that alter the arteriolar resistance and therefore lumi-
+nal blood flow. In a normal artery, the predominance of vasodilator substances results in net
+smooth muscle relaxation.
+
+Endothelial cells can also modulate the immune response. In the absence of patho-
+logic stimulation, healthy arterial endothelial cells resist leukocyte adhesion and thereby
+oppose local inflammation. However, endothelial cells respond to local injury or infection
+by expressing cell surface adhesion molecules, which attach mononuclear cells to the endo-
+thelium, and chemokines—substances that facilitate leukocyte recruitment to the site of
+114 (chapter 5
+NORMAL ACTIVATED
+ENDOTHELIAL re ;- - =
+CELLS
+¢ Impermeable to large molecules A Permeability
+¢ Anti-inflammatory A Inflammatory cytokines
+¢ Resist leukocyte adhesion ALeukocyte adhesion molecules
+¢ Promote vasodilation V Vasodilatory molecules
+* Resist thrombosis V Antithrombotic molecules
+SMOOTH MUSCLE “ttl
+CELLS
+¢ Normal contractile function A Inflammatory cytokines
+¢ Maintain extracellular matrix AExtracellular matrix synthesis
+* Most contained in medial layer A Migration into intima and
+prolife ration
+HGURE5-2. Endothelial and smooth muscle cell activation by inf ammation. Normal endothelial and
+SMC maintain the integrity and elasticity of the normal arterial wall while limiting immune cell inf Itration.
+Inflammatory activation of these vascular cells corrupts their normal functions and favors proatherogenic
+mechanisms that drive plaque development.
+injury. These effects result in part by activation of the transcription factor nuclear factor
+kappa B (NF«B.)
+
+In summary, the normal endothelium provides a protective, nonthrombogenic surface with
+
+homeostatic vasodilatory and anti-inflammatory properties (Fig. 5-2).
+Vascular Smooth Muscle Gls
+
+SMC within the medial layer of normal muscular arteries have both contractile and synthetic
+capabilities. Various vasoactive substances modulate the contractile function, resulting in
+vasoconstriction or vasodilation. Such agonists include circulating molecules (e.g., angioten-
+sin II), those released from local nerve terminals (e.g., acetylcholine), and others originating
+from the overlying endothelium (e.g., endothelin and NO). SMC also synthesize the collagen,
+elastin, and proteoglycans that form the bulk of the vascular extracellular matrix (see Fig. 5-2).
+In addition, SMC produce vasoactive and inflammatory mediators, including interleukin-6 (IL-
+6) and tumor necrosis factor (TNF).
+
+In normal arteries, most SMC reside in the medial layer, although human arteries also
+contain some SMC in the intima, particularly in sites predisposed to atherosclerosis. During
+atherogenesis, medial SMC can migrate into the intima, proliferate, and augment synthesis of
+extracellular matrix macromolecules while they dampen contractile protein content.
+
+Extracellular Matrix
+
+In healthy arteries, f brillar collagen, elastin, and proteoglycans make up most of the extracel-
+lular matrix in the medial layer. Interstitial collagen f brils, constructed from intertwining heli-
+cal proteins, possess great biomechanical strength, while elastin provides flexibility. Together
+these components maintain the structural integrity of the vessel, despite the high pressure
+within the lumen. The extracellular matrix also regulates the growth of its resident cells.
+Native fbrillar collagen, in particular, can inhibit SMC proliferation in vitro. Furthermore,
+the matrix influences cellular responses to stimuli—matrix-bound cells respond in a specif c
+manner to growth factors and resist apoptosis (programmed cell death).
+Atherosclerosis 115
+Atherosclerotic Arterial Wall
+The arterial wall is a dynamic and regulated structure, but certain stimuli can disturb normal
+homeostasis and pave the way for atherogenesis. For example, as described later, vascular
+endothelial cells, as well as SMC, react readily to inflammatory mediators, such as IL-1 and
+TNE, and can produce them as well.
+
+With the recognition that vascular wall cells respond to, and produce, proinflammatory
+agents, investigations into the role of “activated” endothelial and SMC in atherogenesis bur-
+geoned. As a consequence, vascular endothelium and SMC joined classical inflammatory
+cells, such as mononuclear phagocytes and T lymphocytes, as key players in early atheroma
+formation and in advanced plaque progression. This fundamental research has identif ed sev-
+eral key components that contribute to the atherosclerotic inflammatory process, including
+endothelial dysfunction, accumulation of lipids within the intima, recruitment of leukocytes
+and SMC to the vessel wall, formation of foam cells, and deposition of extracellular matrix
+(Fig. 5-3), as described in the following sections. Rather than follow a sequential path, the
+cells of atherosclerotic lesions continuously interact and modify each other’s behavior, shap-
+ing the plaque over decades into one of many possible prof les. This section categorizes these
+mechanisms into three pathologic stages: the fatty streak, plaque progression, and plaque dis-
+ruption (Fig. 5-4). In the arterial tree, lesions of all three stages can coexist, often side by side.
+
+Fatty Streak
+Fatty streaks represent the earliest visible lesions of atherosclerosis. On gross inspection, they
+appear as areas of yellow discoloration on the artery’s inner surface, but they neither pro-
+trude substantially into the arterial lumen nor impede blood flow. Surprisingly, fatty streaks
+exist in the aorta and coronary arteries of most people by age 20. They do not cause symp-
+toms, and in some locations in the vasculature, they may regress over time. Although the
+precise initiation of fatty streak development is not known, observations in animals suggest
+that various stressors cause early endothelial dysfunction, as described in the next section.
+Foam cell = —
+° @ Monocytes ZS Czy
+e Macrophage pe ep) _- Cell apoptosis
+PLDL® oy @ Ze © eae)
+Vascular @ adhesion  o fe) BOY ge Smooth muscle
+endothelium ——a molecule ae SS i 6 oe fe) W, ZA mitogens
+Oxidized LDL Tei oRe "O°, Scavenger “6 Smooth muscle
+Internal elastic aS et rs Pee le
+: e oo u
+FIGURE5-3. Schematic diagram of the evolution of atherosclerotic plaque. (1) Accumulation of lipoprotein particles in
+the intima. The darker color depicts modif cation of the lipoproteins (e.g., by oxidation or glycation). (2) Oxidative stress,
+including constituents of modifed LDL, induces local cytokine elaboration. (3) These cytokines promote increased expression
+of adhesion molecules that bind leukocytes and of chemoattractant molecules (e.g., monocyte chemoattractant protein-1
+[McCP-1]) that direct leukocyte migration into the intima. (4) After entering the artery wall in response to chemoattractants,
+blood monocytes encounter stimuli such as macrophage colony-—stimulating factor (M-CSF) that augment their expression
+of scavenger receptors. (5) Scavenger receptors mediate the uptake of modif ed lipoprotein particles and promote the
+development of foam cells. Macrophage foam cells are a source of additional cytokines and effector molecules such as
+superoxide anion (O, ) and matrix metalloproteinases. (6) SMC migrate into the intima from the media. Note the increasing
+intimal thickness. (7) Intimal SMC divide and elaborate extracellular matrix, promoting matrix accumulation in the growing
+atherosclerotic plaque. In this manner, the fatty streak evolves into a fbrofatty lesion. (8) In later stages, calcif cation can
+occur (not depicted) and fbrosis continues, sometimes accompanied by smooth muscle cell death (including programmed cell
+death or apoptosis), yielding a relatively acellular f brous capsule surrounding a lipid-rich core that may also contain dying
+or dead cells. IL-1, interleukin 1; LDL low-density lipoprotein. (Mbdif ed from Mann DL Apes D, Lbby P, Bonow ROQeds.
+Braunwald’s Heart Disease: A Textbook of Cardiovascular Medicine. 10th ed. Philadelphia, PA: Hsevier Saunders; 2015.)
+116 Chapter 5
+Ly)
+
+a, Pen an <9 ize
+eco A ee Se
+ss e SS iS aS
+
+FATTY STREAK PLAQUE PROGRESSION PLAQUE DISRUPTION
+* Endothelial dys function * Smooth muscle cell migration * Disrupted plaque integrity
+* Lipoprotein entry and * Altered matrix synthesis and *Thrombus formation
+
+modification degradation
+
+* Leukocyte recruitment * Lipid core formation
+
+* Foam cell formation
+A B Cc
+HGURE5-4. Stages of plaque development. A. The fatty streak develops as a result of endothelial dysfunction,
+lipoprotein entry and modif cation, leukocyte recruitment, and foam cell formation. B Plaque progression involves
+migration of SMCinto the intima, where they divide and elaborate extracellular matrix. The f brous cap contains
+a lipid core. C Hemodynamic stresses and degradation of extracellular matrix increase the susceptibility of the
+fbrous cap to rupture, allowing superimposed thrombus formation. (Modif ed from Libby P, Ridker PM Maseri A.
+Inflammation and atherosclerosis. Grculation. 2002;105:1136.)
+Such dysfunction allows entry and modif cation of lipids within the subendothelial space,
+where they serve as proinflammatory mediators that initiate leukocyte recruitment and foam
+cell formation—the pathologic hallmarks of the fatty streak (Fig. 5-3).
+
+Endothelial Dysfunction
+
+Injury to the arterial endothelium represents a primary event in atherogenesis. Such injury
+can result from exposure to diverse agents, including physical forces and chemical irritants.
+
+The predisposition of certain regions of arteries (e.g., branch points) to develop athero-
+mata supports the role of hydrodynamic stress. In straight sections of arteries, the normal
+laminar (i.e., smooth) shear forces favor the endothelial production of NO, which is an
+endogenous vasodilator, an inhibitor of platelet aggregation, and an anti-inflammatory sub-
+stance (see Chapter 6). Moreover, laminar flow and high shear stress activates transcription
+factors such as Krippel-like factor 2 (KLF2) that evokes an “atheroprotective” panel of
+endothelial functions and accentuates expression of the antioxidant enzyme superoxide dis-
+mutase, which protects against reactive oxygen species. Conversely, disturbed flow occurs
+near arterial branch points, causing low shear stress, which impairs these locally athero-
+protective endothelial functions. Accordingly, arteries with few branches (e.g., the internal
+mammary artery) show relative resistance to atherosclerosis, whereas bifurcated vessels
+(e.g., the common carotid and left coronary arteries) contain common sites for atheroma
+formation.
+
+Endothelial dysfunction may also result from exposure to a “toxic” chemical environment.
+For example, tobacco smoking, abnormal circulating lipid levels, and diabetes—all known
+risk factors for atherosclerosis—can promote endothelial dysfunction. Each of these stimuli
+increases endothelial production of reactive oxygen species—notably, superoxide anion—that
+interact with other intracellular molecules to influence the metabolic and synthetic functions
+of the endothelium. In such an environment, the cells promote local inflammation.
+
+When physical and chemical stressors interrupt normal endothelial homeostasis, an acti-
+vated state ensues, manifested by impairment of the endothelium’s role as a permeability
+barrier, the release of inflammatory cytokines, increased production of cell surface adhesion
+molecules that recruit leukocytes, altered release of vasoactive substances (e.g., prostacyclin
+and NO), and interference with normal antithrombotic properties. These undesired effects of
+Atherosclerosis 117
+dysfunctional endothelium lay the groundwork for subsequent events in the development of
+atherosclerosis (see Figs. 5-2 and 5-3).
+
+Lipoprotein Entry and Modif cation
+
+The activated endothelium no longer serves as an effective barrier to the passage of circulat-
+ing lipoproteins into the arterial wall. Increased endothelial permeability allows the entry of
+low-density lipoprotein (LDL) into the intima, a process facilitated by an elevated circulating
+LDL concentration in patients with hypercholesterolemia. In addition to high LDL concentra-
+tions in part from diet, several monogenic causes of elevated LDL exist, including mutations
+of the LDL receptor, of apolipoprotein B, and of PCSK9, a protease involved in regulation of
+the LDL receptor. Once within the intima, LDL accumulates in the subendothelial space by
+binding to proteoglycans in the extracellular matrix. This “trapping” increases the residence
+time of LDL within the vessel wall, where the lipoprotein may undergo chemical modif ca-
+tions that can promote the development of atherosclerotic lesions. Hypertension, a major
+risk factor for atherosclerosis, may further promote retention of lipoproteins in the intima by
+accentuating the production of LDL-binding proteoglycans by SMC.
+
+Oxidation is one type of modif cation that befalls LDL trapped in the subendothelial space.
+It can result from the local action of reactive oxygen species and prooxidant enzymes derived
+from activated endothelial or SMC, or from macrophages that penetrate the vessel wall. In
+addition, the microenvironment of the subendothelial space sequesters oxidized LDL from
+antioxidants in the plasma. In diabetic patients with sustained hyperglycemia, glycation of
+LDL can occur—a modif cation that may ultimately render LDL antigenic and proinflamma-
+tory. These biochemical alterations of LDL act early and contribute to the inflammatory mech-
+anisms initiated by endothelial dysfunction, and they may continue to promote inflammation
+throughout the life span of the plaque. In the fatty streak, and likely throughout plaque devel-
+opment, modif ed LDL (mLDL) promotes leukocyte recruitment and foam cell formation.
+
+Leukocyte Recruitment
+
+Recruitment of leukocytes (primarily monocytes and T lymphocytes) to the vessel wall is
+a key step in atherogenesis. The process depends on the expression of leukocyte adhesion
+molecules (LAMs) on the normally nonadherent endothelial luminal surface and on che-
+moattractant signals (e.g., monocyte chemotactic protein-1 [MCP-1]) that direct diapedesis
+(passage of cells through the intact endothelial layer) into the subintimal space. Two major
+subsets of LAM persist in the inflamed atherosclerotic plaque: the immunoglobulin gene
+superfamily (especially vascular cell adhesion molecule-1 [VCAM-1] and intercellular adhe-
+sion molecule-1 [ICAM-1]) and the selectins (particularly, E- and P-selectin). These LAMs and
+chemoattractant signals direct mainly monocytes to the forming lesion. Hypercholesterolemia
+favors accumulation in blood of a subset of monocytes that is characterized by expression
+of high levels of proinflammatory cytokines (e.g., IL-1 and TNF), distinguished in mice by
+expression of the cell surface marker Ly6c. Although outnumbered by monocytes, T lympho-
+cytes also localize within plaques and direct the adaptive immune response.
+
+mLDL and proinflammatory cytokines can induce LAM and chemoattractant cytokine
+(chemokine) expression independently, but mLDL may also stimulate endothelial and SMC
+to produce proinflammatory cytokines, thereby reinforcing the direct action. This dual ability
+of mLDL to promote leukocyte recruitment and inflammation directly and indirectly persists
+throughout atherogenesis.
+
+Foam Cell Formation
+After monocytes adhere to and penetrate the intima, they differentiate into macrophages
+and imbibe lipoproteins to form foam cells. Foam cells do not arise from uptake of LDL cho-
+lesterol by classic cell surface LDL receptor—mediated endocytosis as described in Box 5-1
+118 (chapter 5
+BOX5-1 ‘The Lipoprotein Transport System
+Lipoproteins ferry water-insoluble fats through the bloodstream. These particles consist of a lipid
+core surrounded by more hydrophilic phospholipid, free cholesterol, and apolipoproteins (also
+called apoproteins). The apoproteins present on various classes of lipoprotein molecules serve
+as the “conductors” of the system, directing the lipoproteins to specifc tissue receptors and
+mediating enzymatic reactions. Five major classes of lipoproteins exist, distinguished by their
+densities, lipid constituents, and associated apoproteins. In order of increasing density, they
+are chylomicrons, very-low-density lipoproteins (VLDL, intermediate-density lipoproteins
+(IDL), low-density lipoproteins (LDD, and high-density lipoproteins (HDL). The major steps
+in the lipoprotein pathways are labeled in the f gure below and described as follows. The key
+apoproteins (apo) at each stage are indicated in the f gure in parentheses.
+Exogenous Pathway | Endogenous Pathway
+© ]
+]
+]
+|
+© !
+Nee,
+a aN a i
+® LPL
+HL
+Se @ @
+|
+]
+]
+con ]
+@® |
+@ Lip oprotein lipase | @ Lipoprotein lipase
+i ] i
+]
+|
+A be
+——_ a | —_ a
+Muscle Adipose tissue Muscle Adipose tissue
+Exogenous (Intestinal) Pathway
+1. Detary fats are absorbed by the small intestine and repackaged as chylomicrons, accompanied
+by apo B-48. Chylomicrons are large particles, particularly rich in triglycerides, that enter the
+circulation via the lymphatic system.
+2. Apo Eand subtypes of apo Care transferred to chylomicrons from HDL particles in the bloodstream.
+3. Apo C(subtype CI) enhances interactions of chylomicrons with lipoprotein lipase (LPL) on the
+endothelial surface of adipose and muscle tissue. This reaction hydrolyzes the triglycerides
+within chylomicrons into free fatty acids (FFAs), which are stored by adipose tissue or used for
+energy in cardiac and skeletal muscle.
+4. Chylomicron remnants are removed from the circulation by the liver, mediated by apo E
+5. One fate of cholesterol in the liver is incorporation into bile acids, which are exported to the
+intestine, completing the exogenous pathway cycle.
+Endogenous (Hepatic) Pathway
+Because dietary fat availability is not constant, the endogenous pathway provides a reliable
+supply of triglycerides for tissue energy needs:
+6. The liver packages cholesterol and triglycerides into VLDL particles, accompanied by apo B-100
+and phospholipid. The triglyceride content of VLDL is much higher than that of cholesterol,
+but this is the main means by which the liver releases cholesterol into the circulation.
+Atherosclerosis 119
+ee
+BOX5-1 = ‘The Lipoprotein Transport System (continued)
+
+7. VLDL is catabolized by LPL (similar to chylomicrons, as described in step 3), releasing fatty
+acids to muscle and adipose tissue. During this process, VDL also interacts with HDL
+exchanging some of its triglyceride for apo Csubtypes, apo E, and cholesteryl ester from
+HDL The latter exchange (important in reverse cholesterol transport, as described in the next
+section) is mediated by cholesteryl ester transfer protein (CEIP).
+
+8. Approximately 50% of the VLDL remnants (termed intermediate-density lipoproteins [IDL]) are
+then cleared in the liver by hepatic receptors that recognize apo E
+
+9. The remaining IDLis catabolized further by LPL and hepatic lipase (HL), which remove
+additional triglyceride, apo E, and apo C forming LDL particles.
+
+10. Plasma clearance of LDL occurs primarily via LDL receptor—mediated endocytosis in the liver
+and peripheral cells, directed by LDUs apo B-100 and apo E
+Cholesterol Homeostasis and Reverse Cholesterol Transport
+Intracellular cholesterol content is tightly maintained by de novo synthesis, cellular uptake,
+storage, and efflux from the cell. The enzyme HM+GQA reductase is the rate-limiting element of
+cholesterol biosynthesis, and cellular uptake of cholesterol is controlled by receptor-mediated
+endocytosis of circulating LDL (see step 10). When intracellular cholesterol levels are low,
+the transcription factor sterol regulatory element—binding protein (SREBP) is released from the
+endoplasmic reticulum. The active fragment of SREBP enters the nucleus to increase transcription
+of HMG-@A reductase and the LDL receptor—which, through their subsequent actions, tend to
+normalize the intracellular cholesterol content.
+apo Al
+Interna lized \
+5 cholesteryl BY oe
+Free ester receptor
+apo AI Nascent —%
+w HPL ~~ _ LCAT | Mat te
+—> ad as VE, HDL CETP
+@ eo"
+AN A Peripheral
+* Py . LJ) * cells
+J)
+® 2 J) J) - — alee
+Under conditions of intracellular cholesterol excess (as in the f gure above), peripheral cells
+increase the transcription of the AIP-binding cassette Al and Gl genes (ABCAI and ABGGI,
+respectively). The ABCAI gene codes for a transmembrane protein transporter that initiates
+efflux of cholesterol from the cell to lipid-poor circulating apo AI (which is synthesized by
+the liver and intestine), thus forming nascent (immature) HDL particles. ABCGI facilitates
+further efflux of cholesterol to form more mature HDL particles. As free cholesterol is acquired
+by circulating HDL it is esterif ed by lecithin cholesterol acyltransferase (LCAT), an enzyme
+activated by apo AI. The hydrophobic cholesteryl esters move into the particle’s core. Mbst
+cholesteryl esters in HDL can then be exchanged for triglycerides in the circulation (via the
+enzyme CEIP) with any of the apo B-containing lipoproteins (i.e., VUDL, IDL, LDL), which
+deliver the cholesterol back to the liver. HDL can also transport cholesterol to the liver and
+steroid hormone—producing tissues via the SR-BI scavenger receptor.
+120 chapter 5
+(e.g., aS occurs in normal hepatocytes), because the high cholesterol content in these cells
+suppresses expression of that receptor. Furthermore, the classic LDL receptor does not recog-
+nize modif ed LDL particles. Rather, macrophages rely on a family of “scavenger” receptors
+that preferentially bind and internalize mLDL. Unlike uptake via the classic LDL receptor,
+mLDL ingestion by scavenger receptors evades negative feedback inhibition and permits
+engorgement of the macrophages with cholesterol and cholesteryl ester, resulting in the
+typical appearance of foam cells. Although such uptake may initially provide beneft by
+sequestering potentially damaging mLDL particles, the impaired efflux of these cells as com-
+pared to the rate of influx, as well as local proliferation, leads to their accumulation in the
+plaque. This mitigates their protective role by fueling foam cell apoptosis and the release of
+proinflammatory cytokines that promote atherosclerotic plaque progression. During athero-
+genesis, the clearance of dead foam cells can become ineff cient, thus promoting the accu-
+mulation of cellular debris and extracellular lipids, forming the lipid-rich center of a plaque
+(often termed the necrotic core).
+Plaque Progression
+
+Whereas endothelial cells play a central role in the formation of the fatty streak, SMC in the
+intima promote plaque progression by producing extracellular matrix that traps lipoproteins and
+adds to the bulk of the lesion. During decades of development, the typical atherosclerotic plaque
+acquires a distinct thrombogenic lipid core that underlies a protective f brous cap. Not all fatty
+streaks progress into f brofatty lesions, and it is unknown why some evolve and others do not.
+
+Early plaque growth typically involves a compensatory outward remodeling of the arterial
+wall that preserves the diameter of the lumen and permits plaque accumulation without limi-
+tation of blood flow, hence producing no ischemic symptoms. Lesions at this stage can thus
+evade detection by angiography. Later plaque growth, however, can outstrip the compensa-
+tory arterial enlargement, restrict the vessel lumen, and impede perfusion. Such flow-limiting
+plaques can result in tissue ischemia, causing symptoms such as angina pectoris (see Chapter 6)
+or intermittent claudication of the extremities (see Chapter 15).
+
+Many acute coronary syndromes (acute myocardial infarction and unstable angina pecto-
+ris) result when the f brous cap of an atherosclerotic plaque ruptures, exposing prothrombotic
+molecules within the lipid core and precipitating an acute thrombus that suddenly occludes
+the arterial lumen. As described in this section, the extracellular matrix plays a pivotal role
+in fortifying the fbrous cap, isolating the thrombogenic plaque interior from coagulation
+substrates in the circulation.
+
+Smooth Miscle Gell Migration
+The transition from fatty streak to fbrous atheromatous plaque involves the migration of
+SMC from the arterial media into the intima, proliferation of the SMC within the intima, and
+secretion of extracellular matrix macromolecules by the SMC. Foam cells, activated platelets
+entering through microf ssures in the plaque surface, and endothelial cells can all elaborate
+substances that signal SMC migration and proliferation (Fig. 5-5).
+
+Foam cells produce several factors that contribute to SMC recruitment. For example, they
+release platelet-derived growth factor (PDGF)—also released by platelets and endothelial
+cells—which likely stimulates the migration of SMC across the internal elastic lamina and
+into the subintimal space, where they subsequently replicate. PDGF additionally stimulates
+the growth of resident SMC in the intima. Foam cells also release cytokines and growth
+factors (e.g., TNF, IL-1, fbroblast growth factor, and transforming growth factor-B [TGF-B])
+that further incite SMC proliferation and/or the synthesis of extracellular matrix proteins.
+Furthermore, these stimulatory cytokines induce SMC and leukocyte activation, promoting
+further cytokine release, thus reinforcing and maintaining inflammation in the lesion.
+Atherosclerosis 121
+Endothelial
+Dys function
+HGURE5-5. Progression from the fatty streak
+involves the migration and proliferation of SMC
+Substances released from foam cells, dysfunctional
+endothelial cells, and platelets contribute to this
+process. IL-1, interleukin-1; NO nitric oxide; PDGE
+platelet-derived growth factor; PGL, prostacyclin; TG,
+transforming growth factor-B; TNE tumor necrosis factor.
+
+According to the traditional concept, plaques grow gradually and continuously, but cur-
+rent evidence suggests that this progression may be punctuated by subclinical events with
+bursts of smooth muscle replication. For example, morphologic evidence of resolved intra-
+plaque hemorrhages indicates that breaches in plaque integrity can occur without clinical
+symptoms or signs. Such plaque disruptions expose tissue factor from foam cells to blood,
+which activates coagulation and microthrombus formation. Activated platelets within such
+microthrombi release additional potent factors—including PDGF—that can spur a local wave
+of SMC migration and proliferation.
+
+Activated T cells also contribute to plaque evolution. Cells of the T helper 1 subtype (Th1)
+produce proinflammatory cytokines that promote plaque progression and instability, while lym-
+phocytes of the T helper 2 subtype (Th2) and regulatory T cells (Treg) produce factors, including
+TGF-B and IL-10, which can inhibit SMC proliferation and potentially mitigate plaque growth.
+
+Extracellular Matrix Metabolism
+As the predominant collagen-synthesizing cell type, SMC favor fortif cation of the fbrous
+cap. Net matrix deposition depends on the balance of its synthesis by SMC and its degrada-
+tion, mediated in part by a class of proteolytic enzymes known as matrix metalloprotein-
+ases (MMP). While PDGF and TGF-B stimulate production of interstitial collagens by SMC,
+the Thl-derived cytokine interferon-y (IFN-y) inhibits SMC collagen synthesis. Furthermore,
+inflammatory cytokines stimulate local foam cells to secrete collagen- and elastin-degrading
+MMP, thereby weakening the f brous cap and predisposing it to rupture (Fig. 5-6).
+
+Plaque Disruption
+
+Plaque Integrity
+The tug-of-war between matrix synthesis and degradation continues over decades but not
+without consequences. Death of smooth muscle and foam cells, either owing to excess inflam-
+matory stimulation or by contact activation of apoptosis pathways, liberates cellular contents,
+contributing imbibed lipids and cellular debris to the growing lipid core. The size of the lipid
+122 chapter 5
+, D
+_g ne ; : 7 €g "ad, tio,
+3
+; a2
+— yy ~ . Lumen
+7 DEA Conger and wave /
+y) elastin Fibrous Cap
+Smooth muscle Fa
+(©) cell Foam (oO)
+a SK a cell “
+PDGF IFN-y CD40L IL-l
+TGF-B C°) TNF
+MCP-1 .
+Lipid core
+T lymphocyte
+HGURE5-6. Matrix metabolism underlies f brous cap integrity. The net deposition of extracellular matrix
+is the result of competing synthesis and degradation reactions. Smooth muscle cells synthesize the bulk of the
+fbrous cap constituents, such as collagen and elastin. Foam cells elaborate destructive proteolytic enzymes,
+such as the collagen-degrading matrix metalloproteinases (MVP) and the elastolytic cathepsins. T-lymphocyte—
+derived factors favor destruction of the fbrous cap. All plaque residents, however, contribute to the cytokine
+milieu of the plaque, providing multiple activating and inhibitory stimuli as shown. IFNy, interferon-y; IL-1,
+interleukin-1; MCP-1, monocyte chemoattractant protein-1; PDGE platelet-derived growth factor; TGEB,
+transforming growth factor-B; TNE tumor necrosis factor. (Modif ed from Libby P. The molecular bases of
+acute coronary syndromes. Grculation. 1995;91:2844—2850; Young JL, Libby P, Schénbeck U. Gytokines in the
+pathogenesis of atherosclerosis. Thromb Haemost. 2002;88:554—567.)
+core has biomechanical implications for the stability of the plaque. With increasing size and
+protrusion into the arterial lumen, mechanical stress focuses on the plaque border abutting
+normal tissue, called the shoulder region.
+The structure of the f brous cap contributes to plaque integrity. Whereas lesions with thick
+f brous caps may cause pronounced arterial narrowing, they have less propensity to rupture.
+Conversely, plaques that have thinner caps (and often appear less obstructive by angiog-
+raphy) tend to be fragile and more likely to rupture and incite thrombosis. Current clinical
+terminology describes the extreme spectrums of integrity as “stable plaques” (marked by a
+thick f brous cap and small lipid core) or “vulnerable plaques” (marked by a thin f brous cap,
+rich lipid core, extensive macrophage inf Itrate, and a paucity of SMC; Fig. 5-7). Despite the
+common use of these terms, this distinction vastly oversimplif es the heterogeneity of plaques
+and may overestimate the ability to foresee a plaque’s “clinical future” based on structural
+information. Most plaques with the so-called “vulnerable” morphology do not actually cause
+clinical events; hence, attempts to specif cally identify such plaques may not direct therapy
+in an effective manner. Moreover, a substantial minority of fatal thrombi in coronary arteries
+arise from matrix-rich plaques with intact fbrous caps, a morphology that may arise from
+superf cial erosion of the lesion by mechanisms that are not well understood.
+Thrombogenic Potential
+Rupture of atherosclerotic plaque does not inevitably cause major clinical events such
+as myocardial infarction or stroke. As described in the previous section, small nonocclu-
+sive thrombi may incorporate into the plaque, stimulating further smooth muscle growth
+and extracellular matrix deposition (see Fig. 5-7). The balance between the thrombogenic
+Atherosclerosis 123
+e Normal artery
+«e Early atheroma
+“Stable” plaque “Vulnerable” plaque
+¢ Small lipid pool * Large lipid pool
+* Thick fibrous cap ¢ Thin fibrous cap
+¢ Preserved lumen ¢ Many inflammatory cells
+Ruptured plaque
+with thrombus formation
+Healed rupture
+¢ Narrowed lumen Acute
+¢ Fibrous intima myocardial
+infarction
+HGURE5-7. Stable versus vulnerable plaques. Stable plaque is characterized by a small lipid core and a
+thick f brous cap, whereas vulnerable plaque tends to have a large lipid core and a relatively thin fbrous cap.
+The latter is subject to rupture, resulting in thrombosis. A resulting occlusive clot can cause an acute cardiac
+event, such as myocardial infarction. A lesser thrombus may resorb, but the wound-healing response stimulates
+smooth muscle cell proliferation and collagen production, thereby thickening the fbrous cap and narrowing the
+vessel lumen further. (Mbdif ed from Libby P. Inflammation in atherosclerosis. Nature. 2002;420:868—874.)
+and fbrinolytic potential of the plaque, and the fluid phase of blood, determines whether
+disruption of the fbrous cap leads to a transient, nonobstructive mural thrombus or to a
+completely occlusive clot.
+
+The probability of a major thrombotic event reflects the balance between the competing
+processes of clot formation and dissolution by fbrinolysis. Inflammatory stimuli found in
+the plaque microenvironment (e.g., CD40L) elicit tissue factor, the initiator of the extrin-
+sic coagulation pathway, from many plaque components including SMC, endothelial cells,
+124 (chapter 5
+Favor Occlusive Thrombus Resist Thrombus Accumulation
+Procoagulant Anticoagulants
+*Tissue factor ¢ Thrombomodulin
+¢Heparin-like molecules
+Antifib rinolytic Profib rinolytic
+° PAI-1 tPA
+
+HGURE5-8. @mpeting factors in thrombosis. The clinical manifestations of plaque disruption rely not
+
+only on the stability of the fbrous cap but also on the thrombogenic potential of the plaque core. The balance
+
+of physiologic mediators dictates the prominence of the thrombus, resulting in either luminal occlusion or
+
+resorption into the plaque. PAI-1, plasminogen activator inhibitor-1; tPA, tissue plasminogen activator.
+
+and macrophage-derived foam cells. Beyond enhancing expression of the potent procoagu-
+
+lant tissue factor, inflammatory stimuli further support thrombosis by favoring the expres-
+
+sion of antif brinolytics (e.g., plasminogen activator inhibitor-1) over the expression of
+anticoagulants (e.g., thrombomodulin, heparin-like molecules) and prof brinolytic mediators
+
+(e.g., tissue plasminogen activator; Fig. 5-8). Moreover, as described earlier, the activated
+
+endothelium also promotes thrombin formation, coagulation, and fbrin deposition at the
+
+vascular wall.
+
+A person’s propensity toward coagulation may be enhanced by genetics, comorbid condi-
+tions (e.g., diabetes), and/or lifestyle factors (e.g., smoking, visceral obesity). Consequently,
+the concept of the “vulnerable plaque” has expanded to that of the “vulnerable patient,” to
+acknowledge other contributors to a person’s vascular risk.
+
+Cmplications of Atherosclerosis
+
+Atherosclerotic plaques do not distribute homogeneously throughout the vasculature. They
+
+usually develop frst in the dorsal aspect of the abdominal aorta and proximal coronary arter-
+
+ies, followed by the popliteal arteries, descending thoracic aorta, internal carotid arteries, and
+renal arteries. Therefore, the regions perfused by these vessels most commonly suffer the
+consequences of atherosclerosis.
+
+Complications of atherosclerotic plaques—including calcif cation, rupture, hemorrhage,
+and embolization—can have dire clinical consequences due to acute restriction of blood flow
+or alterations in vessel wall integrity. These complications, which are discussed in greater
+detail in later chapters, include the following:
+
+* Calcif cation of atherosclerotic plaque, which may increase its fragility.
+
+* Rupture or ulceration of atherosclerotic plaque, which exposes procoagulants within the
+plaque to circulating blood, causing a thrombus to form at that site. Such thrombosis can
+occlude the vessel and result in infarction of the involved organ. Alternatively, the thrombus
+can organize, incorporate into the lesion, and add to the bulk of the plaque.
+
+* Hemorrhage into the plaque owing to rupture of the f brous cap or of the microvessels that
+form within the lesion. The resulting intramural hematoma may further narrow the vessel
+lumen.
+
+* Embolization of fragments of disrupted atheroma to distal vascular sites.
+
+° Weakening of the vessel wall: the f brous plaque subjects the neighboring medial layer to
+increased pressure, which may provoke atrophy and loss of elastic tissue with subsequent
+expansion of the artery, forming an aneurysm.
+
+* Microvessel growth within plaques, providing a source for intraplaque hemorrhage and
+further leukocyte traff cking.
+Atherosclerosis 125
+
+The complications of atherosclerotic plaque may result in specif c clinical consequences in
+different organ systems (Fig. 5-9). When lesion growth eventually outstrips the compensatory
+outward enlargement of the plaque, the lesion can narrow the vessel lumen and, in the case
+of the coronary arteries, cause intermittent chest discomfort on exertion (angina pectoris). In
+contrast, plaque that does not compromise the vessel lumen but has characteristics of vulner-
+ability (e.g., a thin f brous cap, a large lipid core, spotty calcif cations) can rupture, leading
+to acute thrombosis and myocardial infarction (see Chapter 7). Such nonstenotic plaques are
+often numerous and dispersed throughout the arterial tree, and because they do not limit
+arterial flow, they do not produce symptoms and often evade detection by exercise testing or
+angiography.
+
+The description presented here of atherogenesis and its complications can explain the limi-
+tations of widely employed treatments. For example, percutaneous intervention (angioplasty
+and stent placement) of symptomatic coronary stenoses effectively relieves angina pectoris,
+but does not necessarily prevent future myocardial infarction or prolong life, with the excep-
+tion of patients in the early phase of an acute ST-elevation myocardial infarction, as described
+in Chapter 7. This disparity likely reflects the multiplicity of nonocclusive plaques at risk of
+precipitating thrombotic events. It follows that lifestyle modif cations and drug therapies that
+curb the risk factors for plaque formation, and lessen features associated with “vulnerability,”
+provide a critical foundation for preventing progression and complications of atherosclerosis.
+St.ke AAA
+
+* Embolic stroke (4)
+¢ Thrombotic stroke @ 3) Coronary artery disease
+¢ Myocardial ischemia @
+. [SS * Unstable angina @ (3)
+% ¢ Myocardial infarction @ 3)
+Renal artery disease .
+¢ Atheroembolic renal disease (4) ils
+* Renal artery stenosis @ /
+jr
+Aneurysms () 4
+Peripheral artery disease
+¢ Limb claudication @
+
+@ Narrowing of vessel by fibrous plaque * Limb ischemia @ @
+
+@ Plaque ulceration or rupture
+
+(3) Intraplaque hemorrhage
+
+(4) Peripheral emboli
+
+(5) Weakening of vessel wall
+HGURE5-9. Cinical sequelae of atherosclerosis. Complications of atherosclerosis arise from the
+mechanisms listed in the f gure.
+126 Chapters
+
+ATHEROSCLEROSIS RISK FACTORS
+In the early 20th century, most viewed atherosclerosis as an inevitable process of aging. But
+in 1948, the landmark Framingham Heart Study began to examine the relationship between
+specif c attributes and cardiovascular disease, establishing the concept of atherosclerotic risk
+factors. Among later studies, the Multiple Risk Factor Intervention Trial (MRFIT) screened
+more than 325,000 men, offering an opportunity to correlate risk factors with subsequent
+cardiovascular disease and mortality. Of the major risk factors, those that are not correctable
+include advanced age, male gender, and heredity—that is, a history of coronary heart disease
+among f rst-degree relatives at a young age (before age 55 for a male relative or before age 65
+for a female relative). Risk factors for atherosclerosis amenable to modif cation include unde-
+sirable concentrations and composition of circulating lipids (dyslipidemia), tobacco smoking,
+hypertension, diabetes mellitus, and lack of physical activity and obesity (Table 5-1).
+
+In addition to these standard predictors, certain biologic markers associated with the devel-
+opment of cardiovascular events have been undergoing rigorous evaluation as “novel” risk
+markers. These include elevated circulating levels of the special lipoprotein particle Lp(a) and
+certain markers of inflammation, including the acute-phase reactant C-reactive protein (CRP).
+Furthermore, recent genome-wide association studies (GWAS) have sought to identify vari-
+ants in genetic loci associated with increased cardiovascular risk.
+
+The following sections address these risk factors and biologic markers.
+
+(enetics
+
+Genetic predisposition, as reflected by family history, comprises a major risk factor for athero-
+sclerosis. While directly causative genes remain elusive, recent GWAS have identif ed a num-
+ber of loci associated with atherosclerotic disease. The strongest connection with CAD and
+myocardial infarction localizes to chromosome 9p21.3. This region contains genes that code
+for two cyclin-dependent kinase inhibitors that can regulate the cell cycle and may participate
+in TGF-8 inhibitory pathways. Other associations with CAD include SORT-1 that encodes a
+molecule implicated in lipoprotein traffcking. Such fndings promise eventually to enhance
+identif cation, prevention, and treatment of atherosclerotic disease.
+
+Genetic studies have also shown that loss of function mutations in the gene that encodes
+the enzyme PCSK9 (proprotein convertase subtilisin/ kexin type 9) augment LDL receptor lev-
+els on cell surfaces, boosting LDL clearance, and yielding lower LDL concentrations in blood.
+Individuals with loss of function variants in PCSK9, thus exposed to lower levels of LDL from
+childhood than those with the typical genotype, appear protected from atherosclerotic events.
+This observation has spurred the ongoing development of biological agents that limit PCSK9
+action.
+
+Mbdif able risk factors
+
+Dyslipidemia (elevated LDL, decreased HDL)
+
+Tobacco smoking
+
+Hypertension
+
+Diabetes mellitus, metabolic syndrome
+
+Lack of physical activity
+
+Nonmodif able risk factors
+
+Advanced age
+
+Male sex
+
+Heredity
+ee
+Atherosclerosis 127
+Traditional Risk Factors
+Dyslipidemia
+A large and consistent body of evidence establishes abnormal circulating lipid levels as a
+major risk factor for atherosclerosis. Observational studies have shown that societies with
+high consumption of saturated fat and prevalent hypercholesterolemia have greater mortal-
+ity from coronary disease than countries with traditionally low saturated fat intake and low
+serum cholesterol levels (e.g., rural Japan and certain Mediterranean nations). Similarly, data
+from the Framingham Heart Study and other cohorts have shown that the risk of ischemic
+heart disease increases with higher total serum cholesterol levels. The coronary risk is approx-
+imately twice as high for a person with a total cholesterol level of 240 mg/dL compared with
+a person whose cholesterol level is 200 mg/dL.
+
+In particular, elevated levels of circulating LDL correlate with an increased incidence of
+atherosclerosis and coronary artery disease. When present in excess, LDL can accumulate in
+the subendothelial space and undergo the chemical modif cations that further damage the
+intima, as described earlier, initiating and perpetuating the development of atherosclerotic
+lesions. Thus, LDL is commonly known as “bad cholesterol.” Conversely, elevated HDL par-
+ticles (often called “good cholesterol’) associate with protection against atherosclerosis, often
+attributed to HDL’s ability to transport cholesterol away from the peripheral tissues back to
+the liver for disposal (termed “reverse cholesterol transport”) and its putative antioxidative
+and anti-inflammatory properties. Elevated serum LDL may persist for many reasons, includ-
+ing a high-fat diet or abnormalities in the LDL receptor clearance mechanism. Patients with
+genetic defects in the LDL receptor, which leads to a condition known as familial hyper-
+cholesterolemia, cannot remove LDL from the circulation eff ciently. Heterozygotes with this
+condition have one normal and one defective gene coding for the receptor. They display high
+plasma LDL levels and develop premature atherosclerosis. Homozygotes who completely lack
+functional LDL receptors may experience vascular events, such as acute myocardial infarc-
+tion, as early as the frst decade of life.
+
+Increasing evidence also implicates triglyceride-rich lipoproteins, such as VLDL and IDL,
+in the development of atherosclerosis. However, it remains undetermined whether these par-
+ticles participate directly in the disease or simply keep company with low levels of HDL
+cholesterol. Of note, poorly controlled type 2 diabetes mellitus commonly associates with the
+combination of hypertriglyceridemia and low HDL levels.
+
+Lipid-Altering Therapy
+Strategies that improve abnormal lipid levels can limit the consequences of atherosclerosis.
+Many large studies of patients with coronary disease show that dietary or pharmacologic
+reduction of serum cholesterol can prevent cardiovascular events.
+
+Lifestyle modif cations that may be benef cial include avoidance of tobacco, maintenance
+of healthy diet and weight, and augmented physical activity. Yet, even intensive lifestyle mod-
+if cation may not be suff cient to prevent cardiovascular events in individuals with long estab-
+lished atherosclerotic risk factors. Hence, many individuals require pharmacologic agents to
+optimize cardiovascular outcomes. The major groups of lipid-altering agents (see Chapter 17)
+include HMG-CoA reductase inhibitors (also known as “statins”), niacin, f bric acid deriva-
+tives, cholesterol intestinal absorption inhibitors, and bile acid-binding agents. Of these, the
+statins have emerged as the key LDL-lowering drugs that reduce cardiovascular events in
+broad categories of patients. These agents inhibit the rate-limiting enzyme responsible for
+cholesterol biosynthesis. The resulting reduction in intracellular cholesterol concentration
+promotes increased LDL receptor expression and thus augments clearance of LDL particles
+from the bloodstream. Statins also lower the rate of VLDL synthesis by the liver (thus lower-
+ing circulating triglyceride levels) and raise HDL by an unknown mechanism.
+128 chapter 5
+
+Major clinical trials evaluating statin therapy have demonstrated reductions in ischemic
+cardiac events, the occurrence of ischemic strokes, and mortality rates in individuals both
+with and without a history of prior atherosclerotic cardiovascular events. Based on previous
+guideline recommendations, many clinicians use specifc serum LDL targets to adjust the
+dose of statin therapy. However, in 2013, the American College of Cardiology and American
+Heart Association issued updated guidelines that advocate a different approach. Based on
+evidence from multiple randomized controlled clinical trials, the new recommendations focus
+therapy on groups of patients most likely to beneft from lipid-lowering therapy (Table 5-2)
+and recommends dosages of statins that were employed in such trials, rather than titrating
+dosages based on serum lipoprotein levels. In particular, such studies have aff rmed that more
+intense doses of statins improve outcomes in acute and chronic coronary heart disease more
+than lower-dose regimens.
+
+The clinical benef ts of statins likely derive from several mechanisms. Lowering LDL can
+limit lipid accumulation in atherosclerotic plaques and forestall the biological consequences
+detailed earlier in this chapter. Other potentially benef cial actions (so-called “pleiotropic
+effects”) include reduced inflammation, a driver of atherosclerosis and its complications.
+These pleiotropic effects likely result from activation of the transcription factor KLF2 and
+interference with prenylation of small G proteins implicated in the regulation of inflammatory
+functions of vascular cells and leukocytes. Clinical trials have provided data that support an
+anti-inflammatory action of statins by showing reductions in plasma levels of CRP, a serum
+marker of inflammation described later. Such analyses cannot separate the LDL-lowering
+effect of statins from their anti-inflammatory mechanisms because of the prominent role of
+LDL in initiating inflammatory cascades. Nonetheless, accumulating clinical and experimen-
+tal data suggest that at least part of the benef t of statins derives from mechanisms other than
+LDL lowering.
+
+Other classes of drugs that lower LDL (e.g., niacin, fbrates, inhibitors of bile acid, or
+cholesterol absorption from the gut) do not share the eff cacy of statins in reducing clinical
+events. These agents are now primarily prescribed to patients who do not tolerate statins or
+when LDL cholesterol reduction is not adequate on statin therapy alone.
+
+Patient Type Recommendation
+Cinical atherosclerotic cardiovascular disease (ASCVD) High-intensity statin®
+already present (1.e., history of CAD, stroke, or peripheral
+vascular disease)
+LDL cholesterol > 190 mg/dL High-intensity statin*
+Diabetics (age 40—75 with LDL 70-189 mg/dL) and
+10-year cardiac risk* > 7.5% High-intensity statin*
+10-year cardiac risk* <7.5% without clinical ASCVD Moderate-intensity statin?
+Nondiabetics (age 40-75 with LDL 70-189 mg/dL) without Moderate-to-high intensity statin®”
+
+clinical ASCVD but with 10-year cardiac risk®° > 7.5%
+OOOO
+“High-intensity statin is intended to lower LDL cholesterol >50% (e.g., atorvastatin 40-80 mg daily or rosuvastatin
+20-40 mg daily); for patients aged >75, or if at risk of statin adverse effect, consider moderate-intensity statin
+instead.
+
+‘Moderate-intensity statin is intended to lower LDL cholesterol 30%-50% (e.g., atorvastatin 10-20 mg daily,
+rosuvastatin 5-10 mg daily, or simvastatin 20-40 mg daily).
+
+‘The 10-year ASCVD risk for fatal or nonfatal myocardial infarction or stroke can be estimated using the online
+calculator at http://my.americanheart.org/ cvriskcalculat or
+
+CAD, coronary artery disease.
+Atherosclerosis 129
+
+While elevated serum HDL appears to protect against atherosclerosis, recent clinical
+trials have failed to show clinical beneft of pharmacologically raising HDL in contempo-
+rary treated patients. For example, the prospective placebo-controlled AIM-HIGH and HPS2-
+THRIVE studies demonstrated that niacin (the most effective available agent to raise serum
+HDL) did not reduce cardiac event rates in patients who had already achieved desirable LDL
+levels on statin therapy. In addition, recent clinical studies of two experimental drugs that
+greatly raise HDL cholesterol (known as cholesteryl ester transfer protein [CETP] inhibitors)
+showed no clinical benef t. Similarly, clinical trials of drug therapies that reduce elevated
+triglyceride levels (i.e., using f brates or omega-3 supplements) have not shown signif cant
+improvement in cardiovascular event rates. Such drugs are now used primarily to reduce
+severely elevated levels of serum triglycerides to prevent the associated complication of
+pancreatitis.
+
+Tobacco Smoking
+
+Numerous studies have shown that tobacco smoking predisposes to atherosclerosis and
+ischemic heart disease. Even low level smoking leads to adverse outcomes, but the heavi-
+est smokers have the greatest risk of cardiovascular events. Tobacco smoking could pro-
+mote atherosclerotic disease in several ways, including enhanced oxidative modif cation
+of LDL, decreased circulating HDL levels, endothelial dysfunction owing to tissue hypoxia
+and increased oxidant stress, increased platelet adhesiveness, increased expression of sol-
+uble LAMs, inappropriate stimulation of the sympathetic nervous system by nicotine, and
+displacement of oxygen by carbon monoxide from hemoglobin. Extrapolation from animal
+experiments suggests that smoking not only accelerates atherogenesis but also increases the
+propensity for thrombosis—both components of the “vulnerable patient.”
+
+Fortunately, smoking cessation can reverse some of the adverse outcomes. People who
+stop smoking greatly reduce their likelihood of coronary heart disease, compared with those
+who continue to smoke. In one study, after 3 years of cessation, the risk of coronary artery
+disease for former smokers became similar to subjects who never smoked.
+
+Hypertension
+Elevated blood pressure (either systolic or diastolic) augments the risk of developing athero-
+sclerosis, coronary heart disease, and stroke (see Chapter 13). The association of elevated blood
+pressure with cardiovascular disease does not appear to have a specif c threshold. Rather, risk
+increases continuously with progressively higher pressure values. Systolic pressure predicts
+adverse outcomes more reliably than does diastolic pressure, particularly in older persons.
+
+Hypertension may accelerate atherosclerosis in several ways. Animal studies have shown
+that elevated blood pressure injures vascular endothelium and may increase the permeability
+of the vessel wall to lipoproteins. Cyclic circumferential strain, increased in hypertensive arter-
+ies, can enhance SMC production of proteoglycans that bind and retain LDL particles, promot-
+ing their accumulation in the intima and facilitating their oxidative modif cation. Angiotensin
+II, a mediator of hypertension (described in Chapter 13), acts not only as a vasoconstrictor
+but also as a stimulator of oxidative stress (through activation of NADPH oxidases, a source
+of superoxide anion, O, ) and as a proinflammatory cytokine. Thus, hypertension may also
+promote atherogenesis by contributing to a prooxidant and inflammatory state.
+
+Antihypertensive Therapy
+Like dyslipidemias, treatment of hypertension should start with lifestyle modif cations but
+often requires pharmacologic intervention. The Dietary Approaches to Stop Hypertension
+(DASH) studies demonstrate that a diet high in fruits and vegetables, with dairy products low
+130 chapter 5
+in fat and an overall reduced sodium content, signif cantly improves systolic and diastolic
+blood pressures. Regular exercise can also reduce resting blood pressure levels. Many medica-
+tions effectively lower blood pressure, as described in Chapters 13 and 17.
+
+Diabetes Mellitus and the “Metabolic Syndrome”
+Diabetes mellitus affects an estimated 170 million people worldwide, a prevalence projected
+to grow 40% worldwide by 2030. In the United States alone, 18.2 million people have dia-
+betes, and projections suggest that one in every three children born in 2000 will eventually
+develop the condition. With a three- to f vefold increased risk of acute coronary events, 80%
+of diabetic patients succumb to atherosclerosis-related conditions, including coronary heart
+disease, stroke, and peripheral artery disease.
+
+The predisposition of diabetic patients to atherosclerosis may relate in part to accompany-
+ing dyslipidemia, to nonenzymatic glycation of lipoproteins (which enhances uptake of cho-
+lesterol by scavenger macrophages, as described earlier), or to the associated prothrombotic
+tendency and antif brinolytic state. Diabetics frequently have impaired endothelial function,
+gauged by the reduced bioavailability of NO, and increased leukocyte adhesion. Tight control
+of serum glucose levels in diabetic patients reduces the risk of microvascular complications,
+such as retinopathy and nephropathy. Yet demonstration of a reduction of macrovascular
+outcomes, such as myocardial infarction and stroke, by glycemic control remains much more
+elusive. Indeed, studies have suggested that intense glucose lowering may even augment the
+incidence of adverse cardiovascular events. In contrast to the uncertain benef ts of intense
+glycemic control for macrovascular events, treatment of hypertension and dyslipidemia in
+diabetic patients convincingly reduces the risk of cardiac and cerebrovascular complications.
+
+The metabolic syndrome (also known as the “insulin resistance syndrome”) refers to a
+cluster of risk factors, including hypertension, hypertriglyceridemia, reduced HDL, hyper-
+glycemia, and visceral obesity (excessive adipose tissue in the abdomen). This constellation
+associates with a high risk for atherosclerosis in both diabetic and nondiabetic patients, and
+using currently accepted criteria, 25% of Americans have this condition. The presence of
+insulin resistance in this syndrome appears to promote atherogenesis long before affected
+persons develop overt diabetes.
+
+Lack of Physical Activity
+Exercise may mitigate atherogenesis in several ways. In addition to its benef cial effects on
+the lipid profle and blood pressure, exercise enhances insulin sensitivity and endothelial
+production of NO. Observational studies of both men and women indicate that even modest
+activities, such as brisk walking, for as little as 30 minutes per day can protect against car-
+diovascular mortality.
+
+Estrogen Status
+Cardiovascular disease dominates other causes of mortality in women, including breast and
+other cancers. Before menopause, women have a lower incidence of coronary events than
+men. After menopause, however, men and women have similar rates. This observation sug-
+gests that estrogen (the levels of which decline after menopause) may have atheroprotec-
+tive properties. Physiologic estrogen levels in premenopausal women raise HDL and lower
+LDL. Experimentally, estrogen also exhibits potentially benef cial antioxidant and antiplatelet
+actions and improves endothelium-dependent vasodilation.
+
+Early observational studies suggested that hormone therapy reduced the risk of coronary
+artery disease in postmenopausal women, prompting many physicians to prescribe such med-
+ications for cardiovascular prevention purposes. However, the Heart and Estrogen/ Progestin
+Atherosclerosis 131
+Replacement Study demonstrated an association between such hormone use and an early
+increased risk of vascular events in women with preexisting coronary disease. Subsequent
+randomized primary prevention studies from the Women’s Health Initiative were terminated
+prematurely because estrogen-plus-progestin treatment increased cardiovascular risk by 24%
+overall, with a striking 81% higher risk during the frst year of therapy. Because currently
+available clinical trial data do not show that gonadal hormone therapy lowers cardiovascular
+events and that it may actually be harmful, such therapy should not be commenced for the
+sole goal of reducing cardiovascular risk.
+
+Biomarkers of Cardiovascular Risk
+Despite identif cation of the well-established risk factors just described, one out of f ve car-
+diovascular events occurs in patients lacking these attributes. In conjunction with growing
+knowledge about the pathogenesis of atherosclerosis, several novel markers of risk have
+emerged. These biomarkers serve three primary roles: (1) as a means to help stratify the risk
+of atherosclerotic disease and thus guide the choice of therapies, (2) as clinical measures to
+assess treatment effects, and (3) as potential targets of new therapeutic regimens.
+Lipoprotein (a)
+
+Lipoprotein (a), referred to as Lp(a) and pronounced “L-P-little-a,” independently predicts
+cardiovascular events in some studies. Lp(a) is a variant of LDL whose major apolipopro-
+tein (apo B-100) links by a disulfde bridge to another protein, apo(a). Apo(a) structurally
+resembles plasminogen, a plasma protein important in the endogenous lysis of fbrin clots
+(see Chapter 7). Thus, the detrimental effect attributed to Lp(a) may relate to competition
+with normal plasminogen activity. Lp(a) is able to enter the arterial intima, and in vitro stud-
+ies have shown that it encourages inflammation and thrombosis.
+
+Lp(a) levels in the population are skewed and not normally distributed, showing a trail-
+ing prevalence of the higher levels. Not all population studies support a link between Lp(a)
+and cardiovascular events, though people with the highest Lp(a) levels do appear to have
+increased risk. Recent GWAS and Mendelian randomization analyses also support a causal
+link between Lp(a) and cardiovascular events.
+
+Diet and exercise have little impact on Lp(a) levels. Of current lipid-lowering agents, niacin
+has the greatest effect on Lp(a), lowering its concentration by as much as 20%. However, thus far,
+there is no evidence that reduction of Lp(a) by drug therapy improves cardiovascular outcomes.
+
+GReactive Protein (CRP) and Other Markers of Inf ammation
+Because the pathogenesis of atherosclerosis involves inflammation at every stage, markers of
+inflammation have undergone evaluation as predictors of cardiac risk. Recall that the process
+of lipoprotein entry and modif cation in the vessel wall triggers the release of cytokines, fol-
+lowed by leukocyte inf Itration, more cytokine release, and smooth muscle migration into—
+and proliferation within—the intima. Involved cytokines (e.g., IL-6) incite increased hepatic
+production of acute-phase reactants, including CRP, f brinogen, and serum amyloid A.
+
+Of these molecules, CRP has shown the greatest promise as a marker of low-grade systemic
+inflammation associated with atherosclerotic disease. Large studies of apparently healthy
+men and women indicate that those with higher basal CRP levels have increased risk of
+adverse cardiovascular outcomes, independent of serum cholesterol concentrations and other
+traditional risk markers. Multiple prospective studies affrm that CRP measured by a highly
+sensitive assay (hsCRP) independently predicts myocardial infarction, stroke, peripheral
+artery disease, and sudden cardiac death. Although it serves as a marker of risk not captured
+by traditional algorithms, CRP itself does not mediate atherogenesis.
+132 chapter 5
+
+Recent data support the use of CRP levels to potentially guide therapy. For example, the
+prospective JUPITER trial studied 17,800 healthy individuals with above-median levels of
+CRP who did not have elevated LDL and demonstrated a reduced incidence of major car-
+diovascular events in patients who were treated with statin therapy, compared to those who
+received a placebo.
+
+Given the critical role of inflammation in atherogenesis, ongoing clinical trials are testing
+available and novel anti-inflammatory medications for the prevention of recurrent cardiovas-
+cular events among patients with coronary disease.
+
+Outlook
+Despite accumulating knowledge of the pathogenesis of atherosclerosis and its clinical sequelae,
+this disease remains a major cause of death throughout the world. Although improvements in
+cardiovascular care have reduced age-adjusted mortality from this condition, it will continue
+to grow as a menace as the population ages and as developing countries embrace the adverse
+dietary and activity habits of a Western lifestyle. Ongoing research of the biology of athero-
+sclerosis, as well as advances in therapeutic procedures and medications, will undoubtedly
+continue to further our abilities to combat this condition. Yet we have not fully capitalized on
+what we already know—that much cardiovascular risk is modif able. Effective control of the
+risk factors described earlier remains a critical component to tame this global scourge. It is here
+that the relationship between the patient and health care provider, and the role of medical pro-
+fessionals as community leaders advocating healthy lifestyles, remain of cardinal importance.
+SUMMARY
+e Atherosclerosis is the leading cause of mortality and morbidity in developed nations and
+has become a major cause of death in the developing world.
+e The arterial wall consists of the intima (closest to the arterial lumen), the media (the middle
+layer), and the adventitia (the outer layer).
+° The normal endothelium provides a protective, nonthrombogenic surface with homeostatic
+vasodilatory and anti-inflammatory properties.
+° Early in atherogenesis, injurious stimuli activate endothelial and smooth muscle cells, which
+recruit inflammatory cells to the vessel wall.
+e Atherosclerotic plaques form over decades and can display features associated with clinical
+stability, or a propensity to provoke thrombotic events (“vulnerable” plaques).
+° Clinical atherosclerotic events result from narrowing of the vessel lumen, aneurysm forma-
+tion, or plaque disruption with superimposed thrombus formation.
+* Common manifestations of atherosclerosis include angina pectoris, myocardial infarction,
+stroke, and peripheral artery disease.
+° Modif able risk factors for atherosclerosis include dyslipidemia, smoking, hypertension, and
+diabetes.
+° Nonmodif able risk factors include advanced age, male sex, and a family history of prema-
+ture coronary disease.
+° Novel biomarkers, such as high-sensitivity C-reactive protein (hsCRP), may prove useful in
+def ning risk.
+Acknowledgments
+Contributors to the previous editions of this chapter were Jordan B. Strom, MD; James L.
+Young, MD; Mary Beth Gordon, MD; Rushika Fernandopulle, MD; Gopa Bhattacharyya, MD;
+and Joseph Loscalzo, MD, PhD.
+Atherosclerosis 133
+
+Additional Reading
+
+Cholesterol Treatment Trialists’ (CTT) Collaborators. Moore KJ, Tabas I. Macrophages in the pathogenesis of
+Eff cacy and safety of LDL-lowering therapy among atherosclerosis. Cell. 2011;145:341-355.
+men and women: meta-analysis of individual data from Schunkert H, et al. Large-scale association analysis identif es
+174 000 participants in 27 randomised trials. Lancet. 13 new susceptibility loci for coronary artery disease.
+2015;385:1397-1405. Nat Genet. 2011;43:333-338.
+
+Cook NR, Paynter NP, Eaton CB, et al. Comparison of the Stein EA, Mellis S, Yancopoulos GD, et al. Effect of a monoclo-
+Framingham and Reynolds risk scores for global cardio- nal antibody to PCSK9 on LDL cholesterol. N Engl J Med.
+vascular risk prediction in the multiethnic women’s health 20123366: 1108-1118.
+initiative. Circulation. 2012;125:1748-1756. Steinberg D. In celebration of the 100th anniversary of
+
+Gimbrone MA, Jr., Garcia-Cardena G. Vascular endothelium, the lipid hypothesis of atherosclerosis. J Lipid Res.
+hemodynamics, and the pathobiology of atherosclerosis. 2013;54:2946-2949.
+
+Cardiovasc Pathol. 2013;22:9-15. Stone NJ, Robinson J, Lichtenstein AH, et al. 2013 ACC/ AHA
+
+Bornfeldt KE, Tabas I. Insulin resistance, hyperglycemia, and guideline on the treatment of blood cholesterol to reduce
+atherosclerosis. Cell Metab. 2011;14:575—-585. atherosclerotic cardiovascular risk in adults. Circulation.
+
+Libby P. Inflammation in atherosclerosis. Arterioscler Thromb 2013;129:S1—-S45. DOI: 10. 1161/01 .cir.0000437738.
+
+Vasc Biol. 2012;32:2045-2051. 63853.7a.
+
+Libby P. Mechanisms of acute coronary syndromes. N Engl J Tsimikas S, Hall JL. Lipoprotein(a) as a potential causal
+Med. 2013;369:883-884. genetic risk factor of cardiovascular disease: A rationale
+
+Libby P, Ridker PM, Hansson GK. Progress and challenges for increased efforts to understand its pathophysiol-
+in translating the biology of atherosclerosis. Nature. ogy and develop targeted therapies. J Am Coll Cardiol.
+2011;473:317-325. 2012;60:716—721.
+Ischemic Heart Disease
+Jayme Wilder
+Marc S. Sabatine
+Leonard S. Lilly
+Chapter Outline [: 1772, the British physician William Heberden reported a
+————————————— disorder in which patients developed an uncomfortable sen-
+» Owen Si “ a sation in the chest when walking. Labeling it angina pectoris,
+corey dial ‘Ogeen supply Heberden noted that this discomfort would disappear soon after
+Myocardial Oxygen Demand the patient stood still but would recur with similar activities.
+Pathophysiology of Ischemia Although he did not know the cause, it is likely that he was
+Fixed Vessel Narrowing the first to describe the symptoms of ischemic heart disease,
+Fndothelial Cell Dysfunction a condition of imbalance between myocardial oxygen supply
+oer — of Myocardial and demand most often caused by atherosclerosis of the coro-
+Consequences of Ischemia nary arteries. Ischemic heart disease now afficts millions of
+Ischemic Syndromes Americans and is the leading cause of death in industrialized
+Ginical Features of Chronic nations.
+Stable Angina The clinical presentation of ischemic heart disease
+History _ can be highly variable and forms a spectrum of syndromes
+ce aination (Table 6-1). For example, ischemia may be accompanied by
+es the same exertional symptoms described by Heberden. In
+Treatment other cases, it may occur without any clinical manifesta-
+Medical Treatment of an Acute tions at all, a condition termed silent ischemia. This chapter
+Episode of Angina describes the causes and consequences of chronic ischemic
+Medical Treatment Lo Prevent heart disease syndromes and provides a framework for the
+ee diagnosis and treatment of affected patients.
+Acute Cardiac Events Angina pectoris remains the most common manifestation
+—_— of ischemic heart disease and literally means “strangling in
+the chest.” Although other conditions may lead to similar
+discomfort, angina refers specifically to the uncomfortable
+sensation in the chest and neighboring structures that arises
+from an imbalance between myocardial oxygen supply and
+demand.

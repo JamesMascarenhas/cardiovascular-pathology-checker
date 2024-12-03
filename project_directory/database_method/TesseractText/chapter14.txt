@@ -1,0 +1,886 @@
+.
++ i ‘w
+e
+Diseases of the /
+° ° +.
+Pericardium |.
+D) ome
+Leonard S. Lilly
+. —-
+Chapter Outline D iseases of the pericardium form a spectrum that ranges
+/ from benign, self-limited pericarditis to life-threatening
+oes “eee cardiac tamponade. The clinical manifestations of these dis-
+ute Pericarditis ; ;
+Biology orders and approaches to their management can be predicted
+Pathology from an understanding of pericardial anatomy and pathophys-
+Cinical Features iology, as presented in this chapter.
+Diagnostic Studies
+Treatment
+Pericardial Effusion ANATOMY AND FUNCITON
+—— ‘ol The pericardium is a two-layered sac that encircles the
+on oy _ sy heart. The inner serosal layer (visceral pericardium) adheres
+Dione Sua to the outer wall of the heart and is reflected back on itself,
+a a at the level of the great vessels, to line the tough f brous
+a outer layer (parietal pericardium). A thin flm of pericar-
+Path. . ‘ol friction between them.
+7 a vo ob The pericardium appears to serve three functions: (1) it
+— — f xes the heart within the mediastinum and limits its motion,
+fee ges (2) it prevents extreme dilatation of the heart during sud-
+@ hectae Pe ‘carditi den rises of intracardiac volume, and (3) it may function
+a 4 Path _ . as a barrier to limit the spread of infection from the adja-
+marhole AM eA sone cent lungs. However, patients with complete absence of the
+i OBy pericardium (either congenitally or after surgical removal)
+Pathophysiology
+Cini 7 are generally asymptomatic, casting doubt on its actual
+—— importance in normal physiology. Yet like the unnecessary
+appendix, the pericardium can become diseased and cause
+great harm.
+334
+Diseases of the Pericardium 335
+
+The most common affliction of the pericardium is acute pericarditis, which refers to inflam-
+mation of its layers. Many disease states and etiologic agents can produce this syndrome
+(Table 14-1), the most frequent of which are described here.
+
+Fiology
+
+Infectious
+
+Idiopathic and Viral Pericarditis
+Acute pericarditis is most often of idiopathic origin, meaning that the actual cause is unknown.
+However, serologic studies have demonstrated that many such episodes are actually caused
+by viral infection, especially by echovirus or coxsackievirus group B. Although a viral origin
+could be confrmed in infected patients by comparing antiviral titers of acute and convales-
+cent serum, this is rarely done in the clinical setting because the patient has usually recovered
+by the time those results would be available. Thus, idiopathic and viral pericarditis are con-
+sidered similar clinical entities, and the terms are used interchangeably.
+
+Other viruses known to cause pericarditis include those responsible for influenza, vari-
+cella, mumps, hepatitis B, and infectious mononucleosis. Pericarditis is the most common
+manifestation of cardiovascular disease in patients with AIDS, arising from HIV infection
+itself or from superimposed tuberculous or other bacterial infections in this immunocompro-
+mised population.
+
+Tuberculous Pericarditis
+Although tuberculosis remains a worldwide problem, its incidence in the United States is low.
+It is, however, an important cause of pericarditis in immunosuppressed patients. Tuberculous
+pericarditis arises from reactivation of the organism in mediastinal lymph nodes, with spread
+into the pericardium. It can also extend directly from a site of tuberculosis within the lungs,
+or the organism can arrive at the pericardium by hematogenous dissemination.
+Nontuberculous Bacterial Pericarditis (Purulent Pericarditis)
+Bacterial pericarditis is a fulminant illness but is rare in otherwise healthy persons; it is
+most likely to occur in immunocompromised patients, including those with severe burns
+and malignancies. Pneumococci and staphylococci are responsible most frequently, whereas
+TABLE 14-1
+Infectious
+
+Viral
+
+Tuberculosis
+
+Pyogenic bacteria
+
+Noninfectious
+
+Postmyocardial infarction or after cardiac surgery
+
+Uremia
+
+Neoplastic disease
+
+Radiation induced
+
+Cnnective tissue diseases
+
+Drug induced
+I
+336 Chapter 14
+gram-negative infection occurs less often. Mechanisms by which bacterial invasion of
+the pericardium develops include (1) perforating trauma to the chest (e.g., stab wound);
+(2) contamination during chest surgery; (3) extension of an intracardiac infection (i.e.,
+infective endocarditis); (4) extension of pneumonia or a subdiaphragmatic infection; and
+(5) hematogenous spread from a remote infection.
+
+Noninfectious
+
+Pericarditis following Myocardial Infarction
+There are two forms of pericarditis associated with acute myocardial infarction (MI). The
+early type occurs within the frst few days after an MI. It likely results from inflammation
+extending from the epicardial surface of the injured myocardium to the adjacent pericardium;
+therefore, it is more common in patients with transmural (as opposed to subendocardial)
+infarctions. The prognosis following acute MI is not affected by the presence of pericarditis;
+its major importance is in distinguishing it from the pain of recurrent myocardial ischemia.
+This form of pericarditis occurs in fewer than 5% of patients with acute MI who are treated
+with acute reperfusion strategies (see Chapter 7), but it is more common in those who are not
+(and who, therefore, sustain larger infarctions).
+
+The second form of post-MI pericarditis is known as Dressler syndrome, which can develop
+
+2 weeks to several months following an acute infarction. Its cause is unknown, but it is
+thought to be of autoimmune origin, possibly directed against antigens released from necrotic
+myocardial cells. Dressler syndrome has become very rare since the advent of reperfusion
+therapies for acute MI. A clinically similar form of pericarditis may occur weeks to months
+following heart surgery, termed postpericardiotomy pericarditis.
+
+Uremic Pericarditis
+Pericarditis is a potentially serious complication of untreated chronic renal failure. While its
+pathogenesis in this setting is unknown, it has become uncommon with the widespread avail-
+ability of dialysis. Pericarditis may also appear for the frst time in patients already treated
+with chronic dialysis therapy, and often responds to intensif cation of dialysis.
+
+Neoplastic Pericarditis
+Tumor involvement of the pericardium most commonly results from metastatic spread or
+local invasion by cancer of the lung, breast, or lymphoma. Primary tumors of the pericardium
+are rare. Neoplastic effusions are usually large and hemorrhagic and frequently lead to cardiac
+tamponade, a life-threatening complication described later in the chapter.
+
+Radiation-Induced Pericarditis
+Pericarditis may complicate radiation therapy to the thorax (e.g., administered for the treat-
+ment of certain tumors), especially if the cumulative dose has exceeded 4,000 cGy. Radiation-
+induced damage causes a local inflammatory response that can result in pericardial effusions
+and ultimately fbrosis. Cytologic examination of the pericardial fluid helps to distinguish
+radiation-induced pericardial damage from that of tumor invasion.
+
+Pericarditis Associated with Connective Tissue Diseases
+Pericardial involvement is common in many connective tissue diseases, including systemic
+lupus erythematosus (SLE), rheumatoid arthritis, and progressive systemic sclerosis. For
+example, 20% to 40% of patients with SLE experience clinically detectable pericarditis during
+Diseases of the Pericardium 337
+the course of the disease. Customary treatment of the underlying connective tissue disease
+usually ameliorates the pericarditis as well.
+
+Drug-Induced Pericarditis
+Several pharmaceutical agents can cause pericarditis as a side effect, often by inducing a
+systemic lupus-like syndrome (Table 14-2). These drugs include the antiarrhythmic procain-
+amide and the vasodilator hydralazine. Drug-induced pericarditis usually abates when the
+causative agent is discontinued.
+
+Pathogenesis
+Similar to other inflammatory processes, pericarditis is characterized by three stages: (1) local
+vasodilation with transudation of protein-poor, cell-free fluid into the pericardial space;
+(2) increased vascular permeability, with leak of protein into the pericardial space; and
+(3) leukocyte exudation, initially by neutrophils, followed later by mononuclear cells.
+
+The leukocytes are of critical importance because they help contain or eliminate the offend-
+ing infectious or autoimmune agent. However, metabolic products released by these cells may
+prolong inflammation, cause pain and local cellular damage, and mediate somatic symptoms
+such as fever. Therefore, the immune response to pericardial injury may signif cantly contrib-
+ute to tissue damage and symptomatology.
+
+Pathology
+The pathologic appearance of the pericardium depends on the underlying cause and severity
+of inflammation. Serous pericarditis is characterized by scant polymorphonuclear leuko-
+cytes, lymphocytes, and histiocytes. The exudate is a thin fluid secreted by the mesothelial
+cells lining the serosal surface of the pericardium. This likely represents the early inflamma-
+tory response common to all types of acute pericarditis.
+
+Serof brinous pericarditis is the most commonly observed morphologic pattern in
+patients with pericarditis. The pericardial exudate contains plasma proteins, including f brin-
+ogen, yielding a grossly rough and shaggy appearance (termed “bread and butter” pericar-
+ditis). Portions of the visceral and parietal pericardium may become thickened and fused.
+Occasionally, this process leads to a dense scar that restricts movement and diastolic f lling of
+the cardiac chambers, as described later in the chapter.
+
+Suppurative (or purulent) pericarditis is an intense inflammatory response associated
+most commonly with bacterial infection. The serosal surfaces are erythematous and coated
+with purulent exudate. Hemorrhagic pericarditis refers to a grossly bloody form of pericar-
+dial inflammation and is most often caused by tuberculosis or malignancy.
+
+Related to drug-induced SLE-like syndrome
+Procainamide
+Hydralazine
+Methyldopa
+Isoniazid
+Phenytoin
+Not related to drug-induced SLE-like syndrome
+
+Anthracycline antineoplastic agents (doxorubicin, daunorubicin)
+
+Mnoxidil
+ee
+SLE, systemic lupus erythematosus.
+338 chapter 14
+Pleuritic chest pain
+Fever
+Pericardial friction rub
+EG abnormalities
+a
+HG electrocardiogram.
+Cinical Features
+History
+The most frequent symptoms of acute pericarditis are chest pain and fever (Table 14-3). The
+pain may be severe and usually localizes to the retrosternal area and left precordium; it may
+also radiate to the back and to the ridge of the left trapezius muscle. What differentiates it
+from myocardial ischemia or infarction is that the pain of pericarditis is typically sharp, pleu-
+ritic (it is aggravated by inspiration and coughing), and positional (e.g., sitting and leaning
+forward often lessen the discomfort). Dyspnea is common during acute pericarditis but is not
+exertional and probably results from a reluctance of the patient to breathe deeply because of
+pleuritic pain.
+
+Patients with idiopathic or viral pericarditis are typically young and previously healthy.
+Pericarditis of other causes should be suspected in patients with the underlying conditions
+listed in Table 14-1 who develop the typical sharp, pleuritic chest pains and fever.
+
+Physical Examination
+A scratchy pericardial friction rub is common in acute pericarditis and is believed to be pro-
+duced by the movement of the inflamed pericardial layers against one another. Auscultation
+of the rub is best heard using the diaphragm of the stethoscope with the patient leaning for-
+ward while exhaling (which brings the pericardium closer to the chest wall and stethoscope).
+In its full form, the rub consists of three components, corresponding to the phases of great-
+est cardiac movement: ventricular contraction, ventricular relaxation, and atrial contraction.
+Characteristically, the pericardial rub is evanescent, coming and going from one examination
+to the next.
+
+Diagnostic Studies
+The presence of pleuritic, positional chest pain and the characteristic pericardial friction rub
+implicate the presence of acute pericarditis. However, certain laboratory studies are helpful to
+conf rm the diagnosis and to assess for impending complications.
+
+The electrocardiogram (ECG) is abnormal in 90% of patients with acute pericarditis and
+helps to distinguish it from other forms of cardiac disease, such as an acute coronary syn-
+drome. The most important ECG pattern, which reflects inflammation of the adjacent myo-
+cardium, consists of diffuse ST-segment elevation in most of the ECG leads, usually with the
+exception of aVR and V1 (Fig. 14-1). In addition, PR-segment depression in several leads is
+often evident, reflecting abnormal atrial repolarization related to atrial epicardial inflamma-
+tion. These abnormalities are in contrast to the ECG of acute ST-segment elevation MI, in
+which the ST segments are elevated only in the leads overlying the region of infarction, and
+PR depression is not expected.
+
+Blood studies typically reveal signs of acute inflammation, including an increased white
+blood cell count (usually a mild lymphocytosis in acute viral/idiopathic pericarditis) and
+Diseases of the Pericardium 339
+Peritittetitsiritrrrtsit ty y | y t etstitirtitiiitittitiitititit settee Prtitittirisrriitistittti tie titssel
+Te enn nian
+fe
+ie faa aie | ee AEN yet | ee
+
+bad [EEE SHE aTEHTEE| PEHUEY (ESE EEE
+
+HGURE 14-1. Hectrocardiogram in acute pericarditis. Diffuse SI-segment elevation is present. Also notice
+depression of the PRsegment (arrow).
+elevation of serum inflammatory markers (e.g., erythrocyte sedimentation rate and C-reactive
+protein). Some patients with acute pericarditis also demonstrate elevated serum cardiac bio-
+markers (e.g., cardiac troponins), suggesting inflammation of the neighboring myocardium.
+
+Further testing in acute pericarditis often includes echocardiography to evaluate for the pres-
+ence and hemodynamic signif cance of a pericardial effusion. Additional studies that may be
+useful in individual cases to def ne the cause of pericarditis include (1) purif ed protein deriva-
+tive skin test for tuberculosis, (2) serologic tests (antinuclear antibodies and rheumatoid fac-
+tor) to screen for connective tissue diseases, and (3) a careful search for malignancy, especially
+of the lung and breast (physical examination supplemented by chest radiography and mam-
+mography). The yield of diagnostic pericardiocentesis (removal of pericardial fluid through a
+needle) in uncomplicated acute pericarditis is low and should be reserved for patients with
+very large effusions or evidence of cardiac chamber compression, as described below.
+
+Treatment
+
+Idiopathic or viral pericarditis is a self-limited disease that usually runs its course in | to
+3 weeks. Management consists of rest, to reduce the interaction of the inflamed pericardial
+layers, and pain relief by analgesic and anti-inflammatory drugs (aspirin, ibuprofen, and other
+nonsteroidal anti-inflammatory agents). Colchicine, a drug with anti-inflammatory properties
+usually used to treat gout, may be useful as an additional agent in acute pericarditis. It has
+been shown to decrease the recurrence rate after an initial episode. Oral corticosteroids are
+effective for severe or recurrent pericardial pain but should not be used in uncomplicated
+cases because of potentially signif cant side effects and because steroid use is associated with
+an increased rate of recurrent episodes of pericarditis.
+
+The forms of pericarditis related to MI are treated in a similar fashion, with rest and aspi-
+rin. Other nonsteroidal anti-inflammatory agents are often avoided immediately following an
+MI because of experimental evidence linking them to delayed healing of the infarct.
+
+Purulent pericarditis requires more aggressive treatment, including catheter drainage of
+the pericardium and intensive antibiotic therapy. Nevertheless, even with such therapy, the
+mortality rate is very high. Tuberculous pericarditis requires prolonged multidrug antituber-
+culous therapy. Pericarditis in the setting of uremia often resolves following intensive dialysis.
+Neoplastic pericardial disease usually indicates widely metastatic cancer, and therapy is
+unfortunately only palliative.
+340 (chapter 14
+
+PERICARDIAL EFFUSION
+
+Etiology
+The normal pericardial space contains 15 to 50 mL of pericardial fluid, a plasma ultraf Itrate
+secreted by the mesothelial cells that line the serosal layer. A larger volume of fluid may accu-
+mulate in association with any of the forms of acute pericarditis previously described.
+
+In addition, noninflammatory serous effusions may result from conditions of (1) increased
+capillary permeability (e.g., severe hypothyroidism), (2) increased capillary hydrostatic pres-
+sure (e.g., congestive heart failure), or (3) decreased plasma oncotic pressure (e.g., cirrhosis or
+the nephrotic syndrome). Chylous effusions may occur in the presence of lymphatic obstruc-
+tion of pericardial drainage, most commonly caused by neoplasms and tuberculosis.
+
+Pathophysiology
+
+Because the pericardium is a relatively stiff structure, the relationship between its internal
+volume and pressure is not linear, as shown in curve A in Figure 14-2. Notice that the initial
+portion of the curve is nearly flat, indicating that at the low volumes normally present within
+the pericardium, a small increase in volume leads to only a small rise in pressure. However,
+when the intrapericardial volume expands beyond a critical level (see Fig. 14-2, arrow), a
+dramatic increase in pressure is incited by the nondistensible sac. At that point, even a minor
+increase in volume can translate into an enormous compressive force on the heart.
+
+Three factors determine whether a pericardial effusion remains clinically silent or whether
+symptoms of cardiac compression ensue: (1) the volume of fluid, (2) the rate at which the
+fluid accumulates, and (3) the compliance characteristics of the pericardium.
+
+A sudden increase of pericardial volume, as may occur in chest trauma with intraperi-
+cardial hemorrhage, results in marked elevation of pericardial pressure (see Fig. 14-2, steep
+portion of curve A) and the potential for severe cardiac chamber compression. Even lesser
+amounts of fluid may cause signif cant elevation of pressure if the pericardium is pathologically
+
+20
+
+A B
+10
+0
+100 200 300 400 500 600
+Total pericardial volume (mL)
+
+HGURE14-2. Schematic representation of the volume—pressure relationship of normal pericardium.
+A. At the very lowest levels, a small rise in volume results in a small rise in pressure. However, when the
+limits of pericardial stretch are reached (arrow), the curve becomes very steep, and a further small rise in
+intrapericardial volume results in signif cantly increased pressure. B Chronic slow accumulation of volume
+allows the pericardium to gradually stretch over time; thus, the curve shifts to the right and much larger
+volumes are accommodated at lower pressures. (Mbdif ed from Freeman GL, le Winter MM Pericardial
+adaptations during chronic dilation in dogs. Gre Res. 1984;54:294.)
+Diseases of the Pericardium 341
+
+TABLE 14-4
+
+Soft heart sounds
+
+Reduced intensity of friction rub
+
+Ewart sign (dullness over posterior left lung)
+st
+noncompliant and stiff, as may occur in the presence of tumor or fbrosis of the sac. In
+contrast, if the pericardial effusion accumulates slowly, over weeks to months, the pericar-
+dium gradually stretches, such that the volume-pressure relationship curve shifts toward the
+right (see Fig. 14-2, curve B). With this adaptation, the pericardium can accommodate larger
+volumes without marked elevation of intrapericardial pressure.
+
+Cinical Features
+
+A spectrum of possible symptoms is associated with pericardial effusions. For example, the
+patient with a large effusion may be asymptomatic, may complain of a dull constant ache in
+the left side of the chest, or may present with fndings of cardiac tamponade, as described
+later in the chapter. In addition, the effusion may cause symptoms resulting from compres-
+sion of adjacent structures, such as dysphagia (diff culty swallowing because of esophageal
+compression), dyspnea (shortness of breath resulting from lung compression), hoarseness
+(due to recurrent laryngeal nerve compression), or hiccups (resulting from phrenic nerve
+stimulation).
+
+On examination (Table 14-4), a large pericardial fluid “insulates” the heart from the chest
+wall, and the heart sounds may be muffled. In fact, a friction rub that had been present dur-
+ing the acute phase of pericarditis may disappear if a large effusion develops and separates
+the inflamed layers from one another. Dullness to percussion of the left lung over the angle
+of the scapula may be present (known as the Ewart sign) owing to compressive atelectasis by
+the enlarged pericardial sac.
+
+Diagnostic Studies
+
+The chest radiograph may be normal if only a small pericardial effusion is present.
+However, if more than approximately 250 mL has accumulated, the cardiac silhouette
+enlarges in a globular, symmetric fashion. In large effusions, the ECG may demonstrate
+reduced voltage of the complexes. In the presence of very large effusions, the height of
+the QRS complex may vary from beat to beat (electrical alternans), a result of a constantly
+changing electrical axis as the heart swings from side to side within the large pericardial
+volume (Fig. 14-3).
+
+igs Hg ESSSa FSGH) RESRG Sama NERY PEERS FEESH ESET ESSE GFESS EBT HH SESH
+Eelam ut ne ene ert eaten err cn
+HGURE 14-3. Hectrical alternans. Rhythm strip of lead VI showing alternating height of the QRS complex
+from beat to beat, due to shifting of the cardiac axis as the heart swings within a large pericardial effusion.
+342 chapter 14
+One of the most useful laboratory tests
+in the evaluation of an effusion is echocar- "
+diography (Fig. 14-4), which can identify 5 .
+pericardial collections as small as 20 mL. 2
+This noninvasive technique can quantify : =
+the volume of pericardial fluid, determine
+whether ventricular f lling is compromised, * “rv 4
+and when necessary, help direct the place- PE Pa
+ment of a pericardiocentesis needle. :
+Treatment =
+If the cause of the effusion is known, |
+therapy is directed toward the underlying '
+disorder (e.g., intensive dialysis for ure-
+. . . . HGURE 14-4. Two-dimensional echocardiogram
+mic effusion). If the cause is not evident, . 4
+_ ; . (parastemal short-axis view) of a pericardial
+the clinical state of the patient determines effusion (PE) surrounding the heart. LV left
+whether pericardiocentesis (removal of ventricle.
+pericardial fluid) should be undertaken.
+An asymptomatic effusion, even of large volume, can be observed for long periods without
+specif c intervention. However, if serial examination demonstrates a precipitous rise in peri-
+cardial volume or if hemodynamic compression of the cardiac chambers becomes evident,
+then pericardiocentesis should be performed for therapeutic drainage and for analysis of
+the fluid.
+CARDIAC TAMPONADE
+At the opposite end of the spectrum from the asymptomatic pericardial effusion is cardiac
+tamponade. In this condition, pericardial fluid accumulates under high pressure, compresses
+the cardiac chambers, and severely limits flling of the heart. As a result, ventricular stroke
+volume and cardiac output decline, potentially leading to hypotensive shock and death.
+Etiology
+Any etiology of acute pericarditis (see Table 14-1) can progress to cardiac tamponade, but
+the most common causes are neoplastic, postviral, and uremic pericarditis. Acute hemor-
+rhage into the pericardium is also an important cause of tamponade, which can result
+(1) from blunt or penetrating chest trauma, (2) from rupture of the left ventricular (LV) free
+wall following MI (see Chapter 7), or (3) as a complication of a dissecting aortic aneurysm
+(see Chapter 15).
+Pathophysiology
+As a result of the surrounding tense pericardial fluid, the heart is compressed, and the dia-
+stolic pressure within each chamber becomes elevated and equal to the pericardial pressure.
+The pathophysiologic consequences of this are illustrated in Figure 14-5. Because the com-
+promised cardiac chambers cannot accommodate normal venous return, the systemic and
+pulmonary venous pressures rise. The increase of systemic venous pressure results in signs
+of right-sided heart failure (e.g., jugular venous distention), whereas elevated pulmonary
+venous pressure leads to pulmonary congestion. In addition, reduced f lling of the ventricles
+during diastole decreases the systolic stroke volume, and the cardiac output declines.
+Diseases of the Pericardium 343
+Pericardial fluid under Scarred, rigid
+pressure pericardium
+HGURE 14-5. Pathophysiology of cardiac tamponade and constrictive pericarditis. The symptoms and
+signs (orange boxes) arise from impaired diastolic fling of the ventricles in both conditions.
+
+These derangements trigger compensatory mechanisms aimed at maintaining tissue perfu-
+sion, initially through activation of the sympathetic nervous system (e.g., increased heart rate
+and contractility). Nonetheless, failure to evacuate the effusion leads to inadequate perfusion
+of vital organs, shock, and ultimately death.
+
+Cinical Features
+
+Cardiac tamponade should be suspected in any patient with known pericarditis, pericardial
+effusion, or chest trauma who develops signs and symptoms of systemic vascular congestion
+and decreased cardiac output (Table 14-5). The key physical fndings include (1) jugular
+venous distention, (2) systemic hypotension, and (3) a “small, quiet heart” on physical exam-
+ination, a result of the insulating effects of the effusion. Other signs include sinus tachycardia
+and pulsus paradoxus (described later). Dyspnea and tachypnea reflect pulmonary conges-
+tion and decreased oxygen delivery to peripheral tissues.
+
+If tamponade develops suddenly, symptoms of profound hypotension are evident, includ-
+ing confusion and agitation. However, if the effusion develops more slowly, over a period of
+weeks, then fatigue (caused by low cardiac output) and peripheral edema (owing to right-
+sided heart failure) may be the presenting complaints.
+
+TABLE 14-5
+
+Jugular venous distention
+
+Hypotension with pulsus paradoxus
+
+Quiet precordium on palpation
+
+Sinus tachycardia
+ee
+344 (Chapter 14
+ee
+
+BOX 14-1 Measurement of Pulsus Paradoxus at the Bedside
+
+Pulsus paradoxus is an exaggeration of the normal decline in systolic blood pressure that occurs
+
+with inspiration. It can be measured at the bedside using a manual sphygmomanometer. Hrst,
+
+inf ate the sphygmomanometer to a level greater than the patient’s systolic pressure. As the cuff is
+
+slowly def ated, carefully listen for the appearance of the first Korotkoff sounds. This level marks the
+
+maximum systolic pressure and occurs during expiration. If the pressure is held at that level (i.e.,
+
+if you stop def ating the cuff) in a patient with pulsus paradoxus, the Korotkoff sounds will drift in
+
+and out, audible with expiration, and absent with inspiration. That is, the systolic pressure will fall
+
+during inspiration to a level below the cuff’s pressure and no sound will be heard during that time.
+
+Next, slowly def ate the cuff and continue listening. When the cuff pressure falls to the level just
+
+below the patient’s systolic pressure during inspiration, the Korotkoff sounds stop drifting in and
+
+out (i.e., they are audible during both inspiration and expiration). Pulsus paradoxus is calculated as
+
+the difference between the initial systolic pressure (when the intermittent Korotkoff sounds are first
+
+heard) and this pressure (when the sounds are first audible throughout the respiratory cycle). In the
+presence of cardiac tamponade, this pressure difference is greater than 10 mm Hg.
+
+Pulsus paradoxus is an important physical sign in cardiac tamponade that can be recog-
+nized at the bedside using a standard blood pressure cuff. It refers to a decrease of systolic
+blood pressure (more than 10 mm Hg) during normal inspiration (see Box 14-1).
+
+Pulsus paradoxus is not really “paradoxical”; it is just an exaggeration of appropriate car-
+diac physiology. Normally, expansion of the thorax during inspiration causes the intrathoracic
+pressure to become more negative compared with the expiratory phase. This facilitates sys-
+temic venous return to the chest and augments f lling of the right ventricle (RV). The transient
+increase in RV size shifts the interventricular septum toward the left, which diminishes LV
+f lling. As a result, in normal persons, LV stroke volume and systolic blood pressure decline
+slightly following inspiration.
+
+In cardiac tamponade, this situation is exaggerated because both ventricles share a reduced,
+f xed volume as a result of external compression by the tense pericardial fluid. In this case, the
+inspiratory increase of RV volume and bulging of the interventricular septum toward the left
+have a proportionally greater effect on the limitation of LV f Iling. Thus, in tamponade, there
+is a more substantial reduction of LV stroke volume (and therefore systolic blood pressure)
+following inspiration.
+
+Pulsus paradoxus may also be manifested by other conditions in which inspiration is exag-
+gerated, including severe asthma and chronic obstructive airway disease.
+
+Diagnostic Studies
+Echocardiography is the most useful noninvasive technique to evaluate whether pericardial effu-
+sion has led to cardiac tamponade physiology. An important indicator of high-pressure pericar-
+dial fluid is compression of the RV and right atrium during diastole (see Fig. 3-12). In addition,
+echocardiography can differentiate between cardiac tamponade and other causes of low cardiac
+output, such as ventricular contractile dysfunction. The def nitive diagnostic procedure for car-
+diac tamponade is cardiac catheterization with measurement of intracardiac and intrapericardial
+pressures, usually combined with therapeutic pericardiocentesis, as described in the next section.
+
+Treatment
+Removal of the high-pressure pericardial fluid is the only intervention that reverses the life-
+threatening physiology of this condition. Pericardiocentesis is best performed in the cardiac
+catheterization laboratory, where the hemodynamic effect of fluid removal can be assessed.
+The patient is positioned head up at a 45-degree angle to promote pooling of the effusion, and
+Diseases of the Pericardium 345
+
+ECG A a needle is inserted into the pericardial space through
+
+the skin, usually just below the xiphoid process (which
+
+is the safest location to avoid piercing a coronary
+
+A artery). A catheter is then threaded into the pericar-
+
+Normal I\ dial space and connected to a transducer for pressure
+
+x | \ measurement. Another catheter is threaded through a
+
+systemic vein into the right side of the heart, and simul-
+
+taneous recordings of intracardiac and intrapericardial
+
+B a pressures are compared. In tamponade, the pericardial
+
+vi pressure is elevated and is equal to the diastolic pres-
+
+samponade /\ /— sures within all of the cardiac chambers, reflecting the
+compressive force of the surrounding effusion.
+
+In addition, the right atrial pressure tracing,
+oom i K— which is equivalent to the jugular venous pulsation
+Cc observed on physical examination, displays a charac-
+
+. y teristic abnormality (Fig. 14-6). During early diastole
+Constrictive I .
+
+pericarditis NN | in a normal person, as the RV pressure falls and the
+
+tricuspid valve opens, blood quickly flows from the
+
+right atrium into the RV, leading to a rapid decline in
+
+I the right atrial pressure (the y descent). In tampon-
+
+Tricus pid ade, however, the pericardial fluid compresses the
+valve RV and prevents its rapid expansion. Thus, the right
+opens . . .
+atrium cannot empty quickly, and the y descent is
+HGURE 14-6. Schematic diagrams of right atrial(or blunted.
+jugular venous) pressure recordings. A. Normal. ‘The Following successful pericardiocentesis, the pericar-
+initial a wave represents atrial contraction. The v wave dial pressure falls to normal and is no longer equal to
+ref ects passive filling of the atrium during systole, P . wae 7 4 .
+when the tricuspid valve is closed. After the tricuspid the diastolic pressures within the heart chambers, which
+valve opens, the right atrial pressure falls (y descent) also decline to their appropriate levels. After initial aspi-
+as blood empties into the right ventricle. B. Cardiac ration of fluid, the pericardial catheter may be left in
+tamponade. High-pressure pericardial f uid compresses place for 1 to 2 days to allow more complete drainage.
+the heart, impairing right ventricular filling, so that When pericardial fluid is obtained for diagnostic
+the y descent is blunted. C Constrictive pericarditis. purposes, it should be stained and cultured for bac-
+The earliest phase of diastolic filling is not impaired teria, fungi, and acid-fast bacilli (tuberculosis), and
+so that the y descent is not blunted. The y descent . ae
+appears accentuated because it descends from a cytologic examination should be performed to evalu-
+higher-than-normal right atrial pressure. The right ate for malignancy. Other common measurements of
+atrial c wave (described in Chapter 2) is not shown. pericardial fluid include cell counts (e.g., white cell
+count is elevated in bacterial infections and other
+inflammatory conditions) and protein and lactate dehydrogenase levels. If the concentration
+ratio of pericardial protein to serum protein is greater than 0.5, or that of pericardial LDH to
+serum LDH is greater than 0.6, then the fluid is consistent with an exudate; otherwise, it is
+more likely a transudate. When tuberculosis is suspected, it is also useful to measure the level
+of adenosine deaminase in the pericardial fluid. Studies have indicated that an elevated level
+is highly sensitive and specif c for tuberculosis.
+If cardiac tamponade recurs following pericardiocentesis, the procedure can be repeated.
+In some cases, a more def nitive surgical undertaking (removal of part or all of the pericar-
+dium) is required to prevent reaccumulation of the effusion.
+CONSTRICITVE PERICARDITIS
+The other major potential complication of pericardial diseases is constrictive pericarditis.
+This is a condition not frequently encountered but is important to understand, because it can
+masquerade as other more common disorders. In addition, it is an affliction that may cause
+profound symptoms yet is often fully correctable if recognized.
+346 Chapter 14
+
+Etiology and Pathogenesis
+In the early part of the 20th century, tuberculosis was the major cause of constrictive peri-
+carditis but that is much less common today in industrialized societies. The most frequent
+cause now is “idiopathic” (i.e., months to years following presumed idiopathic or viral acute
+pericarditis). However, any etiology of pericarditis can lead to this complication, including
+prior radiation therapy to the left side of the chest.
+
+Pathology
+Following an episode of acute pericarditis, any pericardial effusion that has accumulated
+usually undergoes gradual resorption. However, in patients who later develop constrictive
+pericarditis, the fluid undergoes organization, with subsequent fusion of the pericardial lay-
+ers, followed by f brous scar formation. In some patients, calcif cation of the adherent layers
+ensues, further stiffening the pericardium.
+
+Pathophysiology
+The pathophysiologic abnormalities in constrictive pericarditis occur during diastole; systolic
+contraction of the ventricles is usually normal. In this condition, a rigid, scarred pericardium
+encircles the heart and inhibits normal f lling of the cardiac chambers. For example, as blood
+passes from the right atrium into the RV during diastole, the RV size expands and quickly
+reaches the limit imposed by the constricting pericardium. At that point, further f lling is sud-
+denly arrested, and venous return to the right heart ceases. Thus, systemic venous pressure
+rises, and signs of right-sided heart failure ensue. In addition, the impaired f lling of the left
+ventricle causes a reduction in stroke volume and cardiac output, which leads to lower blood
+pressure.
+
+Cinical Features
+The symptoms and signs of constrictive pericarditis usually develop over months to years.
+They result from (1) reduced cardiac output (fatigue, hypotension, and reflex tachycardia)
+and (2) elevated systemic venous pressures (jugular venous distention, hepatomegaly with
+ascites, and peripheral edema). Because the most impressive physical f ndings are often the
+insidious development of hepatomegaly and ascites, patients may be mistakenly suspected
+of having hepatic cirrhosis or an intra-abdominal tumor. However, careful inspection of the
+elevated jugular veins can point to the correct diagnosis of constrictive pericarditis.
+
+On cardiac examination, an early diastolic “knock” may follow the second heart in patients
+with severe calcif c constriction. It represents the sudden cessation of ventricular diastolic f Il-
+ing imposed by the rigid pericardial sac.
+
+In contrast to cardiac tamponade, pericardial constriction results in pulsus paradoxus
+less frequently. Recall that in tamponade, this fnding reflects inspiratory augmentation
+of RV flling, at the expense of LV flling. However, in constrictive pericarditis, the nega-
+tive intrathoracic pressure generated by inspiration is not easily transmitted through the
+rigid pericardial shell to the right-sided heart chambers; therefore, inspiratory augmenta-
+tion of RV flling is more limited. Rather, when a patient with severe pericardial constric-
+tion inhales, the negative intrathoracic pressure draws blood toward the thorax, where it
+cannot be accommodated by the constricted right-sided cardiac chambers. As a result, the
+increased venous return accumulates in the intrathoracic systemic veins, causing the jugular
+veins to become more distended during inspiration (Kussmaul sign). This is the opposite
+of normal physiology, in which inspiration results in a decline in jugular venous pressure,
+Diseases of the Pericardium 347
+as venous return is drawn into the heart. Thus, typical f ndings in pericardial disease can
+be summarized as follows:
+
+QOonstrictive Pericarditis Cardiac Tamponade
+Pulsus paradoxus + +++
+Kussmaul sign +++ —
+sss
+Diagnostic Studies
+
+The chest radiograph in constrictive pericarditis shows a normal or mildly enlarged cardiac
+
+silhouette. Calcif cation of the pericardium can be detected in some patients with severe
+
+chronic constriction. The ECG generally shows nonspecifc ST and T-wave abnormalities;
+atrial arrhythmias are common.
+
+Echocardiographic evidence of constriction is subtle. The pericardium, if well imaged, is thick-
+ened. The ventricular cavities are small and contract vigorously, but ventricular f lling terminates
+abruptly in early diastole, as the chambers reach the limit imposed by the surrounding rigid shell.
+Aberrant diastolic motion of the interventricular septum, and alterations of LV inflow velocities
+during respiration assessed by Doppler, also reflect the abnormal pattern of diastolic f lling.
+
+Computed tomography or magnetic resonance imaging is superior to echocardiography in the
+assessment of pericardial anatomy and thickness. The presence of normal pericardial thickness
+(less than 2 mm) by these modalities makes constrictive pericarditis a much less likely diagnosis.
+
+The diagnosis of constrictive pericarditis can be confrmed by cardiac catheterization,
+which reveals four key features:
+
+1. Elevation and equalization of the diastolic pressures in each of the cardiac chambers.
+
+2. An early diastolic “dip and plateau” conf guration in the RV and LV tracings (Fig. 14-7).
+This pattern reflects blood flow into the ventricles at the very onset of diastole, just after the
+tricuspid and mitral valves open, followed by sudden cessation of fIling as further expan-
+sion of the ventricles is arrested by the surrounding rigid pericardium.
+
+ECG | A ECG A N
+100 100
+
+LV
+
+so, lV 80
+
+60 60
+
+RV
+40 RV 40
+Plateau
+20 20 J
+Early diastolic
+filling wave
+Time Time
+
+A B
+
+HGURE14-7. Schematic tracings of left ventricular (LV) and right ventricular (RV) pressures in a
+
+normal heart (A) and in constrictive pericarditis (B). In the latter situation, early diastolic ventricular
+
+flling abruptly halts as the volume in each ventricle quickly reaches the limit imposed by the constricting
+pericardium. Throughout most of diastole, the LVand RVpressures are abnormally elevated and equal.
+348 chapter 14
+
+3. A prominent y descent in the right atrial pressure tracing (see Fig. 14-6). After the tricuspid
+valve opens, the right atrium quickly empties into the RV (and its pressure rapidly falls)
+during the very brief period before f lling is arrested. This is in contrast to cardiac tampon-
+ade, in which the external compressive force throughout the cardiac cycle prevents rapid
+ventricular f lling, even in early diastole, such that the y descent is blunted.
+
+4. During the respiratory cycle, there is discordance in the RV and LV systolic pressures (the
+RV systolic pressure rises with inspiration, while that of the LV declines). This is explained
+as follows: in normal persons, the negative intrathoracic pressure induced by inspiration
+causes the systolic pressure of both ventricles to decline slightly. In contrast, in constrictive
+pericarditis, the heart is isolated from the rest of the thorax by the surrounding rigid shell.
+In this circumstance, negative intrathoracic pressure induced by inspiration decreases the
+pressure in the pulmonary veins but not in the left-sided cardiac chambers. This causes a
+decline in the pressure gradient driving blood back to the left side of the heart from the pul-
+monary veins, such that left ventricle flling is diminished. Less ventricular f lling reduces
+the stroke volume and results in a lower LV systolic pressure (and is the likely mechanism of
+pulsus paradoxus in some patients with constrictive pericarditis). Simultaneously, because
+the two ventricles share a f xed space limited by the rigid pericardium, the reduced LV
+volume allows the interventricular septum to shift toward the left, which enlarges the RV
+(this reciprocal behavior is termed ventricular interdependence). The subsequent increase
+in RV f lling augments systolic pressure during inspiration. During expiration, the situation
+is reversed, with the RV systolic pressure declining and that of the LV increasing.
+
+The clinical and hemodynamic f ndings of constrictive pericarditis are often similar to those
+of restrictive cardiomyopathy (see Chapter 10), another uncommon condition. Distinguishing
+between these two syndromes is important because pericardial constriction is often correct-
+able, whereas most cases of restrictive cardiomyopathy have very limited effective treatments
+(Table 14-6). An endomyocardial biopsy is sometimes necessary to distinguish between these
+(the biopsy results are normal in constriction but usually abnormal in restrictive cardiomy-
+opathy; see Chapter 10).
+
+Feature Qonstrictive Pericarditis Restrictive Gardiomyopathy
+
+Chest radiography
+
+Pericardial calcif cations Yes (25%-30% of patients) Absent
+
+CT or MRI
+
+° Thickened pericardium Yes No
+
+Echocardiography
+
+° Thickened pericardium Yes (but diff cult to visualize) No
+
+° Respiratory cycle effect on Exaggerated variations Normal
+transvalvular Doppler velocities
+
+Cardiac catheterization
+
+° Equalized LVand RV diastolic Yes Often, LV> RV
+pressures
+
+* Hevated PA systolic pressure Uncommon @mmon
+
+* Effect of inspiration on systolic Discordant : LV|, RVf Qncordant: LV], RV|
+pressures
+
+Endomyocardial biopsy Normal Abnormal (e.g., amyloid)
+
+a
+
+CT, computed tomography; LV left ventricle; MRI, magnetic resonance imaging; PA, pulmonary artery; RV right
+
+ventricle.
+Diseases of the Pericardium 349
+Treatment
+
+The only effective treatment of severe constrictive pericarditis is surgical removal of the
+pericardium. Symptoms and signs of constriction may not resolve immediately after surgery
+because of the associated stiffness of the neighboring outer walls of the heart, but subsequent
+clinical improvement is the rule in patients with otherwise intact cardiac function. The degree
+of improvement depends on the underlying etiology, with the most favorable outcomes in
+patients with an idiopathic/ post—viral pericarditis origin, and the least favorable benef t when
+prior radiation therapy is the cause.
+
+° Acute pericarditis is characterized by three stages: (1) local vasodilation with transu-
+dation of protein-poor, cell-free fluid into the pericardial space; (2) increased vascular
+permeability, with leak of protein into the pericardial space; and (3) leukocyte exudation,
+initially by neutrophils, followed later by mononuclear cells.
+
+e Acute pericarditis is most often of idiopathic or viral cause and is usually a self-limited
+illness.
+
+* Common clinical f ndings in acute pericarditis include pleuritic chest pain, fever, pericardial
+friction rub, and diffuse ST-segment elevation on the ECG, often accompanied by PR-segment
+depression.
+
+° Treatment of common acute pericarditis (1.e., viral or idiopathic pericarditis) consists of a
+nonsteroidal anti-inflammatory drug; the addition of colchicine may reduce the frequency of
+recurrences and shorten the duration of the acute illness.
+
+° Glucocorticoid drugs should not be used as initial therapy for acute pericarditis as they
+increase the likelihood of recurrences.
+
+¢ Complications of pericarditis include cardiac tamponade (accumulation of pericardial fluid
+under high pressure, which compresses the cardiac chambers) and constrictive pericarditis
+(restricted f lling of the heart because of the surrounding rigid pericardium).
+
+e Distinguishing between constrictive pericarditis and restrictive cardiomyopathy is important
+because pericardial constriction is often correctable with surgical removal of the pericardium,
+whereas most cases of restrictive cardiomyopathy have very limited effective treatments.
+
+Acknowledgments
+Contributors to previous editions of this chapter were Yin Ren, MD; Yanerys Ramos, MD;
+Thomas G. Roberts, MD; Angela Fowler, MD; Kathy Glatter, MD; and Alan Braverman, MD.
+Additional Reading
+ESC Committee for Practice Guidelines. Guidelines on the diag- | Klein AL, Abbara S, Agler DA, et al. American Society of
+nosis and management of pericardial diseases, executive Echocardiography clinical recommendations for multimo-
+summary. Eur Heart J. 2004;25:587—-610. dality cardiovascular imaging of patients with pericardial
+Herzog E, ed. Management of Pericardial Disease. London, UK: disease. J Am Soc Echocardiogr. 2013;26:965—1012.
+Springer-Verlag; 2014. Lilly LS. Treatment of acute and recurrent idiopathic pericardi-
+Imazio M, Brucato A, Cemin R, et al. A randomized trial of colchi- tis. Circulation. 2013;127:1723—1726.
+cine for acute pericarditis. N Engl J Med. 2013;369:1522-1528. Shabetai R. The Pericardium. Boston, MA: Kluwer Academic;
+Khandaker MH, Espinosa RE, Nishimura RA, et al. Pericardial 2003.
+disease: diagnosis and management. Mayo Clin Proc.
+2010;85:572—593.
+.
+i i
+Diseases of the Ve
+5 | a
+Peripheral Vasculature |. |
+—_-
+Sruthi Renati
+Mark A. Creager
+——
+Chapter Outline P eripheral vascular disease is an umbrella term that includes
+—==——Es= a number of diverse pathologic entities that affect arteries,
+Diseases of the Aorta veins, and lymphatics. Although this terminology makes a dis-
+Aortic Aneurysms a 5
+Aortic Dissection tinction between the “central” coronary and “peripheral” sys-
+Peripheral Artery Diseases temic vessels, the vasculature as a whole comprises a dynamic,
+Peripheral Atherosclerotic integrated, and multifunctional organ system that does not
+Vascular Disease naturally comply with this semantic division.
+Acute Arterial Occlusion Blood vessels serve many critical functions. Hirst, they
+Vasculitic Syndromes regulate the differential distribution of blood and delivery
+Vasospasm: Raynaud ; .
+Phenomenon of nutrients and oxygen to tissues. Second, blood vessels
+ReToue TRSCate actively synthesize and secrete vasoactive substances that
+Varicose Veins regulate vascular tone, and antithrombotic substances that
+Chronic Venous Insufficiency maintain the fuidity of blood and vessel patency (see Chap-
+transport and distribution of immune cells to traumatized or
+infected tissues. Disease states of the peripheral vasculature
+interfere with these essential functions.
+
+Peripheral vascular diseases result from processes that can
+be grouped into three categories: (1) structural changes in the
+vessel wall secondary to degenerative conditions, infection,
+or infammation that lead to dilatation, aneurysm, dissec-
+tion, or rupture; (2) narrowing of the vascular lumen caused
+by atherosclerosis, thrombosis, or infammation; and (3)
+‘spasm of vascular smooth muscle. These processes can occur
+
+350

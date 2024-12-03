@@ -1,0 +1,2030 @@
+The Cardiac Cycle: Mechanisms of Heart Sounds and Mirmurs 33
+Farly Extra Systolic Heart Sounds EcG /\
+Abnormal early systolic sounds, or ejection clicks,
+occur shortly after S,; and coincide with the opening of
+the aortic or pulmonic valves (Fig. 2-4). These sounds /*
+have a sharp, high-pitched quality, so they are heard Aorta
+best with the diaphragm of the stethoscope placed
+over the aortic and pulmonic areas (see Fig. 2-2). LV
+Ejection clicks indicate the presence of aortic or pul-
+monic valve stenosis or dilatation of the pulmonary
+artery or aorta. In stenosis of the aortic or pulmonic MV opens
+valve, the sound occurs as the deformed valve leaf- J
+lets reach their maximal level of ascent into the great LA
+artery, just prior to blood ejection. At that moment, | |
+the rapidly ascending valve reaches its elastic limit bio 1 |
+and decelerates abruptly, an action thought to result | |
+in the sound generation. In dilatation of the root of
+the aorta or pulmonary artery, the sound is associated $451 Sa S;
+. . . . Ejection OS
+with sudden tensing of the aortic or pulmonic root rick
+with the onset of blood f ow into the vessel. The aortic
+ejection click is heard at both the base (represented by FIGURE2-4. Timing of extra
+the aortic and pulmonary regions in Fig. 2-2) and the ewe and diastolic heart sounds.
+; —— 4 1S produced by atrial contraction
+apex of the heart and does not vary with respiration.  jnto a “stiff” left ventricle (LW). An
+In contrast, the pulmonic ejection click is heard only at ejection click follows the opening of
+the base, and its intensity diminishes during inspira- _ the aortic or pulmonic valve in cases
+tion (see Chapter 16). of valve stenosis or dilatation of the
+corresponding great artery. S; occurs
+during the period of rapid ventricular
+Mid- or Late Extra Systolic Heart Sounds f lling; it is normal in young people,
+but its presence in adults implies LV
+Clicks occurring in mid- or late systole are usually the contractile dysfunction. The timing
+result of systolic prolapse of the mitral or tricuspid of an opening snap (OS) in a patient
+valves, in which the leaf ets bulge abnormally from the with mitral stenosis is placed for
+ventricular side of the AV junction into the atrium dur- comparison. It is not likely that more
+ing ventricular contraction, often accompanied by val- than one or two of these extra sounds
+vular regurgitation (described in Chapter 8). They are eh one WN natal valve.
+loudest over the mitral or tricuspid auscultatory regions,
+respectively.
+Extra Diastolic Heart Sounds
+Extra heart sounds in diastole include the opening snap (OS), the third heart sound (S;), the
+fourth heart sound (S,), and the pericardial knock.
+Opening Snap
+Opening of the mitral and tricuspid valves is normally silent, but mitral or tricuspid valvular
+stenosis (usually the result of rheumatic heart disease; see Chapter 8) produces a sound,
+termed as snap, when the affected valve opens. It is a sharp, high-pitched sound, and its
+timing does not vary significantly with respiration. In mitral stenosis (which is much more
+common than is tricuspid valve stenosis), the OS is heard best between the apex and the left
+sternal border, just after the aortic closure sound (A), when the left ventricular pressure falls
+below that of the left atrium (see Fig. 2-4).
+34 (chapter 2
+Because of its proximity to A;, the A,-OS sequence can be
+confused with a widely split second heart sound. However, care-
+Expiration Jos ful auscultation at the pulmonic area during inspiration reveals
+three sounds occurring in rapid succession (Fig. 2-5), which cor-
+S, S, respond to aortic closure (A;), pulmonic closure (P;), and then
+the OS. The three sounds become two on expiration when A, and
+P, normally fuse.
+Inspiration | | Le: The severity of mitral stenosis can be approximated by the time
+P interval between A, and the OS: the more advanced the stenosis,
+Ay? the shorter the interval. This occurs because the degree of left atrial
+FIGURE2-5. Timing of the opening pressure elevation corresponds to the severity of mitral stenosis.
+snap (OS) in mitral stenosis does When the ventricle relaxes in diastole, the greater the left atrial pres-
+not change with respiration. On sure, the earlier the mitral valve opens. Compared with severe ste-
+inspiration, normal splitting of the nosis, mild disease is marked by a less elevated left atrial pressure,
+second heart sound (S,) is observed so lengthening the time it takes for the left ventricular pressure to fall
+that three sounds are heard. A;, aortic —_ below that of the atrium. Therefore, in mild mitral stenosis, the OS
+component; P,, pulmonic component is widely separated from A,, whereas in more severe stenosis, the
+of S,; S,, frst heart sound. . .
+A,-OS interval is narrower.
+Third Heart Sound (S;)
+When present, an S; occurs in early diastole, following the opening of the AV valves, during
+the ventricular rapid filling phase (see Fig. 2-4). It is a dull, low-pitched sound best heard with
+the bell of the stethoscope. A left-sided S; is typically loudest over the cardiac apex while the
+patient lies in the left lateral decubitus position. A right-sided S; is better appreciated at the
+lower left sternal border. Production of the S; appears to result from tensing of the chordae
+tendineae during rapid filling and expansion of the ventricle.
+
+An §; is a normal finding in children and young adults. In these groups, an S; implies the
+presence ofa supple ventricle capable of normal rapid expansion in early diastole. Conversely,
+when heard in middle-aged or older adults, an S; is a sign of disease resulting from a dilated
+ventricle (e.g., a patient with heart failure due to impaired systolic contraction, as described
+in Chapter 9) or from the increased transvalvular fow that accompanies advanced mitral or
+tricuspid regurgitation (described in Chapter 8). A pathologic S; is sometimes referred to as
+a ventricular gallop.
+
+Fourth Heart Sound (S,)
+When an §, is present, it occurs in late diastole and coincides with contraction of the atria
+(see Fig. 2-4). This sound is generated by the left (or right) atrium ejecting blood into a
+stiffened ventricle. Thus, an S, usually indicates the presence of cardiac disease—specifically,
+a decrease in ventricular compliance typically resulting from ventricular hypertrophy or myo-
+cardial ischemia. Like an S;, the S, is a dull, low-pitched sound and is best heard with the bell
+of the stethoscope. In the case of the more common left-sided S,, the sound is loudest at the
+apex, with the patient lying in the left lateral decubitus position. S, is sometimes referred to
+as an atrial gallop.
+
+Quadruple Rhythm or Summation Gallop
+In a patient with both an S; and S,, those sounds, in conjunction with S, and S,, produce a
+quadruple beat. If a patient with a quadruple rhythm develops tachycardia, diastole becomes
+shorter in duration, the S; and S, coalesce, and a summation gallop results. The summation
+of S; and S, is heard as a long middiastolic, low-pitched sound, often louder than S, and S,.
+The Gardiac Cycle: Mechanisms of Heart Sounds and Mirmurs 35
+Pericardial Knock
+A pericardial knock is an uncommon, high-pitched sound that occurs in patients with
+severe constrictive pericarditis (see Chapter 14). It appears early in diastole soon after S,
+and can be confused with an OS or an S;. However, the knock appears slightly later in dias-
+tole than the timing of an OS and is louder and occurs earlier than does a ventricular gallop.
+It results from the abrupt cessation of ventricular filling that occurs when the expanding
+ventricle meets a rigid pericardium in early diastole, which is the hallmark of constrictive
+pericarditis.
+MURMURS
+A murmur is the sound generated by turbulent blood fow. Under normal conditions, the
+movement of blood through the vascular bed is laminar, smooth, and silent. However, as a
+result of hemodynamic and/or structural changes, laminar fow can become disturbed and
+produce an audible noise. Murmurs result from any of the following mechanisms:
+1. Flow across a partial obstruction (e.g., aortic stenosis)
+2. Increased f ow through normal structures (e.g., aortic systolic murmur associated with a
+high-output state, such as anemia)
+3. Ejection into a dilated chamber (e.g., aortic systolic murmur associated with aneurysmal
+dilatation of the aorta)
+4. Regurgitant f ow across an incompetent valve (e.g., mitral regurgitation)
+5. Abnormal shunting of blood from one vascular chamber to a lower-pressure chamber (e.g.,
+ventricular septal defect [VSD])
+
+Murmurs are described by their timing, intensity, pitch, shape, location, radiation, and
+response to maneuvers. Timing refers to whether the murmur occurs during systole or dias-
+tole, or is continuous (i.e., begins in systole and continues into diastole). The intensity of the
+murmur is typically quantified by a grading system. In the case of systolic murmurs:
+
+Gade 1/6 (or I/ V1): Barely audible (i.e., medical students may not hear it!)
+
+Gade 2/6 (or II/ WV): Faint but immediately audible
+
+Gade 3/6 (or HI/M): Easily heard
+
+Gade 4/6 (or IW Vi): Easily heard and associated with a palpable thrill
+
+Gade 5/6 (or W VM): Very loud; heard with the stethoscope lightly on the chest
+
+Gade 6/6 (or V/V): Audible without the stethoscope directly on the chest wall
+I
+
+And in the case of diastolic murmurs:
+
+Gade 1/4 (or I/TV): Barely audible
+
+Gade 2/4 (or IT/IV): Faint but immediately audible
+
+Gade 3/4 (or HI/IV): Easily heard
+
+Gade 4/4 (or IWIW): Very loud
+eee
+
+Pitch refers to the frequency of the murmur, ranging from high to low. High-frequency mur-
+murs are caused by large pressure gradients between chambers (e.g., aortic stenosis) and are
+best appreciated using the diaphragm chest piece of the stethoscope. Low-frequency murmurs
+imply less of a pressure gradient between chambers (e.g., mitral stenosis) and are best heard
+using the stethoscope’s bell piece.
+36 Chapter 2
+
+Shape describes how the murmur changes in intensity from its onset to its completion.
+For example, a crescendo—decrescendo (or “diamond-shaped”) murmur first rises and then
+falls off in intensity. Other shapes include decrescendo (i.e., the murmur begins at its maxi-
+mum intensity then becomes softer) and uniform (the intensity of the murmur does not
+change).
+
+Location refers to the murmur’s region of maximum intensity and is usually described in
+terms of specific auscultatory areas (see Fig. 2-2):
+
+Aortic area: Second to third right intercostal spaces, next to the sternum
+
+Pulmonic area: Second to third left intercostal spaces, next to the sternum
+
+Tricuspid area: Lower left sternal border
+
+Mtral area: Cardiac apex
+I
+
+From their primary locations, murmurs are often heard to radiate to other areas of the
+chest, and such patterns of transmission relate to the direction of the turbulent f ow. Finally,
+similar types of murmurs can be distinguished from one another by simple bedside maneu-
+vers, such as standing upright, Valsalva (forceful expiration against a closed airway), or
+clenching of the fists, each of which alters the heart’s loading conditions and can affect the
+intensity of many murmurs. Examples of the effects of maneuvers on specific murmurs are
+presented in Chapter 8.
+
+When reporting a murmur, some or all of these descriptors are mentioned. For example,
+you might describe a particular patient’s murmur of aortic stenosis as “A grade III/ VI high-
+pitched, crescendo—decrescendo systolic murmur, loudest at the upper right sternal border,
+with radiation toward the neck.”
+
+Systolic Marmurs
+Systolic murmurs are subdivided into systolic ejection murmurs, pansystolic murmurs, and
+late systolic murmurs (Fig. 2-6). A systolic ejection murmur is typical of aortic or pul-
+monic valve stenosis. It begins after the first heart sound and terminates before or during
+S,, depending on its severity and whether the obstruction is of the aortic or pulmonic valve.
+The shape of the murmur is of the crescendo—decrescendo type (i.e., its intensity rises and
+then falls).
+Examples
+A. Ejection type al | * Aortic stenosis
+¢ Pulmonary stenosis
+S; S,
+; ¢ Mitral re gurgitation
+B. Pansystolic * Tricuspid regurgitation
+(holos ys tolic) * Ventricular septal defect
+S; S,
+HGURE2-6. Cassif cation of systolic
+mumnurs. Kection murmurs are crescendo—
+decrescendo in conf guration (A), whereas
+C. Late systolic Mh * Mitral valve prolapse pansystolic murmurs are uniform throughout
+systole (B). Alate systolic murmur often follows
+5, Click g a midsystolic click and suggests mitral (or
+1 2 tricuspid) valve prolapse (©.
+The Cardiac Gycle: Mechanisms of Heart Sounds and Mirmurs 37
+Aortic The ejection murmur of aortic stenosis begins in
+valve systole after S,, from which it is separated by a short
+opens audible gap (Fig. 2-7). This gap corresponds to the
+Aorta \ period of isovolumetric contraction of the left ventricle
+(the period after the mitral valve has closed but before
+! the aortic valve has opened). The murmur becomes
+| | more intense as f ow increases across the aortic valve
+during the rise in left ventricular pressure (crescendo).
+Then, as the ventricle relaxes, forward f ow decreases
+| and the murmur lessens in intensity (decrescendo) and
+LV | finally ends prior to the aortic component of S,. The
+| ! murmur may be immediately preceded by an ejection
+; click, especially in mild forms of aortic stenosis.
+Although the intensity of the murmur does not cor-
+| | relate well with the severity of aortic stenosis, other
+! features do. For example, the more severe the steno-
+| | sis, the longer it takes to force blood across the valve,
+I and the later the murmur peaks in systole (Fig. 2-8).
+Also, as shown in Figure 2-8, as the severity of stenosis
+S} ll S2 increases, the aortic component of S, softens because
+the leaf ets become more rigidly fixed in place.
+ee ; Aortic stenosis causes a high-frequency murmur,
+HGURE 2-7. Systolic ejection murmur of aortic . . .
+stenosis. There is a short delay between the frst ref ecting the sizable pressure gradient across the
+heart sound (S;) and the onset of the murmur (frst valve. It is best heard in the “aortic area” at the second
+dashed line). LV left ventricle; S,, second heart sound, and third right intercostal spaces close to the sternum
+(see Fig. 2-2). The murmur typically radiates toward
+the neck (the direction of turbulent blood f ow) but often can be heard in a wide distribution,
+including the cardiac apex.
+
+The murmur of pulmonic stenosis also begins after S;. It may be preceded by an ejection
+click, but unlike aortic stenosis, it may extend beyond the A, sound. That is, if the stenosis
+is severe, it will result in a very prolonged right ventricular ejection time, elongating the
+murmur, which will continue beyond the closure of the aortic valve and end just before the
+closure of the pulmonic valve (P;). Pulmonic stenosis is usually loudest at the second to third
+left intercostal spaces close to the sternum. It does not radiate as widely as aortic stenosis, but
+sometimes it is transmitted to the neck or left shoulder.
+
+Young adults often have benign systolic ejection murmurs (also termed “innocent mur-
+murs”) resulting from increased systolic fow across normal aortic and pulmonic valves. This
+type of murmur often becomes softer or disappears when the patient sits upright.
+
+Pansystolic (also termed holosystolic) murmurs are caused by regurgitation of blood
+across an incompetent mitral or tricuspid valve or through a ventricular septal defect (see
+Chapter 16). These murmurs are characterized by a uniform intensity throughout systole
+(Fig. 2-6). In mitral and tricuspid valve regurgitation, as soon as ventricular systolic pres-
+sure exceeds atrial pressure (i.e., when S, occurs), there is immediate retrograde f ow across
+the regurgitant valve. Thus, there is no gap between S, and the onset of these pansystolic
+murmurs, in contrast to the systolic ejection murmurs discussed earlier. Similarly, there is no
+significant gap between S, and the onset of the systolic murmur of a VSD, because left ven-
+tricular systolic pressure exceeds right ventricular systolic pressure (and f ow occurs) quickly
+after the onset of contraction.
+
+The pansystolic murmur of advanced mitral regurgitation continues through the aortic clo-
+sure sound because left ventricular pressure remains greater than that in the left atrium at the
+time of aortic closure. The murmur is heard best at the apex, is high pitched and “blowing” in
+quality, and often radiates toward the left axilla; its intensity does not change with respiration.
+38 chapter 2
+Tricuspid valve regurgitation is best heard along
+the left lower sternal border. It generally radiates to
+the right of the sternum and is high pitched and blow-
+ing in quality. The intensity of the murmur increases A. Mild i] ll"
+with inspiration because the negative intratho-
+racic pressure induced during inspiration enhances S, A, P,
+venous return to the heart. The latter augments right
+ventricular stroke volume, thereby increasing the BE
+amount of regurgitated blood.
+The murmur of a VSD is heard best at the fourth to
+sixth left intercostal spaces, is high pitched, and may
+be associated with a palpable thrill. The intensity of | I:
+the murmur does not increase with inspiration, nor B. Moderate
+does it radiate to the axilla, which helps distinguish it Ay Pp
+from tricuspid and mitral regurgitation, respectively. Of S, 2
+note, the smaller the VSD, the greater the turbulence
+of blood f ow between the left and right ventricles and
+the louder the murmur. Some of the loudest murmurs
+ever heard are those associated with small VSDs.
+Late systolic murmurs begin in mid-to-late sys- C. Severe ll!
+tole and continue to the end of systole (see Fig. 2-6).
+The most common example is mitral regurgitation
+caused by mitral valve prolapse—bowing of abnor- S; P,
+mally redundant and elongated valve leaf ets into the FIGURE2-8. ‘The severity of aortic
+left atrium during ventricular contraction. This mur- _ gtenosis affects the shape of the systolic
+mur is usually preceded by a midsystolic click and is murmur and the heart sounds. A. In mild
+described in Chapter 8. stenosis, an ejection click (EJ) is often
+present, followed by an early peaking
+. . crescendo—decrescendo murmur and a
+Diastolic Murmurs normal aortic component of S, (A). B. As
+Diastolic murmurs are divided into early decre- ot the raises becomes ure dehaed in
+scendo murmurs and mid-to-late rumbling mur- systole and the intensity of Ay lessens.
+murs (Fig. 2-9). Early diastolic murmurs result ‘The prolonged ventricular ejection time
+from regurgitant fow through either the aortic or delays A, so that it merges with or occurs
+pulmonic valve, with the former being much more _ after the pulmonic component of S, (P.);
+common in adults. If produced by aortic valve regur- the ejection click may not be heard. C In
+gitation, the murmur begins at A;, has a decrescendo severe stenosis, the murmur peaks very late
+. in systole, and A, is usually absent because
+shape, and terminates before the next S,. Because of immobility of the valve leaf ets. S,, first
+diastolic relaxation of the left ventricle is rapid, a peart sound; S, second heart sound.
+pressure gradient develops immediately between
+the aorta and lower-pressured left ventricle in patients with aortic regurgitation, and the
+murmur therefore displays its maximum intensity at its onset. Thereafter in diastole, as the
+aortic pressure falls and the LV pressure increases (as blood regurgitates into the ventricle),
+the gradient between the two chambers diminishes and the murmur decreases in intensity.
+Aortic regurgitation is a high-pitched murmur, best heard using the diaphragm of the stetho-
+scope along the left sternal border with the patient sitting, leaning forward, and exhaling.
+Pulmonic regurgitation in adults is usually due to pulmonary arterial hypertension. It is an
+early diastolic decrescendo murmur similar to that of aortic regurgitation, but it is best heard
+in the pulmonic area (Fig. 2-2), and its intensity may increase with inspiration.
+Mid-to-late diastolic murmurs result from either turbulent fow across a stenotic mitral
+or tricuspid valve or less commonly from abnormally increased fow across a normal mitral
+or tricuspid valve (see Fig. 2-9). If resulting from stenosis, the murmur begins after S, and is
+The Cardiac Gycle: Mechanisms of Heart Sounds and Mirmurs 39
+A. Early decrescendo | | | * Aortic regurgitation .
+¢ Pulmonic regurgitation
+S; S, S;
+B. Mid-to-late | | | * Mild mitral or tricuspid stenosis
+Si S, | S;
+OS
+C. Prolonged mid-to-late | | | * Severe mitral or tricuspid stenosis
+S, Sa S,
+OS
+HIGURE 2-9. Cassif cation of diastolic murmurs. A. An early diastolic decrescendo murmur is typical of
+aortic or pulmonic valve regurgitation. B. Md-to-late low-frequency rumbling murmurs are usually the result
+of mitral or tricuspid valve stenosis and follow a sharp opening snap (OS). Presystolic accentuation of the
+murmur occurs in patients in normal sinus rhythm because of the transient rise in atrial pressure during atrial
+contraction. C In more severe mitral or tricuspid valve stenosis, the opening snap and diastolic murmur
+commence earlier, and the murmur is prolonged. S,, frst heart sound; S,, second heart sound.
+preceded by an opening snap. The shape of this murmur is unique. Following valvular open-
+ing (and the OS), the murmur is at its loudest because the pressure gradient between the
+atrium and ventricle is at its maximum. The murmur then decrescendos or disappears totally
+during diastole as the transvalvular gradient decreases. The degree to which the murmur fades
+depends on the severity of the stenosis. If the stenosis is severe, the murmur is prolonged; if the
+stenosis is mild, the murmur disappears in mid-to-late diastole. Whether the stenosis is mild
+or severe, the murmur intensifies at the end of diastole in patients in normal sinus rhythm,
+when atrial contraction augments f ow (and turbulence) across the valve (see Fig. 2-9). Since
+the pressure gradient across a stenotic mitral valve tends to be fairly low, the murmur of mitral
+stenosis is low pitched and is heard best with the bell of the stethoscope at the apex, while the
+patient lies in the left lateral decubitus position. The much less common murmur of tricuspid
+stenosis is better auscultated at the lower sternum, near the xiphoid process.
+Hyperdynamic states such as fever, anemia, hyperthyroidism, and exercise cause increased
+f ow across the normal tricuspid and mitral valves and can therefore result in a diastolic mur-
+mur. Similarly, in patients with advanced mitral regurgitation, the expected systolic murmur
+can be accompanied by an additional diastolic murmur owing to the increased volume of
+blood that must return across the valve to the left ventricle in diastole. Likewise, patients with
+either tricuspid regurgitation or an atrial septal defect (see Chapter 16) have increased f ow
+across the tricuspid valve, and may therefore display a diastolic fow murmur from that site.
+Continuous Marmurs
+Continuous murmurs are heard throughout the cardiac cycle. Such murmurs result from condi-
+tions in which there is a persistent pressure gradient between two structures during both systole
+and diastole. An example is the murmur of patent ductus arteriosus, in which there is an abnor-
+mal congenital communication between the aorta and the pulmonary artery (see Chapter 16).
+During systole, blood f ows from the high-pressure ascending aorta through the ductus into the
+40 chapter 2
+Continuous fi * Patent ductus arteriosus
+S; S, S;
+¢ Aortic stenosis and regurgitation
+To-and-fro ii iy, | * Pulmonic stenosis and regurgitation
+hh
+S; S, S;
+
+HGURE2-10. Acontinuous murmur peaks at, and extends through, the second heart sound (S,). A
+
+to-and-fro murmur is not continuous; rather, there is a systolic component and a distinct diastolic component,
+
+separated by S,. S,, frst heart sound.
+
+lower-pressure pulmonary artery. During diastole, the aortic pressure remains greater than that
+
+in the pulmonary artery and the f ow continues across the ductus. This murmur begins in early
+
+systole, crescendos to its maximum at S,, then decrescendos until the next S, (Fig. 2-10).
+
+The “to-and-fro” combined murmur in a patient with both aortic stenosis and aortic regur-
+gitation could be mistaken for a continuous murmur (see Fig. 2-10). During systole, there is a
+diamond-shaped ejection murmur, and during diastole, a decrescendo murmur. However, in
+the case of a to-and-fro murmur, the sound does not extend through S, because it has discrete
+systolic and diastolic components.
+
+° Cardiac diseases often result in abnormal heart sounds and murmurs, which are clues to
+the underlying pathophysiology.
+
+e Systole refers to the phase of ventricular contraction, and diastole refers to the phase of ven-
+tricular relaxation and filling.
+
+e The normal cardiac cycle proceeds as follows: (1) during diastole, the mitral valve (MV)
+is open, so that the left atrial (LA) and left ventricular (LV) pressures are equal; (2) in late
+diastole, LA contraction causes a small rise in pressure in both the LA and LV; (3) after a
+short delay, ventricular contraction causes the LV pressure to rise, and when the LV pres-
+sure exceeds the LA pressure, the MV closes, contributing to the first heart sound (S,);
+
+(4) as LV pressure rises above the aortic pressure, the aortic valve (AV) opens, a silent
+
+event in a normal heart; (5) after contraction, as the ventricle relaxes and its pressure
+
+falls below that of the aorta, the AV closes, contributing to the second heart sound (S,);
+
+(6) when the LV pressure declines below that of the left atrium, the mitral valve opens,
+
+and the cycle repeats.
+
+° Extra systolic sounds include ejection clicks, indicating aortic or pulmonic stenosis or
+dilatation of the aortic root or pulmonary artery, and mid-to-late clicks, indicating mitral or
+tricuspid valve prolapse.
+
+e Extra diastolic sounds include the opening snap (signifying mitral stenosis), the S; sound
+(indicating heart failure or a volume overload state in older adults; an S; is a normal
+sound in children and young adults), and the S, sound (indicating reduced ventricular
+compliance).
+
+* Common murmurs include systolic ejection murmurs from aortic or pulmonic stenosis,
+pansystolic murmurs from mitral or tricuspid regurgitation, late systolic murmurs from mitral
+valve prolapse, early diastolic murmurs from aortic or pulmonic regurgitation, and mid-to-
+late diastolic murmurs from mitral stenosis.
+
+° Tables 2-2 and 2-3 and Figure 2-11 summarize features of the heart sounds and murmurs
+described in this chapter.
+TABLE 2 -2
+
+Sound Location Pitch Signif cance
+
+Si Apex High Normal closure of mitral and tricuspid valves
+
+S Base High Normal closure of aortic (A,) and pulmonic
+
+(P;) valves
+Extra systolic sounds
+Kection clicks Aortic: apex and base High Aortic or pulmonic stenosis, or dilatation of
+Pulmonic: base High aortic root or pulmonary artery
+Md-to-late click Mtral: apex High Mitral or tricuspid valve prolapse
+Tricuspid: LLSB High
+
+Extra diastolic sounds
+
+Opening snap Apex High Mitral stenosis
+
+S; left-sided: apex Low Normal in children
+
+Abnormal in adults: indicates heart failure
+or volume overload state
+
+Sy left-sided: apex Low Reduced ventricular compliance
+a
+LLSB, lower left sternal border.
+
+TABLE 2 -3
+
+Murmur Type Example Location and Radiation
+
+Systolic ejection Aortic stenosis Second right intercostal space — neck (but may
+
+radiate widely)
+il Pulmonic stenosis Second to third left intercostal spaces
+S; S,
+Pansystolic Mitral regurgitation Apex — axilla
+Tricuspid regurgitation Left lower sternal border — right lower sternal
+
+S; S,
+
+Late systolic Mitral valve prolapse Apex — axilla
+
+S, S,
+
+Early diastolic Aortic regurgitation Along left side of the sternum
+
+| | Pulmonic regurgitation Upper left side of the sternum
+
+S, Sj
+
+Md-to-late diastolic Mitral stenosis Apex
+
+S, S;
+a
+42 (chapter 2
+Aortic area Pulmonic area
+Ejection-type murmur Ejection-type murmur
+e Aortic stenosis ¢ Pulmonic stenosis
+° Flow murmur ag ¢ Flow murmur
+a SSSA
+Ss IS
+SE EAS
+Cee
+"\ — \) > A) Left sternal border
+Ze es SEY Early diastolic murmur
+» CS eS ( ¢ Aortic re gurgitation
+> — — 4) ° Pulmonie ree urgita tion
+Y 3 ff \oT gurg
+a vn, Vay
+Or a LN, Ey J
+Tricus pid area WIZ ATR SS rol
+Pansystolic murmur » Q77, = in SS
+* Tricuspid re gurgitation Rut JA —\ Key Mitral are a
+¢ Ventricular septal defect Woy Po wy Pansystolic murmur
+E rt = * Mitral regurgitation
+Mid -to-late diastolic eC — >
+“t0- |
+murmur _ | -Mid-to-late diastolic murmur
+* Tricuspid stenosis _ _ * Mitral stenosis
+* Atrial septal defect
+HGURE2-11. Locations of maximum intensity of common murmurs.
+Acknowledgments
+Contributors to previous editions of this chapter were Henry Jung, MD; Nicole Martin, MD;
+Oscar Benavidez, MD; Bradley S. Marino, MD; and Allan Goldblatt, MD.
+Additional Reading
+Bickley LS. Bates’ Guide to Physical Examination and History Orient JM. Sapira’s Art and Science of Bedside Diagnosis.
+Taking. llth ed. Philadelphia, PA: Lippincott Williams & 4th ed. Philadelphia, PA: Lippincott Williams & Wilkins;
+g p PP
+Wilkins; 2013. 2010.
+Constant J. Essentials of Bedside Cardiology. 2nd ed. Totowa, Simel DL, Rennie D. The Rational Clinical Examination:
+NJ: Humana Press; 2003. Evidence-Based Clinical Diagnosis. New York, NY: McGraw-
+LeBlond RF, DeGowin RL, Brown DD. DeGowin’s Diagnostic Hill; 2009.
+Examination. 9th ed. New York, NY: McGraw-Hill; 2008.
+‘ae
+Cardiac Imaging and| 4
+ging and) |
+e e : 2
+Catheterization |. |
+Diana M. Lopez
+Patricia Challender Come .
+< .
+-_
+—
+Chapter Outline I maging plays a central role in the assessment of cardiac
+function and pathology. Traditional modalities such as
+Card “ Badiograp ity chest radiography, echocardiography (echo), cardiac catheter-
+Cardiac Silhouette —— ch anoi h d nuclear j : funda |
+Pulmonary Manifestations of ization with angiography, and nuclear imaging are Tundamenta
+rE, in the diagnosis and management of cardiovascular diseases.
+Echocardiography These procedures are increasingly supplemented by newer tech-
+Ventricular Assessment niques, including computed tomography (CI) and magnetic
+Valvular Testons resonance imaging (MRI).
+ESET prlery Lscace This chapter presents an overview of imaging studies as
+Cardiomyopathy : . .
+ne they are used to assess the cardiovascular disorders described
+Pericardial Disease a ——
+Cardiac Catheterization later in this book. On frst reading, it would be benef cial to
+Measurement of Pressure familiarize yourself with the information but not to memorize
+Measurement of Blood Flow the details. This chapter is meant as a reference for diagnosis
+uent chapters.
+Qntrast Angiography i
+Nuclear Imaging
+Assessment of Myocardial CARDIAC RADIOGRAPHY
+Perfusion
+Radionuclide Ventriculography The extent of penetration of x-rays through the body is
+Assessment of Myocardial inversely proportional to tissue density. Air-flled tissues,
+Metabolism such as the lung, absorb few x-rays and expose the under-
+@mputed Tomography lying flm (or electronic recording sensor), causing it to
+Mbenetic Resonance Imaging appear black. In contrast, dense materials, such as bone,
+absorb more radiation and appear white or radiopaque. For
+a boundary to show between two structures, they must dif-
+44 chapter 3
+
+Frontal and lateral radiographs are rou-
+tinely used to assess the heart and lungs | we
+(Fig. 3-1). The frontal view is usually a
+posterior—anterior image in which the Te :
+
+X-rays are transmitted from behind (i.e., swe et Ao\ w
+posterior to) the patient, pass through the | 4 - LAA
+body, and are then captured by the film :
+(or electronic sensor) placed against the Py - a
+anterior chest. This positioning places OS i
+the heart close to the x-ray recording film ie
+plate so that its image is only minimally
+distorted, allowing for an accurate assess- a B
+ment of size. In the standard lateral view,
+the patient’s left side is placed against the
+film plate and the x-rays pass through the : ;
+body from right to left. The frontal radio- * 4 m
+graph is useful for assessing the size of the a ie ,
+left ventricle, left atrial appendage, pulmo- * wn OS ee,
+nary artery, aorta, and superior vena cava; ‘ea :
+the lateral view evaluates right ventricular RA
+size, posterior borders of the left atrium eh bo
+and ventricle, and the anteroposterior | - Ss
+diameter of the thorax. \ w/ \Ne, “
+Cc D
+Cardiac Silhouette HGURE3-1. Posteroanterior (A and B) and lateral
+Chest radiographs are useful to evaluate cardiopulmonary disease illustrating cardiac.
+the size of heart chambers and the pul- chambers and valves. AQ aorta; AV azygos vein;
+monary consequences of cardiac disease. [VC inferior vena cava; LA, left atrium; LAA, left
+Alterations in chamber size are reflected atrial appendage; LPA, left pulmonary artery; LV, left
+by changes in the cardiac silhouette. In ventricle; MPA, main pulmonary artery; MY mitral valve;
+the frontal view of adults, an enlarged 4 right atrium; RPA, right pulmonary artery; RY right
+heart is identified by a cardiothoracic ventricle; SVG superior vena cava; TV tricuspid valve.
+ratio (the maximum width of the heart (Reprinted trom Come PG ed. Diagnostic Cardiology:
+i ; ; ; Noninvasive Imaging Techniques. Philadelphia, PA: J.B.
+divided by the maximum internal diam- Lippincott; 1985, with permission.)
+eter of the thoracic cage) of greater
+than 50%.
+
+In certain situations, the cardiac silhouette inaccurately ref ects heart size. For example, an
+elevated diaphragm, or narrow chest anteroposterior diameter, may cause the silhouette to
+expand transversely such that the heart appears larger than its actual dimensions. Therefore,
+the chest anteroposterior diameter should be assessed on the lateral view before concluding
+the heart is truly enlarged. The presence of a pericardial effusion around the heart can also
+widen the cardiac silhouette because fuid and myocardial tissue affect x-ray penetration
+similarly.
+
+Radiographs can depict dilatation of individual cardiac chambers. Of note, concentric ven-
+tricular hypertrophy alone (i.e., without dilatation) may not result in radiographic abnor-
+malities, because it generally occurs at the expense of the cavity’s internal volume and
+produces little or no change in overall cardiac size. Major causes of chamber and great ves-
+sel dilatation include heart failure, valvular lesions, abnormal intracardiac and extracardiac
+communications (shunts), and certain pulmonary disorders. Because dilatation takes time to
+Cardiac Imaging and Gatheterization 45
+a
+‘ 4
+; oo * e
+HGURE3-2. Posteroanterior chest . f
+radiograph of a patient with severe Fa v :
+mitral stenosis and secondary pulmonary oy ,
+vascular congestion. The radiograph shows a »-
+prominent left atrial appendage (arrowheads) —- ~. ,
+with consequent straightening of the left 7 *.~3 a »
+heart border and suggestion of a double - A
+density right cardiac border (arrows) produced oe , ‘
+by the enlarged left atrium. The aortic )
+silhouette is small, which suggests chronic
+low cardiac output. Radiographic signs é
+of pulmonary vascular congestion include
+increased caliber of upper-zone pulmonary
+vessel markings and decreased caliber of \
+lower-zone vessels. .
+develop, recent lesions, such as acute mitral valve insufficiency, may present without appar-
+ent cardiac enlargement.
+
+The pattern of chamber enlargement may suggest specific disease entities. For example,
+dilatation of the left atrium and right ventricle, accompanied by signs of pulmonary hyperten-
+sion, suggests mitral stenosis (Fig. 3-2). In contrast, dilatation of the pulmonary artery and
+right heart chambers, but without enlargement of the left-sided heart dimensions, can be seen
+in patients with pulmonary vascular obstruction, in those with increased pulmonary artery
+blood f ow (e.g., due to an atrial septal defect), or in those with pulmonary hypertension of
+diverse causes (Fig. 3-3).
+
+Chest radiographs can also detect dilatation of the aorta. Causes of aortic enlargement
+include aneurysm, dissection, and aortic valve disease (Fig. 3-4). Normal aging and athero-
+sclerosis may also cause the aorta to become dilated and tortuous.
+
+Pulmonary Manifestations of Heart Disease
+The appearance of the pulmonary vasculature ref ects abnormalities of pulmonary arterial
+and venous pressures and pulmonary blood f ow. Increased pulmonary venous pressure,
+as occurs in left heart failure, causes increased vascular markings, redistribution of blood
+fow from the bases to the apices of the lungs (termed cephalization of vessels), intersti-
+tial edema, and alveolar edema (Fig. 3-5). Cephalization appears as an increase in the
+number or width of vascular markings at the apex (Fig. 3-5A). Interstitial edema occurs
+as pulmonary congestion progresses, and the connective tissue spaces become thickened
+with fuid (Fig. 3-5B). Kerley B lines (short horizontal parallel lines at the periphery of
+the lungs adjacent to the pleura, most often at the lung bases) depict fuid in interlobular
+spaces that results from interstitial edema (Fig. 3-5C). When fuid accumulates in the
+air spaces, alveolar forms of pulmonary edema produce opacity radiating from the hilar
+46 Chapter 3
+i : - - _
+>” .
+Ne
+» - 4
+4 ; |
+eA ig
+‘ 2 HGURE3-3. Posteroanterior chest
+radiograph of a patient with pulmonary
+hypertension secondary to an atrial septal
+; defect. Radiographic signs of pulmonary
+hypertension include pulmonary artery
+dilatation (black arrows; compare with the
+appearance of left atrial appendage dilatation
+, in Fig. 3-2) and large central pulmonary
+arteries (white arrows) associated with
+small peripheral vessels (a pattern known as
+peripheral pruning).
+region bilaterally (known as a “butterfy” pattern) and air bronchograms may be seen
+(Fig. 3-5D). Fluid accumulation in the pleural spaces in heart failure (1.e., pleural effu-
+sions) is manifest by blunting of the costophrenic angles (the angle between the ribs and
+the diaphragm).
+~ =
+~~
+ic x +
+F _< ve
+alll.
+‘" x i) HGURE3-4. Posteroanterior chest radiograph
+Pa Res of a patient with aortic stenosis and
+oe hae insuff ciency secondary to a bicuspid aortic
+valve. In addition to poststenotic dilatation of
+a 7 ; the ascending aorta (black arrows), the transverse
+"e aorta (white arrow) is prominent.
+Cardiac Imaging and Catheterization 47
+* - ; o 2 ~ e
+Vi 4 t >
+: i r J el {
+” d 7 :
+} |
+a me ° ’ q }
+A B
+5 i]
+. ] r
+™” i .
+d y
+Li t
+A Fy |
+‘ -- -
+i, ’ % / : 4%
+f] » £
+. 7
+Cc D
+HGURE3-5. Posteroanterior radiographs of patients with heart failure (HF). A. Early manifestations of HF
+include upper zone redistribution (cephalization) of vessels (green arrows); cardiomegaly is present. B. More
+pronounced manifestations of HF include interstitial edema with pulmonary vascular markings throughout the
+lung felds owing to edematous interlobular septae. Fluid-associated thickening of bronchial walls is visualized
+as peribronchiolar cuff ng (red arrow). C Enlarged view of Kerley B lines (yellow arrows) at the periphery of the
+lower left lung feld. D. Severe HF manifest by diffuse alveolar edema. Air bronchograms (blue arrows) occur
+when the radiolucent bronchial tree is contrasted with opaque edematous tissue. Patients with HF often have
+a combination of interstitial and alveolar edema. (Gourtesy of Gillian Lieberman, MD, Beth Israel Deaconess
+Medical Center, Boston, MA)
+Changes in pulmonary blood f ow may also alter the appearance of the pulmonary vessels.
+For example, focal oligemia (reduction in the size of blood vessels due to decreased blood
+f ow) is occasionally observed distal to a pulmonary embolism (termed the Westermark sign).
+The finding of enlarged central pulmonary arteries, but small peripheral vessels (termed
+peripheral pruning), suggests pulmonary hypertension (see Fig. 3-3).
+Table 3-1 summarizes the major radiographic findings in common forms of cardiac
+disease.
+48 chapter 3
+Disorder Findings
+Qngestive heart failure * @phalization of vessels
+* Interstitial edema (peribronchial cuffng, Kerley B lines)
+° Alveolar edema (air bronchograms)
+* Pleural effusions
+Pulmonic valve stenosis * Poststenotic dilatation of pulmonary artery
+Aortic valve stenosis * Poststenotic dilatation of ascending aorta
+Aortic regurgitation ° Left ventricular dilatation
+* Dilated aorta
+Mitral stenosis ° Left atrial dilatation
+* Signs of pulmonary venous congestion
+Mitral regurgitation ° Left atrial dilatation
+° Left ventricular dilatation
+* Signs of pulmonary venous congestion in acute MR (see Chapter 8)
+ee
+KCHOCARDIOGRAPHY
+Echocardiography plays an essential role in the diagnosis and serial evaluation of many car-
+diac disorders. It is safe, noninvasive, and relatively inexpensive. High-frequency (ultrasonic)
+waves generated by a piezoelectric element travel through the body and are ref ected at inter-
+faces where there are differences in the acoustic impedance of adjacent tissues. The ref ected
+waves return to the transducer and are recorded. The machine measures the time elapsed
+between the initiation and reception of the sound waves, allowing it to calculate the distance
+between the transducer and each anatomic ref ecting surface. Images are then constructed
+from these calculations.
+
+Three types of imaging are routinely performed during an echocardiographic examina-
+tion: M-mode, two-dimensional (2D), and Doppler. Each type of imaging can be performed
+from various body locations. Most commonly, transthoracic studies are performed, in which
+images are obtained by placing the transducer on the surface of the chest. When greater struc-
+tural detail is required, transesophageal imaging is performed.
+
+M-mode echocardiography, the oldest form of cardiac ultrasonography, provides data from
+only one ultrasonic beam and is now rarely used by itself. It supplements the other modalities
+to provide accurate measurements of wall thicknesses and timing of valve movements.
+
+In 2D echocardiography, multiple ultrasonic beams are transmitted from the transducer
+through a wide arc. The returning signals are integrated to produce 2D images of the heart
+on a video monitor. As a result, this technique depicts anatomic relationships and defines
+the movement of cardiac structures relative to one another. Wall and valve motion abnor-
+malities, and many types of intracardiac masses (e.g., vegetations, thrombi, tumors), can be
+depicted.
+
+Each 2D plane (Fig. 3-6) delineates only part of a given cardiac structure. Optimal evalua-
+tion of the entire heart is achieved by using combinations of views. In transthoracic echocar-
+diography (TTE), in which the transducer is placed against the patient’s skin, these include
+the parasternal long axis, parasternal short axis, apical views, and subcostal views. The para-
+sternal long-axis view is recorded with the transducer in the third or fourth intercostal space
+to the left of the sternum. This view is particularly useful for evaluation of the left atrium,
+mitral valve, left ventricle, and left ventricular outf ow tract (LVOT), which includes the aortic
+valve and adjacent interventricular septum. To obtain parasternal short-axis views, the trans-
+ducer is rotated 90 degrees from its position for the long-axis view. The short-axis images
+Cardiac Imaging and Catheterization 49
+Interventricular septum
+) | RV
+y 7 Aortic
+LV valve
+Mitra |
+va lve
+A ™ LV posterior wall
+RV
+LV
+HIGURE3-6. Transthoracic two- B
+dimensional echocardiographic views.
+A. Parasternal long-axis view. B. Parasternal
+short-axis view. Notice that the left
+ventricle appears circular in this view, while RV Lv
+the right ventricle is crescent shaped. C
+Apical four-chamber view. Ao, aorta; LA, . . Mitra
+left atrium; LV left ventricle; RA, right & Teus pid ay lve
+atrium; RV right ventricle. (Mbdifed from
+Sahn DJ, Anderson E Two-Dimensional
+Anatomy of the Heart. New York, NY John
+Wiley & Sons; 1982.) c
+depict transverse planes of the heart. Several different levels are imaged to assess the aortic
+valve, mitral valve, and left ventricular wall motion.
+
+Apical TTE views are produced when the transducer is placed at the point of maximal api-
+cal impulse. The apical four-chamber view evaluates the mitral and tricuspid valves as well
+as the atrial and ventricular chambers, including the motion of the lateral, septal, and apical
+left ventricular walls. The apical two-chamber view shows only the left side of the heart, and
+it depicts movement of the anterior, inferior, and apical walls.
+
+In some patients, such as those with obstructive airways disease, the parasternal and api-
+cal views do not adequately show cardiac structures because the excessive underlying air
+attenuates the acoustic signal. In such patients, the subcostal view, in which the transducer is
+placed inferior to the rib cage, may provide a better ultrasonic window.
+
+Doppler imaging depicts blood f ow direction and velocity and identifies regions of vascu-
+lar turbulence. Additionally, it permits estimation of pressure gradients within the heart and
+great vessels. Doppler studies are based on the physical principle that waves ref ected from
+a moving object undergo a frequency shift according to the moving object’s velocity relative
+to the source of the waves. Color fow mapping converts the Doppler signals to a scale of
+colors that represent direction, velocity, and turbulence of blood fow in a semiquantitative
+way. The colors are superimposed on 2D images and show the location of stenotic and regur-
+gitant valvular lesions and of abnormal communications within the heart and great vessels.
+For example, Doppler echocardiography in a patient with mitral regurgitation shows a jet of
+retrograde f ow into the left atrium during systole (Fig. 3-7).
+50 chapter 3
+Sound frequency shifts are converted by the echo machine into
+blood fow velocity measurements by the following relationship:
+: fs c
+. = v=
+> et 2f, (cos ®)
+. cee & Z in which v equals the blood f ow velocity (m/sec); fs, the Doppler fre-
+= ef == ts quency shift (kHz); c, the velocity of sound in body tissue (m/sec); fo,
+= : the frequency of the sound pulse emitted from the transducer (MHz);
+. RA ee and 0, the angle between the transmitted sound pulse and the mean
+, LA i axis of the blood f ow being assessed.
+~— Transesophageal echocardiography (TEE) uses a miniaturized
+= Sn “oe
+= transducer mounted at the end of a modified endoscope to trans-
+mit and receive ultrasound waves from within the esophagus, thus
+producing very clear images of the neighboring cardiac structures
+HGURE3-7. Doppler color f ow . . .
+
+. . er (Fig. 3-8) and much of the thoracic aorta. Modern probes permit
+
+mapping of mitral regurgitation . . . . . : .
+(MR). The color Doppler multiplanar imaging and Doppler interrogation. TEE is particularly
+image, recorded in systole, is helpful in the assessment of aortic and atrial abnormalities, con-
+superimposed on an apical four- ditions that are less well visualized by conventional transthoracic
+chamber view. The color Doppler echo imaging. For example, TEE is more sensitive than transthoracic
+signal filling the left atrium (LA) echo for the detection of thrombus within the left atrial append-
+indicates retrograde f ow of MR age (Fig. 3-9). The proximity of the esophagus to the heart makes
+from the left ventricle (LV) across . . . . .
+
+; ; TEE imaging particularly advantageous in patients for whom trans-
+the mitral valve (arrow). RA, right ; : ; . ;
+atrium: RV right ventricle. thoracic echo images are unsatisfactory (e.g., those with chronic
+
+obstructive lung disease).
+
+TEE is also advantageous in the evaluation of patients with pros-
+thetic heart valves. During standard transthoracic imaging, artificial mechanical valves ref ect
+a large portion of ultrasound waves, thus interfering with visualization of more posterior struc-
+tures (termed acoustic shadowing). TEE aids visualization in such patients and is therefore
+the most sensitive noninvasive technique for evaluating perivalvular leaks. In addition, TEE is
+
+= A. Cross-sectional
+LA view of aortic
+Esophagus valve
+NL
+RA R
+
+A RV
+A .
+
+f | C. Short axis view
+
+ZF. of left venticle
+B f
+IN ; LV
+\ RV
+» | RA @ . FIGURE3-8. Transesophageal
+B. Long axis view ; _—-
+\¢ LA of cardiac echocardiographic views. lA,
+C chambers left atrium; LV left ventricle; RA,
+right atrium; RV right ventricle; N,
+LV noncoronary cusp of aortic valve; L, left
+coronary cusp of aortic valve; R, right
+RV coronary cusp of aortic valve.
+Cardiac Imaging and Catheterization 51
+s
+an.
+= 22 - J
+f “ f= Thrombus
+A B
+HGURE3-9. Echocardiographic imaging of an intracardiac thrombus. A. Transesophageal echocardiographic
+image demonstrates thrombus within the left atrial appendage. (Courtesy of Scott Streckenbach, MD,
+Massachusetts General Hospital, Boston, MA.) B Schematic drawing of same image. LA, left atrium; LAA, left
+atrial appendage.
+more sensitive than TTE for detecting features of endocarditis, such as vegetations and myo-
+cardial abscesses.
+
+TEE is commonly used to evaluate patients with cerebral ischemic events (1.e., strokes) of
+unexplained etiology, because it can identify cardiovascular sources of embolism with high
+sensitivity. These etiologies include intracardiac thrombi or tumors, atherosclerotic debris
+within the aorta, and valvular vegetations. TEE is also highly sensitive and specific for the
+detection of aortic dissection.
+
+In the operating room, TEE permits immediate evaluation after surgical repair of cardiac
+lesions. In addition, imaging of ventricular wall motion can identify periods of myocardial
+ischemia during surgery.
+
+New ultrasound modalities include 3D echocardiography and intracardiac echocardiog-
+raphy. The spatial reconstructions afforded by 3D echo are of particular benefit in the assess-
+ment of valvular defects, intracardiac masses, and congenital malformations. Intracardiac
+echo utilizes a transducer mounted on a catheter to provide imaging during interventional
+procedures in the cardiac catheterization laboratory.
+
+Contrast echocardiography is sometimes used to supplement standard imaging to evalu-
+ate for abnormal intracardiac shunts. In this technique, often called a “bubble study,” an
+echocardiographic contrast agent (e.g., agitated saline) is rapidly injected into a peripheral
+vein. Using standard imaging, the contrast can be visualized passing through the cardiac
+chambers. Normally, there is rapid opacification of the right-sided chambers, but because
+the contrast is filtered out (harmlessly) in the lungs, it does not reach the left-sided cham-
+bers. However, in the presence of an intracardiac shunt with abnormal right-to-left heart
+blood f ow, or in the presence of an intrapulmonary shunt, bubbles of contrast will appear
+in the left-sided chambers as well. Newer perf uorocarbon-based contrast agents have been
+developed with sufficiently small particle size to intentionally pass through the pulmonary
+circulation. These agents are used to opacify the left ventricular cavity and, via the coronary
+arteries, the myocardium, enabling superior assessment of LV contraction and myocardial
+perfusion.
+
+Echocardiographic techniques can identify valvular lesions, complications of coro-
+nary artery disease (CAD), septal defects, intracardiac masses, cardiomyopathy, ven-
+tricular hypertrophy, pericardial disease, aortic disease, and congenital heart disease.
+52 chapter 3
+“=o ar)
+= : = = ~~ LJ
+= a
+Yl bas S ' -_ - F . = >, - — :
+LV = LV —_
+LVOT
+3S —— “ mo > r al ,
+~ a ~ 5 —
+= LA = LA
+~ = =
+— = —_ — ~ ee “ee a
+A B
+HGURE3-10. Left ventricular outf ow tract (LVOD obstruction in hypertrophic cardiomyopathy—
+parastemal long-axis view. Notice that the interventricular septum (S) is thicker and more echogenic than the
+posterior wall (P). A. Before ventricular contraction, the LVOM is only slightly narrowed. B During contraction,
+the rapidly f owing blood through the LVI incites a Venturi effect and abnormally draws the mitral valve
+anteriorly toward the hypertrophied septum (arrow), creating a functional obstruction. LA, left atrium; LY left
+ventricle.
+Typical evaluation includes assessment of cardiac chamber sizes, wall thicknesses, wall
+motion, valvular function, blood fow, and intracardiac hemodynamics. A few of these
+topics are highlighted here.
+Echocardiography allows measurement of ventricular wall thickness and mass (Fig. 3-10)
+and calculation of the ejection fraction, a measure of contractile function (see Chapter 9).
+Furthermore, 2D echocardiography depicts regional ventricular wall motion abnormalities, a
+sign of CAD, and displays right ventricular function qualitatively.
+
+Diastolic dysfunction (e.g., caused by ischemic disease, ventricular hypertrophy, or restric-
+tive cardiomyopathy; see Chapter 9) can be evaluated by Doppler techniques. For example,
+Doppler tissue imaging is a modality that can readily record the maximum velocity of mitral
+annular movement in early diastole, an indicator of the left ventricle’s ability to relax nor-
+mally. Doppler measurement of f ow velocity across the mitral valve in early, compared with
+late, diastole also provides information about diastolic function.
+
+Echocardiography can determine underlying causes of valvular abnormalities, and Doppler
+imaging quantitates the degree of valvular stenosis and regurgitation. The pressure gradient
+across a stenotic valve can be calculated from the maximum blood f ow velocity (v) measured
+distal to the valve, using the simplified Bernoulli equation:
+
+Pressure gradient =4 x v”
+Cardiac Imaging and Gtheterization 53
+@ (7) As an example, if the peak velocity recorded dis-
+tal to a stenotic aortic valve is 5 m/sec, then the
+calculated peak pressure gradient across the valve =
+4x 5*= 100 mm Hg.
+Other calculations permit noninvasive determina-
+V2 tion of the cross-sectional area of stenotic valves. The
+continuity equation is often used to calculate aortic
+AI Ab valve area. This equation assumes that blood f ow (F,
+expressed in cc/sec) is the same at the aortic valve
+ALX VI = A2 x V2 orifice (AV) as at a neighboring position along the
+FIGURE 3-11. The continuity equation. Within fow stream (e.g., in the LVOT):
+a closed fow stream, the volume rate of f ow at
+any point (calculated as the cross-sectional area Fivor = Fay
+at that site multiplied by the fow velocity at the . . .
+same location) is equal to the volume rate of fow As shown in Figure 3-11, blood fow at any posi-
+at sequential points. Thus, cross-sectional area and tion along a f ow stream can also be expressed as the
+velocity at any location are inversely proportional product of the Doppler velocity (V, in cm/sec) and
+to one another. Here, location 2 is narrower than cross-sectional area (A, in cm’) at that level. If loca-
+location 1. Therefore, the velocity at location 2 must tion 1 in Figure 3-11 represents a position in the LVOT
+me greater for the same volume to pass per unit and location 2 represents the aortic valve, then
+ime.
+Avvor * Vivor = Aayv * Vay
+
+The cross-sectional area of the LVOT (Ajyor) is calculated simply as a(d/2)*, where d repre-
+sents the LVOT diameter, measured from the parasternal long-axis view. The velocities (V,yor
+and Vay) are measured by Doppler interrogation, from the apical four-chamber view. The
+equation can then be solved for the aortic valve area (Any):
+
+Awy _— Awvor * Vivor
+Vay
+
+Color Doppler analysis provides a qualitative assessment of the severity of regurgitant valve
+lesions. In mitral regurgitation (see Fig. 3-7), for example, the ratio of the regurgitant jet color
+Doppler area to the entire left atrial area has traditionally been used to classify the regurgita-
+tion as mild, moderate, or severe. More quantitative evaluation of mitral regurgitation can now
+be performed by what is known as the proximal isovelocity surface area (PISA) method. This
+technique uses advanced color Doppler techniques to calculate the regurgitant volume and
+effective regurgitant orifice area, two values that predict clinical outcomes in patients with
+chronic mitral regurgitation.
+
+@ronary Artery Disease
+Echocardiography demonstrates ventricular wall motion abnormalities associated with
+infarcted or ischemic myocardium. The location and degree of abnormal systolic contrac-
+tion and decreased systolic wall thickening indicate the extent of an infarction and implicate
+the responsible coronary artery. Echocardiography also detects complications of infarction
+including thrombus formation, papillary muscle rupture, ventricular septal rupture, and
+aneurysm.
+
+Although echocardiography can depict those consequences of CAD, transthoracic echo
+resolution in adults is insufficient to satisfactorily image the coronary arteries themselves.
+However, stress echocardiography is a technique that aids in the diagnosis of CAD. This
+technique visualizes left ventricular regional wall motion abnormalities that are induced by
+exercise, or the infusion of specific pharmacologic agents (e.g., dobutamine), as a sign of
+myocardial ischemia (see Chapter 6).
+54 chapter 3
+Cardiomyopathies are heart muscle disorders that include dilated, hypertrophic, and restric-
+tive forms (see Chapter 10). Echocardiography can distinguish these and permits assessment
+of the severity of systolic and diastolic dysfunction. For example, Figure 3-10 depicts asym-
+metrically thickened ventricular walls in a patient with hypertrophic cardiomyopathy.
+Two-dimensional echocardiography can identify abnormalities in the pericardial cavity
+(e.g., excessive pericardial fuid and tumor). Tamponade and constrictive pericarditis, the
+main complications of pericardial disease (see Chapter 14), are associated with particular
+echocardiographic abnormalities. In tamponade, the increased intrapericardial pressure com-
+presses the cardiac chambers and results in diastolic “collapse” of the right atrium and right
+ventricle (Fig. 3-12). Constrictive pericarditis is associated with increased thickness of the
+pericardial echo, abnormal patterns of diastolic left ventricular wall motion, alterations in
+pulmonary and hepatic venous f ow patterns, and exaggerated changes in mitral and tricuspid
+valve inf ow velocities during respiration.
+Table 3-2 summarizes the echocardiographic features of common cardiac diseases.
+RV. a
+LV — y
+PE = ‘ —— :
+| : Zz ~~ | — “a \
+— : JPEG f ‘ f — =
+ee 4 et wl =
+A B
+Liver =. -*; NG
+RA
+> LV = ce
+er =
+Cc D
+HGURE3-12. Echocardiogram of a patient with a pericardial effusion causing cardiac tamponade.
+A. Parasternal long-axis image showing a large pericardial effusion (PE) surrounding the heart. This frame
+was obtained in systole and shows normal appearance of the left (LV) and right (RV) ventricles during that
+phase. B Same image as (A), but this frame was obtained in early diastole and shows collapse of the RV free
+wall (arrow) due to compression by the effusion. C Subcostal view, obtained in systole, demonstrating the
+PE surrounding the right atrium (RA), RV left atrium (LA), and LV D. Same image as (O, obtained during
+diastole, showing inward collapse of the RA (arrow).
+Cardiac Imaging and Gatheterization 55
+Disorder Findings
+Valvular lesions
+Mtral stenosis * Fnlarged left atrium
+
+* Thickened mitral valve leaf ets
+
+* Decreased movement and separation of mitral valve leaf ets
+
+* Decreased mitral valve orifice
+
+Mtral regurgitation * Enlarged left atrium (if chronic)
+° Enlarged left ventricle (if chronic)
+° Systolic f ow from left ventricle into left atrium by Doppler
+Aortic stenosis * Thickened aortic valve cusps
+* Decreased valve orifice
+* Increased left ventricular wall thickness
+Aortic regurgitation * Enlarged left ventricle
+e Abnormalities of aortic valve or aortic root
+left ventricular function
+Myocardial infarction and complications * Abnormal regional ventricular wall motion
+
+° Thrombus within left ventricle
+
+° Aneurysm of ventricular wall
+
+* Septal rupture (abnormal Doppler f ow)
+
+* Papillary muscle rupture
+
+Cardiomyopathies
+Dilated * Fnlarged ventricular chamber sizes
+* Decreased systolic contraction
+Hypertrophic * Normal or decreased ventricular chamber sizes
+° Increased ventricular wall thickness
+* Diastolic dysfunction (assessed by Doppler)
+Restrictive * Normal or decreased ventricular chamber sizes
+
+° Increased ventricular wall thickness
+
+* Ventricular contractile function may be abnormal
+
+* Diastolic dysfunction (assessed by Doppler)
+
+* Fnlarged atria (often markedly so)
+a
+CARDIAC CATHETERIZATION
+
+To diagnose many cardiovascular abnormalities, intravascular catheters are inserted to mea-
+sure pressures in the heart chambers, to determine cardiac output and vascular resistances,
+and to inject radiopaque material to examine heart structures and blood f ow. In 1929, Werner
+Forssmann performed the first cardiac catheterization, on himself, thus ushering in the era of
+invasive cardiology. Much of what is known about the pathophysiology of valvular heart dis-
+ease and congestive heart failure comes from decades of subsequent hemodynamic research
+in the cardiac catheterization laboratory.
+Measurement of Pressure
+
+Before catheterization of an artery or vein, the patient is mildly sedated, and a local anes-
+thetic is used to numb the skin site of catheter entry. The catheter, attached to a pres-
+sure transducer outside the body, is then introduced into the appropriate blood vessel. To
+measure pressures in the right atrium, right ventricle, and pulmonary artery, a catheter is
+56 Chapter 3
+Aorta
+Z> PCW
+ fioo-140 , 2-10
+W 90 yom
+PA
+RA 15-30 HGURE3-13. Diagrams indicating
+4-12 normal pressures in the cardiac
+LV chambers and great vessels. The top
+2-8 100-140 f gure shows the normal anatomic
+RV “3-12 relationship of the cardiac chambers
+and great vessels, whereas the f gure
+ss on the bottom shows a simplif ed
+- schematic to clarify the pressure
+relationships. Numbers indicate
+pressures in mm Hg. LA left atrial
+mean pressure; LV left ventricular
+pressure; PA, pulmonary artery
+RA RV PA Lungs LA LV Aorta pressure; PCW pulmonary capillary
+7-8 15-30 15-30 PCW 2-10 100-140 ~ 100-140 wedge mean pressure; RA, right atrial
+_ 2-8 4—12 2-10 3-12 60-90 mean pressure; RV right ventricular
+pressure.
+inserted into a femoral, brachial, or jugular vein. Pressures in the aorta and left ventricle
+are measured via catheters inserted into a radial, brachial, or femoral artery. Once in the
+blood vessel, the catheter is guided by fuoroscopy (continuous x-ray images) to the area of
+study, where pressure measurements are made. Figure 3-13 depicts normal intracardiac and
+intravascular pressures.
+
+The measurement of right heart pressures is performed with a specialized balloon-tipped
+catheter (a common version of which is known as the Swan—Ganz catheter) that is advanced
+through the right side of the heart with the aid of normal blood f ow, and into the pulmonary
+artery. As it travels through the right side of the heart, recorded pressure measurements iden-
+tify the catheter tip’s position (see Box 3-1).
+ee
+
+BOX3-1 — Intracardiac Pressure Tracings
+
+When a catheter is inserted into a systemic vein and advanced into the right side of the heart,
+
+each cardiac chamber produces a characteristic pressure curve. It is important to distinguish these
+
+recordings from one another to localize the position of the catheter tip and to derive appropriate
+
+physiologic information.
+ECG, OA
+, Right ventricle Pulmonary artery
+20 |
+Pulmonary capillary wedge
+av
+10
+Right atrium
+ac V
+y
+Time
+Cardiac Imaging and Gatheterization 57
+a
+
+BOX3-1 = Intracardiac Pressure Tracings (continued)
+
+The normal right atrial (RA) pressure demonstrates three positive def ections (see the figure
+in Box 2.1 for an enlarged view): the a wave ref ects RA contraction at the end of diastole, the
+c wave results from bulging of the tricuspid valve toward the right atrium as it closes in early
+systole, and the v wave represents passive filling of the right atrium from the systemic veins
+during systole, when the tricuspid valve is closed. The downward def ection that follows the c wave
+is known as the x descent, and the downward def ection after the v wave is called the y descent.
+
+Often the a and c waves merge so that only two major positive def ections are seen. In patients
+
+with atrial fibrillation, the a wave is absent because there is no organized left atrial contraction.
+
+As the catheter is advanced into the right ventricle (RV), a dramatic increase in systolic
+pressure is seen. The RVsystolic waveform is characterized by a rapid upstroke and downstroke. In
+diastole, there is a gradual continuous increase in RVpressure as the chamber fills with blood.
+
+As the catheter is moved forward into the pulmonary artery (PA), the systolic pressure remains
+the same as that in the RV(as long as there is no obstruction to RVoutf ow, such as pulmonic
+valve stenosis). However, three characteristics of the recording indicate entry into the pulmonary
+artery: (1) the PA diastolic pressure is higher than that of the RV, (2) the descending systolic
+portion of the PA tracing inscribes a dicrotic wave, a small transient pressure increase that occurs
+after the systolic peak and is related to pulmonic valve closure; and (3) the diastolic portion of
+the PA tracing is downsloping compared with the upsloping RV diastolic pressure.
+
+Further advancement of the catheter into a branch of the pulmonary artery results in the
+pulmonary capillary wedge (PCW) tracing, which ref ects the left atrial pressure (Fig. 3-14). Its
+characteristic shape is similar to the RA tracing, but the pressure values are usually higher, and
+the tracing is often less clear (with the c wave not observed) because of damped transmission
+through the capillary vessels.
+
+Right Atrial Pressure
+
+Right atrial pressure is equal to the central venous pressure (estimated by the jugular venous
+pressure on physical examination) because no obstructing valves impede blood return from
+the central veins into the right atrium. Similarly, right atrial pressure normally equals right
+ventricular pressure during diastole because the right heart functions as a “common cham-
+ber” when the tricuspid valve is open. The mean right atrial pressure is reduced when there is
+intravascular volume depletion. It is elevated in right ventricular failure, right-sided valvular
+disease, and cardiac tamponade (in which the cardiac chambers are surrounded by high-
+pressure pericardial f uid; see Chapter 14).
+
+Certain abnormalities cause characteristic changes in individual components of the right
+atrial (and therefore jugular venous) pressure (Table 3-3). For example, a prominent a wave
+is seen in tricuspid stenosis and right ventricular hypertrophy. In these conditions, the right
+atrium contracts vigorously against the obstructing tricuspid valve or stiffened right ventricle,
+respectively, generating a prominent pressure wave. Similarly, amplified “cannon” a waves
+may be produced by conditions of atrioventricular dissociation (see Chapter 12), when the
+right atrium contracts against a closed tricuspid valve. A prominent v wave is observed in
+tricuspid regurgitation because normal right atrial filling is augmented by the regurgitated
+blood in systole.
+
+Right Ventricular Pressure
+Right ventricular systolic pressure is increased by pulmonic valve stenosis or pulmonary
+hypertension. Right ventricular diastolic pressure increases when the right ventricle is sub-
+jected to pressure or volume overload and may be a sign of right heart failure.
+58 chapter 3
+Chamber and Measurement Quses
+Right atrial pressure * Right ventricular failure
+* Grrdiac tamponade
+a wave * Tricuspid stenosis
+* Right ventricular hypertrophy
+¢ Atrioventricular dissociation
+v wave * Tricuspid regurgitation
+Right ventricular pressure
+Systolic * Pulmonic stenosis
+* Pulmonary hypertension
+Dastolic * Right ventricular failure
+* Grrdiac tamponade
+* Right ventricular hypertrophy
+Pulmonary artery pressure
+Systolic and diastolic * Pulmonary hypertension
+* Left-sided heart failure
+* Chronic lung disease
+* Pulmonary vascular disease
+Systolic only * Increased f ow (left-to-right shunt)
+Pulmonary artery wedge pressure ° Left-sided heart failure
+* Mtral stenosis or regurgitation
+* Grrdiac tamponade
+a wave ° Left ventricular hypertrophy
+Vv wave * Mtral regurgitation
+* Ventricular septal defect
+EET
+Pulmonary Artery Pressure
+Elevation of systolic and diastolic pulmonary artery pressures occurs in three conditions: (1) left-
+sided heart failure, (2) parenchymal lung disease (e.g., chronic bronchitis or end-stage emphy-
+sema), and (3) pulmonary vascular disease (e.g., pulmonary embolism, primary pulmonary
+hypertension, or acute respiratory distress syndrome). Normally, the pulmonary artery diastolic
+pressure is equivalent to the left atrial pressure because of the low resistance of the pulmonary
+vasculature that separates them. If the left atrial pressure rises because of left-sided heart failure,
+both systolic and diastolic pulmonary artery pressures increase in an obligatory manner to main-
+tain forward f ow through the lungs. This situation leads to “passive” pulmonary hypertension.
+In certain conditions, however, pulmonary vascular resistance becomes abnormally high,
+causing pulmonary artery diastolic pressure to be elevated compared with left atrial pressure.
+For example, pulmonary vascular obstructive disease may develop as a complication ofa chronic
+left-to-right cardiac shunt, such as an atrial or ventricular septal defect (see Chapter 16).
+Pulmonary Artery Wedge Pressure
+If a catheter is advanced into the right or left pulmonary artery, its tip will ultimately reach one
+of the small pulmonary artery branches and temporarily occlude forward blood f ow beyond it.
+During that time, a column of stagnant blood stands between the catheter tip and the portions
+of the pulmonary capillary and pulmonary venous segments distal to it (Fig. 3-14). That column
+of blood acts as an extension of the catheter, and the pressure recorded through the catheter
+ref ects that of the downstream chamber—namely, the left atrium. Such a pressure measure-
+ment is termed the pulmonary artery wedge pressure or pulmonary capillary wedge pressure
+Cardiac Imaging and Gatheterization 59
+: Wa, CAS, VA ws —
+AS aS
+\Y \4 > LA
+a FK DK OK EN
+Pulmonary | Ca= er a and hn
+artery catheter \ C ol KES, y) A pulmonary
+Mv, F v4 vein
+SSS
+
+Catheter tip == a This area represents
+
+occludes branch Faw “column of blood” between
+
+of pulmonary artery catheter tip and LA
+
+Pulmonary
+capillaries
+
+HGURE3-14. Diagram of a pulmonary artery catheter inserted into a branch of the pulmonary artery
+(PA). How is occluded in the arterial, arteriolar, and capillary vessels beyond the catheter; thus, these vessels
+act as a conduit that transmits the left atrial (LA) pressure to the catheter tip.
+(PCW) and closely matches the left atrial pressure in most individuals. Furthermore, while the
+mitral valve is open during diastole, the pulmonary venous bed, left atrium, and left ventricle
+normally share the same pressures. Thus, the PCW can be used to estimate the left ventricular
+diastolic pressure, a measurement of ventricular preload (see Chapter 9). As a result, measure-
+ment of PCW may be useful in managing certain critically ill patients in the intensive care unit.
+
+Elevation of the mean PCW is seen in left-sided heart failure and in mitral stenosis or regur-
+gitation. The individual components of the PCW tracing can also become abnormally high.
+The a wave may be increased in conditions of decreased left ventricular compliance, such as
+left ventricular hypertrophy or acute myocardial ischemia, and in mitral stenosis. The v wave
+is greater than normal when there is increased left atrial filling during ventricular contraction,
+as in mitral regurgitation.
+
+Measurement of Blood How
+Cardiac output is measured by either the thermodilution method or the Fick technique. In the
+thermodilution method, saline of a known temperature is injected rapidly through a catheter
+side port into the right side of the heart, at a specific distance from the distal tip of the cath-
+eter. The catheter tip, positioned in the pulmonary artery, contains a thermistor that registers
+the change in temperature induced by the injected saline. The cardiac output is proportional
+to the rate of the temperature change and is automatically calculated by the equipment.
+
+The Fick method relies on the principle that the quantity of oxygen consumed by tissues
+is related to the amount of O, content removed from blood as it fows through the tissue
+capillary bed:
+
+O, consumption = O, content removed x Flow
+mLO, mLO, mL blood
+min mL blood min
+Or, in more applicable terms:
+O,; consumption = AVO, difference <x Cardiac output
+where the arteriovenous O, (AVO,) difference equals the difference in oxygen content between
+the arterial and venous compartments. Total body oxygen consumption can be determined by
+analyzing expired air from the lungs, and arterial and venous O, content is measured in blood
+samples. By rearranging the terms, the cardiac output can be calculated:
+; O, consumption
+Cardiac output = ase
+AVO, difference
+60 Chapter 3
+For example, if the arterial blood in a normal adult contains 190 mL of O, per liter and the
+venous blood contains 150 mL of O, per liter, the arteriovenous difference is 40 mL of O, per
+liter. If this patient has a measured O, consumption of 200 mL/min, the calculated cardiac
+output is 5 L/min.
+
+In many forms of heart disease, the cardiac output is lower than normal. In that situa-
+tion, the total body oxygen consumption does not change significantly; however, a greater
+percentage of O, is extracted per volume of circulating blood by the metabolizing tissues.
+The result is a lower-than-normal venous O, content and therefore an increased AVO, dif-
+ference. In our example, if the patient’s venous blood O, content fell to 100 mL/L, the AVO,
+difference would increase to 90 mL/L and the calculated cardiac output would be reduced
+to 2.2 L/min.
+
+Because the normal range of cardiac output varies with a patient’s size, it is common to
+report the cardiac index, which is equal to the cardiac output divided by the patient’s body
+surface area (normal range of cardiac index = 2.6 — 4.2 L/min/m_’).
+
+Qiiculation of Vascular Resistance
+Once pressures and cardiac output have been determined, pulmonary and systemic vas-
+cular resistances can be calculated, based on the principle that the pressure difference
+across a vascular bed is proportional to the product of fow and resistance. The calcula-
+tions are:
+pvr = MPAP —LAP | 30
+CO
+PVR, pulmonary vascular resistance (dynes-sec-cm °)
+MPAP, mean pulmonary artery pressure (mm Hg)
+LAP, mean left atrial pressure (mm Hg)
+CO, cardiac output (L/min)
+SVR = MAP — RAP x 80
+CO
+SVR, systemic vascular resistance (dynes-sec-cm °*)
+MAP, mean arterial pressure (mm Hg)
+RAP, mean right atrial pressure (mm Hg)
+CO, cardiac output (L/min)
+
+The normal PVR ranges from 20 to 130 dynes-sec-cm’*. The normal SVR is 700 to 1,600
+
+dynes-sec-cm °.
+
+Contrast Angiography
+This technique uses radiopaque contrast to visualize regions of the cardiovascular system.
+A catheter is introduced into an appropriate vessel and guided under fuoroscopy to the site
+of injection. Following administration of the contrast agent, x-rays are transmitted through
+the area of interest. A continuous series of x-ray exposures is recorded to produce a motion
+picture cineangiogram (often simply called a “cine” or “angiogram”).
+
+Selective injection of contrast into specific heart chambers can be used to identify valvular
+insufficiency, intracardiac shunts, thrombi within the heart, congenital malformations, and
+to measure ventricular contractile function (Fig. 3-15). However, the noninvasive techniques
+described in this chapter (e.g., echocardiography) have largely supplanted the need for inva-
+sive contrast angiography for these purposes.
+Cardiac Imaging and Catheterization 61
+-
+Fa *
+4
+r
+
+A B
+HGURE3-15. Left ventriculogram, in diastole (A) and systole (B) in the right anterior oblique projection,
+from a patient with normal ventricular contractility. A catheter (black arrow) is used to inject contrast into
+the left ventricle (LV). The catheter can also be seen in the descending aorta (white arrowhead). AQ aortic root.
+
+An important and widespread application of contrast injection is coronary artery angiog-
+raphy, to examine the location and severity of coronary atherosclerotic lesions. To maximize
+the test’s sensitivity and reproducibility, each patient is imaged in several standard views.
+When necessary, angioplasty and stent placement can be performed (Figs. 3-16 and 3-17;
+see Chapter 6).
+
+- LCX™
+
+-
+| iy a
+, >
+a ‘ Diagonal —_
+LAD 7
+LAD branch \
+Septal
+perforators
+J
+
+A B
+HGURE3-16. Cardiac catheterization and stenting of a proximal left anterior descending artery (LAD)
+stenosis, shown in an anteroposterior cranial projection. A. When contrast agent is injected into the left main
+coronary artery (LM), the left circumf ex artery (LC¥) fills normally, but the LADis almost completely occluded at
+its origin (white arrow). B After the stenosis is successfully stented, the LAD and its branches fill robustly.
+62 chapter 3
+| = ty --
+S “ & — s -
+lat
+
+A B
+HGURE3-17. Cardiac catheterization and stenting of right coronary artery (RCA) stenoses. Both
+images are obtained in the left anterior oblique (LAO) projection. A. The stenotic segment is located between
+the white arrows. B, After stenting, the caliber of the vessel and f ow have improved.
+
+A small risk is associated with catheterization and contrast angiography. Complications are
+uncommon but include myocardial perforation by the catheter, precipitation of arrhythmias
+and conduction blocks, damage to vessel walls, hemorrhage, dislodgement of atherosclerotic
+plaques, pericardial tamponade (see Chapter 14), and infection. The contrast medium itself
+can cause anaphylaxis and renal toxicity.
+
+Table 3-4 summarizes the catheterization findings in common cardiac abnormalities.
+Therapeutic interventional catheterization techniques are described in Chapter 6.
+
+Heart function can be evaluated using injected, radioactively labeled tracers and y-camera
+detectors. The resulting images ref ect the distribution of the tracers within the cardiovascular
+system. Nuclear techniques are used to assess myocardial perfusion, to image blood passing
+through the heart and great vessels, to localize and quantify myocardial ischemia and infarc-
+tion, and to assess myocardial metabolism.
+TABLE 3-4
+Disorder Finding
+Qronary artery disease * Identification of atherosclerotic lesions
+Mitral regurgitation * Large systolic v wave in left atrial pressure tracing
+Mitral stenosis * Abnormally high pressure gradient between the left atrium and left
+ventricle in diastole
+Tricuspid insuff ciency * Large systolic v wave in the right atrial pressure tracing
+Aortic stenosis * Systolic pressure gradient between the left ventricle and aorta
+Heart failure * Reduced ejection fraction (see Chapter 9) if systolic dysfunction
+* Hevated diastolic pressure with normal ejection fraction if diastolic
+dysfunction
+eee
+Cardiac Imaging and Gtheterization 63
+
+Assessment of Myocardial Perfusion
+Ischemia and infarction resulting from CAD can be detected by myocardial perfusion imag-
+ing using various radioisotopes, including compounds labeled with thallium-201 (*'Tl) and
+technetium-99m (°'"Tc). Of the latter, currently, °'"Tc-sestamibi and *™Te-tetrofosmin are
+used. Both 7" Tl- and ”™Tc-labeled compounds are sensitive for the detection of ischemic or
+scarred myocardium, but each has distinct advantages. For example, the °™Tc-labeled agents
+provide better image quality and are superior for detailed single photon emission computed
+tomography (SPECT, as in Fig. 3-18). Conversely, enhanced detection of myocardial cellular
+
+viability is possible with *"'Tl imaging.
+
+In the case of *'Tl imaging, the radioisotope is injected intravenously while the patient
+exercises on a treadmill or stationary bicycle. Because thallium is a potassium analogue, it
+enters normal myocytes, a process thought to be partially governed by sodium-—potassium
+ATPase. The intracellular concentration of thallium, estimated by the density of the image,
+depends on vascular supply (perfusion) and membrane function (tissue viability). In the
+normal heart, the radionuclide scan shows a homogenous distribution of thallium in the
+
+SHORT AXIS
+
+r \
+Sees _
+- Pry
+B
+HORIZONTAL
+| LONG AXIS
+Nx
+STRESS
+“ [|
+- 4.
+Cc
+
+HGURE3-18. Stress and rest myocardial perfusion single photon emission computed tomography
+images (using °°"K-tetrofosmin) of a patient with a high-grade stenosis within the proximal
+left anterior descending coronary artery. A. Miniaturized reproduction of the complete scan showing
+tomographic images in each of the three views (from top to bottom: short axis, vertical long axis, and
+horizontal long axis). The frst, third, and f {th rows demonstrate images during stress, and the second, fourth,
+and sixth rows are matching images acquired at rest. B, C Enlarged selected panels from (A) showing stress
+and rest images in the short-axis and horizontal long-axis views. The arrows indicate regions of decreased
+perfusion during stress but normal perfusion on the matching resting scans, consistent with inducible
+ischemia. Lat, lateral wall of the LV; Sep, septal wall. (Gourtesy of Marcelo Di Garli, MD, Brigham and Women’s
+Hospital, Boston, MA.)
+64 chapter 3
+myocardial tissue. Conversely, myocardial regions that are scarred (by previous infarction) or
+have reduced perfusion during exercise (i.e., transient myocardial ischemia) do not accumu-
+late as much thallium as normal heart muscle. Consequently, these areas will appear on the
+thallium scan as light or “cold” spots.
+
+When evaluating for myocardial ischemia, an initial set of images is taken right after exer-
+cise and *"TI injection. Well-perfused myocardium will take up more tracer than ischemic or
+infarcted myocardium at this time. Delayed images are acquired several hours later, because
+°'T] accumulation does not remain fixed in myocytes. Rather, continuous redistribution of the
+isotope occurs across the cell membrane. After 3 to 4 hours of redistribution, when additional
+images are obtained, all viable myocytes will have equal concentrations of *"'Tl. Consequently,
+any uptake abnormalities on the initial exercise scan that were caused by myocardial ischemia
+will have resolved (i.e., filled in) on the delayed scan (and are therefore termed “reversible”
+defects), and those representing infarcted or scarred myocardium will persist as cold spots
+(“fixed” defects).
+
+Of note, some myocardial segments that demonstrate persistent *"'Tl defects on both
+stress and redistribution imaging are falsely characterized as nonviable, scarred tissue.
+Sometimes, these areas represent ischemic, noncontractile, but metabolically, active areas
+that have the potential to regain function if an adequate blood supply is restored. For
+example, such areas may represent hibernating myocardium, segments that demonstrate
+diminished contractile function owing to chronic reduction of coronary blood fow (see
+Chapter 6). This viable state (in which the affected cells can be predicted to regain function
+following coronary revascularization) can often be differentiated from irreversibly scarred
+myocardium by repeat imaging at rest after the injection of additional *"Tl to enhance
+uptake by viable cells.
+
+*°™Tc-sestamibi (commonly referred to as MIBI) is an example of a widely used *™Tc-
+labeled compound. This agent is a large lipophilic molecule that, like thalltum, is taken up in
+the myocardium in proportion to blood f ow. The uptake mechanism differs in that the com-
+pound crosses the myocyte membrane passively, driven by the negative membrane potential.
+Once inside the cell, it further accumulates in mitochondria, driven by that organelle’s even
+more negative membrane potential. The myocardial distribution of MIBI ref ects perfusion at
+the moment of injection, and in contrast to thallium, it remains fixed intracellularly, that is,
+it redistributes only minimally over time. Consequently, performing a MIBI procedure is more
+f exible, as images can be obtained up to 4 to 6 hours after injection and repeated as neces-
+sary. A MIBI study is usually performed as a 1-day protocol in which an initial injection of a
+small tracer dose and imaging are performed at rest. Later, a larger tracer dose is given after
+exercise, and imaging is repeated.
+
+Stress nuclear imaging studies with either *"Tl- or *™Tc-labeled compounds have
+greater sensitivity and specificity than standard exercise electrocardiography for the detec-
+tion of ischemia but are more expensive and should be ordered judiciously. Nuclear imag-
+ing is particularly appropriate for patients with certain baseline electrocardiogram (ECG)
+abnormalities of the ST segment that preclude accurate interpretation of a standard exer-
+cise test. Examples include patients with electronic pacemaker rhythms, those with left
+bundle branch block, those with ST abnormalities due to left ventricular hypertrophy, and
+those who take certain medications that alter the ST segment, such as digoxin. Nuclear
+scans also provide more accurate anatomic localization of the ischemic segment(s) and
+quantification of the extent of ischemia compared with standard exercise testing. In addi-
+tion, electronic synchronizing (gating) of nuclear images to the ECG cycle permits wall
+motion analysis.
+
+Patients with orthopedic or neurologic conditions, as well as those with severe physical
+deconditioning or chronic lung disease, may be unable to perform an adequate exercise test
+on a treadmill or bicycle. In such patients, stress images can be obtained instead by adminis-
+tering pharmacologic agents, such as adenosine or dipyridamole. These agents induce diffuse
+Cardiac Imaging and Catheterization 65
+coronary vasodilation, augmenting blood fow to myocardium perfused by healthy coronary
+arteries. Since ischemic regions are already maximally dilated (because of local metabolite
+accumulation), the drug-induced vasodilation causes a “steal” phenomenon, reducing isotope
+uptake in regions distal to significant coronary stenoses (see Chapter 6). Alternatively, dobu-
+tamine (see Chapter 17) can be infused intravenously to increase myocardial oxygen demand
+as a means to assess for ischemia.
+
+Radionuclide Ventriculography
+
+Radionuclide ventriculography (RVG, also known as blood pool imaging) is occasionally used
+to analyze right and left ventricular function. A radioisotope (usually °™Tc) is bound to red
+blood cells or to human serum albumin and then injected as a bolus. Nuclear images are
+obtained at fixed time intervals as the labeled material passes through the heart and great
+vessels. Multiple images are displayed sequentially to produce a dynamic picture of blood
+fow. Calculations, such as determination of the ejection fraction, are based on the difference
+between radioactive counts present in the ventricle at the end of diastole and at the end of
+systole. Therefore, measurements are largely independent of any assumptions of ventricular
+geometry and are highly reproducible. Studies suggest that RVG and echocardiography pro-
+vide similar left ventricular ejection fraction values.
+
+RVG has been used historically to assess baseline cardiac function in patients scheduled to
+undergo potentially cardiotoxic chemotherapy (e.g., doxorubicin) and to follow cardiac func-
+tion over time in such patients. However, echocardiography is usually easier to perform, does
+not expose the patient to ionizing radiation, and now commonly serves this role.
+
+Assessment of Myocardial Metabolism
+Positron emission tomography (PET) is a specialized nuclear imaging technique used to assess
+myocardial perfusion and viability. PET imaging employs positron-emitting isotopes (e.g.,
+rubidium-82, nitrogen-13, and fuorine-18) attached to metabolic or fow tracers. Sensitive
+detectors measure positron emission from the tracer molecules.
+
+Myocardial perfusion is commonly assessed using nitrogen-13—labeled ammonia or rubid-
+ium-82. Both are taken up by myocytes in proportion to blood fow. Myocardial viability
+can be determined by PET by studying glucose utilization in myocardial tissue. In normal
+myocardium under fasting conditions, glucose is used for approximately 20% of energy pro-
+duction, with free fatty acids providing the remaining 80%. In ischemic conditions, however,
+metabolism shifts toward glucose use, and the more ischemic the myocardial tissue, the
+stronger the reliance on glucose. Fluoro-18 deoxyglucose ('SFDG), created by substituting
+fuorine-18 for hydrogen in 2-deoxyglucose, is used to study glucose uptake. This substance
+competes with glucose both for transport into myocytes and for subsequent phosphoryla-
+tion. Unlike glucose, however, '*FDG is not metabolized and becomes trapped within the
+myocyte.
+
+Combined evaluation of perfusion and '*FDG metabolism allows assessment of both
+regional blood fow and glucose uptake, respectively. PET scanning thus helps determine
+whether areas of ventricular contractile dysfunction with decreased f ow represent irrevers-
+ibly damaged scar tissue or whether the region is still viable (e.g., hibernating myocardium).
+In scar tissue, both blood f ow to the affected area and '*FDG uptake are decreased. Because
+the myocytes in this region are permanently damaged, such tissue is not likely to benefit
+from revascularization. Hibernating myocardium, in contrast, shows decreased blood fow
+but normal or elevated '*FDG uptake. Such tissue may benefit from revascularization proce-
+dures (see Chapter 6).
+
+Table 3-5 summarizes the radionuclide imaging abnormalities associated with common
+cardiac conditions.
+66 Chapter 3
+Disorder Findings
+Myocardial ischemia
+Stress-delayed reinjection 7°'Tl * Low uptake during stress with complete or partial fill-in with
+delayed or reinjection images
+Rest—stress ™Tc-labeled compounds * Normal uptake at rest with decreased uptake during stress
+PET (N-13 ammonia/ 'SFDG) * Decreased f ow with normal or increased '*FDGuptake during stress
+Myocardial infarction
+Stress-delayed reinjection *°'Tl * Low uptake during stress and low uptake after reinjection
+Rest—stress ™Tc-labeled compounds * Low uptake in rest and stress images
+PET (N-13 ammonia/ 'SFDG) * Decreased f ow and decreased '*FDGuptake at rest
+Hibemating myocardium
+Rest-delayed *"'Tl * @moplete or partial fill-in of defects after reinjection
+PET (N-13 ammonia/ '8FDG) * Decreased f ow and normal or increased '*FDGuptake at rest
+a
+'SEDG fuoro-18 deoxyglucose; N-13, nitrogen-13; PET positron emission tomography; Te, technetium-99m; 7"'Tl, thallium-201.
+COVPUTED TOMOGRAPHY
+CT uses thin x-ray beams to obtain a large series of axial plane images. An x-ray tube is pro-
+grammed to rotate around the body, and the generated beams are partially absorbed by body
+tissues. The remaining beams emerge and are captured by electronic detectors, which relay
+information to a computer for image composition. CT scanning typically requires administra-
+tion of an intravenous contrast agent to distinguish intravascular contents (i.e., blood) from
+neighboring soft tissue structures (e.g., myocardium).
+
+Applications of CT in cardiac imaging include assessment of the great vessels, peri-
+cardium, myocardium, and coronary arteries. CT is used to diagnose aortic dissections
+and aneurysms (Fig. 3-19). It can identify abnormal pericardial fuid, thickening, and
+calcification. Myocardial abnormalities, such as regional hypertrophy or ventricular aneu-
+rysms, and intracardiac thrombus formation can be distinctly visualized by CT. A limitation
+of conventional CT techniques is the artifact generated by patient motion (i.e., breathing)
+during image acquisition. Modern spiral CT (also called helical CT) imaging allows more
+rapid image acquisition, often during a single breath-hold, at relatively lower radiation
+doses than conventional CT. Spiral CT is particularly important in the diagnosis of pulmo-
+nary embolism. When an intravenous iodine-based contrast agent is administered, emboli
+create the appearance of “filling defects” in otherwise contrast-enhanced pulmonary vessels
+(Fig. 3-20).
+
+Electron beam computed tomography (EBCT) uses a direct electron beam to acquire
+images in a matter of milliseconds. Rapid succession of images depicts cardiac structures at
+multiple times during a single cardiac cycle. Displaying these images in a cine format can
+provide estimates of left ventricular volumes and ejection fraction. Capable of detecting coro-
+nary artery calcification, EBCT has been used primarily to screen for CAD. Because calcified
+coronary artery plaques have a radiodensity similar to that of bone, they appear attenuated
+(white) on CT. The Agatston score, a measure of total coronary artery calcium, correlates well
+with atherosclerotic plaque burden and predicts the risk of coronary events, independently of
+other cardiac risk factors.
+
+Newer CT technology can characterize atherosclerotic stenoses in great detail. Current
+multidetector row CT scanners acquire as many as 320 anatomic sections with each rota-
+tion, providing excellent spatial resolution. Administration of intravenous contrast and
+computer reformatting allows visualization of the arterial lumen and regions of coronary
+¥ i .
+4 ~ } ‘ z
+ae»: —_ i ie ~~ 4 5
+Oz “ae : ay
+@ Rcl LCl <i!
+, \ % LCl My Ms :
+j LEI Ne .
+B Cc D
+HGURE3-19. G@mputed tomography (CI) imaging of aortic dissection. A,B Axial images demonstrate an
+intimal f ap (blue arrowheads) separating the true and false lumens of the descending thoracic and abdominal
+aorta. C CI angiography (CIA) with three-dimensional reconstructions. In this left anterior oblique view, the
+origin of the dissection (blue arrowhead) is apparent in the distal portion of the aortic arch. The dissection
+continues to the level of the renal arteries (white arrowhead) and beyond. D. In this CIA left posterior oblique
+view, the dissection extends to the infrarenal aorta (white arrowhead) and involves the left common and
+external iliac arteries (blue arrowhead). AA, ascending aorta; LO, left common iliac artery; LEI, left external
+iliac artery; Lx, left kidney; PA, main pulmonary artery; RC, right common iliac artery; RK, right kidney.
+(Qourtesy of Suhny Abbara, MD, Massachusetts General Hospital, Boston, MA)
+rw | Te | a
+c -_, f See a>
+FIGURE 3-20. Spiral (helical) Ne 2 ae
+computed tomography image J SVC Deel |
+demonstrating a massive ve Se Pp
+pulmonary embolism. The white , c re Cra & LPA
+arrows point to a large thrombus 1. ae - ga |
+within the right pulmonary artery. & o: // >) ail ~*~ |
+It appears as a filling defect within [& Fa » * DA ~~ :
+the otherwise contrast-enhanced > |
+pulmonary vasculature. AA, i / =: aa
+ascending aorta; DA, descending : r “ dj }
+aorta; LPA, left pulmonary artery; ae ' ei, zt y A
+PA, main pulmonary artery; RPA, aa > : »> (SS
+right pulmonary artery; SVE NS = ge" EE te oes — <
+superior vena cava. Bee “SS “ Lm _- :
+68 chapter 3
+. . —' Cn Ne > . a ‘ < ; a
+~7 = a Vi i
+v4 - a eh , 2) NP ASS ? Ms
+Rc, a Sey [Te ay A ea
+RSS. S tap oe ~~ Ate
+oo ~~), Ye Sze : ey = 6 £ J
+se. ys J . Fz. TV ; »
+et HEE
+i ‘es » fe r.4 ps nd
+A B Cc
+HGURE 3-21. G@mputed tomography (CI) coronary angiography. After a patient is imaged in a high-
+resolution axial CT scanner, three-dimensional reconstructions (termed volume renderings) are generated
+by a computer. A. Volume rendering of a normal CT angiogram. B Volume rendering of a CT angiogram that
+demonstrates diffuse coronary artery disease. Notice that the caliber of each vessel is irregular along its
+length. C This curved reformat of the left anterior descending artery (LAD) depicts the entire course of the
+vessel in a single, fat image, making it easier to detect stenoses. None are present here. Ao, aorta; LA, left
+atrium; LCX left circumf ex artery; LM left main coronary artery; LV left ventricle; PA, pulmonary artery; RA,
+right atrium; RCA, right coronary artery; RV right ventricle. (Gourtesy of Suhny Abbara, MD, Massachusetts
+General Hospital, Boston, MA.)
+narrowings (Fig. 3-21). Because image acquisition is timed with the cardiac cycle, a relatively
+low heart rate is desirable, such that a B-blocker is often administered prior to scanning.
+
+CT is not as sensitive as conventional angiography for the detection of coronary lesions,
+
+and it cannot adequately evaluate stenosis within coronary artery stents. In addition, this
+technique results in significant radiation exposure. However, CT is rapid, relatively inex-
+pensive, and significantly less invasive than conventional angiography. Its role in assessing
+patients with symptoms suggestive of CAD and for following the progression of known coro-
+nary disease is under active evaluation.
+MRI uses a powerful magnetic field to obtain detailed images of internal structures. This
+technique is based on the magnetic polarity of hydrogen nuclei, which align themselves
+with an applied magnetic field. Radio frequency excitation causes the nuclei to move out of
+alignment momentarily. As they return to their resting states, the nuclei emit the absorbed
+energy into signals that are translated into computer-generated images. Therefore, unlike CT
+imaging, MRI requires no ionized radiation. Among all the imaging modalities, MRI is best at
+differentiating tissue contrasts (blood, fuid, fat, and myocardium) and can often do so even
+without the use of contrast agents. The addition of gadolinium-based contrast allows further
+characterization of cardiac structures and tissues.
+
+The detail of soft tissue structures is often exquisitely demonstrated in magnetic reso-
+nance images (Fig. 3-22). Cardiac MRI (CMR) has an established role in evaluating congenital
+anomalies, such as shunts, and diseases of the aorta, including aneurysm and dissection. It
+is also used to assess left and right ventricular mass and volume, intravascular thrombus,
+Cardiac Imaging and Gatheterization 69
+DIASTOLE SYSTOLE .
+AV
+a Ae
+S
+cowl ir ~
+| \ .
+ewe OA
+. MV
+A
+’ -
+P <9 PM
+B
+
+HIGURE3-22. Cardiac magnetic resonance images of a normal person. A. Three-chamber long-axis view
+of the heart in diastole and systole showing the left ventricle (LV), right ventricle (RV), and left atrium (LA).
+The mitral valve (MV), aortic valve (AV), ascending aorta (AAO), and descending aorta (DA) are also imaged.
+B. Mdventricular short-axis view demonstrating the LV RV and left ventricular papillary muscles (PMs). PW
+posterior wall; S, septum. (Courtesy of Raymond Y Kwong, MD, Brigham and Women’s Hospital, Boston, MA.)
+cardiomyopathies, and neoplastic disease (Fig. 3-23). ECG-gated and cine MRI techniques
+capture images at discrete times in the cardiac cycle, allowing for the evaluation of valvular
+and ventricular function.
+
+Two applications of CMR deserve special mention. Coronary magnetic resonance angi-
+ography (coronary MRA) is a noninvasive, contrast-free angiographic imaging modality.
+Laminar blood fow appears as bright signal intensity, whereas turbulent blood f ow, at the
+site of stenosis, results in less bright or absent signal intensity. This technique has shown high
+sensitivity and accuracy for the detection of important CAD in the left main coronary artery
+and in the proximal and midportions of the three major coronary vessels. Coronary MRA is
+also useful in delineating coronary artery congenital anomalies.
+
+In contrast-enhanced MRI, a gadolinium-based agent is administered intravenously to
+identify infarcted (irreversibly damaged) myocardium and to differentiate it from impaired
+(but viable) muscle segments. This technique is based on the fact that gadolinium is excluded
+from viable cells with intact cell membranes but can permeate and concentrate in infarcted
+zones, producing “hyperenhancement” on the image (Fig. 3-24). Owing to the high spatial
+resolution of this technique, the transmural extent of myocardial scar can be depicted, and the
+pattern of infarcting tissue can be differentiated from that of acute myocarditis, a condition
+that may present with similar clinical features. The use of late-enhancing gadolinium imaging
+also allows for the identification of poorly contractile “hibernating” myocardium (described
+in Chapter 6), tissue that is chronically ischemic, but would be expected to recover function
+if adequate blood perfusion is restored.
+70 chapter 3
+- , , 7 . | : Ps a :
+> -=
+’ —_ > os
+# a |
+¥
+a
+A
+LV LV a :
+RV RV
+RA
+LA IAN
+‘
+. .
+is 4
+A B
+HIGURE3-23. Magnetic resonance imaging of an intracardiac mass. Both images are apical four-chamber
+views. A. Before a gadolinium-based contrast agent is administered, an abnormal left atrial mass (indicated
+by the oval) demonstrates diminished signal relative to the surrounding tissue. In this respect, it resembles
+a nonvascular thrombus. B After contrast injection, the mass enhances similar to the surrounding tissue,
+indicating that it is vascularized. Biopsy revealed a spindle cell carcinoma. LA, left atrium; LV left ventricle;
+RA, right atrium; RV right ventricle. (Gourtesy of Raymond Y Kwong, MD, Brigham and Women’s Hospital,
+Boston, MA.)
+ra : TL t “.
+nf mre ie
+. —~< Va
+= ae ¢ . v A
+i oy “Aer
+A B
+HGURE3-24. Gadolinium-enhanced magnetic resonance images demonstrating a region of nonviable
+myocardium. Both images are short-axis views. A. Imaging before administration of gadolinium demonstrates
+thinning of the anterior and anteroseptal myocardium (blue arrow) suggestive of infarcted tissue (compare
+to short-axis view of healthy myocardial wall in Fig. 3.22-B). B After contrast injection, the subendocardial
+regions of the anterior and anteroseptal segments of the left ventricle selectively enhance (white arrows),
+indicating that scar tissue is present. Because more than half the thickness of the ventricular wall is scarred,
+coronary revascularization would have a low likelihood of improving contractile function of these myocardial
+segments. LV left ventricle; RV right ventricle. (Gourtesy of Raymond Y Kwong, MD, Brigham and Women’s
+Hospital, Boston, MA.)
+Cardiac Imaging and Catheterization 71
+
+This chapter has presented an overview of imaging and catheterization techniques avail-
+able to assess cardiac structure and function. Many of these tools are expensive and yield
+similar information. For example, estimates of ventricular contractile function can be made
+by echocardiography, nuclear imaging, contrast angiography, gated CT, or MRI. Myocardial
+viability can be assessed using nuclear imaging studies, gadolinium MRI, or dobutamine
+echocardiography.
+
+Determining the single best test for any given patient depends on a number of fac-
+tors. One is the ease by which images may be obtained. In a critically ill patient, bed-
+side echocardiography provides a readily acquired measure of left ventricular systolic
+function. Conversely, obtaining similar information from a nuclear or magnetic reso-
+nance study would require a trip to the respective scanner. Other factors to consider
+include the magnitude of radiation exposure and the invasiveness of a given imaging
+technique. Expense, available equipment, and institutional expertise also play roles in
+selecting an imaging approach. When used appropriately, each of these tools can pro-
+vide important information to guide the diagnosis and management of cardiovascular
+disorders.
+
+° Imaging and catheterization techniques provide important information to guide the diag-
+nosis and management of cardiovascular disorders; key uses are summarized here and in
+Table 3-6.
+
+° Chest radiography can detect chamber dilatation and visualize pulmonary signs of heart
+failure.
+
+° Transthoracic echocardiography can assess ventricular systolic and diastolic dysfunc-
+tion, identify valvular abnormalities and vegetations, diagnose consequences of myo-
+cardial infarction, and demonstrate pericardial and congenital abnormalities.
+
+° Transesophageal echocardiography is used to visualize intracardiac thrombus, evaluate pros-
+thetic valve dysfunction, identify valvular vegetations and myocardial abscess in endocardi-
+tis, and diagnose aortic dissection.
+
+° Diagnostic cardiac catheterization is the “gold standard” to assess intracardiac pressures and
+to identify and grade coronary artery stenoses.
+
+° Nuclear imaging can diagnose myocardial ischemia and distinguish viable myocardium from
+scar tissue.
+
+° Positron emission tomography is used to assess for ischemia and can distinguish viable myo-
+cardium from scar tissue.
+
+° Computed tomography is sensitive for the diagnosis of aortic dissection and pulmonary
+embolism, can assess pericardial conditions and detect coronary artery calcif cation and
+stenoses.
+
+° Magnetic resonance imaging demonstrates great detail of soft tissue structures and is used
+to def ne the specif c conditions listed in Table 3-6.
+
+Acknowledgments
+
+The authors are grateful to Marcelo Di Carli, MD; Raymond Y. Kwong, MD; and Gillian
+
+Lieberman, MD for their helpful suggestions. Contributors to previous editions of this chapter
+
+were Henry Jung, MD; Ken Young Lin, MD; Nicole Martin, MD; Deborah Bucino, MD; Sharon
+
+Horesh, MD; Shona Pendse, MD; Albert S. Tu, MD; and Patrick Yachimski, MD.
+72 Chapter 3
+Imaging Technique Findings Examples of Cinical Uses
+chest radiography * Gardiac and mediastinal * Detect chamber dilatation
+contours * Identify consequences of stenotic and regurgi-
+* Pulmonary vascular tant valve lesions and intracardiac shunts
+markings * Msualize pulmonary signs of heart failure
+Transthoracic ° Wall thickness, chamber * Assess global and segmental ventricular
+echocardiography dimensions contraction
+(TIE) ° Anatomic relationships * Identify valvular abnormalities and vegetations
+and motion of cardiac * Diagnose consequences of myocardial
+structures infarction (e.g., ventricular aneurysm, papil-
+
+* How direction, tur- lary muscle rupture, intraventricular thrombus)
+bulence, and velocity ° Identify myocardial, pericardial, and congeni-
+measurements tal abnormalities
+
+* Echo contrast studies
+
+* Stress echocardiography
+
+Transesophageal ° Similar to TIE but higher * Visualize intracardiac thrombus
+echocardiography resolution ° Evaluate prosthetic valves and perivalvular
+(TEE) leaks
+
+* Identify valvular vegetations and myocardial
+abscess in endocarditis
+* Diagnose aortic dissection
+
+Cardiac * Pressure measurement ° Evaluate intracardiac pressures (e.g., in valvu-
+catheterization * @ntrast angiography lar disease, heart failure, pericardial disease)
+
+e Msualize ventricular contractile function,
+regurgitant valve lesions
+
+* Identify coronary anatomy and severity of
+stenoses
+
+Noclear SPECT imag- * Regional myocardial ° Detect, quantify, and localize myocardial
+ing (using ”™Te- perfusion ischemia
+labeled compounds * Myocardial viability * Perform stress testing in patients with baseline
+or 7°' Tl) EGG abnormalities
+
+* Distinguish viable myocardium from scar tissue
+
+Radionuclide * Ventricular contractile * Glculate ventricular ejection fraction and
+ventriculography function quantitate intracardiac shunts
+
+Positron emission * Myocardial perfusion and * Evaluate contractile function
+tomography (PEI) metabolism * Distinguish viable myocardium from scar tissue
+
+@mputed tomogra- * Anatomy and structural * Diagnose disease of the great vessels (aortic
+phy (CT) relationships dissection, pulmonary embolism)
+
+Assess pericardial disease and myocardial
+abnormalities
+
+* Detect coronary artery calcif cation and
+stenoses
+
+Magnetic resonance © Detailed soft tissue * Assess myocardial structure and function (e.g.,
+imaging (MRI) anatomy ventricular mass and volume, neoplastic dis-
+
+ease, intracardiac thrombus, cardiomyopathies)
+* Diagnose aortic and pericardial disease
+* Detect areas of ischemic vs. infarcted
+myocardium
+eee
+EG electrocardiogram; SPECE single photon emission computed tomography; "Tc, technetium-99m; *"'Tl, thallium-201.
+Cardiac Imaging and Gtheterization 73
+
+Additional Reading
+
+Bengel FM, Higuchi T, Javadi MS, et al. Cardiac positron Maganti K, Rigolin VH, Sarano EM, et al. Valvular heart
+emission tomography. J Am Coll Cardiol. 2009;54:1-15. disease: diagnosis and management. Mayo Clin Proc.
+
+Douglas PS, Garcia MJ, Haines DE, et al. ACCF/ ASE/ 2010;85:483—500.
+
+AHA/ ASNC/ HFSA/ HRS/ SCAI/ SCCM/ SCCT/ SCMR 2011 Min JK, Shaw LJ, Berman DS. The present state of coronary
+appropriate use criteria for echocardiography. J Am Coll computed tomographic angiography. J Am Coll Cardiol.
+Cardiol. 2011;57:1126—-1166. 2010;55:957—965.
+
+Fihn SD, Gardin JM, Abrams J, et al. 2012 ACCF/ AHA/ ACP/ Moscucci M, Grossman W. Grossman’s Cardiac Catheterization,
+AATS/ PCNA/ SCAI/ STS Guideline for the diagnosis and Angiography and Intervention. 8th ed. Philadelphia, PA:
+management of patients with stable ischemic heart disease. Lippincott Williams & Wilkins; 2013.
+
+J Am Coll Cardiol. 2012;60:e44—-e164. Otto CM. Textbook of Clinical Echocardiography. 5th ed.
+
+Kern MJ, Samady H. Current concepts of integrated coronary Philadelphia, PA: Elsevier Saunders; 2013.
+physiology in the catheterization laboratory. J Am Coll Pennell DJ. Cardiovascular magnetic resonance. Circulation.
+Cardiol. 2010;55:173-185. 2010; 121:692—705.
+
+Kim HW, Farzaneh-Far A, Kim RJ. Cardiovascular magnetic Perrino AC, Reeves ST. A Practical Approach to
+resonance in patients with myocardial infarction: current Transesophageal Echocardiography. 3rd ed. Philadelphia, PA:
+and emerging applications. J Am Coll Cardiol. 2010;55:1-16. Lippincott Williams & Wilkins; 2013.
+- : i
+mi 4
+;
+The Hectrocardiogram
+David B. Fischer a
+Leonard S. Lilly f
+4 ,
+ow
+Chapter Outline C ardiac contraction relies on the organized f ow of elec-
+trical impulses through the heart. The electrocardiogram
+NLL LIELISE (EG) is an easily obtained recording of that activity and pro-
+e :
+Hectrocardiographic Lead vides a wealth of information about cardiac structure and func-
+Reference System tion. This chapter presents the electrical basis of the BGG in
+Sequence of Normal Cardiac health and disease and leads the reader through the basics of
+Activation interpretation. To practice using these principles and to become
+TAVETPICUaUOn or the skillful at interpreting HCGtracings of your patients, you should
+a an also consult one of the complete electrocardiographic manuals
+ibration . ;
+Hoov=Risohns listed at the end of this chapter.
+Heart Rate
+Intervals (P. ,
+ee ELECIRICAL MEASUREVENF—SINGLE-
+ee CELL MODEL
+This section begins by observing the propagation of an
+Complex electrical impulse along a single cardiac muscle cell, illus-
+SF Segment and ‘Pwave trated in Figure 4-1. On the right side of the diagram, a
+Abnormalities voltmeter records the electrical potential at the cell’s sur-
+face on graph paper. In the resting state, the cell is polar-
+ized; that is, the entire outside of the cell is electrically
+positive with respect to the inside, because of the ionic
+distribution across the cell membrane, as described in
+Chapter 1. In this resting state, the voltmeter electrodes,
+which are placed on opposite outside surfaces of the cell,
+do not record any electrical activity, because there is no
+electrical potential difference between them (the myocyte
+74
