@@ -1,0 +1,2268 @@
+- : i
+mi 4
+;
+The Hectrocardiogram
+David B. Fischer a
+Leonard S. Lilly f
+4 ,
+ow
+Chapter Outline C ardiac contraction relies on the organized f ow of elec-
+trical impulses through the heart. The electrocardiogram
+NLL LIELISE (EG) is an easily obtained recording of that activity and pro-
+e :
+Hectrocardiographic Lead vides a wealth of information about cardiac structure and func-
+Reference System tion. This chapter presents the electrical basis of the BGG in
+Sequence of Normal Cardiac health and disease and leads the reader through the basics of
+Activation interpretation. To practice using these principles and to become
+TAVETPICUaUOn or the skillful at interpreting HCGtracings of your patients, you should
+a an also consult one of the complete electrocardiographic manuals
+ibration . ;
+Hoov=Risohns listed at the end of this chapter.
+Heart Rate
+Intervals (P. ,
+ee ELECIRICAL MEASUREVENF—SINGLE-
+ee CELL MODEL
+This section begins by observing the propagation of an
+Complex electrical impulse along a single cardiac muscle cell, illus-
+SF Segment and ‘Pwave trated in Figure 4-1. On the right side of the diagram, a
+Abnormalities voltmeter records the electrical potential at the cell’s sur-
+face on graph paper. In the resting state, the cell is polar-
+ized; that is, the entire outside of the cell is electrically
+positive with respect to the inside, because of the ionic
+distribution across the cell membrane, as described in
+Chapter 1. In this resting state, the voltmeter electrodes,
+which are placed on opposite outside surfaces of the cell,
+do not record any electrical activity, because there is no
+electrical potential difference between them (the myocyte
+74
+The Hectrocardiogram 75
+—__*__* Voltmeter
+CAISDIING MIUISKCIUE Cla UL aan
+A “eon msec ee |
+— Depolarization Current
++ + + + +
+™ .s
+HGURE 4-1. Depolarization of a single cardiac B 4 BO RSH
+muscle cell. A. In the resting state, the surface of -
+the cell is positively charged relative to the inside. —_—
+Because the surface is homogeneously charged,
+the voltmeter electrodes outside the cell do not - er ne
+record any electrical potential difference (“f at = = = EE
+line” recording). B. Stimulation of the cell initiates a
+depolarization (blue shaded area); the outside of — HEHEHE
+the depolarized region becomes negatively charged Cc + TWISEISISSI
+relative to the inside. Because the current of —__ =e
+depolarization is directed toward the (+) electrode
+of the voltmeter, an upward def ection is recorded. ea a _
+C Depolarization spreads, creating a greater HRA
+upward def ection by the recording electrode. A
+D. The cell has become fully depolarized. The D oe eG iaaret
+surface of the cell is now completely negatively -
+charged compared with the inside. Because the
+surface is again homogeneously charged, a f at FF
+line is recorded by the voltmeter. E Notice that if pe EETETRERERETE
+the position of the voltmeter electrodes had been @) © a
+reversed, the electrical current would have been E Hie aie
+directed away from the (+) electrode, causing the SO eee
+def ection to be downward.
+depolarized area (negatively charged surface) and the still-polarized (positively charged surface)
+portions of the cell. As a result, an electrical current begins to f ow between these two regions.
+
+By convention, the direction of an electrical current is said to f ow from areas that are nega-
+tively charged to those that are positively charged. When a depolarization current is directed
+toward the (+) electrode of the voltmeter, an upward defection is recorded. Conversely, if
+it is directed away from the (+) electrode, a downward def ection is recorded. Because the
+depolarization current in this example proceeds from left to right—that is, toward the (+)
+electrode—an upward def ection is recorded by the voltmeter. As the wave of depolarization
+propagates rightward along the cell, additional electrical forces directed toward the (+) elec-
+trode record an even greater upward def ection (see Fig. 4-1C). Once the cell has become fully
+depolarized (see Fig. 4-1D), its outside is completely negatively charged with respect to the
+inside, the opposite of the initial resting condition. However, because the surface charge is
+homogeneous once again, the external electrodes measure a potential difference of zero and
+the voltmeter records a neutral “fat line” at this time.
+
+Note that in Figure 4-1E, if the voltmeter electrode positions had been reversed, such that
+the (+) pole was placed to the left of the cell, then as the wave of depolarization proceeds
+toward the right, the current would be directed away from the (+) electrode and the recorded
+def ection would be downward. This relationship should be kept in mind when the polarity
+of ECG leads is described below.
+
+Depolarization initiates myocyte contraction and is then followed by repolarization, the
+process by which the cellular charges return to the resting state. In Figure 4-2, as the left side
+76 Chapter 4
+— Direction_of Current_
+A mp OK He HGURE 4-2. Sequence of repolarization of a
+—- = FF single cardiac muscle cell. A. As repolarization
+<—— . . commences, the surface of the cell at that site
+[_]Depolarized portion we .
+[Repolatized portion becomes positively charged and a current is generated
+from the still negatively charged surface areas to
+the repolarized region (blue arrows). Because the
+—T> - current is directed away from the (+) electrode of
+a = ab ay the voltmeter, a downward deflection is recorded.
+(+) Bessette: ~~ B, Repolarization progresses. C Repolarization has
+completed, and the outside surface of the cell is
+B .. Hees = Once again homogeneously charged, so that no
+TO further electrical potential is detected (flat line once
+again). D. Sequence of cardiac depolarization and
+ok RR Rg repolarization as measured by an KG machine at the
+sun Skin surface. As described in the text, repolarization
+actually proceeds in the direction opposite to that
+sHeNwAst Of depolarization in the intact heart, such that the
+Cc Htiaiteit deflections of repolarization are inverted compared
+to the schematics presented in parts A-C of this
+f gure. Therefore, the def ections of depolarization and
+Ere eee eae repolarization of the normal heart are oriented in the
+same direction. Note that the wave of repolarization is
+D SHEET seserseeeeeeeeeeeeeeeeeeey depolarization.
+of the cardiac muscle cell in our example begins to repolarize, its surface charge becomes
+positive once again. An electrical potential is therefore generated, and current flows from the
+still negatively charged surface toward the positively charged region. Since this current is
+directed away from the voltmeter’s (+) electrode, a downward deflection is recorded, opposite
+to that which was observed during the process of depolarization.
+
+Repolarization is a slower process than depolarization, so the inscribed deflection of repo-
+larization is usually wider and of lower magnitude. Once the cell has returned to the resting
+state, the surface charges are once again homogeneous and no further electrical potential is
+detected, resulting in a neutral flat line on the voltmeter recording (Fig. 4-2C).
+
+The depolarization and repolarization of a single cardiac muscle cell have been considered
+here. As a wave of depolarization spreads through the entire heart, each cell generates electri-
+cal forces, and it is the sum of these forces, measured at the skin’s surface, that is recorded
+by the ECG machine.
+
+It is important to note that in the intact heart, the sequence by which regions repolarize
+is actually opposite to that of their depolarization. This occurs because myocardial action
+potential durations are more prolonged in cells near the inner endocardium (the frst cells
+stimulated by Purkinje f bers) than in myocytes near the outer epicardium (the last cells to
+depolarize). Thus, the cells close to the endocardium are the frst to depolarize but are the
+last to repolarize. As a result, the direction of repolarization recorded by the ECG machine
+is usually the inverse of what was presented in the single-cell example in Figure 4-2. That
+is, unlike the single-cell model, the electrical deflections of depolarization and repolariza-
+tion in the intact heart are usually oriented in the same direction on the ECG tracing (see
+Fig. 4-2D).
+
+The direction and magnitude of the deflections on an ECG recording depend on how the
+generated electrical forces are aligned to a set of specif c reference axes, known as ECG leads,
+as described in the next section.
+The Hectrocardiogram 77
+o ‘ KE =
+Right arm Left arm CIES)
+electrode N electrode y=)
+Chest V —— SS)
+electrodes ! eR =e, V
+HIiGURE 4-3. Placement of ~]\- V; / Sf V 5
+electrocardiogram (EGG) electrodes. Right leg Left leg ‘a yi, 4
+A. Standard positions. B. Gose-up view of electrode electrode |
+chest electrode placement, at the standard J \
+positions listed in Table 4-1. A B
+ELECTROCARDIOGRAPHIC LEAD REFERENCE SYSTEM
+When the frst device to produce an ECG was invented over a century ago, the recording was
+made by dunking the patient’s arms and legs into large buckets of electrolyte solution that
+were wired to the machine. That process was likely fairly messy and fortunately is no longer
+necessary. Instead, wire electrodes are placed directly on the skin, held in place by adhesive
+tabs, on each of the four limbs and on the chest in the standard arrangement as shown in
+Figure 4-3. The right-leg electrode is not used for the measurement but serves as an electrical
+ground. Table 4-1 lists the standard locations of the chest electrodes.
+
+A complete ECG (termed a “12-lead ECG’) is produced by recording electrical activity
+between the electrodes in specifc patterns. This results in six reference axes in the body’s
+frontal plane (termed limb leads) plus six in the transverse plane (termed chest leads). Figure
+4-4 demonstrates the orientation of the six limb leads, which are electronically constructed as
+described in the following paragraphs.
+
+The ECG machine records lead aVR by selecting the right-arm electrode as the (+) pole with
+respect to the other electrodes. This is known as a unipolar lead, because though there is a (+)
+pole, there is no single (—) pole; rather, the other limb electrodes are averaged to create a com-
+posite (—) reference. When the instantaneous electrical activity of the heart points in the direc-
+tion of the right arm, an upward deflection is recorded in lead aVR. Conversely, when electrical
+forces are directed away from the right arm, the ECG inscribes a downward deflection in aVR.
+
+Similarly, lead aVF is recorded by setting the left leg as the (+) pole, such that a positive
+deflection is recorded when forces are directed toward the feet. Lead aVLis selected when the
+left-arm electrode is made the (+) pole, and it records an upward deflection when electrical
+activity is aimed in that direction.
+
+In addition to these three unipolar leads, three bipolar limb leads are part of the standard
+ECG recording (Fig. 4-4). Bipolar indicates that one limb electrode is the (+) pole and another
+single electrode provides the (—) reference. In this case, the ECG machine inscribes an upward
+
+Vv 4th IG, 2 cmto the right of the sternum
+
+V; Ath IG, 2 cmto the left of the sternum
+
+V; Mdway between V, and V,
+
+Vv, 5th IG, left midclavicular line
+
+V; Same level as V,, left anterior axillary line
+
+Vo Same level as V,, left midaxillary line
+ee
+IG, intercostal space.
+78 Chapter 4
+Unipolar Limb Leads
+G) 3 < (+)
+LL |
+“He “}\ 8) 4)
+aVR a VF aVL
+Bipolar Limb Leads
+(-) SL (+) (-) (-)
+( |
+(+) (+)
+I II Il
+HiGURE 4-4. ‘The six limb leads are derived from the electrodes placed on the arms and left leg. Top,
+each unipolar lead has a single (+) designated electrode; the (—) pole is an average of the other electrodes.
+Bottom, each bipolar lead has specific (—) and (+) designated electrodes. Although these illustrations show
+outstretched arms to depict the location of the electrodes, such positioning is not necessary when acquiring
+a patient’s EGGrecording. Even in the natural position of the arms by the patient’s sides, directionality of the
+leads is maintained.
+def ection if electrical forces are heading toward the (+) electrode and records a downward
+def ection if the forces are heading toward the (—) electrode. A simple mnemonic to remember
+the orientation of the bipolar leads is that the lead name indicates the number of I’s in the
+placement sites. For example, lead I connects the left arm to the right arm, lead II connects the
+right arm to the left leg, and lead III connects the left arm to the left leg. Table 4-2 summarizes
+how the six limb leads are derived.
+TABLE 4-2
+Lead (+) Hectrode (—) Hectrode
+Bipolar leads
+I lA RA
+II IL RA
+Ill IL lA
+Unipolar leads
+aVR RA a
+aVL LA a
+aVE LL a
+a
+‘Indicates the (—) electrode for this lead is constructed by combining the other limb electrodes.
+IA, left arm; LL left leg; RA right arm.
+The Hectrocardiogram 79
+~90° By overlaying these six limb leads, an axial reference
+~120° —60° system is established (Fig. 4-5). In the f gure, each lead
+, is presented with its (+) pole designated by an arrow-
+awe WL head and the (—) aspect by dashed lines. Note that
+a .
+a each 30-degree sector of the circle falls along the (+)
+} or (—) pole of one of the standard six ECG limb leads.
+Also note that the (+) pole of lead I points to 0 degrees
++180° 10° and that, by convention, measurement of the angles
+proceeds clockwise from 0 degrees as +30 degrees, +
+60 degrees, and so forth. The complete ECG record-
+4150° 430° ing provides a simultaneous “snapshot” of the heart’s
+electrical activity, taken from the perspective of each
+of these lead reference axes.
+il q Figure 4-6 demonstrates how the magnitude and
++120° aVF +60 mer ; _
+490° direction of electrical activity are represented by the
+ECG recording in each lead. This f gure should be
+FIGURE 4-5. ‘The axial reference system is created studied until the following four points are clear:
+by combining the six limb leads shown in Higure 4-4.
+Each lead has a (+) region indicated by the arrowhead
+and a (—) region indicated by the dashed line.
+Lead I Lead I
+C)-<-<---- (+) (-)- - - = - = =)
+| [ [TTT TT Tt Ty) | | [TTT ITT TTT
+- . eS Pe IERERERE
+\ HERE FREER
+i ' CCC K ' CCC
+1) EEA HEE
+| Rea || FRE NEE
+"| RH TMA Gaa tian
+MEE | TET
+HERE PERE
+; [TTT TTT Try ty [} [TTT TTT Ty ty
+LTT TTT TTT tt) y LITT TTT TT TT)
+ECG
+A B
+Lead I Lead I
+CO) - i) (()- > = 55 > (4)
+hr Hot |
+HEHE 1 ' HEE
+1 LTT TTT Tt tt ty 1 ! TTT TTT Try yt ty
+EEE HY FEE
+7 EEE ( 7 HEE
+EEE be | pt
+HEE ; HHA
+FEES EEE, FEEWETE:
+REECE HEE tee
+LITT TTT Tt ty i [TT TTT Try ty
+EEE FEE
+Cc D
+HGURE4-6. Relationship of the magnitude and direction of electrical activity to the KGGlead. This
+example uses lead I, but the same principles apply to all leads. A. The electrical vector is oriented parallel to
+lead I and is directed toward the (+) electrode; therefore, a tall upward def ection is recorded by the lead.
+B. The vector is still oriented toward the (+) electrode of lead I but not parallel to the lead, so that only
+a component of the force is recorded. Thus, the recorded def ection is still upward but of lower amplitude
+compared with that shown in (A). C The electrical vector is perpendicular to lead I so that no def ection is
+generated. D. The vector is directed toward the (—) region of lead I, causing the ECGto record a downward
+def ection.
+80 Chapter 4
+; |
+vs
+ae) SS:
+— RV hey, HGURE4-7. The chest (precordial) leads. A. The
+x cross-sectional plane of the chest. B. Arrangement of
+| Tt T V3 the six chest electrodes shown in the cross-sectional
+A B Vv; Vp plane. Note that the right ventricle is anterior to the
+left ventricle.
+1. An electrical force directed toward the (+) pole ofa lead results in an upward deflection on
+the ECG recording of that lead.
+2. Forces that head away from the (+) electrode result in a downward deflection in that lead.
+3. The magnitude of the deflection, either upward or downward, reflects how parallel the
+electrical force is to the axis of the lead being examined. The more parallel the electrical
+force is to the lead, the greater the magnitude of the deflection.
+4. An electrical force directed perpendicular to an electrocardiographic lead does not register
+any activity by that lead (a flat line on the recording).
+
+The six standard limb leads examine the electrical forces in the frontal plane of the body.
+However, because electrical activity travels in three dimensions, recordings from a perpen-
+dicular plane are also essential (Fig. 4-7). This is accomplished by the use of the six elec-
+trodes placed on the anterior and left lateral aspect of the chest (see Fig. 4-3B), creating the
+chest (also termed “precordial”) leads. The orientation of these leads around the heart in the
+cross-sectional plane is shown in Figure 4-7B. These are unipolar leads and, as with the uni-
+polar limb leads, electrical forces directed toward these individual (+) electrodes result in an
+upward deflection on the recording of that lead, and forces heading away record a downward
+deflection.
+
+A complete ECG records samples from each of the six limb leads and each of the six chest
+leads in a standard order, examples of which are presented later in this chapter (see Figs. 4-28
+to 4-36).
+
+SKQUENCE OF NORMAL CARDIAC ACTT VATION
+
+Conduction of electrical impulses through the heart is an orderly process. The normal beat
+begins at the sinoatrial node, located at the junction of the right atrium and the superior
+vena cava (Fig. 4-8). The wave of depolarization spreads rapidly through the right and left
+atria and then reaches the atrioventricular (AV) node, where it encounters an expected delay.
+The impulse then travels rapidly through the bundle of His and into the right and left bundle
+branches. The latter divide into the Purkinje fbers, which radiate toward the myocardial
+f bers, stimulating them to depolarize and contract.
+
+Each heartbeat is represented on the ECG by three major deflections that record the
+sequence of electrical propagation (see Fig. 4-8B). The P wave represents depolarization of
+the atria. Following the P wave, the tracing returns to its baseline as a result of the conduc-
+tion delay at the AV node. The second deflection of the ECG, the QRS complex, represents
+depolarization of the ventricular muscle cells. After the QRS complex, the tracing returns
+to baseline once again, and after a brief delay, repolarization of the ventricular cells is sig-
+naled by the T wave. Occasionally, an additional small deflection follows the T wave (the U
+wave), which is believed to represent late phases of ventricular repolarization.
+The Hectrocardiogram 81
+AV node
+Bundle of His
+SA node ,O Se
+1 2~a
+3
+HGURE4-8. Cardiac conduction pathway.
+A. The electrical impulse begins at the sinoatrial ; x
+(SA) node (1) then traverses the atria (2). After Right .
+. . bundle S 4
+a delay at the AVnode (3), conduction continues branch \ Left bundle
+through the bundle of His and into the right branch
+and left bundle branches (4). The latter divide
+into Purkinje f bers, which stimulate contraction A
+of the myocardial cells. B. Corresponding
+waveforms on the ECGrecording: (1) the SA node QRS
+discharges (too small to generate any deflection
+on EGG), (2) P wave inscribed by depolarization
+of the atria, (3) delay at the AVnode, and P | | T
+(4) depolarization of the ventricles (QRS
+complex). The T wave represents ventricular ‘) ‘1 ,) ‘1
+repolarization. B 12 3 4
+The QRS complex may take one of several shapes but can always be subdivided into indi-
+vidual components (Fig. 4-9). If the frst deflection of the QRS complex is downward, it is
+known as a Q wave. However, if the initial deflection is upward, then that particular complex
+does not have a Q wave. The R wave is def ned as the frst upward deflection, whether or not
+a Q wave is present. Any downward deflection following the R wave is known as an S wave.
+Figure 4-9 demonstrates several common variations of the QRS complex. In certain pathologic
+states, such as bundle branch blocks, additional deflections may be inscribed, as shown in
+the f gure. Please study Figure 4-9 until you can conf dently differentiate a Q from an S wave.
+Figure 4-10 illustrates the course of normal ventricular depolarization as it is recorded in
+the frontal plane by two of the ECG leads: aVF and aVL. The recording in aVF represents
+electrical activity from the perspective of the inferior (i.e., underside) aspect of the heart,
+R R A R
+{, J, A hh
+Ss Ss y Ss
+as
+A B Cc D E
+HGURE4-9. Examples of QRS complexes. A. The frst deflection is downward (Q wave), followed by an
+upward deflection (R wave), and then another downward wave (S wave). B Because the frst deflection is
+upward, this complex does not have a Q wave; rather, the downward deflection after the R wave is an S wave.
+C AQR&S complex without downward deflections lacks Qand S waves. D. QRS composed of only a downward
+deflection; this is simply a Qwave but is often referred to as a QS complex. E Asecond upward deflection
+(seen in bundle branch blocks) is referred to as R’.
+82 chapter 4
+y + aVL
+Septum x + (+)
+ah +
++
++@+ \ +VS\+
+Na+ + + ake
+&Y + cr Ty}
++ Way ¥ i
++ + + Y Left
+: - ventricle
+Right < A
+ventricle +
+T
+aVF
+A (+)
+aVL aVL
+\\) |
+T T
+J. aVF | avF
+B Cc
+} rv aVL _| ) xe aVL
+T T
+aVF aVF
+D E
+HGURE 4-10. Normal ventricular depolarization in the frontal plane as recorded by leads aVL and aVE
+A. In the resting state, the surface is homogeneously charged so that the leads do not record any electrical
+potential. B The frst area to depolarize is the left side of the ventricular septum. This results in forces
+heading away from aVL (downward deflection on aVLrecording) but toward the (+) region of aVE such that
+an upward deflection is recorded by that lead. G D. Depolarization continues; the forces from the thicker-
+walled left ventricle outweigh those of the right, such that the electrical vector swings leftward and posteriorly
+toward aVL (upward deflection) and away from aVE E At the completion of depolarization, the surface is again
+homogeneously charged, and no further electrical forces are recorded.
+The Hectrocardiogram 83
+and aVL records from the perspective of the left lateral side. Recall that in the resting state,
+the surfaces of myocardial cells are homogeneously charged such that no electrical activity is
+detected by the external ECG leads and the machine records zero voltage.
+
+The initial portion of ventricular myocardium that is stimulated to depolarize with each
+cardiac cycle is the midportion of the interventricular septum, on the left side. Because depo-
+larization reverses the cellular charge, the surface of that region becomes negative with respect
+to the inside, and an electrical potential is generated (see Fig. 4-10B, arrow). The initial cur-
+rent is directed toward the right ventricle and inferiorly. Because the force is directed away
+from the (+) pole region of lead aVL, an initial downward deflection is recorded in that lead.
+At the same time, the electrical force is directed toward the (+) pole region of lead aVF, caus-
+ing an initial upward deflection to be recorded there. As the wave of depolarization spreads
+through the ventricular myocardium, the progression of net electrical vectors is depicted by
+the series of arrows in Figure 4-10.
+
+As the lateral walls of the ventricles are depolarized, the electrical forces of the thicker left
+side outweigh those of the right. Therefore, the arrow’s orientation is increasingly directed
+toward the left ventricle (leftward and posteriorly). At the completion of depolarization, the
+myocytes are again homogeneously charged, no further net electrical force is generated, and
+the ECG voltage recording returns to baseline in both leads. Thus, in this example of depo-
+larization in a normal heart, lead aVL inscribes an initial small Q wave followed by a tall R
+wave. Conversely, in lead aVF, there is an initial upward deflection (R wave) followed by a
+downward S wave.
+
+The sequence of ventricular depolarization can similarly be examined in the transverse
+(horizontal) plane of the body from the six chest (precordial) leads (Fig. 4-11). Once
+again, recall that the frst region to depolarize is the midportion of the interventricular
+septum on the left side. Depolarization proceeds from there toward the right ventricle
+(which is anterior to the left ventricle), then toward the cardiac apex, and fnally around
+the lateral walls of both ventricles. Because the initial forces are directed anteriorly—that
+is, toward the (+) pole of V,—the initial deflection recorded by lead V, is upward. These
+same initial forces are directed away from V, (which overlies the lateral wall of the left
+ventricle), so an initial downward deflection is recorded there. As the wave of depolar-
+ization spreads, the electrical forces of the left ventricle outweigh those of the right, and
+the vector swings posteriorly toward the bulk of the left ventricular muscle. As the forces
+swing away from lead V,, the deflection there becomes downward, whereas it becomes
+more upright in lead V,;. Leads V, through V; record intermediate steps in this process,
+such that the R wave becomes progressively taller from lead V, through lead V, (see Fig.
+4-11E), a pattern known as “R-wave progression.” Typically, the height of the R wave
+becomes greater than the depth of the S wave in lead V; or V4; the lead in which this
+occurs is termed the “transition” lead.
+
+INTERPRETATION OF THE ELECTROCARDIOGRAM
+
+From a technical standpoint, the ECG is recorded on a special grid divided into lines
+spaced | mm apart in both the horizontal and the vertical directions. Each ffth line is
+made heavier to facilitate measurement. On the vertical axis, voltage is measured in mil-
+livolts (mV), and in the standard case, each 1-mm line separation represents 0.1 mV. The
+horizontal axis represents time. Because the standard recording speed is 25 mm/sec, each
+1 mm division represents 0.04 seconds and each heavy line (5 mm) represents 0.2 seconds
+(Fig. 4-12).
+
+Many cardiac disorders alter the ECG recording in a diagnostically useful way, and
+it is important to interpret each tracing in a standard fashion to avoid missing subtle
+84 chapter 4
+V6 V6
+a4 ~ V
+LV
+RV
+vie J v,é A
+A B
+V6 Vo
+Re! ~)
+v, 4 v,¢ 4c
+Cc D
+V6 | HIGURE 4-11. Sequence of
+“ depolarization in the transverse
+(horizontal) plane recorded by
+LV yes the chest (precordial) leads. A-D.
+Depolarization begins at the left side
+of the septum. The electrical vector
+RV be then progresses posteriorly toward
+V4
+the thick-walled left ventricle. Thus,
+% V,, which is an anterior lead, records
+é é V3 an initial upward def ection followed
+Vi Vo by a downward wave, whereas V, a
+posterior lead, inscribes the opposite.
+E In the normal pattern of the QRS
+E from V, to VY, the R wave becomes
+progressively taller and the S wave less
+deep.
+abnormalities. Here is a commonly followed sequence of analysis, followed by a descrip-
+tion of each:
+1. Check voltage calibration
+2. Heart rhythm
+3. Heart rate
+4. Intervals (PR, QRS, QT)
+5. Mean QRS axis
+6. Abnormalities of the P wave
+7. Abnormalities of the QRS (hypertrophy, bundle branch block, infarction)
+8. Abnormalities of the ST segment and T wave
+The Hectrocardiogram 85
+Paper Speed: 25 mm/sec —————>
+Hfhe—pe ote —— or ——t
+| [k~pR QT PT TT EE
+Pre EE EE EE EE Ed eT
+Prt | tT te EE EE a
+SG ee ee ee
+SHGGGH (eee See Sey
+SEE ETHIE EEE eee ee I
+BHR lee ee
+SE ee eee iia
+A LANL ALT
+a OSS
+PEt ee ee EE EE EE ET
+PTT eT ute TT ET ET TE TE | Tf
+QRS \ ;
+5mm = 0.2 sec
+(1 mm = 1 small box = 0.04 sec)
+HGURE4-12. Enlarged view of an KGGstrip. A standard EGGis recorded at 25 mm/sec, so that each
+1 mm on the horizontal axis represents 0.04 seconds. Each | mm on the vertical axis represents 0.1 mV
+Measurements in this example are as follows: PR interval (from the beginning of the P wave to the beginning
+of the QRS) = 4 small boxes = 0.16 seconds; QRS duration (from the beginning to the end of the QRS
+complex) = 1.75 small boxes = 0.07 seconds; and QT interval (from the beginning of the QRS to the end of
+the T wave) = 8 small boxes = 0.32 seconds. The corrected QT interval = or . Because the R-R interval = 15
+0.32 yRER
+small boxes (0.6 seconds), the corrected QT interval = ——= =0.41 seconds .
+( ) V0.6
+Qlibration
+ECG machines routinely inscribe a 1.0-mV vertical signal at the beginning or end of each
+12-lead tracing to document the voltage calibration of the machine. In the normal case, each
+1-mm vertical box on the ECG paper represents 0.1 mV, so that the calibration signal records
+a 10-mm deflection (e.g., as shown later in Fig. 4-28). However, in patients with markedly
+increased voltage of the QRS complex (e.g., some patients with left ventricular hypertrophy or
+bundle branch blocks), the very large deflections do not ft on the standard tracing. To facili-
+tate interpretation in such a case, the recording is often purposely made at half the standard
+voltage (i.e., each 1-mm box = 0.2 mV), and this is indicated on the ECG tracing by a change
+in the height of the 1.0-mV calibration signal (at half the standard voltage, the signal would be
+5 mm tall). It is important to check the height of the calibration signal on each ECG to ensure
+that the voltage criteria used to def ne specif c abnormalities are applicable.
+Heart Rhythm
+The normal cardiac rhythm, initiated by depolarization of the sinus node, is known as sinus
+rhythm. An ECG tracing shows sinus rhythm if the following criteria are met: (1) each P wave
+is followed by a QRS; (2) each QRS is preceded by a P wave; (3) the P wave is upright in leads
+I, II, and II; and (4) the PR interval is greater than 0.12 seconds (three small boxes).
+
+If the heart rate in sinus rhythm is between 60 and 100 bpm, then normal sinus rhythm
+is present. If less than 60 bpm, the rhythm is sinus bradycardia; if greater than 100 bpm, the
+rhythm is sinus tachycardia. Other abnormal rhythms (termed arrhythmias or dysrhythmias)
+are described in Chapters 11 and 12.
+86 Chapter 4
+Heart Rate
+The standard ECG recording paper speed is 25 mm/sec. Therefore,
+; 25 mm/sec x 60 sec/ min
+Heart rate (beats per minute) = —HWHA
+Number of mm between beats
+or more simply, as shown in Figure 4-13:
+Heart rate = eh
+a'© ~ Number of small boxes between
+two consecutive beats
+
+It is rarely necessary, however, to determine the exact heart rate, and a more rapid determi-
+nation can be made with just a bit of memorization. Simply “count off’ the number of large
+boxes between two consecutive QRS complexes, using the sequence
+
+300 — 150 — 100 —75— 60 —50
+which corresponds to the heart rate in beats per minute, as illustrated in Figure 4-13 (method 2).
+
+When the rhythm is irregular, these estimates cannot be easily applied, so the heart rate
+in such a case may be better approximated by counting the number of complexes during
+6 seconds of the recording and multiplying that number by 10. ECG paper usually has time
+markers, spaced 3 seconds apart, printed at the top or bottom of the tracing that facilitates
+this measurement (see Fig. 4-13, method 3).
+
+Intervals (PR, QRS, QD
+
+The PR interval, QRS interval, and QT interval are measured as demonstrated in Figure 4-12.
+For each of these, it is appropriate to take the measurement in the lead in which the interval
+is the longest in duration (the intervals can vary a bit in each lead). The PR interval is mea-
+sured from the onset of the P wave to the onset of the QRS. The QRS interval is measured
+from the beginning to the end of the QRS complex. The QT interval is measured from the
+beginning of the QRS to the end of the T wave. The normal ranges of the intervals are listed
+in Table 4-3, along with conditions associated with abnormal values.
+
+Because the QT interval varies with heart rate (the faster the heart rate, the shorter the
+QT), the corrected QT interval is determined by dividing the measured QT by the square root
+of the RR interval (see Fig. 4-12). When the heart rate is in the normal range (60 to 100 bpm),
+a rapid rule can be applied: if the QT interval is visually less than half the interval between
+two consecutive QRS complexes, then the QT interval is within the normal range.
+
+Mean QRS Axis
+
+The mean QRS axis represents the average of the instantaneous electrical forces generated
+during the sequence of ventricular depolarization as measured in the frontal plane. The nor-
+mal value is between —30 degrees and +90 degrees (Fig. 4-14). A mean axis that is more nega-
+tive than — 30 degrees implies left axis deviation, whereas an axis greater than +90 degrees
+represents right axis deviation. The mean axis can be determined precisely by plotting the
+QRS complexes of different leads on the axial reference diagram for the limb leads (see Fig.
+4-5), but this is tedious and is rarely necessary. The following rapid approach to axis determi-
+nation generally provides suff cient accuracy.
+
+First, recall from Figure 4-5 that each ECG lead has a (+) region and a (-—) region.
+Electrical activity directed toward the (+) half results in an upward deflection, whereas
+activity toward the (—) half results in a downward deflection on the ECG recording of that
+The Hectrocardiogram 87
+Method 1 First, count the number of small boxes (1 mm each) between two adjacent
+QRS complexes (1e., between 2 “beats”). Then, since the standard paper
+speed is 25 mm/sec:
+Heart Rate _ (25 mm/sec X 60 sec/min) _ 1,500
+(beats/min) Number ofmm between beats number ofmm between beats
+In this example, there are 23 mm between the first 2 beats.
+23 mm between beats
+Gest omeds ottecnenere A Se Tae pssevasthcsesitosastinn:
+Bea eee ne ere Ue te gt Ut met ces
+Sere ee eee regener ee eS
+Therefore, the heart rate = wee = 65 bpm
+Method 1 is particularly helpful for measuring fast heart rates (> 100 bpm)
+Method 2 The “count-off’ method requires memorizing the sequence:
+300—150—100—75—60—S50
+Then use this sequence to count the number of large boxes between two
+consecutive beats:
+300 100 60
+Start 150 | 75 | 50
+here 1 | |
+Re ra a Paes aD red need hoes eaucd ronald Cues Rae OT cota Uoeemee a ote a poses Sota! Uosea ueant Coes Cuezes feee teat Deate
+Seeds areca eeet ec atest eat ga aes estan ee tee est tee ore eestemeeeceeteee
+RBDEGGaEsaebaa! fEGnsiuaasedoresececc! is tssnslscelcaseereeet! |aescunntnecersccssees! tueced esaeesecet lessen tatuscactene
+aad Huue <a? bi Sou _ Gh, cuavansion”_.0# gi Bee ca cama bSe8 2 ver 6] Hot Zan. asenbae’_, er G1 omc (GB oa neatsfa 0 i Roc ceaL cee
+SEE a eee EEE ne A ae areca ee eee a ae eee
+The second QRS falls between 75 and 60 bpm; there fore, the
+heart rate is approximately midway between them ~67 bpm. Knowing
+that the heart rate is approximately 60—70 bpm is certainly close enough.
+Method 3 ECG recording paper often indicates 3-sec time markers at the top or
+bottom of the tracing:
+marker marker
+\<—_—————-. 3 sec ————————>
+SUgSH FTEEE EEEET SERED SEETDETSOEECDET ENDET GEER" CoETSODUU ov ee ERDT roeny CuszssGdzssgues cused fuceiCESlcegesegeae saat
+Gea eee te ee rt eee GREE
+To calculate the heart rate, count the number of QRS complexes between
+the 3-sec markers (= 6 beats in this example) and multiply by 20. Thus,
+the heart rate here is approximately 120 bpm.
+It’s even easier (and more accurate) to count the number of complexes
+between the first and third markers on the strip (representing 6 sec
+of the recording) and then multiply by 10 to determine the heart rate.
+Method 3 is particularly helpful for measuring irregular heart rates.
+FIGURE 4-13. Methods to calculate heart rate.
+88 Chapter 4
+TABLE 4-3
+Interval Normal Decreased Interval Increased Interval
+PR 0.12—0.20 sec ° Preexcitation syndrome ~»° First-degree AVblock
+(3-5 small boxes) * Junctional rhythm
+QRS <0.10 sec * Bundle branch blocks
+(<2.5 small boxes) * Ventricular ectopic beat
+° Toxic drug effect (e.g., certain
+antiarrhythmic drugs—see
+chapter 17)
+ES I
+or Corrected QF <0.44 sec —» Hypercalcemia » Hypocalcemia
+* Tachycardia * Hypokalemia (7 QU interval
+owing to t U wave)
+* Hypomagnesemia
+* Myocardial ischemia
+* @ngenital prolongation of QT
+° Toxic drug effect
+eee
+T
+“Corrected QT = QT .
+VR-R
+lead. To determine whether the axis is normal or abnormal, examine the QRS complexes
+in limb leads I and II. As illustrated in Figure 4-15, if the QRS is primarily positive in both
+of these leads (i.e., the upward def ection is greater than the downward def ection in each
+of them), then the mean vector falls within the normal range and no further calculation is
+necessary. However, if the QRS in either lead I or II is not primarily upward, then the axis is
+abnormal, and the approximate axis should then be determined by the more precise method
+L
+ef axe
+%
+~90° “6,
+—120° —60°
+Left axis deviation
+—150° 309° | ° Inferior wall myocardial infarction
+aVR aVL ¢ Left anterior fascicular block
+¢ Left ventricular hypertrophy
+| (sometimes)
++180° 10°
+A Right axis deviation
+¢ Right ventricular hypertrophy
++150° +30° * Acute right heart strain
+(e.g., massive pulmonary embolism)
+¢ Left posterior fascicular block
+tit I
+“en +120 aVF +60
+ay. +90
+LS: d, -
+“Via tion
+HiGURE4-14. A normal mean QRS axis falls within the shaded area (between —30 degrees and +90
+degrees). Amean axis more negative than —30 degrees is termed left axis deviation, whereas an axis more
+positive than +90 degrees is right axis deviation. The f gure shows common conditions that result in axis
+deviation.
+The Hectrocardiogram 89
+If the QRS complex is mainly upward (positive) Similarly, ifthe QRS is predominantly upward in
+in limb lead J, then the mean axis falls within the limb lead I, then the mean axis falls within the
+“+” region of that lead, shown as the blue half of “+” half oflead IL shown as the red halfhere.
+the circle below.
+—90
+\
+\
+‘\ (+)
+| +150
+|
+I
++90 +60
+If the QRS is predominantly upright in both
+leads I and II, then the mean axis must fall
+within their common “+” regions: between —30
+and +90.
+—30
+Normal
+Axis
++90
+HGURE 4-15. The mean axis is within the normal range if the QRS complex is predominantly upright in
+limb leads I and II.
+described in the following paragraphs. Please be aware that some ECG teaching resources
+recommend examining leads I and aVF, rather than leads I and II, to determine whether the
+mean axis falls in the normal range. However, using leads I and aVF for this purpose would
+erroneously classify a mean axis between 0 degrees and —30 degrees as being abnormal, as
+aVF would record a primarily downward deflection in that case. Examining leads I and II
+instead avoids that error.
+
+In order to determine the mean axis with greater precision when necessary, frst consider
+the special example demonstrated in Figure 4-16. The sequence of a ventricular depolar-
+ization is represented in this f gure by vectors a through e, along with the corresponding
+deflections on the ECG recording of lead I. The initial deflection (representing left septal
+depolarization) points to the patient’s right side. Because it is directed completely away from
+the (+) pole of lead I, a strong downward deflection is recorded by the lead. As depolarization
+continues, the arrow swings downward and to the left, resulting in less negative deflections
+in lead I. After arrow c, the electrical vector swings into the positive region of lead I, so that
+upward deflections are recorded.
+90 chapter 4
+J | In this special example, in which electrical forces
+° begin exactly opposite lead I’s (+) electrode and termi-
+Leaat | nate when pointed directly at that electrode, note that
+(-) = “ F (+) ak. the mean electrical vector points straight downward
+Lv Ke | Vb (in the direction of arrow c), perpendicular to the lead
+I axis. Also note the conf guration of the inscribed QRS
+| | complex in lead I. There is a downward deflection,
+followed by an upward deflection of equal magnitude
+Mean | (when the upward and downward deflections of a
+axis QRS are of equal magnitude, it is termed an isoelec-
+T tric complex). Thus, when an ECG limb lead inscribes
+(+) A an isoelectric QRS complex, it indicates that the mean
+Lead aVF electrical axis of the ventricles is perpendicular to that
+particular lead.
+FIGURE 4-16. Sequence of ventricular Therefore, an easy way to determine the mean QRS
+depolarization when the mean axis is +90 degrees. axis ig to glance at the six limb lead recordings and
+Because the mean axis is perpendicular to limb lead . . . .
+1, an isoelectric ORS complex (height of upward observe which one has the most isoelectric-appearing
+def ection = height of downward def ection) is complex: the mean axis is simply perpendicular to it.
+recorded by that lead (see text for details). One step remains. When the mean axis is perpendicular
+to a lead, it could be perpendicular in either a clockwise
+or a counterclockwise direction. In the example of Figure 4-16, the isoelectric complex appears
+in lead I, such that the mean vector could be at +90 degrees or it could be at —90 degrees,
+because both are perpendicular. To determine which of these is correct requires inspecting the
+recording of the ECG lead that is perpendicular to the one inscribing the isoelectric complex
+(and is therefore parallel to the mean axis). If the QRS is predominantly upright in that perpen-
+dicular lead, then the mean vector points toward the (+) pole of that lead. If it is predominantly
+negative, then it points away from the lead’s (+) pole. In the example, the isoelectric complex
+appears in lead I; therefore, the next step is to inspect the perpendicular lead, which is aVF (see
+Fig. 4-5 if this relationship is not clear). Because the QRS complex in aVF is primarily upward,
+the mean axis points toward its (+) pole, which is in fact located at +90 degrees.
+
+To summarize, the mean QRS axis is calculated as follows:
+
+1. Inspect limb leads I and II. If the QRS is primarily upward in both, then the axis is normal
+and you are done. If not, then proceed to the next step.
+
+2. Inspect the six limb leads and determine which one contains the QRS that is most isoelec-
+tric. The mean axis is perpendicular to that lead.
+
+3. Inspect the lead that is perpendicular to the lead containing the isoelectric complex. If the
+
+QRS in that perpendicular lead is primarily upward, then the mean axis points to the (+)
+
+pole of that lead. If primarily negative, then the mean QRS points to the (—) pole of that lead.
+
+Conditions that result in left or right axis deviation are listed in Figure 4-14. In addition, the
+vertical position of the heart in many normal children and adolescents may result in a mean
+axis that is slightly rightward (greater than +90 degrees).
+
+In some patients, isoelectric complexes are inscribed in all the limb leads. That situation
+arises when the heart is tilted, so that the mean QRS points straight forward or back from the
+frontal plane, as it may be in patients with chronic obstructive lung disease; in such a case,
+the mean axis is said to be indeterminate.
+
+Abnormalities of the P Wave
+The P wave represents depolarization of the right atrium followed quickly by the depolar-
+ization of the left atrium; the two components are nearly superimposed on one another
+(Fig. 4-17). The P wave is usually best visualized in lead II, the lead that is most parallel to
+The Hectrocardiogram 91
+RAww-! Senne ee ie
+Normal LAccee! tene- wee peewee
+Combined —_f\_ —@mM
+FIGURE 4-17. The P wave represents
+superimposition of right atrial (RA)
+i izati RA RA
+and left atrial (LA) depolarization, RA enlargement NP _ULA \
+RA depolarization occurs slightly earlier (P height > 2.5 mm / \ a
+than LA depolarization, because of the in lead Il) \
+proximity of the RA to the sinoatrial LA
+node. In RA enlargement, the initial
+component of the P wave is prominent LA enlargement RAY UIA RA
+(>2.5 mm tall) in lead Il. In LA (Negative P in V, a \
+enlargement, there is a large terminal > 1 mm wide and XK
+downward def ection in lead V, (> 1 mm > 1mm deep) LA
+wide and >1 mm deep).
+the flow of electrical current through the atria from the sinoatrial to the AV node. When the
+right atrium is enlarged, the initial component of the P wave is larger than normal (the P is
+taller than 2.5 mm in lead II).
+
+Left atrial enlargement is best observed in lead V;. Normally, V, inscribes a P wave with an
+initial positive deflection reflecting right atrial depolarization (directed anteriorly), followed
+by a negative deflection, owing to the left atrial forces oriented posteriorly (see Fig. 1-2 for
+anatomic relationships). Left atrial enlargement is therefore manifested by a greater-than-
+normal negative deflection (at least | mm wide and 1 mm deep) in lead V, (see Fig. 4-17).
+
+Abnormalities of the QRS G@mplex
+
+Ventricular Hypertrophy
+Hypertrophy of the left or right ventricle causes the affected chamber to generate greater-
+than-normal electrical activity. Ordinarily, the thicker-walled left ventricle produces forces
+that are more prominent than those of the right. However, in right ventricular hypertrophy
+(RVH), the augmented right-sided forces may outweigh those of the left. Therefore, chest
+leads V, and V>, which overlie the right ventricle, record greater-than-normal upward deflec-
+tions: the R wave becomes taller than the S wave in those leads, the opposite of the normal
+situation (Fig. 4-18). In addition, the increased right ventricular mass shifts the mean axis of
+the heart, resulting in right axis deviation (mean axis greater than +90 degrees).
+
+In left ventricular hypertrophy, greater-than-normal forces are generated by that cham-
+ber, which simply exaggerates the normal situation. Leads that directly overlie the left ventri-
+cle (chest leads V; and V, and limb leads I and aVL) show taller-than-normal R waves. Leads
+on the other side of the heart (V, and V,) demonstrate the opposite: deeper-than-normal S
+waves. Many different criteria are used for the diagnosis of left ventricular hypertrophy by
+ECG. Three of the most helpful criteria are listed in Figure 4-18.
+
+Bundle Branch Blocks
+Interruption of conduction through the right or left bundle branches may develop from
+ischemic or degenerative damage. As a result, the affected ventricle does not depolarize
+in the normal sequence. Rather than rapid uniform stimulation by the Purkinje f bers, the
+cells of that ventricle must rely on relatively slow myocyte-to-myocyte spread of electrical
+92 chapter 4
+V6
+~ Y
+RIGHT VENTRICULAR HYPERTROPHY
+~ *R>S in lead V,
+1 ¢ Right axis deviation
+4 2
+I 3
+vi
+A
+V6
+va
+3 LEFT VENTRICULAR HYPERTROPHY
+¢S in V, plus
+R in Vs or V6 = 35 mm or
+*RinaVL> 11 mm or
+1 *RinleadI>15 mm
+2
+V1
+B
+
+FIGURE4-18. Ventricular hypertrophy. The arrows indicate the sequence of average electrical forces during
+ventricular depolarization. A. Right ventricular (RV) hypertrophy. The RV forces outweigh those of the left,
+resulting in tall R waves in leads V, and V, and a deep S wave in lead VY, (compare to normal QRS complexes
+in Rg. 4-11E). B Left ventricular (LV) hypertrophy exaggerates the normal pattern of depolarization, with
+greater-than-normal forces directed toward the LV resulting in a tall R wave in Y and a deep S wave in lead V..
+activity traveling from the unaffected ventricle. This delayed process prolongs depolariza-
+tion and widens the QRS complex. A normal QRS duration is less than or equal to 0.10
+seconds (<2.5 small boxes). When a bundle branch block widens the QRS duration to 0.10
+to 0.12 seconds (2.5 to 3.0 small boxes), an incomplete bundle branch block is present. If
+the QRS duration is greater than 0.12 seconds (3.0 small boxes), complete bundle branch
+block is identif ed.
+
+In right bundle branch block (RBBB) (Fig. 4-19; see also Fig. 4-29), normal depolariza-
+tion of the right ventricle is interrupted. In this case, initial depolarization of the ventricular
+septum (which is stimulated by a branch of the left bundle) is unaffected so that the normal
+small R wave in lead V, and small Q wave in lead V, are recorded. As the wave of depolariza-
+tion spreads down the septum and into the left ventricular free wall, the sequence of depo-
+larization is indistinguishable from normal, because left ventricular forces normally outweigh
+those of the right. However, by the time the left ventricle has almost fully depolarized, slow
+cell-to-cell spread has f nally reached the “blocked” right ventricle and depolarization of that
+chamber begins, unopposed by left ventricular activity (because that chamber has nearly fully
+depolarized). This prolonged depolarization process widens the QRS complex and produces a
+late depolarization current in the direction of the anteriorly situated right ventricle. Since the
+terminal portion of the QRS complex in RBBB represents these right ventricular forces acting
+The Hectrocardiogram 93
+Right Left
+Bundle Branch Block Bundle Branch Block
+A B
+Ve Ve |
+~ <
+1 LV
+RV
+Vv; Ty vi t al
+V6 Vo of
+sg _| £
+2
+ve a ve —,
+Vo Vo nM
+£ yg
+3
+¢ Widened QRS ¢ Widened QRS
+* RSR' in V, (rabbit ears) * Broad, notched R in V¢
+* Prominent S in V¢ ¢ Absent R and prominent S
+in V,
+HGURE4-19. Bundle branch blocks. Schematic view of the ventricles in the horizontal plane showing
+that interruption of conduction through the right or left bundles results in delayed, slowed activation of the
+respective ventricle and widening of the QRS complex. The blue color shows progressive depolarization of the
+ventricles, and the red arrows show the sequence of electrical vectors that result. A. In right bundle branch
+block, normal initial activation of the septum (1) is followed by depolarization of the left ventricle (2). Slow
+cell-to-cell spread activates the right ventricle (RV) after the left ventricle (LV) has nearly fully depolarized (3),
+so that the late forces generated by the RVare unopposed. Therefore, V, records an abnormal terminal upward
+deflection (R’), and VY records an abnormal, terminal deep S wave, as shown in panel 3. B In left bundle
+branch block, the initial septal depolarization is blocked, such that the frst forces are oriented from right to
+left. Thus, the normal initial R wave in V, and Qwave in VY are absent (1). After the RVdepolarizes (2), late,
+slow activation of the LVresults in a terminal upward deflection in VY and downward deflection in V, (3).
+94 chapter 4
+alone, the ECG records an abnormal terminal upward deflection (known as an R’ wave) over
+the right ventricle in lead V, and a downward deflection (S wave) in V, on the opposite side
+of the heart. The appearance of the QRS complex in lead V, in RBBB (upward R, downward S,
+then upward R’) is often described as having the appearance of “rabbit ears.”
+
+Left bundle branch block (LBBB) produces even more prominent QRS abnormalities. In
+this situation, normal initial depolarization of the left septum does not occur; rather, the right
+side of the ventricular septum is frst to depolarize, through branches of the right bundle.
+Thus, the initial forces of depolarization are directed toward the left ventricle instead of the
+right (see Fig. 4-19B; see also Fig. 4-30). Therefore, an initial downward deflection is recorded
+in V,, and the normal small Q wave in V, is absent. Only after depolarization of the right
+ventricle does slow cell-to-cell spread reach the left ventricular myocytes. These slowly con-
+ducted forces inscribe a widened QRS complex with abnormal terminally upward deflections
+in the leads overlying the left ventricle (e.g., V; and V.), as shown in Figure 4-19B.
+
+Fascicular Blocks
+Recall from Chapter | that the left bundle branch subdivides into two main divisions, termed
+fascicles: the left anterior fascicle and the left posterior fascicle. Although LBBB implies that
+conduction is blocked in the entire left bundle branch, impairment can also occur in just one
+of the two fascicles, resulting in left anterior or left posterior fascicular blocks (also termed
+hemiblocks). The main signif cance of fascicular blocks in ECG interpretation is that they can
+markedly alter the mean QRS axis.
+
+Anatomically, the anterior fascicle of the left bundle runs along the front of the left ven-
+tricle toward the anterior papillary muscle (which is located in the anterior and superior por-
+tion of the chamber), whereas the posterior fascicle travels to the posterior papillary muscle
+(which is located in the posterior, inferior, and medial aspect of the left ventricle). Under
+normal conditions, conduction via the left anterior and left posterior fascicles proceeds simul-
+taneously, such that electrical activation of the left ventricle is uniform, spreading outward
+from the bases of the two papillary muscles. However, if conduction is blocked in one of the
+two divisions, then initial LV depolarization arises exclusively from the unaffected fascicle
+(Fig. 4-20).
+
+In the case of left anterior fascicular block (LAFB), left ventricular activation begins via
+the left posterior fascicle alone, at the posterior papillary muscle, and then spreads to the rest
+of the ventricle. Because the left posterior fascicle frst activates the posterior, inferior, medial
+region of the left ventricle, the initial impulses are directed downward (i.e., toward the feet)
+and toward the patient’s right side (see Fig. 4-20). This results in a positive deflection (initial
+small R wave) in the inferior leads (leads II, III, and aVF) and a negative deflection (small Q
+wave) in the left lateral leads, Iand aVL. As depolarization then spreads upward and to the
+left, toward the “blocked” anterior, superior, and lateral regions of the left ventricle, a posi-
+tive deflection (R wave) is inscribed in leads I and aVL, while a negative deflection (S wave)
+develops in the inferior leads. The predominance of these leftward forces, resulting from the
+abnormal activation of the anterior superior left ventricular wall, results in left axis deviation
+(generally more negative than —45 degrees). A complete 12-lead ECG demonstrating the pat-
+tern of LAFB is shown later (see Fig. 4-34).
+
+Left posterior fascicular block (LPFB) is less common than LAFB. In LPFB, ventricular
+activation begins via the left anterior fascicle alone at the base of the anterior papillary muscle
+(see Fig. 4-20). As that anterosuperior left ventricular region depolarizes, the initial forces are
+directed upward and to the patient’s left (creating a positive R wave in leads [and aVL and a
+negative Q wave in the inferior leads). As the impulse then spreads downward and to the right
+toward the initially blocked region, an S wave is inscribed in leads Iand aVL, while an R wave
+is recorded in leads II, III, and aVF. Because the bulk of these delayed forces head toward the
+patient’s right side, right axis deviation of the QRS mean axis occurs (see Fig. 4-36).
+Left Anterior Fas cicular Block Left Posterior Fascicular Block
+mm \ —/
+1
+—/
+ry |
+aVF aVF
+v aVL e aVL
+2
+Tt a ry _|
+aVF aVF
+ye AVL | aVL
+3
+ry ry
+aVF aVF
+¢ Left axis deviation ¢ Right axis deviation
+¢ Small Q in leads aVLand I ¢ SmallR in leads aVLand I
+¢ Small R in inferior leads (II, III, a VF) ¢ Small Q in inferior leads (II, Ill, a VF)
+HGURE 4-20. Left anterior and left posterior fascicular blocks and their pattems in the KGGlimb leads. The
+schematic at the top of the f gure shows the left ventricle (LV) in the frontal plane. The mitral valve (MV) chordae
+tendineae insert into the anterior (A) and posterior (P) papillary muscles, which are important landmarks: the anterior
+fascicle of the left bundle branch courses toward the anterior papillary muscle, whereas the posterior fascicle travels to
+the posterior papillary muscle (the fascicles are not shown). Notice that the anterior papillary muscle is superior to the
+posterior papillary muscle. Left side of the f gure: In left anterior fascicular block, activation begins solely in the region
+of the posterior papillary muscle (1) because initial conduction to the anterior papillary muscle is blocked (denoted
+by the X). As a result, the initial forces of depolarization are directed downward toward the feet, producing an initial
+positive deflection (R wave) in lead aVF and a negative deflection (Q wave) in lead aVL As the wave of depolarization
+spreads toward the left side and superiorly, aVF begins to register a negative deflection and aVLstarts to record a positive
+deflection (2). Panel 3 shows the complete QRS complexes at the end of depolarization. Right side of the f gure: In left
+posterior fascicular block (denoted by the X), LVactivation begins solely in the region of the anterior papillary muscle (1).
+Thus, the initial forces are directed upward and toward the patient’s left side, producing an initial R wave in aVLand
+a Qwave in aVE Panels 2 and 3 show how the spread of depolarization travels in the direction opposite that of LAFB.
+96 Chapter 4
+In contrast to RBBBs and LBBBs, LAFB and LPFB do not result in Pte fe fied [pend
+signif cant widening of the QRS because rapidly conducting Purkinje =
+f bers bridge the territories served by the anterior and posterior fas-
+cicles. Therefore, although the sequence of conduction is altered, eH
+the total time required for depolarization is usually only slightly pro- A ~~ Normal Q Waves
+longed. Also note that although LBBBs and RBBBs are most easily
+recognized by analyzing the patterns of depolarization in the precor- oo
+dial (chest) leads, in the case of LAFB and LPFB, it is the recordings =}
+in the limb leads (as in Fig. 4-20) that are most helpful.
+Pathologic Q waves in Myocardial Infarction B Pathologic Q Waves
+As you will learn in Chapter 7, sudden complete occlusion of a #qWQ@JRE4-21. Normal
+coronary artery typically results in a syndrome known as acute _ versus pathologic Q waves.
+ST-segment elevation myocardial infarction (STEMI). When this @mopared with the small
+occurs, a sequence of abnormalities of the ST segment and Twave Qwaves generated during
+evolves over a period of hours, as described in the next section, 2ommal depolarization (A,
+Unless reperfusion of the occluded artery is quickly achieved, irre- blue arrow), pathologic Q
+. . waves are more prominent
+versible necrosis of the heart muscle served by that vessel ensues with a width > 1 mm (1 small
+and is marked by the formation of pathologic Q waves as part of ox) or depth greater than
+the electrocardiographic QRS complex. 25% of the height of the QRS
+Recall that it is normal for small initial Q waves to appear in complex (B, green arrow).
+some of the ECG leads. For example, initial septal depolarization
+routinely inscribes small Q waves in leads V, and aVL. Such physiologic Q waves are of
+short duration (<0.04 seconds or | small box) and of low magnitude (less than 25% of the
+QRS total height). In distinction, pathologic Q waves are more prominent (Fig. 4-21; also see
+Fig. 4-29), typically having a width greater than or equal to 1 small box in duration or a depth
+greater than 25% of the total height of the QRS. The ECG lead groupings in which pathologic
+Q waves appear reflect the anatomic site of the infarction (Table 4-4; also see Fig. 4-23).
+Pathologic Q waves develop in the leads overlying infarcted tissue because necrotic muscle
+does not generate electrical forces (Fig. 4-22). This results in an imbalance whereby electrical
+forces generated by other regions of healthy myocardium become abnormally unopposed.
+Thus, the ECG electrode over the infarcted region detects electrical currents from the healthy
+tissue on opposite regions of the ventricle, which are directed away from the infarct and
+the recording electrode, thus inscribing the downward deflection. Q waves are permanent
+evidence of an ST-elevation type of myocardial infarction; only rarely do they disappear over
+time.
+
+Notice in Table 4-4 that in the case of a posterior wall myocardial infarction (see Fig. 4-23 A),
+it is not pathologic Q waves that are evident on the ECG. Because standard electrodes are
+Anatomic Site Leads with Abnormal EGG @mplexes* Qronary Artery Mbst Often Responsible
+
+Inferior II, Hl, aV, RCA
+
+Anteroseptal V,-V; LAD
+
+Anteroapical V,-V, LAD (distal)
+
+Anterolateral V.-V,, I, aV. COX
+
+Posterior V,-V;, (tall R wave, not Q wave) RCA
+Cee
+*Pathologic Q waves in all of leads V.—V implies an “extensive anterior M’” usually associated with a proximal left
+coronary artery occlusion.
+FX left circumf ex coronary artery; LAD, left anterior descending coronary artery; RCA, right coronary artery.
+The Hectrocardiogram 97
+not typically placed on the patient’s back overly-
+ing the posterior wall, other leads must be relied aVL
+on to indirectly identify the presence of such Lv
+an infarction. Chest leads V, and V>, which are
+directly opposite the posterior wall, record the RV — \
+1
+inverse of what leads placed on the back would
+demonstrate. Therefore, taller-than-normal R
+waves in leads V, and V; are the equivalent of
+pathologic Q waves in the diagnosis of a poste-
+rior wall MI. It may be recalled that RVH also
+produces tall R waves in leads V, and V;. These
+conditions can be distinguished, however, as
+RVH causes right axis deviation, which is not a AVL
+feature of posterior wall MI. "
+It is important to note that ifa Q wave appears
+in only a single ECG lead, it is not diagnostic of ) ma
+an infarction. True pathologic Q waves should
+appear in the groupings listed in Table 4-4 and
+Figure 4-23. For example, if a pathologic Q wave
+is present in lead III but not in II or aVE it likely
+does not indicate an infarction. Also, Q waves
+are disregarded in lead aVR because electrical
+forces are normally directed away from the right
+arm. Finally, in the presence of LBBB, Q waves
+are usually not helpful in the diagnosis of MI aVL
+because of the markedly abnormal pattern of ¥
+depolarization in that condition. 5 —\
+SFSegment and Wave Abnormalities
+Transient Myocardial Ischemia
+Among the most important abnormalities of the
+ST segments and T waves are those related to
+coronary artery disease. Because ventricular
+repolarization is very sensitive to myocardial e
+perfusion, reversible deviations of the ST seg-
+ments and T waves (usually depression of the 4 _|
+ST segment and/or inversion of the T wave) are /
+common during transient episodes of myocar-
+er . . . . Pathologic
+dial ischemia, as will be explained in Chapter 6. Q wave
+Acute SF-Segment Hevation Mi FIGURE 4-22. Sequence of depolarization
+. . . . . recorded by lead aVL, overlying a lateral wall
+As described in the previous section, pathologic  j araretion (dark shaded region). A pathologic
+Q waves are associated with one major type of Qwave is recorded because the necrotic muscle
+myocardial infarction (STEMI) but do not differ- does not generate electrical forces; rather, at the
+entiate between an acute event and an MI that _ time when the lateral wall should be depolarizing
+occurred weeks or years earlier. However, an (panel 3), the activation of the healthy muscle
+acute STEMI results in a temporal sequence of ° the opposite side of the heart is unopposed,
+we . . such that net forces are directed away from
+ST and T-wave abnormalities that permits this ;
+eee . Lo. i, aVL. The terminal R wave recorded by aVL
+distinction (Fig. 4-24). The initial abnormality is or cuts depolarization of the remaining viable
+elevation of the ST segment, often with a peaked — jnyocardium beyond the infarct.
+98 Chapter 4
+Anteroseptal Ante rola tera
+(V,-V>) (V5—Ve,1, aVL)
+Anteroseptal Posterior
+(V,-V>) (Tall R in
+4 V,-Vo)
+\ / Ne Inferior
+; Anteroapical UI, Ill, a VF)
+(V3—V4) | /
+A
+Anteroseptal Anteroapical
+I aVR V4 I aVR Vi
+UIA Jay 4, I apr | 0-0
+I aVL Vs I aVL V2 Vs
+AQ | WAL AWW IE | IAL | ayy | JIL
+i aVF V3 V6 ml aVF V6
+sir | | At | I tr | Lit
+Anterolateral Inferior
+aVR V1 V4 I aVR Vi V4
+Il V2 aVL V2 Vs
+AQ AAA OEE | yy | IE
+li aVF V3 V3 Vo
+
+B
+FIGURE 4-23. Relationship between KGGleads and cardiac anatomic regions. A. The lead groupings listed
+in parentheses represent each region. B. Mniaturized 12-lead ECGGschematic drawings showing the standard
+orientation of printed samples from each lead. The major anatomic groupings are colored and labeled in each
+drawing. While the presence of pathologic Q waves in leads V, and V, are indicative of anteroseptal infarction,
+be aware that tall initial R waves in those leads can indicate a posterior wall infarction (not shown in part B),
+as described in the text.
+appearance of the T wave. At this early stage, myocardial cells are still viable and Q waves
+have not yet developed. In patients who achieve successful acute coronary reperfusion (by
+f brinolytic therapy or percutaneous coronary intervention, as described in Chapter 7), the
+ST segments return to baseline and the sequence of changes described in the next paragraph
+do not occur.
+
+In patients who do not achieve successful acute reperfusion, within several hours myo-
+cyte death leads to loss of the amplitude of the R wave and pathologic Q waves begin to be
+inscribed by the ECG leads positioned over the infarction territory. During the frst 1 to 2 days
+following infarction, the ST segments remain elevated, the T wave inverts, and the Q wave
+deepens (see Fig. 4-24). Several days later, the ST-segment elevation returns to baseline, but
+the T waves remain inverted. Weeks or months following the infarct, the ST segment and
+T waves have usually returned to normal, but the pathologic Q waves persist, a permanent
+The Hectrocardiogram 99
+Normal Acute Hours Day 1-2 Days Weeks
+later later
+¢ ST elevation ¢ STelevation ¢ T wave inversion * STnormalizes ¢ ST &T normal
+« JR Wave * Qwave deeper ° T wave inverted * Q wave persists
+* Q wave begins
+FIGURE 4-24. ECGevolution during acute SFelevation myocardial infarction. However, as described
+in Chapter 7, if successful early reperfusion of the coronary occlusion is achieved, the initially elevated ST
+segment returmms to baseline without subsequent T-wave inversion or Q wave development.
+marker of the MI. If the ST segment remains elevated several weeks later, it is likely that a
+bulging f brotic scar (ventricular aneurysm) has developed at the site of infarction.
+
+These evolutionary changes of the QRS, ST, and T waves are recorded by the leads over-
+lying the zone of infarction (see Table 4-4 and Fig. 4-23). Typically, reciprocal changes are
+observed in leads opposite that site. For example, in acute anteroseptal MI, ST-segment eleva-
+tion is expected in chest leads V, and V>; simultaneously, however, reciprocal changes (ST
+depression) may be inscribed by the leads overlying the opposite (inferior) region, namely
+in leads II, Il], and aVF. An example of reciprocal ST changes is shown later in Figure 4-32.
+
+The mechanism by which ST-segment deviations develop during acute MI has not been
+established with certainty. It is believed, however, that the abnormality results from injured
+myocardial cells immediately adjacent to the infarct zone producing abnormal diastolic or
+systolic currents. One explanation, the diastolic current theory, contends that these dam-
+aged cells are capable of depolarization but are abnormally “leaky,” allowing ionic flow that
+prevents the cells from fully repolarizing (Fig. 4-25). Because the surface of such partially
+depolarized cells in the resting state would be relatively negatively charged compared with
+normal fully repolarized zones, an electrical current is generated between the two regions.
+This current is directed away from the more negatively charged ischemic area, causing the
+baseline of the ECG leads overlying that region to shift downward. Because the ECG machine
+records only relative position, rather than absolute voltages, the downward deviation of the
+baseline is not apparent. Following ventricular depolarization (indicated by the QRS com-
+plex), after all the myocardial cells have fully depolarized (including those of the injured
+zone), the net electrical potential surrounding the heart is true zero. However, compared
+with the abnormally displaced downward baseline, the ST segment appears elevated (see
+Fig. 4-25). As the myocytes then repolarize, the injured cells return to the abnormal state
+of diastolic ion leak, and the ECG again inscribes the abnormally depressed baseline. Thus,
+ST elevation in acute STEMI may in part reflect an abnormal shift of the recording baseline.
+
+The systolic current theory of ST segment shifts contends that in addition to altering the
+resting membrane potential, ischemic injury shortens the action potential duration of affected
+cells. As a result, the ischemic cells repolarize faster than neighboring normal myocytes. Since
+the positive surface charge of the damaged myocytes is restored earlier than that of the nor-
+mal cells, a voltage gradient develops between the two zones, creating an electrical current
+directed toward the ischemic area. This gradient occurs during the ST interval of the ECG,
+resulting in ST elevation in the leads overlying the ischemic region (Fig. 4-26).
+
+Acute Non—SFSegment Hevation Mi
+As described in Chapter 7, not all acute myocardial infarctions result in ST-segment elevation
+and potential Q-wave development. A more limited type of infarction, known as acute non—
+ST-elevation MI, typically results from an acute partially occlusive coronary thrombus. In such
+100 chapter 4
+ST-segment Elevation MI
+\) MK depolarized
+) Recording
+Injured segment is electrode Baseline shifted downward
+partially depolarized
+prior to stimulation
+Non-STs egment Elevation MI
+Baseline
+shifted
+upward
+\ Heart fully depolarized
+Injured segment is Recording \
+partially depolarized electrode Normal baseline
+prior to stimulation
+HGURE 4-25. ST deviations in acute MI: diastolic injury current. Top, ionic leak results in partial
+depolarization of injured myocardium in diastole, prior to electrical stimulation, which produces forces heading
+away from that site and shifts the ECGbaseline downward. This is not noticeable on the EGG because only
+relative, not absolute, voltages are recorded. Following stimulation, when the entire myocardium has fully
+depolarized, the voltage is true zero but gives the appearance of ST elevation compared with the abnormally
+depressed baseline. Bottom, in non—SF-segment elevation M, the process is similar, but the ionic leak
+typically arises from the subendocardial tissue. As a result, the partial depolarization before stimulation results
+in electrical forces directed toward the recording electrode; hence, the baseline is shifted upward. When
+fully depolarized, the voltage is true zero, but the ST segment appears depressed compared with the shifted
+baseline.
+ve Ischemic A / elevation
+~90 mV Normal a =<
+Ischemic cells A
+repolarize more Recording
+A rapidly than normal B electrode
+HGURE 4-26. ST deviation in acute SFsegment elevation MI: systolic injury current. A. Gompared with
+normal myocytes (solid line), ischemic myocytes (dashed line) display a reduced resting membrane potential
+and repolarize more rapidly. B. More rapid repolarization causes the surface of the ischemic zone to be
+relatively positively charged at the time the ST segment is inscribed. The associated electrical current (arrows)
+is directed toward the recording electrode overlying that site, so that the ST segment is abnormally elevated.
+The Hectrocardiogram 101
+Normal a | IN
+Lo, ¢ ST “scooped” depression
+Digoxin therapy _oe ¢ Mild PR prolongation
+Hyperkalemia A | J \ * Tall ‘peaked”T wave
+Severe \ ¢ Flattened P
+hyperkalemia ¢ Widened QRS
+; TU ¢ ST depression, flattened T
+Hypokalemia ¢ Prominent U wave
+Hypercalcemia ~ Ln ¢ Shortened QT interval
+HIGURE 4-27. Qnditions that alter
+repolarization of myocytes and therefore result ;
+in SF-segment and T-wave abnormalities. Hypocalcemia * Prolonged QT interval
+infarctions, it is ST-segment depression and/or T-wave inversion, rather than ST elevation,
+that appears in the leads overlying the infarcting myocardium.
+
+The extent of myocardial damage with this form of infarction is less than in STEMI, often
+involving only the subendocardial layers of the myocardium. As a result, pathologic Q waves
+do not develop, because the remaining viable cells are able to generate some electrical activity.
+
+In non—ST-elevation MI, the diastolic current theory maintains that diastolic ionic leak of
+injured cells adjacent to the subendocardial infarct zone generates electrical forces directed
+from the inner endocardium to the outer epicardium and therefore toward the overlying ECG
+electrode. Thus, the baseline of the ECG is shifted upward (see Fig. 4-25, bottom). Following
+full cardiac depolarization, the electrical potential of the heart returns to true zero but, rela-
+tive to the abnormal baseline, gives the appearance of ST-segment depression.
+
+In addition to myocardial ischemia and infarction, there are several other causes of
+ST-segment and T-wave abnormalities that result from alterations in myocyte repolarization.
+The most commonly encountered of these are illustrated in Figure 4-27.
+
+° The electrocardiogram (ECG) depicts the sequence of electrical impulses through the heart.
+« Acomplete ECG (12-lead ECG) is produced by recording electrical activity between the
+electrodes in specif c patterns, which results in six reference axes in the body’s frontal plane
+
+(limb leads) plus six in the transverse plane (chest leads).
+
+° Each heartbeat is represented on the ECG by three major deflections that record the
+sequence of electrical propagation: (1) the P wave represents depolarization of the atria,
+102 chapter 4
+(2) the QRS complex records depolarization of the ventricular muscle cells, and (3) the
+T wave indicates repolarization of the ventricular cells.
+
+e Many cardiac disorders alter the ECG recording in a diagnostically useful way, and it is
+important to interpret each tracing in a consistent fashion to avoid missing subtle abnor-
+malities: (1) check voltage calibration, (2) heart rhythm, (3) heart rate, (4) intervals (PR,
+QRS, QT), (5) mean QRS axis, (6) abnormalities of the P wave, (7) abnormalities of the
+QRS (hypertrophy, bundle branch block, pathologic Q waves), and (8) abnormalities of
+the ST segment and T wave (Table 4-5).
+
+e Examples of normal and abnormal ECGs are presented in Figures 4-28 to 4-36; to practice
+interpreting clinical tracings in greater depth, the reader should refer to any of the complete
+ECG texts listed under “Additional Reading.”
+
+e Disturbances of the cardiac rhythm are identif ed by electrocardiography and are described
+in Chapters 11 and 12.
+
+|. Glibration
+* Check 1.0-mV vertical box inscription (normal standard = 10 mm)
+2. Rhythm
+* Sinus rhythm is present if
+* Each P wave is followed by a QRS complex
+° Fach QRS is preceded by a P wave
+° P wave is upright in leads I, I, and HI
+* PRinterval is >0.12 sec (3 small boxes)
+° If these criteria are not met, determine type of arrhythmia (see Chapter 12)
+3. Heart rate
+* Ue one of three methods:
+* 1,500/ (number of mm between beats)
+* @unt-off method: 300—150—100—75—60—50
+* Number of beats in 6 sec x 10
+* Normal rate = 60-100 bpm (bradycardia <60, tachycardia > 100)
+4. Intervals
+* Normal PR= 0.12—0.20 sec (3—5 small boxes)
+* Normal QRS < 0.10 sec (<2.5 small boxes)
+* Normal QT < half the RR interval, if heart rate is normal
+5. Mean QRS axis
+* Normal if QRS is primarily upright in leads I and H (+90 degrees to —30 degrees)
+* Otherwise, determine axis by isoelectric/ perpendicular method
+6. P-wave abnormalities
+* Inspect P in leads II and V, for left and right atrial enlargement
+7. QRS wave abnormalities
+* Inspect for left and right ventricular hypertrophy
+* Inspect for bundle branch blocks
+° Inspect for pathologic Q waves: What anatomic distribution?
+8. SFsegment or T-wave abnormalities
+* Inspect for ST elevations:
+* SEsegment elevation MI
+* Pericarditis (see Chapter 14)
+* Inspect for ST depressions or T-wave inversions:
+* Myocardial ischemia or non—SFelevation M
+* Typically accompany ventricular hypertrophy or bundle branch blocks
+* Metabolic or chemical abnormalities (see Hg. 4-27)
+9. @mpare with patient’s previous KCG
+I
+Sun} osed LOSES Fan ‘+ Cogs bares igess Sheed ee] songs pursa (hess Feta Feeet tts
+— — #+(+$§-« ee he . leeee eee
+OP Pe ren ren — Se bOSe8 OF E Re Pewee ee, PERE FOR Oe FPP Oe Flees oe -.,  Heeee Oe
+SRELIZETG Pikes te Se beads cada CEES ae) beaks cakes bodes C2SE2 Peas Ueass eld
+POR e PTE RSET PH NET PETES PETE PST ET FETT (OTR PE TEENS RS PET PETES OES Te ee es Pee
+Pettdtatedeciabekstsstideettdtsssiacetbettabiaetaedaeiettatesshiessedse
+beds bodes based by loa bodes becad Loess bb23; ehand Seas ea bns based pbs) | beaes bts
+EGS OOFGd bESES FL Cos FOSS bo aee HEESS Foes! bSdKs bEEHs Fesed bObes FES! | beuee bes
+SOSS Podaa Reels 2 ite beste blsss based ides) sell cebds PSESS CEESs heel 1 issis bie
+TSPPETTOTISTTITINGITEL EE ELET LITLE TE et
+Cees Soeae baaes bs Coa benes baaes beaks cee OOO4 HORE OHO Fee ee FOO ¥ Reese tS
+Leds 6o204 RRSES bd bos babSs bORes Leehs DOSS, COS0S ChEES CORES EESSS RES) b beEes 48
+C084 C4045 Phos bt 18s bOOs Cekes eens bees] C8Oe) CERES Fetes FESS HSS) 4 beces bee
+bobs comes hoses by (as beues Peues hOGGS Seas) 0064 bones bamas posee tOa) Shenae Fee
+BEES Cosas CEERT ASE reees beaae POLST PHO” . CEwET BESET TESSE PETES FEY 4 Teese bee
+PRES CEESE FEET ROSE ESSSEEEEAEHESSE EK? <b FSESS HERS ESSSS PEERS AY 3 FBS ES ESS
+Less Soeed Pas.” Kees poses beans Hepes PA “Xe pooed penes coeed Pesos f. <e4 by ees bas:
+BRON ESESSOSSSE MEE beede cdeed MSEEs eee peed epeas cogs bdaed tee Ss esaee pds
+SOs SSS55 eSSSS ba UES CSS SE SSS RSSSS Cosa, SSSSa ES ESS POSE SS Ss ok, S SeeSs iss
+Sues eaves Peers pp [an crags Seems NqeSs eves: peees anne seees bears Fes, | seers Te
+Fabs castathens te es pease beaut haces teeey [esd sepee eeseateuea bees peeess pas
+Sees thbed LbSSe bo —< Sones bass keees rend <8F4 FSObs FOOSE PEROT beet \eeeee pee
+— ee ee ~z tenes bee
+a a  —  )
+peers eer Tverd F APT Peers tree? ea Fee?’ Peers Pewee eeens Peers 1874 Peers ree
+reretbestlereetmeeleetederbiiicestersmcrtetereetecerlebrebereeteredse:
+Sane C5245 POSES P \bo4 OESSS FRESS FERES F404 \5SEEs SERS ORRES PES ES BES (5 FSaes FS
+ERAS Oe Ped Reeee by HOS FESS EGER FOS EE NEES, SHORT ERNES PONEE RAGES COT) BERESS DEE
+Seen Seees EN See F Hee Pewee Penes HeEes Nene Peers SEeee betes Pease res yheees fee
+PHAN ORSOEFEHOE Hh ESE HEREE FEREE HERES FLERE FHEHE FEREE COREE PERO Eee SF Heeee Fee
+HESS CSFST FECES E. OFS FOSS FFSSS NESE FESS C5585 FEESS ESTES FESS FES, 4 bee es FS e
+SESS ERSSS ER SEST Ros teags ceeagNSSSEESSS) Penss sages seen tages cesl atesss res
+SETS SSSST FESS i OSS SESS SSS Sess SPSS) CSSSs SSSSS SSSes SSSSs Sok SSSSS ESS
+BOs PESTS POSES b) See POSes HESes Hee SE RPSe SESET FEEES FERES Paaes bes) ¥ Sbees see
+Bids Peeas cans 5 bea beees S555 beess rise pened Feds booed based bs! A cease be
+ada eben SEES snes beeee be wed hones E> J bends tees Oe bee Rha he ed 1s beens poe
+Pean eased bea. a 2dees beees beaad hawes A] v5d Saeed OeRRS bases bhaee fae hoses bao
+ORE PSSSS PST TESTE CSRS SESE USES LOSS POSES CERES heeSs hades dS WSSES ade
+Sees C5555 ESSES A PEE ESSE ESSSS BEETS LSSD, OUEST SEES ESSSS PEESS ESD, EEEES ESD
+PePPTeerPs ere Pe Peed reredreripterth revi mrtietettrpeserperregecst enaee bee
+ees 65504 bass be los bodes boas besee bes] [ba64 bend bases pasbs Foes fp bades bas
+REQSETESS Cotes ba As Cwese reese teees beees leurs cregs estes cases teei hpeges tee
+DEUS PSESS Cosas lS ESS ESS SESS Cisse SESE ESTs bodes bocce csS! (ilies ise
+heres ———— ~~ Exees PeRES EETeT | _——~E Peers tee
+StISSESEeebeR eas tet sds tlapisestiessbettehsatidiestieste beta dteteaees
+Seah esbas bese l baa bese boans baees seep teased sober beeas beses bay poses bee
+re rerrerereeterarreisessrsrrestrerrerctrerseres sr rerrerserrrr rer trots rte
+beds pesadhesesh vas pesss hous b0eSs 0008 bases theds cases hhees hil ‘s beses baa
+Lewes terns haees Bi Ree Peers Sees POPES PEER PETES EE TTS Peres haere hee) = Peers bee
+Ses Cosss FESEs LE bes FESes bgees fesse cose CFE TeEHOes OR Ode PR eee Nes ee eee bee
+Shdsibted baaes h boa beaks benad bases caee peanl bebessabatbiaes sae Vbwese bas
+CROOEESS4 FECES eG FETE ESSE CE RSFHEESEEEES ESEKEESEES ES4ES PEERS FES FERS EE ES
+poees eeaes CARES © Soe LOSS POaSs CSSSS SASS FEOUE DORES FSSRS TASES ESS EbESes ee
+Semen REbOS OSG M1 COT HUNSS PENT POSES PSSM POSE ShORT PEETE PRES bee! f Hees Fee
+OObe OR44 EROS F) P44 FOE 4k RE ROE FOE EE EES) FOEN4 CERES OEE 4 BESES bee) bh bee ee Bae
+Keke cebesresrth! tas pedesteewthacss bese! Petes Cawns batenehana nee! Ubeane hee
+04 be0SS POSES” Ven Ses bened HERE FORH C8 ) 18088 FSREs PETES ED> BPR.) hee
+$oes cosas bbe?” -énes\ Ess peaes DOSS EY «6 bad | janes soees meses a Sabo") bow
+Wwee veeed Per, eeere, Vee Peees reeset ri V5 Per S. Vere veres Press SET ren jhee
+PRESS CS OSS FESR. VaR 696 PSERS POSSE PEO. are ROSS EOSSS FESSS ED. EER 4 Oe
+See Cents POS. CGnee DOEEE SEES. ed Denes benee Dewees. “Sees eee
+HOS eebtt beats B46 T+ Fees Reees Fetes ETA | Memes boO4+ bebe t beans LEG f Eeeee Fee
+Sade tessa haees Sen bases FSaas hSESS Ved (Saeed Sees Reeed Sates feel Tessas pee
+ones Petes Peeps | "es crees teens frees PETS —“aee Feene Tepes Loses CET! --—=00 Bes
+et eb eo twee ft) lee | dc Bee de eae
+THER EPR CT Pe ee\ BSSs SESE $3a88 19533 tase \hebabetisehioaete oe 9 FSo3 335
+000 GOWOd PeeAS | DRGs FREER POREd bOOs RESEe beers bOnES COOba Poa Ee Ter? sheet tte
+poees satan heeesh won (Sees beaas SSEES FOES! EESES CSaES seeeEs haees Low Aseses Eee
+reeeterrtiasietieredssrrivertitisriers eereetrietioeretertster atest ete es
+FS2e PSPS EESSS | F504 FORSSEERSS TEESE FOES FSEFASRNES PE RES PASSES FBG) |s Peees Ete
+EWES OPES PESeS | bees beeee beeas Ferse rece Feees trees renee Pears ree ¥tenes bee
+SESS ISLSIESSSS | eoSi cesses cewes bscaieees bases senes tosses hoses ces (ssasse eee
+Sens bewes FeTet! Nees Feeet Feney frees ere reees Seeee Peres rears Tse in ceees tan
+Peas ceeea beaed! Pete beaee baaed baeee ceaa ‘beens eeeas teased Pesos daa \apeees tee
+SEIS TST PeSss Hees fesse fe ess FePes Fees | pease cents cesses Peses Fey, s fesss fee
+REGS CERSGMSESS ROSS LESS PSSSS REESE ESSS | SSEES SEUSS ESSRSPESES ESS Uteeee PES
+eas CSSSS RESES C555 C0556 FOSS USES SSd Coes RESSs Coeee EESes bee 4 co5es £32
+RTs PEERS HETES | Thee PEST Paes PeEne Kae 4 Peaed PEnEs Peres Panes ir ss cress pes
+S505 potas beees > Dee beees beaag heeed a> <9 based beGaS betea baaes .cSe4 pease bee
+ehh ttt tis CoH LB HET ERI DSI Bae teh ein is ESSERE
+POON CREE RAH £O48 LOOSE FE ROd OOH EE RED (1 FER ES COREA EHR Ee Pee ee Fe. 'Oheeee Pee
+Sek cease hoses S525 toes booed boss baal \ boas bobee bodes booed doe Wheeee bas
+Sees pSSEaESSey ESTs 6SSsy PSESs PSESS KOT | POSES SESSS ES SEn PETES pee) PESETS ESE
+Shbstehaa COED G4G8 PROCS DAdas Deeeh bead | Seees EhOAS OOkaS Chane heel }aeg es bee
+Obs bebe SED —~s ©5966 060686 60068 Cee ~~) 6086 66404 CEERS PESO —~—
+Sete erred peear Sa —_ oT tT
+seee S2Ss ese. wane sand PESS2 SSES2 FW esd LEEKS PSSSS wow 5 SSS ISS
+eOEs CV SeT Sees | Hes Loews RESETS Peres Seen Pears Frees erTes heres reo. teers fre
+weeeerene OSes? CAs Lease boaes beess beak SSOeE SEES LEESS boobs rok (2 boeee bas
+POEMS ETEE. CHEE FOOSE EEE E FETE HOSE CPOE ECR ET COREE TEE Ed bd ew eee Ree
+PORSCHES) BEE EROS FEES EEHAE EASY FOEEAEHEEE EE PEE HEEES HES 2h O44 BOE
+Saas pated bases | bass bebes basen cesses head beaes Geass Abed bOeeS bea 4 hekes bad
+SREe Pernt PEEES| SESE PEGS? Rens FSET ESES CEEET CERET SeERs PenET tem as rees nee
+HOGS Coed PETES | POOa bESES SO eESs ReeSt HOee Peers bO008 Feed baSea ae (A beees Fae
+HOSS FSSEE Fo G Od) POSE PSTEE FEARS NESEE HOSE HEEL FEROS SERA DEE HL EGE bees Bee
+PRES ERESEFERES BES4EEEFEEEEASHSEEE FREE £8554 EHESS EEFE4 POSES FEE SE OSEE EES
+LESS Sesad Shoes| Gass beses baaas sabes bans beans banSs CSESS baaeS bee bbaeee BSS
+wer Peat et rs eee eee ere ree era ery rr ee reer
+SEES CSEEA FREES) CHEE FSEEE COAST HEREE FEAT | PRREREEREE REPRE ERROR EE JEP OEES FOS
+FUGs Oe bes beeeet ree beeee Pens hese by :8 bees ceeds Reena Fans «44 benee bas
+Suds esbad beeee ) Gad pedes bones iOS 80s <on eens Seeds beeen pEaes “dae beees bos
+SESS Cl Saa CeSes ASSa CeaSs RESSs SESS AS. Us SESS SSEES FSSES CASES ba Nd CSSSS BSS
+CORT PUREE TS OOs SORE THE TS MOREE TT EeT aly | PO eeT SerTT TeTSE NST TSS Creeee tte
+SOC eeeeabeses POSS FSSSS FSENS FOSSS FESS | SSESS FSOSS 89908 54088 SDS) | FSSS8 8S8
+SELGEEESELESES S2ES ERSTE EDIEG EEETE Pete | LtSee ES ETe LOTT CESEa Th ees ite
+OORT Abeae PARRA, “Hd CREEL Ream A PEELE HORE —<Ebs PORHs ROeedPAGORUPEA -—eak Eee
+Sees estas sesas 2 Sa crasakesssl” Ji fsesseesa- oo
+bamee CSET PSPC. Erre Penes Seers ieees re~. Feres sens feres free) fenes fee
+beds e839 Fests Mss gst Bess fits GSTS ee SES HGG etd i
+Sess cstes poses y igs babes Seaas poses hase peaed Sebas codea beaba res co heses tte
+Sees cobad betes | sade pease paaes bhees haas beaed peed coned Roses bee (sheees pee
+SESS SSSSI KSEE | LESITSSSUESSSIESESE SSS CISSE SESS SSSas tsSo5 LES. SSS iss
+cere Seegs Peees | Pers beers Power Peret Pree Pree: rrere teces Peres Pee 4 fees pee
+etepesreTesteiserriser tiers sespese as ereireisererrrisrieror eri ierer ee!
+ESUISTITI PSSST Crea veaseeessy peessites PSSsrsoeys capes pases hes in reres ote
+beads ceed ceees| Paes peeee Pleas neeesbnee beens Seees ceeed poses bod \tbeees beg
+Se ctliSfliil) sss llsiitssirlssi ss GENT slse sss elle l ies fb eters est
+TEES errs TRees| Veet PAaey cerns CPret hees Perea teres eerey Pee ee ee npr ens see
+iitbessthitaibtsswetihrtpisstieSerepiiitesistitietiep cepyee ae
+bobs Cobea PESOS GOES XESS bees NebSE EARS Sea 5 Janes tebea babes eA> 4 bx <s bee
+nae behea bhewe \ KAS > 100 Phaed DORE ER? Od bare Jehee bbees keene’ <tebe> i kee
+oboe 6a504 bees LAL oibs baeee boas > -f> ac bbbas bode DOSS <2 Sk ed ee
+ORGS PEP es RESET | t9e Cwees PTE TS PERSE SET. | PEE Ss SERS DeEes Penes EP. TE Seers Bee
+Sade beteapesed Sues tease beans be5a} sted | Guang cowes babes pages bed \tpeaee Bt
+onde ceeed bOSS4 Bone b555s boa ee be048 bOsd | OS04s CObESs beseS peees Fes) b pases bas
+ean GkSad beeed SOee Leese beacuse Ceres KSEE | Sensi eenes Raeae heaee cee! 5 leees bee
+chek eeessbeses Sess enehs bases hanes sed? | beats bees besss bases see! (bosses cee
+ERs 522z5 Ne ees “yaa Baas eeear od weeps CEEEs EE SEE reees - jens nas
+CEES CREA RSOR” — .. ee TES EERE AEESA ewe. PEEKS CHENG OO RAR FESO. ~Reeees Oe
+TITETIIOII SIS SINTICINIILIOTI SIs ee ett iT ieti srr iris Pie
+Seen bene Fase) S24 beees boned bObes Pees | Reese bones Gees heals tin su heees bee
+SES SSSS4 bESSS y L8bS boSSs ESSS4 bSSSE SDA | babES SoESS SESES ROSES PA, KA bSSes bos
+Stesbteseltritiksrelistsitertitietteseaberiitiiiiieeeritttiteeititereite
+EEE SESS ESTES GET] PERES ESTES CEES SEES | EEE Es ESEET Seesa EGSET hoe |] ERE: EE
+Leah ease bases HELE ben ee teaes beeee seek |beeed bebeheeeee bese lay |Vheaee ren
+SOEE AREA EREEE BOSE FOOSE OEEO4 BERS ESSE | FORE4EEEEE FEEO4LHOEO EEE Ob OOES BOO
+Sods cosas canes | baos babes poses bonhs bead | beens Saees FoSea teaEe oO) Hi bases bse
+See peeEs Pesos Seen pooes Penes Pees Sees | ceere Sees Press PEeee Pen 1 Peees Fee
+seen eeeeaeeaee Seeedretedteeptessp ote dbercebessibecetdeceebrentpretegees
+CORUOREREbOREE POG bess Phawh hebes tung |Feund Reade eeeed bases dad [a beeee bee
+POSS CESS POSES | (RSE POSSE EE ERE NOOSE ERE FRANSES SOS EEC OS PEERS BO’ /4 FOS EE RED
+Sass caoed poses ts Ge pases Sosa bSSes SES? (cosas Sones SeSes bees Osan beees Boe
+Peer veges reves no ep rece: Fever heres rest vreers Sener rEres riees mL ee reese ree
+BEES C5534 FESES) -AS5 FRAG ET SSS heees Sanh | OnSes SE NRG CESE4 ESSSS EN. Vs ease FES
+Saks cepad beses Cues beess boeas beees boee | Seees canes Os BES Rees Ete 4 tees p22
+bade be eed peees oes boged ba cee beeee tbaa bases seaae ca besbeees eee bheses bee
+SOSS SSESI CREE. (ESS) CSSSS Laas PSSST Ses eek Sl Col5s FSESI PeSEs res, 2 rsess se
+OSs ROSS E CHESS ORES LETT FSSSS POSSE REM 1 FPU0s PeOEs OSES PETES POS. <8 88s Fee:
+POC ESt eS Peeer-- “62 FS Sas FOES — SUESS C8888 FSS es Fees —- Peet eee
+Sets roses Pees cory cares Seuns leest prey -woed beess seges Fessy 1. si bases bes
+COFFEE PETES S8SE FEESEFECEE FEES ECE FOOHE CORRE HOPE E hE G Ee Fae 4 beeee Ree
+Eads cates neeesh cas pesas Saass bases esse | Casa temas eases bases re, Jo aeses cae
+SORT OPTED Tees) ces PERes beens Heese Tere PSews PEERS FETT FESS? Ey) ST Penes fer
+Beds OS 555 eh pes S555 bodes FSSa7 Leese cece bese s dbedi estes cases cen ib beses bee
+SEresstasrgses hogs posts basse esses pied | teers teres roses eased red [4 bases tts
+SESH Cehaa PESOS Uete beeee bSaes beSSS eae beahs OPESS Coheed Leaed hes ba heeee bee
+Seal PSSSS LSLSs| Liss eeel ecaasakaec ceed cases sonal secna hoses ral peceaes eee
+Os Feeed PETE]! SSes Coees Feues PPEES Owed SEnES Sones Deees Pease bps En Dewees See
+POE OTEEE OS Ee CEEE EERE Reed EEE EE EEE Che Hd EEES OFS PE 4ES OHA HE ORO Ree
+Seat eeres cates were frees ttaat seers tres lceens tenes tapes teathe rey ja trees bee
+bbs OOF44 Peeks F048 betes PeeesTebEs FES bGOes OF OES FO bE8 FOG Ee bee Ja Rees 44
+Shas cnsaa bees) has teses tseettsssivend csesssneesonenn eeres be soreness ree
+omen teres Trees th, Pt peeee tenes teres rere (Peeps ereee trees Peres y pau teers eee
+SESL LESS PEELS bP Dobos aS Saag PSea a eds PELE SESS LES ss Pesos b Sao hoods ae
+POE COREA OOOO! FEF EEEEE FEES HEHE PEED | POEESEEREE COREE FE EEEE PH. HEE OOOO BOE
+Reds shoes beeen Lees heees beaee haeee ead | paaes then sane beaee hod | teees bam
+SSS saSe4 DESES SESS CESS OSS55 CSSS1ESSS CSS CEES s SOSEn bESSS Od 1S SEES CES
+CUILIDTTI LEED SEED DLIT LETS RELY ES Eg EET STEAL aa Ee
+bods eesai veces 2223 beads peas bhest pim J ecard sabes cated pases jee. Seeee pee
+Oe 60444 EERE - Sesame eee —~2 $2555 SSES8 £5558 Feeey phere eee
+PESO RESEEEEEEE wowed FIRES OEEST CEE EL EETD 606858 COREE ROSES EES wm LE RwO OE EES
+Desi ceeds cbaed Ghd beaes coaad heebabeses boast sane pense bases BD? -Haeees bee
+Sane Fetes Herre) Noe Feces Feees Sees Cee | SE SSS Hens Fesns heres te At eeses vee
+ANNs PORES ERE ES / CEOS HERES REESE FERRE EERD Frees Chen Reed Hee ee hy, Ed betes hee
+BNNS 0004S POSES Fees bOGSs FEES s KEES FORE | FO085 CRKNS OO8KE REG Ee DPS ln bees Fee
+LELUEDESS CLIET| STS LSIELITSEE EET Ehes | EPELIEEMES EEres eae bes ners ttt
+ESS SSSSS ESTES | CSSa FSSSS PSSSS CSSTS SSS | CSSSS SSE SS PSSST SS SES PSs is Sass bis
+Leet Re eed HOSSs! POs CRESS EOEES HOSES Bed | SERS? EEUES ROSSd PaeOS PEE Pt oznes bee
+POR CSPTEPETOR | OES TOS Reus Peeee Peed | Fents SHOES Ooees Peake hes thee TD age
+POE O—FOE Pee ed COG | 100 Fheee Pee RE FOOT bee — lrede Oona se FOG b4 Fen leew Cl eee
+SRGSSSRS4PESES BES 308 FORS4 Paes FESS | bas — Ceees SARS PASSE RES (5 Fes oee
+Sees cates heees SSE} 330 SSSS2 CESSES RS SSSES SSS PSSSE OSs shee 5 eke
+SULT LETTS LET TT YEE LEEE EEEEL PLE LESS EEG EEE Naas ree tar Es
+SEE EEE NS Sa hes boas ees rhe? 2a, Sones peed baaes © -“* tan at
+ee. se cee. ae
+SSS ESSS4 PER RT. \oba FECES FES=S PEEES RET, \ FEnNS FOREs FSEES PESTS BK UE bewes Bee
+fonascetes roses. sna tcees taasabeese SuSt. Cues Seees Sneed posea pan ls tesss Fae
+TR ee ceees reser ees reese Pesos reres seeey ferw? PSREe Peres reses tees Peers rs
+Sets ea tas bEseay sea paaestresy iaesseesey igeea Shuey ceces pases ses U tess eee
+FREE SET) CERES _V68 breee Fee et Heme FREES “<08) Cee Ee Fe red PEGS FER, ~ Sees bee
+sods eee adqee bedes bane ba- Jon} eees betes batt tf . .. 28 He
+PESSS Senwe wanes .. 4 babes bones bows Uaaal cues penes Lhselh. a euces ban
+ORET CSTE TIES D STE PRE ET Peaee RET TE SEE FeTTS SENET Fe TEE SHTeS ETE in Seeee Fete
+beees ESESG LOSES Coes TESST PE EST NEEES PEt SESE PEUSS FEESS Cewes Fd. Aa peeee Fee
+eegnesess erred § SEs roses soes sees ors reeed tents petes pores ert 49 reset ese
+ROH OSE EES EE h 4Oe beets Petes HOEEE EERE CeO eEEROEe Reeee rea ee he) la heees bee
+Bess cbse bases a ess besss based basssesee bhabs bends bese bases bas (nu beees bas
+SEs EPPO Pbers H ows PBEee Seued HeEet PeSy  HeeeT Sous FETE" Hewes Fe? tne paes tay
+ESS SE SS5 CESSES SE ees FES SS BSS 7 PE bed eed | eoee 5 beEds estes FUS55 Fbh 63 POSTS bes
+Sestssessrhssas egg tease tdaed gest ines beret ceess retea egsie rea ie hiaes tte
+ShSH ESSE ER EOS F OSs bones Peas PSSSE Rabe) Ceeeh ens FObSa PETES Tae \U bom ee bee
+pomat rates hoses s oes reass baearssesssens| Cases Cannes seaes betes bed iseeees eee
+Lenns 5 SSeS ERSES DUS PASSE Bones FOESS PRT) ESTA CSERSESESS EOOSS EET /M FREES ESS
+POSS EEEEAOE4OST (FOE ESEEEEEEOS NEESER EEL , O4083 08084 60444 LOGOS PES EP eeee EEE
+EGds Ooeed hea ry Oba breast beens Peres 1) of Beebe Coees COTE Pete ete bs brane be
+ede sehed peer, SOPSE PSSSS Poesy PoSse $5 <4 Soars Soebs Feees FESSs fo ‘ty Soses bse
+Sas based peoes Coes bosses saaes bones nde. \ hanes GhoSs Satan Panes baa Vo tenes bee
+TEEN URTSIPRETT TAN TUET PeeeT reeset rete peers teres teres Peres vrs ‘a prere cae
+SOMOS EE EHO HEE NEUES OO ERE PERSE EEE) PHOETEEHETEEEEE FEE ER ERE SRO R EO +e:
+e545 b5344 bRSSS Hh NOS FSSSS BOSAL HOSES ROSS) bSSSs SORES CEASE FESES BOS ¢ heees bee
+Cede be eag PE eed> Jan heees beans Leese HOTS) Sees thnbs banes beabS ROS eles bee
+poees aay vex beeee ceSee BS $34 S506 beten Pease es “ass baa
+Plt LEH SLE ilies MIN EIN III EMI
+bade teaad Desde Gea bees bemas DREth Libp stand somes eeeed bance les (bases bee
+ESS CSSSS POSES) S855 bESOS FE ESS FS EES FEM ¢ PEREG SSEO) C5484 FEES FE/ {5 beaes bas
+SESE ESOS FESES , THEE POSTE FOESS HOSTS FEN, f HERES EEEES FOOSE PEs OD Fs ee b@Oee Fee:
+Saas hoods HSSes \ Has Leese Poses NOSES Pees  beees Sones FSSSS PaaeS UNL IH hSees cae
+eA 8e co ses Peeee Ft ines poses Beene bores Coes | Peery Sones Penes Pewes PEy jt pecee bee
+Gabe Reade FESS 5 ides bee es beans hawed peed | ben] caus baken Fans bhi 6s peees ba4
+Bede weed beeee sed pened bead MMOOS EEE? | Cen es CEE eee baaes FE) bs pesos bee
+HEBIESS DSRS BE SH EB Ee teh
+PeeHPSSSOSPTEL ENTS L Sere Pereeresre ree al eres errs ererr ler eri Si reer e ese
+SESS FET25 hOSSe y HTS Lees: Fes2s BEETS RFRG | F2RSs CFEES RETE5 bESES Ot Ch beSEE ESS
+OTe TEST Petes A ES POSTE RSS FEPSS LESS | FeRes E00) Fewes Peaea HRS D5 hewee Fee
+SANS LESS] beady nba beedd bhend bbbed boy? | Coeed oeaet teead based ia) huteesd bee
+PeeRSSSSSS PE EEE SPA EOESS EORS4 EEE SE LT +5 OOREAEESSSESAEEEESES OY 4 ESESS EEG
+SOEs vases pesin Cases beces beens Cawss Li Via peeee seuss seees beses ol (astenes fae
+Pees PeTed TTR Anes Peers Pewee Perel re. rears Peres Terese frees Pe) Br veges ere
+FETS CREE CER ERD \NPA ESTES CREST PERSE RASS USEED EEBAA EPaea DaRER Tas Valea eS Eee
+eee beard beaee te HePperttitertitrertyrr PESO FERRE EOOOT PEGE EHD CRORE Ree
+SETS ES ERT PESES FH SES EESES FS ESS PESTS FERS) FSESTFERES CSEES EESES FET (S PES SS ESS
+Sasscesescetesp saatesstsseeasseascses peasisneascenescernseeeCapesesees
+age sese- —— (A259 BESS BEERS Peee- ——— ST eeEES FUSES SESES Pes ees Bee
+= Ved fesse ttese ito: —< GGnPa PRESS EE PES PES ES ve renee tae
+OES CHEST IEE DS Fee beaes Peens beens LEAL Saeed CP eet teres begee bar hh taeee fae
+Seiiererd tierd ets reete beast hetareg cz ctret itirt ceted chert te fe price ire
+BOGS ELSES EESED | SESE PSS PSAEE eSed had <2 SeSRl SSS) Eases LESS rs Ci GesSi as
+Sees Saeed FEGSS | NGe PETS FeaEE Senes Far, )peneT Peees EEEss FESes Ty, Ft feces tee
+Ses ee FSd ERSSS o CGS PESTS EGESS BEES Fess ged SS iss regs Petes Di iverst rr:
+POR EOAAAFEEESY NOES OS FARO S ROPES BRO posed obbes bboes hboSs bl, ba Loess 626
+Beas bases easy bas boaes beans HOSS4 bbas | boasd bbGGs bab45 baES 4) Oa bodes bas.
+beds teees heeed d (hos tease bones henns bees )reehd Sones sense haaee ti) ws beees baw
+OURS Feees VESee Fh Nes Fee es Seuas Perey Pees \esees Senne reves Fears fy) WE EEeTs Bee
+ePerrorereererarersssetesrrepesticcy Ritretre) rrresrristrer emits tet tes
+COS eSTT ised s ye Sars hsses tshes read esses tends cota hse rts tat hee
+Deen Gaba Leaedh ead —* Nae peees baeee eee [pea lekee canes hawes hal heh (ae
+ras Ss SS} (hes woes Fae Ss SS | bee Ces ee OE 8 Os 0*
+Sana s PENS FEEEE Kees See eS REMY | TESST FEEDS Peas CRESS EST US EWwEs Eases eee Pee
+Enda ( pees COGbe ChGSs bROSEOSed |p bESES bGEs beOes COGbt Oe] ba baaee Fhaad lease bee
+O04] bees beans Peers fests bred bheees beeed peeee bones O64 bs races teers beens be
+CAnG 1 (Sod b6Gb4 bOOSs Doe de Ree) POSSE FASE HOOT HOMOGE ed 84 hae Os AOE es EOE HE Oe
+Sees) (a> SDS aa eeees cand) =~ s baeas ebaes ad + --=—— es feeae wae
+Sos Nee es HSOaa ED [ee OPH EM bees PRES Oe eee Oe ee loads beeen ObH OS baUES PERds eeees H
++ OSES FOOSE NE HE OOS POO EE OOEES EASES He 104 FOS48 P4404 FOOSE RSHEL [URES SOOES H
+ent tests beaesid he peeed Peeks ROGes Caene MH) hos beaea beens beaeahade? Lawes canee H
+OOo ROPES Ew EE He Es OEE SE PEST PER EY FeeeE Y Pes Saas FE aes PETES KEES Fees FeeEe H
+SES EEES HEE AOE EREOE FORE ROE ES FRESE ASSO HEEES OO O88 ESSN FEY CREOe RETEST
+Bes ibebd Goads. (ae ob04 beees FObbs RESed odd 0088 bb404 babes bed. i pebds bESSS ti
+SOs PETES NSS58 tL 'ted ESSEd Pe ees PSSSs SESES HEE HESUS PSSSs HSeeE bees ‘eeses ESS2¢ Ii
+Sot neeed $2008 FA Vee noed DOehs COREL CHESS h \HOe teOes Pethe beet haeh Sehes eehas h
+MILI I LUI NIL SII IIL NII I
+Fos cease besuaen les eaeed peed panes spees t ecastirtisertisrstisssaaetitresess|
+ASt heeeh boaS4 af {40 0000d bOnss PObEt hens) Wad haeies £5484 bOees bene) (hEus REtes
+O06 0008 Bed reed 4 OO4E POOEE b ORES O81) SEEN NEOES bO404 SCENE HAS | VOES Cee eS
+obs bees be "51nd booed beeba beRes Thnes bb08 boeee bee —«+obns caaee &
+ere PPPs Pheer ce CET PPPS PUREe PSRES Peter cE SSeS Peees Peete reer 7 ht eeees
+Obs Seed RESUS EN (PG FSS Ed bee es POG as OeET L B04 FbONS beaGe Peeed beets Thad e babes H
+S83 Veses boa09 £2 ina Cores Fears pees seeees ros haere beaes poeed bares (ones heres fe
+Teh Pests ChSS3 4 A HEHSd ered teted ceeds ses chads eedes teesd egies coed reeset
+Ted beet’ bases ts Li bbeed cebbs wakes C4284» Led) beads bbbes hbees heal bOlls deze b
+TEs OSES NESTS 8. NSE FEST EEE PSWES FETES. ESE LETTS OFSSE FPETE FENT? UP Ere Fees A
+mee E See Sed BE bee eee l POO he RoE Es Oeeee dH PEs EEES RORGs eee Bama Chats Reeee H
+SSS SSSSE S553 Ff OPE OPETS PSENS ESE ES FESES | Fees 1 SSee PSess PSSSs ESN OT /pRne CSSes fH
+SES CESSES SSSS EL he OSSTE TOSS RSOES OHSS | PFSS UESEK FSESy PESTS RSH EE leas geese H
+bos 06554 0bSS4 0S lee beds BhRSs Ooh ee ee SSS | FESS PoSds DoS SoS NEES LEKES OES
+Tee ee TTT ETT) POE PTET PTET TTR ET Tere PETER Tees Pe een reeen Teme Exwre weree hr
+Peseisssrisrtisiteistseisssiititetstismeriitettiterttsssetscisisiiseesess
+TEs PSST: Posse f) Jes Feees Pees: Pease Teese! pers teens SraEs FESes Poet) poses Frese F
+ehiscsirithitetrhesstisteatetictrepiatessitettiterrisresied ttetretresss:
+Sas ieess beads Lead beeed bondi neces sass Lenses boned heeds bbe bad, 4 eked Bbbes
+TET FETT ST PPR EEA "AF PTR SS PETA PTR ET Ee Pe, Lotes Fees PETES PERSE ETE. Pe RHe Serer FH
+OOS OE es SOO Eh, Hes EE SE Fabs PORES ee hE. POEs FECES PEE EE PEEEE ENE, PRRNS OaH ES H
+$33 SSs3 testa ch les sds toesd betes cosdts pbs cgbes tases tess canes boesd sesett
+Set OTE he SSS be Hird Peed PER he PSR es Saeeet besa hehad peaee beeen faguel bende baeee W
+ees SSeS SEES EY bd ood SSS bebe sd elas S58 SSS d bees e bE SS Sle) Lebds oa sea
+FOe POET PES | 488 FERS S OSE ET OER EN TENTS SENT PETE F FERS e PERT T He hES ENP Cree F
+oes eens Sd ~- Ewe bowel OSRES PEERS =~ LTESS heees Fees bewet ———— (aenws eaees
+eet heeeans a beeed beeee PRR. ——28 (0008 Pees bee... ~*~“ Se Beene H
+SSS ESTES SSESSS PD (HE FSSET ESSES ESSSS ESTES Cv 5s HSSSS FFSS45 FSSSS FERS ESSE FETES FET
+Ses cess SeSus bind beees CESS SSESs seeesr lose leeEs BSESe SESS ESUEL CERES EESSS HB
+Ve POSSE eT T ne Te TEED eRe Pere PTT EEF ITT e Pewee Pe TSE Tees Pee ET TTS Te Tee
+$53 SEEES TTD YS ESS EET ET EE ET EE Ee: Eebrerttety
+OObOebs bEENGE 144 OO ROR EE ROR OEEEEOe BOGE NOObe bOO08 OEOS POee CRUE REESE H
+SSS POSSS FESES E) NSS CFSE 4 PSEES FSESS FFSSS ) USSS ESSE S 55555 555545 FESS) FSEHS FEES TI
+SS4 FSSSS 65505 F} NSS £554 FESS SSSS4 FESRE! F508 £FE04 FSSS5 FSES4 FEES CEEES EESSS H
+$94 OSES FOOSE FSS POSSE PERSE ESESS FSSSF | F955 54845 55905 P5555 1450 PEEES FSSES H
+S56 FSSEs ROSES FT NSS FSSSS ETERS PSSST EESES | F555 FONSS FEES FSSEs SES OSESS FEE ES H
+Ot HPete Cees © Gee PEERS PERKS PORES CHEST C808 FERNS REESE PPEOT LER CORES EE PES H
+OO8 Nees POOH E NOE OF004 PEED SOON OE OSS be BOEE P4004 FS4EE PSST EE ED CORE C4 SSS H
+Set iweed beasay (194 PReed benet Oebet Ebeet Seed baeee POOEE POSE t berth  benee ttees
+Set heeed Prete’ Set ewes Pee es Peat OwETs Ceeet Lheee heeas Pewes Pek’ s Penet eoeest H
+SSS POSES S547 CSS S SSS PESES ESEOS FSS) VERSE ESSE ESSSS BSESS EET (A ESEES FSESS H
+SIT TESTELTITT NIT LESS ELTELL IEEE IETS ESTE LETS ELT EEE ST SS SE tie!
+22s Hates b4404) ned boone be eee +440 (ESb5 bae44 beoee peead hath \ESeHS eee H
+Soe HeSSs LESS HCAS ESEES SEEM POdOs POSES) SESS LOSES bS4S4 NSS DEEL Comet SaeESH
+FOO Sete CST OE 6] NTA PEE ROK ES ETRE CESS PSSA Eeaee PEER ETT SI TEs CeEes eT Ere
+S33 Hoses Epes t/ Aus beces beans cones ceees) Pees Fo880 peaes beses bens cones ceese F
+BEE NESEE RDF ~ SEN RG ERE NESE EEE EEOESL? DAOAKY EOS FORGE POSSE POEh, FERET TTEES H
+O66 (bees O40. — Thiaed ~ “pd beens bones LSS, :tega') Ube beeee babel LOLS” pep” \eeee b
+Sos 525845 sTaes yh wed Se85S BEEK - 200%. | + nes seeea Ba. — She.’ ones &
+PSati asi EtereTIROtiepeeLessetetteis+teaerl capa ttieretesr tT eteahed Temes st]
+eee meee Oba Fi hae 4 beeee pened eaeee (Ane? 344 beens bende td bel Ten sse88
+Fos beeea eee! 24 deed ORES PRR ES OHS ~Su (00R8 b2eee beeeS br a3 bees
+obs OG844 PSE EE ELSE OS 204 PORES hOOSS FEEES I Ted bGGUs Pena e he eeT EERE (306s eres H
+BSS ESS 655424 67 655 ESSSS OSSES ESOG8 C2584 FASS OSSE0 65504 ESES1 KSEE AHbES 04528 F
+Tee OTS TT RUST TF) ee PF eST Per ET FEN eT TET es A ines penne Prees De eEs Deer, Senne eee ne
+Ses oeettrectae| a4 POE ed FeRSE ETE mI SF heSeh 406 bends DeeaT POET DAeY) Penne Fetes
+SSS $5555 FETE E) H-4 CSSO Hl PSSSES FSESS FESSS 4 (455 F4SN2 SESS ESSEG FESS) PERUSE F048
+SEL LIETE TITS DEEPEST EE EEE ese eres LETS es ete! Rete hire
+O24 beeee edaed 2404004 2006) 60004 eoes S044 deed boo Oe Oe! bE ede
+© PECTS PEDEE TD NZ8 Pewee COONS PUREST EERE 4 [YS Crore OTEEE PES es REET, Peers EE Ees >
+Os heeds hROSS h fas bSSSK PORES PShbd beers) 4a Keaes BOERS bbeSS FEES) bebee hha’ &
+O90 (S884 18004 &) N28 F9SEE PORTS ESE8S FESS Y fees S408 PEERS PRESS FSD CRE Et FOESS H
+PIosreserrerrrs@trre eel ec retell ericccigcter Tri eter icles itr emiel reece
+S2o HESES SSS02 CA es ESSSa ESSSS ESSE LSSES Loss BSSas Less ESSS Iss s ESEas Sessile
+TES PESTS CERO E NT INE HSEES SOONER ET OEE ED NES PES Ee OT RSE ETE ST THT SENOS Cees &
+S53 fesse beans by F53 vores coars coeed Soves hy Vos henge eyans beset racr> ters ceees f
+S53 Hoses eens by fad based books bases ooees hi ros vende bogus hosel baeey wees setae &
+SOs OOS bESEE K) 904 OS04 FS eed PORES FObee Co 15d O4EES OSES S POSSE PEO DE! ieee Oebe4 H
+Sos Gbesd boauS > COS boSSd DEESS RRNA AL) =) 555 bdSOS bOSSS SRSA GADD” LObES bedeS &
+wettest wm 2 RSET RTS —_—_- aoans 86809 D9 TT PPee — —==n§ PEPET PEers ft
+Tee eset pees See era renee a LYESS PETS PeTTE Per Fa BROW FeSee
+S33 Seees toe ~n44 bene! peers eke... “Eee #0808 PO805 Fbo2~ SERN bewee ht
+See eee bectat bedbeeed boobs weeed bate ur bEa bteds ceded teed REST! (tees teteet
+Bod OsSd booed 404 hoes d ReeAd ceed Robes A! nbd b4n0S beOEd bESE Deeds (bees beeSS
+TOt FSET CT ETS 944 WEES E PENH HER ET EEETT Y! FET CERES PESTS PSSRS PERRY Nee EeEws H
+esdscssthsittimetisteiiassticisstsssateresttsttassiatsssstent te vent eeteeh
+Ses hosed hesits 1) 299 PES! bores eshes csees ds cee heaes peond peed pene. yeews Erte ft
+See heeee Reeds L Has OSPOd PORE ESE ES ESSE F Des Hanae Pehes REeSE heited \Abee Oeees H
+Bs CS505 RESbe b See SSSSS OEESASSERS CESSES FSe bESas PSEes PSSTs SESE PEbSS EES
+TTTITIT Iii LLL
+SSeS E Pema e388 OOOOH Pew ed OOOO Cee es Y lee OO ONs POEM EEO) DO we! bees eoees ti
+$33 }eSes 8393) § 039 Perel beets Pee es seaes | (aes hosts Poees beret peor! beers sores |
+PTUTISSCRISICE MMI EPeti eli cecil teretiseM lier trl i ster ties seis times stresses
+S52 $055 bosses Cae eSSes CSebs CSESs LESESS [oes eeSs oS3S4 POSSE SES TSESs EELES
+FPS STS TEES AES PPPS! FSR ES PEWES CP OTT? Cues Ne aTs PPSSS beway VFR! SS ETS Press fh
+OOF NOSES EEE DD See POOH RP Ord POR et eees tee HOObe Pees PeOes hat Pehee beeee H
+OSs POSTS TATE OD [ES PeRSs SESS OSFES FEF ES) Tes Fees RES SS Fe Res ESS. \ Senne Fetes H
+EIEIEIIE VEEN LES PST TT ESTE CEST CELE LES LENS CeTes PETS Est TREES TEES
+Ss 5555s Fees bh) fan Reese OSESs ROSES SESSS Ay VSS CERES FESa Ss hSSSd ESESY HESS ESESS HI
+Tattestbettti@rtistesliattietiatticstipridietifiettteses ieee atta ited]
+ees lier hetrraiertistss ists ity isrii ssi ye tisade peeee booed bam sete bhbee ti
+St eee ee eee
+eee eee, . —* <2 45s Pewee Fe ——~==< eaes peers free, — ——<64 seus erees net
+oor Keenl tEa>~ 7a beees bbs RCO eee bees baeed hae a2 Pe Oee OSees |i
+PEF EPSSS PSST — AEs POSSE PEPE PSR RT Exee,  FE5 FEES FESS S PSSST Eres EET Feees He
+oot peeee heaae © cbehessslesiaiatisbiassda Eos poate teeee beeea baeel tees eeeee &
+eos bosses Sas F054 beeen Pea es PSE Es OSeeeH HOS bb eae PS408 PoSee be ees (MES besos HL
+SIEQESTE LING ES TEE EDT CETTE TEESE EETET S| SEE HT aes ert ftis
+Set heeth heads A” dae RSead hones Sebes FSSSSY Se heeeS RESas Rea nheeel Whos eebes H
+O04 SOSTE OSES D094 ETESS HOOKS SE RES SESS D VTE ESSSS PETES ETSES HEME Veues eETEE
+Pat besadbeteeweetd essa laseeded daderietapedpetediecedecsa bebeemed aed essed
+Sos Geese setae SSs PSsad PSSes ced es Pesos ats USSss eESSs sel Sea ais tesa
+PES NSSESHAHNS © C24 POSES ESEESOTETE CRESS S [NOS FSS48 BEEOS FPESS ETRE (RE OS Fen Re H
+Bos Nees s Ubebs F456 boeOd SEES FORE CebSs | hood bSEds bead ROESE NEES! bones seaee
+SOF SSRTT FETT F nes SSESS CERES FeRet Peres | Pees Sones Feeet PeEed rene) ceees teres #
+tSittessttitrdeitthetetitssstetietisssabestedterticstetesestetpbeteetesssd]
+206 SSS4 O42d4 F, '004 HO SOd eee bEEEt eeSet) CEOS Fede Petes beees teat! Sends Seees ti
+SSS POSES ESSSS F. $55 FSET DSSS ESERTESSES CS545 FSEES FFS5S ESSE BEY CEES ETERS H
+SSS HSSTEENSTR BA RS POSSE POSES POOST ESSE (FETE FATED POSES PERSE DEE CEES SESS I
+SPT NE TSs PESTS hy [we PESSy POTEET PeNET Petes. Hees CROs Pree Frees ress Raber trTe|s Hh
+$53 [esse $4003 5) ion. 2] Pees’ poeed Saeee k ‘pe ..* noe boabs bees Feaes Van. pees f
+Bos heads Raaien 5) 140 ct hd beuss peees cases a) bt. tube Reaes beees ReKES ined (hoS8 i
+SSS USSTSNTERTD) 49} > Sa ESEES pee es Seees y) Fix- Suee peges beseseses) | 4ay- noes ti
+O06 beSes beeddt Sa)” sed eeees beeed seees> Le shee bodes beens Ses) Sa. eeees W
+SSS FESS SE we we ES STT PORES ESTES FE, Whe PSEEE ESET ESSE Eye. oes OeTET
+oes peess teaud . °—- Sane] pease bana) emt=: “sa Seau0 peaes beees I - <dhss eeees Ft
+O22 TELLS PITS aca CET PTET TEES ces TEES TNE (EBS EET aca7 eerrrtn
+SOs Neeee Peers Elzi booed beens beeae ETE obe4 14044 heeee bees Gabi <raak eens
+354 0SSSS RESSS 2554 FSS54 LSESA ESSSS SSSSS 5554 1OSS4 05424 S554 FSS, C5055 2ESES
+Ree RES Ss CENTS) RST PES PEE ES SUES CRT RY (wets Ceeee REEeE PSSST Tees Sewers eEeee
+Ses bess ea84) lias Koaad beeed bones cees” Loess litses Feces beeed Ent, Cents cases
+BOs SSSEe NSaTE > 845 ESET FOO HE SEES OE40. TESTE EEE bESa8 DESI bees Beene PT ees
+SES Poets Oks | 944 PE EST beehE Pe hes Fed sy [oFss LOeds bbSeq PeEe! pews ‘bones FEES Yt
+fae beset eeest (had peee: wees: caret teres ears tants ceasstessieees seaeecetes
+SES TESTI ITENS. CT3 LEST CSEED ESEEY ISTES (SEER TELE ITESEITEST ISDS CSET2ILTET!
+Piss tose heh pope Totes elesisy terest sai seer err serer steel sieare verse tes
+eeeee ese ee wes eelsces ereeres  errecc mre cos erissel siete siers mist eeeses es
+#20 boSek Caa4s! oha4 beS0d Denes Seed Coe es (oeed FeaUs REERK bees bees ESEUS Eehes
+eee peser ere Pie eer reser rest Tiere eres eter eer rire re ler erie ss met Ter ets es
+See OSE ES NOSET WEES PSSST FERTS PSEET FETE [FTES lOoes POSES FSPOn Heee ConTs SeTes
+SPe S253 UIST | \SS9 PSSST poe es beset crees /oess loons posed Frees pews ;pseas cetes |
+S22 $5333 bSad4) Sos booed beets bones teen, Aedes beats beaes teees bees (bebus sees
+Sp itsst Sete pf SST EEESU EEE rele eess deere esti tess etait iit:
+$66 66004 bdbde) hod bod Od Oe ood. Pebdd beedd booed OES d ded) bees codes bi
+OFT PER ET PSSSa) FETE PETS OSE FT PER ET CPTT) [Peed EFTTT DETTE PTET Seer Creel EP TeT
+RES NSTESASSAS BAUS OFEST PERS: PEwOs Cated lOSes NeSws DSSES OSES ESTEE ESUHS 22 ees h
+UST SS ST ISTE Maer res esi ieeelel sere l rem erel Trrrrerriereci sree ser rrses
+COC SESE ESSSS SES5 OF ETS THES PORES CESS! feteE hones FNESs FP PTT FEET. SORTe Frere H
+es cSSSE F4RSs Noa OeSS a ESE ES REE ER dees “Tes lbbde Pesan eeeeune > Jada beeede
+one Prete teee™ == Peers Peere Penne ~ or OOe SPST Petes Peres e- =~ eeTee F
+SSLUESER USES TITLESESI REELS CSEEL ceaas 1UST3 20509 65203 LeESe See! cocce tees e
+CONSE NEETH F908 COGN ROOHE FOREN Peal LOREEN EOES POOO4 FOROS Ndeay ESHER EOEEEH
+TES PPSTIFSSET S594 PSSST PETES PSRES TTTET (ESTs Fens PTees FR eeS TTT, Peres TeTes
+Ses c22es bease, h62s SSSSd VERSE ESES SAL) (S508 FSEEE ESTES SSESG USES Renee eens h
+SES SSSSS FSSSY © F455 ESSSSE PSEES BSESS FEED, YESTS FEES S 5555S FSSSS SER! PESTS ESSE
+S59 18955 82988 Liss Poets Esehs sees teres loess fees ftess Frese test ‘seegs cetes
+Cet NOsee Cheam MNOS PSSDT PSU Ss ESESSESSED OSee ESSE ESEEEETEDS FES) bones ceeee 1
+Pes Se eR ISteAR Se LELesealesselettetsessdietetesitdesttleseelstadietasiesses
+2a¢ heees bea25! 40d 4 bSSSd bOESs PSESS SESSs DOES b4EUE bSESERSSSLESER FEEUE SEES HD
+SSP NSUST Sere Pese PSHE: Saws Peet Ceee! (Noes Peete PeSS TP eSNe rere Sense te ees
+FSS PSSST CFUEE ESS FESS T PEE FSEST FSETS [SESS FERNS SSeS TESS PSST PSRDS FFERS Ti
+SES HESTTNSGTY! NGSS FSSS4 PSE ES PERSE FSSS4 COSTE TTY S FOGRS ESSST ESEL BERNE S2ESS H
+O29 HOSSs Needs URSs POead PEEds Pees Fetes 1dSes feeds boars resend heen besws fesse fi
+22a Besse Roses | ans c5200 Feed £5534 bases (2Ses boSee 2204 SESE ESES! FSSSe basse Ae
+Fe SETS FOR ae bY SS EEE EE ERS e OSES s OS TT, (FESS ES SHS FEESS REESE ETS | PEE ws eeewsT H
+SS3 Sooes lisaiss &, bas beesd bases baess cast Kboes 0338 828s boas bent < bobis Fe9e3 f
+TIRTStEEERLEEMT Eee eet Deets Lad bataaecesettaripeeeed eset debemettedesssgy
+SS URSEENSENGS (had HORSE bbees bORES FOE, VeSSs NSEHE beeea EES U heey bebke 4548 Hi
+SEF SESSS COmSL LES4 USESS OSTHS OESSE SESSA bess FESEa ESSE RSESE NESS! ESTES BESS
+TittseehttitBttietetitiselciictisst betel iititiertesstiitiaeiatdeseey:
+PeSTteseher treet reset icsssictisreses we sseliirr titer pets iti tas seesess:
+SES NESTE SSSNS ORSS4 SSSS4 CESSES SESS SETH” (ESSE 1SSSS FSTSS SSS OSES) COS SEES Ht
+556 UbSSCS F5G05 . ~=4 howd CS5bs PONSA SES. lau UeeGs FOSS" hOewS SERS OEE wS H
+S56 56esasee--— _ keesl Esees banei = rowed 555485 6525 6 5SSS5 Co 1 sees &
+SST KOSER ETAT S HUST ESE ESSE Pen es Peery FETs Ceeee Press beeesueen errs reeesy
+SOP NSSEEESEAN F004 FEHOd HOMES ReRet Seerd Leeds Obeds FEeae Rene) bees) Fehte cated li
+SES CSSSEFESEL FASS SSSSH PEEES ESESS FSET (55545 FSSNE FSSES FSSSE ESSE FEES ESEES H
+S86 POSTS TS4A) LASS PSST FESS OSES E TESS, LOTS SEES FEESS PERSE EaEH, PORES FFSSS
+COt weet HOAOA\ GU8e POeed Rees POREE EHO) \IOEENSOES FOOSE DENSE NG Oe Sees eee H
+POS TESTE TEETH FATE TREE TPH ET Pen ES TET ES eee FRETS Pt Ree Freee tere epeoy nT Tes i
+ROOREEEEPORS Shed: <SREREES CREASE SES (SPREE ARS Reewaerese tens BEA | eebee
+Seeleesdsbeun Sees "20 beeen 6000480088 (28d Nb0 66806 OSes F8n8 See, kee F
+biblssefitiom i etieprabestabetti testes tsp tisett ister | sti aeseeesed |
+Sad bess bees FEd5h- Nd boobs bOSEL SERRA \ESS>- NOdbSSSSESSSI NESS Sane Uses &
+TOs LESTE OTST RAITT. CR ESELE CSET LETEs (ERTX RED IEESE TERT ERED. Peay Cie?
+S23 1ESE3 ere! | 2929 1 8) peers reees caves Leeri . cas beses breed pase; keel \ eres tet
+os bees bee 3 Pdvad PORES PEREE EEC 08 05908 ORES CERES EC eine OOnee Heel
+PEt ESSE POSTE AUS OSEEH FP OOO4 POO REESEEE BES4 EGGS 4454 4SSE SED EREHS GSS ESH
+ons pense beads! (aac nened eaebs bebeseetn! (ones Chnue beaed bebe hens | benns sabes H
+SBS CESS PSR ey 1548s SESE SES SESS PEE H, LETS FEET OEE ES Pee Se EES, weet pe eES
+S54 ESET NERES, [206 FO58 1 FS0FF FEES ESOS? FOES 14444 F0808 bOSSs FRE? sh ES ReeeS H
+$00 seeks dada s \3u8 eeeed heakd PenethSSee SHES 4688 Pi bes Cees bend’ Cehie Rhee ti
+$95 ESO E TEATS 6 494 FESS DS OFS SEEDS OESSS) FSS FEES FESES ETESS ESHA ESEGS EERE |
+224 heSSd 64004 b) OS4 PORAU UOTAS bSESS ASS48| b4kS b4O0S FS4NS OSSS1 SUE POSES FESR K.
+POELetetetll ioe lists isstalelishitreticteltettisettictetiitetintisiistetic
+S55 FSShs Dongs E Ax Foes poESs BERS Face - ree bo 5es bosed Pees F2-—~ bens tebes §
+a26 55688 vd SEEPS PEERS DERE GY —-shSs 0088 SERGE bGReG. --~-=5 keene ft
+Tess eae een
+wa con's hoods D404 beeed bees bensi coeel, PSS £2006 posed based beee | ESSE sees
+Poe FRO es PSE RE Bet HFSS H POET Denes cates! SEes F FTES RESET ETETE PENS SEH ES PEERS H
+$OSSs PEGHE D SSS bOObd RSEOG POR Es ESTES OO54 FE SHS FF505 bSObS REEE PORES bees
+een Teese £2005. tend Beeed Reece ceees ceter Seee loses taace beans esr. Prert ee tes
+PITT TTP SI TIT er eret rere rete sees eererisr i ii iise test itr eerel teresess
+S52 beets Caress, Cas krres venti eenateers: Ears hanes prz20 etssi pend lezees eeees b
+OSS FETS SSTs TASS PSSST PTET TTSES TRS, WEEE NOTTS DeSns ewes ESE | SSEEs SSeS We
+25s Le554 05500 0 pas bbS00 0500400000 00000 $555 beds boa boRS ESO babes beens b
+SPT NET ES NENTS b 448 FTTET Pere FP eees Fate) (Pees tees Crews Eanes EEN OF ene FETT fi
+SSUES TS SSess bees pests ctets beep esses sees Usess cosas pesgs beds p seeds geese h
+bs NOSES 5bSS4 b OSs bSSSE ESRSE BEES OEY [5044 64444 55544 b4504 bee) ORES OR SSS UL
+Tey ESTs TAT TE GBs PPT EN PSO PT TENET ERE! "Pees PTET S Ee eee PETES Naw, A Pees eee R eH
+See NORSEHLO44T [kee OFUEH OO OEE EEO eE Oe Re! Lbdes R4E44 Peees bedES bar! Leehts Crees H
+£23 FES04 Esahs 2984 boeed PSEES ESE ES chee’ Speed Eoaks boee9 based bot: 4 eebie oee3 &
+223 HSS04 2404S Shad bo00d Leeks F084 GES ( CoSes b S04 bSS04 £90045 FS 4 seeds based b
+Bs ess bdo e (hss booed hoe ed ONO Oh ds hood OdNds be SNs OSS‘ BSR | BEEdS CAE
+Tee OES e CPST KNEE PETES CERES PEERS TE EO CEPTS TESS PFET S PTR ES BEE! (PRO es Se Tw eH
+SOs Cee Reaee h Nas bees beers ROE EE ewhO. ChESs COO es PEEa a ReeES TH, GOS Et ee ees H
+ob+ POSTE HESS H RES OOS Od PEE OE ES CEN POSES OSHS PSSEe Pee ES OSE © PORE Coees H
+TELHESTONTEIES LE SESD EET rethl tets: tere ngesa hses Hees Hee Steere sett
+ob hose OSSdR Ss Ld bbe CORE Ok ed COED, 254) SEOs Coded bbe as be = Anke oeded
+PRT PETee Feast Hes sees Pee ET Pee ee YH £909 PU S=2 FESS se FsaTe _<mS29 SPT es FP
+see heert — <9 49 PE OSH PORES PSR RT A oo tttttheettioles here msaass
+OOF NOOSE EEETs B24 8 FE PON PORES PORE ETA. —oerd HE0E8 PEGG 8 PEbES RET > rere hheet H
+SES SSE ESSE (CS ESSSSLECED PEEL LEhr! GESE LIES EES settee JEEa retest!
+250 Howse beans» (Lid pened babs bones beet) Cowes Heese OSES FEW bes. Uewnes seeee Hi
+FET FSSSS CSSD PSS ESS TS FSEES FEET] ETE CESSES FSSES FESSS PSESS Per, YES EES ES EES
+Ta TaseeteP PRM eee daiaelessahatispesembpacaitel tdaseedeseiiPraebed bedessad]
+O04 Neeee OA ade |) \hbe OE OUd POO OE FORE s O4bs Fhe b bbOde bEOee bOOEN N45 (4 bende behest
+FPS PSSST PSSST F585 FSSSE PSTET ESTEE TESS FSSES FEES ESSN ES FSET ES, 15 PSRs FESSs H
+SSS Sess Ceaer t [4ad £8844 FSSES SSESS ESSA CESSES FFSUS £SSES FTSSE FEN 3 ESEUs RSSSs
+Sus FSSSS PSSST leas FeRTS PeSSs FEES ESTY FESeS Sees beses Ferss Fay $s PSE t reese F
+ES HSSSS FSSON) 4S SEES ESESS ESSSS SESS PESTS POSES FF ESS 55555 FED 2 OSES FERS F
+SO2 EESTI ERTS FORTS ER SSd ESTES Sees SEsy Leese teens bssss roses cso ct cseas cesses
+titessshtsrtistetiesssiesttletisteccatiesedtitibesttisseeherbedesredesest
+S55 bbS55 b5054) Jans boeed SUSI ESEES COe7 HESS FSS FSS ASSIA NAM (SL eEhES bESSs L
+55s SeSus Feear) Kose ESSE FeUeL TEES FES | UESES ESEEs LESS S FEES US) fs ESEET FSESS
+$5 POSES EESEY /T354 HSSSN POSES ESESS Fe! (A NESSES ESE S F054 55508 bel 5 OeEHs FEEES HT
+Soe pepe neanl Gaaad C5Sey peSey psy ee bry. cusses resus ceess cre sancy: | beeus cesses ie
+TIES SSESLI CIM ELEIOSESIISCSEL Toler Reiser irr reser treet icra srrerer see.
+O25 PESSs hee b has POSES OOEES PERSE Co Os | FESSS REESE PS ESS PORES HOS OF PORES DOSES H
+Pet Pesce hearse hes Pee e! Keees Peret Cer Fetes Kees Pe ees Pee Ts wey Fa Peers Eeees
+SSeS CTT SSe h Nak OeeeH PRES PON et eee beeen lebes FOEnE PRees ESS 1S PODS Fe Ree H
+SEE LESTI ELLIS E Ss CEST SESS ESSE EO Seer cede bres teegs 3 tte ett
+O06 ieees ba4s- len teeed beets benetG ——-beek beade beans beeae _< Senne eeeee &
+$33 53508 S55 ESSSS 55556 SSUES 5 Aa Seees 55955 SSSR rene 3 esses
+PUT NOSES ATT FUT OTT TI Peel reeet Pee crete peers Peers errr ya) ceeee er reeerh
+pPeT Tesoro rr rere ec reser er yerer im rererier isertrerec itr mises csetees,
+ee POSES RESSS S444 PESS4 FOOSE POE ESEFER 8 bO04 SEES FEAEE FP ORSS her RRR ERS H
+OOs bESES Ceaes | £404 bdLSs PORTS PREBS ReOL 1 wet ses beens bbeesbed Seen ones l
+Bos ceese coeen esas 28 SEES bans toe bee 456 6S4n8 beseebey Seek ones &
+O88 pees creers S88 BEETS POE perce cores CESS CSREES EES fees cones PETES OPETS
+004) 154 EOERE Fhaad Peeed Reeed [GKEE Fetes Wess HObds boan | SEEa FERTs beans Fades
+sos | ses seaud 52994 Seeed bevel (ones os0es lieses seau2 boas | hesed baees Benes seees 4
+S55) (HES PFE CPST TETRA T HEHE (oes Reese USSES EV OEs ESE | fSSS4 Fo RET Denes GFEes Hi
+O06 1 inde hbaes £4004 ROn SERENE tems cheese Loeb’ 4444 £446 | owed bose bSRRS EERE
+2506 FCUNHHHERA) [Ow eetee eee LASER GC PeRS badd ehEad bed) UEOSE SES CeeRd Ehdee ok
+Seal PSNNd HOST -Lens Canes HOES beer «50088 PRESS 2Ge84r—_ __-~5 beees HHGRs ex
+IEEE REESY FS> == EL LTTE LITT UESts PES ceeds eet Wg Ses Fs SSESy teees resets
+Sesbheesd nd —sbbs beeet beses Noabs | ~~ Sebes Ohba Sees FES at) noS54 sedes ee
+SESS FESS PSSST D (PES 6 5ES-4 HSSES FESES HOSEN TPSH PSTN SESS UESEE SOET | SSSES FEES OO
+SECl FS SSH GSES) 7 OSs 6595 POSES FESSS OER 9 ease peeves $7 oes saces cot | races seses ca
+Est hehe tsess goed csees beens tease iter! cones betad tees beeen ses «i tgees rises es
+SES9 ESESH RSES TEES ESS ESTEE SETS FSSES ME ESS CRESS So ess SESS ES hy 3 Sess Hes ts
+od OS 00k OSS ee) Os 58 SSs OES Es SOEs EEE OSES OES S 8beee CESSES ES) Seed beeee ee
+PET Pewed Pees! bees retest feces trees livers \ered Peers teres terse rer: | Peres terre re
+SESS Ferey bare) | S53 0SS53 heees (ese) Hesse isses cess sober Fsess Fens | bares S59 55 ye
+SESE OCEOH OGFS4 Ed LENE E TEETH EES FOOSE HEOGe (F048 FhRad babes Heese een f BSeas 8388 ce
+SEDULSEEEaSSS eee tttes ett tes PHESSS SESE CaST SESS Sess eget esse rere
+Seeleeesinaees Sane bedesbesks heees ldeed (nota dened bokes haees eel \eeeed bade be
+PEs RTE NE eT KE WS CSE ES POT Ee Ore es Newey Vern ENTS FTP es Fre eee) Ta Tee Fee es oe
+piosetseristecentitissrstierstrereiiettenresii tee! rhistetherressepeter tt hieted
+Sbes hehe heS25 7 lone Feber POEs OSES HdeGe shoe REES4 Fi bes Redes beet! bUSSe Lbdes ba
+SETH RSET LIST 2 SES LTITT COTES PEST HSSSS { Noes teats ieee rete tent tees
+Oeel SOHAL heed U [NRG teees bees hosed LEROL |) bb00 POOad Abbas Reel ESRS based hebea SS
+STBsCeHNd CETEST LHOE eae ET WR TET VETERE tare wrets eeererses- — _yenest rete: ee
+SESs TEETH ABET. CERSSSEES EESES 18844 -eaeS SESR6 CRESS SEE SS ,, x SEER) BOSS SEES Oe
+S564 PEESG EN- | - rhe EESes bhEes been’ “L242 sabes PeHaH bebe bd. <“ 2224 pened Stee ee
+Sed 60d FR2>, — HOS F0bRt HEEES 60002 Px>- 4hDS POESH $4086 KETEE om seeds Peed ee
+5004 65004 GUERT > BOS SSSSt PESSS ASSES PSST! C254 FEG45 15500 RSeabeSTe bases BEESs te
+TITITIT Te listiiitiisiiieesl itl irri iio ti iit iasti te itty
+
+Send FS RCKNeeee Gees seees peess teces liver, (uses seas tenes seuss rey, \ Sseeg Feees sx
+SFSU SESH LESTE DIGEST ESTES UETES FSSESHSSEe HESS FNESS FEE SS ESTES ESL ) PETES FEES Fe
+Prerrsserrreer rari irecess assert rere Temes rir trrscsr ret iers steer ttt Tet
+2550 FS530 be2ae b (S22 eases POSSe Nessa esas BSSs eels 2520 2SSe cSas | ESSS4 SSS ES oe
+SSS! PUESY CVERN! PERS ON ETS PETET PSSST SRST SESe FEETS FTTET NESEY SERS SSree reees oe
+Soot FSbSs BSS: } Hobs Fotos Poses tSSes 1bShe Shoe bbhad bes) Feses bone Feeds bises be
+SEsh SEOs Coes) 208 Foss PESES S54 lESeH (Hees FEES 24528 R2SE5 SRS [AP hes LEE SS Oe
+SOS6 NSSSH PGSEd (ROMS COT POSES Nenes ideen “Hass Bhd habes kanes etal. Steet bbeesee
+Sees OSES bees A, Ube babes Stee beets Newbee h VE ba thoes Nebes Renee heekh, Dest eeena he
+RESs PT ESY REET) Nae y Te ees PETES THES NREL SE wees SERS RRS RE SEEN FSET ewes te
+soos bead saeed i Land eeess HESS Ou bea hase) L880 based sHeRs EESSe beHEN (weed HGSS se
+SESS RSSSa FSSS4 4 (S58 SSSs beees he sss Hsees | Vise beead thoes beess beaty pees Reged ts
+O5e8 booed baSS4) oad boee8 FbSes has lepak) (Ca RENO 1USSk Lewes egnde /kEa4 tndee be
+Sees seent bebe) (aah etet Peeee £0085 2- - .eSes Sheed Sabet AAA. teees these ta
+Tetltset tiem itl istelitsel itt eteseetestiiitt lites t rtebatattpes bit ietts
+Sees heeeH edi  -teet beset hens HOGSs ~~" .nbee Be bad boats bas ~s1 ga bed BEGES Oe
+SSS4 RSPSRRESSY y SSS 55555 FESS PETES Sowers ESS EERSTE FSESE RSSST AGTH FESS ARTES OD
+SUSU SS ESA BSS > jase Faees PESes essa Heaee? 484 FESS seeee Hees presse [pSss eeseses
+Shed cSEbe Hoods Adee bases besks leeds head? -UGSe thdae b3$04 USS bbue Chee bee Se
+Tetlistiliterthttitestedasestieteltetidaratiastttttesttietiitiahiesr di thet
+OTILESTUP Perret restedseereretereyiiretigeeeresesni rer retia ayer tier ts
+SSS! PSSST esse | iSes saees Poses toses leees| Kees besed sues seuss sere ‘8ees Feaes Fa
+2955 SSSA NESTE | Seas C SESS EE SES SESS HESS | F295 BESES EFS REESS SERS? (S554 FREES Se
+Sond erbbd ered | (oes deees beers deze|es lense bies beens seers keazdeersé S444 bbder sd
+TTSTIIITILI LITLE LLL ELL iLici Elia tise tlie
+SED] boebd pases aes tetas eaes bossa leaeds eee beaad taees saaes ctetd . vees boaes be
+S558 FERAU HE GEd OOEd keees ETE NTSE4 eens FOE POES4 ANETS REESE EERE eed NOSES be
+bee bee ed NOOK hbNs 6b Ss CRRbs 14008 dood) Od bh bed Obed bee eek eed
+Cone eR eH Peres) Nowe Tees Petes PETES eewe s Fed Peaes E=P ES Henne weed | HEE Reees om
+5s) boned beeas | Vane dbibs hoses Phaea Leees § bas bodes ovede Lanes Beek) | boas Rage ts
+Goat Denes Beeay ) Jane Ced0e BETES Loses NESE- - /v RG FOESS 84Oes HODES RES=- | Legs RRaSS oe
+SSS) FEESH Ha ToL “NES DES EESES SSSte> coche) eS RSESEEEC case 20° IEE
+Sock hosed star - be. debt eeeesdagba> Sassen floes sees serr linens he saceate
+Sree cress cen eee. ~4 es eeees ceses >) ees 22s peres ceeey Vee, S53 e2 Ss
+SES eesy resis c ks” 94 peses reses bbws; set 1999 tease ened FSer hE’. caees Te
+Sees Sere see. Sate ee seeeS SSSSS te Sc EeGSS SESSE SEES I: ed Geeee Oe
+SSSG SESH PGTAS OPES Sas 95 SSSES 59054 NSEN MEDRE SES2.4 90555 53555 SEY’ 4 CESSES EES ES SS
+SSS) SESH OS6ES TRESS SSs PESES USES ESM, Wades BEUSe se5Rs Feees ESLA £eess Dees oe
+PELs TT HEH Pete REPS TeTEt heres Press heer! terre Peres trees rreer evel! eerrs tries oe
+SESE CLEST LSEST LES STET LESES TSTT STA LSLSE CELTS SESE EIST ESSE | PSSe3 2389 ts
+SOSEREEEHHRESH (POSE COE EE DOES NNOSE HEE FORTE PORES SOs FOdeE eee | aees Fides oe
+FPSI PSST PSSST [TERS ESTEE RP Ses IeeTT tas! Conte Fees 8 FeRes FSees Pees | Ferss FS Tes FF
+Sool pened tases Anne eset Peses 1e0ns ieee) Peaen BESSE SSeS RASS ESET PSEEs Sees be
+SES e CSET CNET EES FET ES PESES FET TENS>— oH PET FETT PTET E ROT EE Sef ESET Ese es te
+eehsstpiseentiiittestedissaLicaePtesibaestddaethitespiteapeessitessditeated
+ebed eter TFC s Rabat ewees betes 02! <3 i eoed OhUSe RON F4ETE HORSY TAR bE bOSEs HbGwe +4
+SES4 TEMS x RHE HS Se FSS ST hb SEs bS2—- Sass sess PENSE Fetes bese, “Hed besad tedes te
+S500 CSET ra Ta $5550 5554 DOSES had ba . “Had SUSAR bSGS4 SUES ROSSALY ths bE DEESE Oe
+tettitititetiisttestsiseiitietihimctidisttitistittstiethidess titrate
+O04 bSROH Hoek TEE PRE ESOS] FOONH OOSEE HED. <3 3404s RENEE NEES BASSE FON ¢ RE eed Feb aa Se
+bes FERAG Rete ~ Sod Reeth EERE wee. = E854 Lakes eeRA bee) “+204 beens ee
+Sees S008 $8088 DESES peewee ~~ Os 10008 REESE ewes ——— 9 SE eee — ol
+sect beerleeenge- — —e | —
+FEST SSS eT AFeT TOTS PDTES LU SeR OER PRTEd Posen SeESE FETE ENES | PeTsstteee?
+
+SSSHRSESA NESTA (POSSESSES ESSE S FSSS5 NESE) NUS SS RENTS F4SSS FEES CSTs (FSESS ESE SS Fm
+setpeserbrtedeerittcsestasiettiteptiweprtcedearrey 555 60855 522 1 hSSS4 55889 a
+SEERS bad pasel yagegtsess posed Naess ieee, reese Pohaa sdete Regan een. t pases ERees Ss
+Sass SSSS5 8 2e50 }SSs oses Doses LeS22 SSE) poses RES25 32552 52525 Sees | SSS SSSes se
+TTTTIITIT IT Lil iillclecliellilel LLU ULL LLL iriilelil ete
+sidicsostesetutterestalissottocstisrmtestitsertsssotriotiontiissecssrrttey
+SESE Cees teed [2h8s Sates Fests ipees ices) Woors esses betes nenss Fens | bones reces ts
+CESARE OOH RG bes |A4OE Fee ht OSes NG ee HtSe) PO bOe PORTE HOERS Fe eSS EHH | Cheed HHOeS ES
+Sees CSSSN SESH [SERS CREED Tees HESS OFS> NSREN PESTS SETS RETEST L4 Ss ESE SA TSAR Te
+RESe SSE ET PH 4g REST CEES ROSES HES wa CR RSE PEESS BU ESE RESTS ces PeeEt reeEs te
+Sead paend <f44 head eaeel Whbea bbe «i pped sane Dbbad 65604 00n2) Cones booed Dhaea oe
+SEEi ESET AOS ESSE LSTES ReETS Ess SSEte SESE SESa EST SESE Cyd betas rgses te
+Hetisterreuceritrepesisitsesitoocpectttireriitteiticettteiee tics rehi tists
+Sane ceeen ses) snbee tases seee)s Sheen fib ‘ed caeee Pena ds boees ROeeE toe ve OSes PSSES te
+SESE ESEST Sah. 78S ELSES RESET LTT TSE sc PTE LETTS LSSET BSILT EEN tad STR Is
+S338 (S880 fee. oo SSESs REE LSE EE SSS EESTI USSSa SSIS E Feeds asd Seaas le
+Oss beata taeas Conn? See ——— 40008 68008 rer: --——_ 14 8688S PGs --——_ 8
+Ee TT ————
+SEee SS005 USK! Eas SESH PeSen 15504 KTA= DOSTA PEGE EEE DSSS Sor. | BEESG bode ce
+SPST RSET FREED AG SS PETES OP SET ee TE tees Trees fh eee be res feetl eres | feees Rees ee
+pstisssiitieimrrttestotisseeitisiistipsetstssettessitretieteitisssi trite:
+SOSH SSSA RSS NGOS SESE RESES PSSST HESS, 1SSS5 19544 54955 FSE89 FS b VN FSSSS ESSE S ES
+SESi SSAA ESTES (FEET OTST PETES FSSSE SEL) (aSse PEE Ss 23508 2SESs TEL); Peees hESEs SS
+BESs SS2ns ness dant seeee heSES Hoses heae! bases pease 8SES2 EsEsseeas | beens cesEs ES
+Tetbetititteteititbterelittstieeiietikitathisttbiieetitetierieretitiete
+TST TTTISI CELL ISEAEIOISOSOET OSS LOLI ELISSEIOCERESOLEL Csi eteeiesecel lees.
+Sees Pees NEA) [Ndws Reet heee beeed GOETE MHESs PE Had SObes FO4es a>) lbeeed thdes oe
+2555 FEES HAKs! NOGs Reees bESEs ASGF6 S20 S88 CEESs FSESs ERSSEES -ehebes bEGes te
+eke bbs OH os 2hbn sk dks ehh S OR ol bobs bhbSd OSES okey Sob bees Ubded as
+StetbesstPeactbiiistissebissstisteacrittitsstssetpiistitietteriiiesetdetiets:
+eons RSESH Os TA Sees ERbSG ESES FESS) ~CN) SNESS PORad OSS ROSSI. Le re Sees Faees CR
+S558 FS 540 NEDO hOEGs bag bs bE SOs FS Sed Sed 815O8 BOR as FEE 84 Fe eee LN vd bOe84 bEGSS Ox
+SESE DS OeH ESED NOSSO ERs OSes Meare HED Se Ob nes FOES Hobs Pewee ES. “Pa heres HHtes te
+peel besed basa shed bases bones Jbas4 ees sabes Gebade babes hea ees <ibeed eae ee
+OSs FRESH SOEs re and EER hee = aes 2S ee Pes = ot oe
+SELL CTESd ears 2 = Ea SERS Sas ee 0 Eh vad cee — rt
+SESE bee baees ns ees ENR EE HET Ce eT ee |
+OOS4 ESSE HN ASSH | VERSE ETES OE SSS SEO ENSSED LOFTS PERSE NESS SHEE CSE. V POE RT HH dee Ow
+ees ESSA deeas | lees bodbt DOSES Feeds NEbes| BARS CORSA SAGES EEBSA ERD UROEa Kheee om
+SES) eSeey twews - pSee eee eT Poses Petes ieser poets Cn Kay Peete reteN er (2 Peay? enews oe
+SUSE FEES RSeed. Gees SVCUTES VESTA SSEh ES NE resp pay
+S508 bObSE hOSSE | HORE Ties bbSeS LbSes HeeRs (Shy b/ 944 b4eed beeel box; h bes < (aa8a be
+SOSH PSSST NSSST | PFET S Lhe PSSES Feees NESTE Kone: 04948 54888 88689 FSF! TPehe- ltees re
+SECU PSess Neeed! BEES des PSSSS Nwaee NEAR (Sau S420 4eSes REESE RSE) LEAK | eeeEE Re
+SOR e TEE Cre ee EEE T Peers TAT es Were) pees Prete Te Eee ete e ory nc ees Petes ee
+Sesh ceees hagan| Kies uses hoses tases ituee( [553 peaassuses neces sen 5 bares teges ss
+sealesstieseciettahsatsddesetessl betta etsaaseteetessteetteaudesethertetes
+SESTPHideseey LOQls retest ChStd Este sete e Ube tesad ees eeted eee. i teeed tttests
+S2elbeehd bass Sahee beset beebs haaed loebas Lbs heaaa 14008 eRn4 bedi 1 booed beeen ee
+ELI ISLET LEELA ULES EERESECEED LESTE NSEETS CEREREDSS SESE LERSLESES [EERE LESER LE
+sstssetissetlinvettesssdde: atsssirste te aaseeettestrittisttatesstistrets,
+Sond beebd Peed Chaas teeet heeks AGEs UFREE) hOS8 PON d 14004 Reeee RSAU | 2S04 BOdeS Ce
+Sho4 PSSST HAES) ~~ SS OGSEs HERES Nd beg S>——~ AGS REESE 19820 FSSSS RKUS Pees FOeEa ee
+ooed Obed ba See Cte PSE eSEe Ha sen heed Reed dees Ceeed Ere Seeae neeee ae
+SEEd Pers rwesy PMeee = 4 reese Seed, —~eeeers PERS UeSESU ESE IPs Sees DEETE re
+eed peead heed -~a reset peeee eee Pre. Ses bead $4829 Seeee co, lbeeed hans ot
+SETE ESEST Petes SHES reese CESSES SSE SST | TITS EEETT EST LLSSE Se 1 Reese tes ie
+SOs REESHEGSAL. “See beSSs PETES HAKSs HdEad) bee4 bene bas heesherr 4teeed thease
+SESS CSESN £SSS5 NW ASE SSSR PSSES ESSE LESS | BSS5 PSEA FSESS SSS OS Ub bSSST ESE EE SE
+SEE] EEESY PeTTs | SERS IT EES beers resgy peege! qrrs beesy peesy ieeey pee, y caged cease ye
+SPO] Obbed NOSad | bees seses h OE bs beeed leeee| te ebnad iieellieeloey [ Paoes eden cs
+SESECEESTCSSSS ORES LSTET ESTs NESS NSESS, NESECEESS GEESE ESSE CS E3223 1232382
+Sesh Pease STs FES Sted Poses Hoses HSSES, PETE CRESS Hab Ss babes bee! : bSted F383 te
+SSSACSRSUCTHSS URES SOSSS USSEE FESSEEESEd USS S540 CS ESE RESEE Se ESees BEEEE he
+TTITNIIL LLL LLL LULL LLL LLL Lie,
+rtetissetisisnde bi etessoisesettstiiitetterstisspiticsni tet ised eippeehit tenes
+SESH SES CATH HOS STEHT ESTES FSSES NESSES PTS PORTH FSESs ETESS PETE PETES TRE wT Ce
+SESH SSSTH OS4s) Sees eeees ESSes Gases Stee F ete Peess ESESs CSSts Senk, bOSES THORS OH
+O6S5 645560 FS84\ 64008 10484 005545 645444 NOSES | L055 654d beSSERSEEE ESOS £4444 UEESE LE
+SET? press cscs (ases races poses pease srers) Sees cess sy ees rsssrcsee resss cesses re
+salt beead cate, Gnassested specs lease paana rstasserrtisoisretisremrrsrnitr ite:
+Seed OPAOH bebe) = SOEHd Rees FEET -— ho Rs RE O4H F4SO4 FOOSE OOEL. “2O04 Fed me be
+SOed bnF4 RASas EES) vr. AU eke NES FESES FAR SS EOS beeed Labeda ~~ (enaa hedee ee
+S551 65504 15504 59>" > Cp boos USSD “Sess bSbas 55555 ESSEC i PedSa bees ce
+Sood FOO HERA “HERE ETESST HOES NESTS Eber Hees FORSs C20ee ReSeE ESTE Peees HHaes ow
+Sood stead balay (hassssees hOSss beaea libaad. Nees ceed saeee haasdnany |pases beans se
+S554 PSSA FSS) FSS FSSET REESE 15555 NESET (HOSS FESS F4SSS FSSSE ETT 5 ESSSS FEES FS
+S050 FSS Y ROT) ANS PFSSE PUSES 1 SSS SSG4 UES8 FEES s AS ees PESSs ETL" pened NEES Fe
+COCR ESE4A OOSCA FEES FOSSE HESES 1ESO4NSTES BSS4 POSSE 14004 ROSZE EES? 1 ESOG5 FEGEE ES
+Coes SSO NSE ARES FOFSE NOSES FREES SEES SFF4 FEESH FORTE HERE PERS | beens Seeed Fe
+Seed Pee et bases Sees be ses bhees beese Heeee (aren Beaed beeee nebeueney | pened eaane be
+SESdRSESH RSse4 bes sress bhsee tessa etes nese bbo39 pases cases esd (bees tides ea
+SESE SESH ESE GF FOO s OSSEs Rees UES EAHEAES UOSe PO Oa4 £4008 Ceees Peed haees ibbas be
+O5s5 bbb) 60555 hbSs hobs SERS Ube de USDSE bbd) COS od 12550 bd ees bes | beeed bbdee de
+FETs CTT TY ESER The Cee TPT ES PPT ETN ESTe VT Te Pena Ferre See ee rere. Peres Peres re
+PSS5 PSRAN ESE Y (LOWES ESTED pees Phees iESOr) (60d BOOSH Fe bSs Ne Ses PEHs) Panes hagEa be
+PTSTITIVUICISRR TC TEe cess eser cee ETI eereees err seees Crteer rue rterrr titre
+TEST STERN TTee Feet satel reeee toeee hares £078 Peeed eres rsete ress] fare theet ee
+sees eee been! Sheba teeee hesektasisliened #665 00044 0000s n2ess beet] babes bebe ba
+PESe CST Se CSTD LARGE PETES PETES PETER ESSeS SETS SEE TS SEESy SETHE CSET) ESTES EE Ses ee
+SESs pees Fseed Stas Crees phass <— _—. sabes bogey test foes ESEe. Yones nages es
+ones beens babes NERSTN ji eheee Lae. 18SERS sabes Pebed b4Ebs Ones es —-Seee HHOed oe
+Seed OS EEH FER HK 5a POE Be as —_ -“ 50008 FOOSE O4OSS FEEREL  *= FO884 FR dO e Oe
+Bees beehk RBaan cSRSE ARG et PUSS Reel RSREe RASA DENSE OSG Se ROSSA REET FOOSS RhGeA ee
+SEat PSaes tees ews Cases PETES feeet Seer ese peEes BESS CESAR esy PSSST teees ee
+SESS FFERHNRSSES BES FOEE4 FEES FEO EE NSESe [HOSS REUSS FOESS BESET FEN 4 FOOS4 HESS Se
+CSO EEK RASEE Hwee eeeet Peehe LASEENSOOT HOSe ReneH Dee Reees Hee. i beeed thaws ee
+S5SH FSSA NSSST (TESS TESST PSSST NESSES NESEY NESE FEESE 14SSs SSees FSuh  ESSSS EHESS ES
+SESE 5550 USSSA SSS ORAS PESSS 1SSES SASS (USES BEES SE 10555 SSSSE SEE |FSSRS FUSES ES
+SOOe TE Ee URES [Ree RTASS Peres ISTES Ne eet SESS SRN TE teen ESSE SSeS | eneet tetes ee
+Sees SSSSH FSEEG FSSH 98 PETES FSESS HESS [OST F US SSPES AANSS FSET | PES |] Fa ees ez
+Sool seed tases ‘aes "(189 beses teses tease ira lies ttees teses toes |ben _ lates te
+rhed Steed tee? sted sed etees fetes tetes Nae. sted tees eesti teen (reso cetedes
+Zend banal baee’ dddee> je4 bboes beoee beeens brs - 56nd dees ceeekbesa kasd 1225412
+Boss peney puss ( yeeas’ \se rpees Lewes reese y (vey res seees seeeT peer pes, loss be
+She) Peres Perm enees | ee heees leone htseey irr ise9 sews freee ever) Pred | loees ee
+pees ceeel tat.) os tates beees teses Lea), oan beees sees Geese iC | eee Coens oo
+Teer eT evr Les Pica eeeeisclerrerel is  ERlt Vie errriesrt reli sina terrr tier
+ebed eaand keer - 7 £28 beens beens deeded PaSs4 ” s25s beens odes Reeek Ooes | 4545 Beans oe
+seen new ToT) PSURs TOSSs ERSES UEETE Tan eS ee Boe d FteeT UEEET Peees EH 1 eeeee ee
+Seed be. ‘= LhSad ledee O6sa4 bbees bak . —eSEs £5506 FEES4 40 POE OO4EE BEF - ae ed Re Fe
+Lesheted Pree eens beteslstseLittetiateapessdsaethhtssditetbecatesesbenbebed
+Shee Neo eH PUT RE FT US Cee hs Petes Neeee teete SOBER SSS SSSSa der eee -
+Sect beeen bseea > beatetet besee beahs HOR> (2554 bana e Robes BAbaR oes (theses Coane be
+SOC CS HAH ERSET A NCOs CRS et POSES FEST Se. CSET REESE FTESE RESEY Pel Ws Ee ees re ees Oe
+SO PONNG ROOGG kh. WEES Shes NOEs Feed NERS, LHS POET E 06006 ReSeE hed 1d bOees Hhewe ee
+SoS! Pees bases £) PSs Fetes beSes tease Heese 183s besad sabes Foose bs 3 baess HAa8s Fa
+Seek Obed FOSS4 i bee betes betes LhOSs Geen OEF8 bEb44 FS bes beeet hed 2 hetes Hndee ee
+SOS DSSS POSES! PVs ESSSs ESSE PECSENSSOE (S604 FOCOH PEST HORSE DSS Wheeet Heeee TE
+Sess rsees reed 0) Bas press peoss roses esegy jorge cptss syed tesey can) [cores coves ts
+CETL EF ETY HOSEA © C84 CSTE PEERS OMSK EROOd LeUet ERE a deere peteeeel! hhoeet thaeees
+Reed FSP eH FASR Th TE SObes PORES ESTES OST K. S488 REELS AG ORS RR OSe Ese (5 hens sh Ra we oz
+Seed ES EEN ERSTR OED DDETTETERTET CF OTENS ROG s TPO RPEN NESSES Hemet Eh (SS Peres Chee Er
+OSS4 OSS S4 OBS44 OO) £46 B4S4 COSES FOOSE NOSES S USS HOES 8444 BOSSE OSE 4 OOSS4 COSSEEL
+SEst recey sevey co cs reese press seezy neeges (rye Cpres reper eses ree) 9 rare sores ro
+soak beeed natednn \Oteesea phase les UPESTTY ESTE EERSTE St sesy beh! Okage theeaee
+S31 boted Esau + ln8 peed) bOS0s SSes bets” 2906 FB Edt fobed 6583 bal & rs2ed pened Fe
+S0ed bee e- ~ __. wxGes bebed BOSS bas ooo ERODE SEES SEE DSSS rath hedeass
+eed bea” reSEe BUSES oss bebe bd 85 bd oboe odo Ss bases ae” ed bebe ee
+Seeq cers — CRS SOSSt PETES $54 __ EPS PEESS OPEES ESSES EU — BESET PHeES ee
+S224 ceed FESKG Ty pes coeet betes Heaes LESRO! 2906 Peete eeees ceses vd]! 5 reeset betes Fe
+5555 §55404 NOSS4 bps b5eS6 FESES 154664 SSC (5556 F5544 55558 6546546048) +) 65508 £5486 F6
+SESE PLETT LSTST A VES ESTES ESET HSSTT SS. <TETSS EENSS ETEST see Cs, 3) Lees TEs ts
+Dest hebdd OSAMA. ONG hE Ss PECES NOGSd bod 6hS04 FRNEK Mdeed ROO AS. VA booed DER Oe be
+RES SOSH POTTY FREE TET ES Peeee TSeTT HERES (ETE OPeee TERE ST Hee Hes I Peret TP Tes Te
+3064 bEOal Raeae Cl CS tr eke ROSES IRATE NREes (Re re breed b2eke RROEE hOe NReTSs Rhaed te
+PISTITISTITISIUT MIs eles il eriesecetretsi cel i is) weitere
+SEC ET EEN UU ERSE! Pet ewe ee FETE S Ree ee HERTS (F088 ROUTH FOSS FREES FED Sheree HRewe ee
+Sess hee eH ba bed ht PAS Seted POSES FOSeS NSeee (SESS POSH FSSSS beben eee Ababed Hhbes ee
+Ses PSST PESTS FA Se FSEET POSES PETES I PSSe “HOST PERTH ES Eee ESETE FE! (9 PeSes NERS ee
+FSSs SSS Y CSESY NS) NF SSTET ROSES FHSES SSTG 2 LES FESSS FTESS ETHSY PEK) PSES4 UETES Fe
+SEPA EE EE RO SOT HES FeO ET FREES ENO Ee HE REET) Ot PORTE FFP eE HOH PE Pee a Reees HHaee Fe
+SESH ESE SY OS GSY EE/ FSSSTEL REESE SSSESHSSETE (EPS CRESN SESS SSSES EST, PESESS URGES ES
+Sook ee bed based UE ha oeses bOSSS BwSSs SEES Y [Ube Sodas bSEEs bases neh! Lbeses bbaES EE
+SESy PFET KSSSG FG “Pe PETES PETES ESET PeSe Ns 1459 PESS9 IT ESS ESS Sy SE! Y ESSES ESE HE te
+See) feess bas-" igs caees beses reece $S2F~ —s9es £0885 yess F282) Fee) “AK8 B87 83 Fe
+SESb ROK? . wet EE4E FOS Et OSES NEES" ~" _,< Se eed BONSS 14SS) FOees Otel yo Th hha s he
+seed bea © CEL SS aU ae ee ees beeen ta) — "Ries Pebe4 Heads bees REREE EET CtTEd Beane Fe
+Seek beabe eee Vee bSSSS DEES beoan ee SASK DREAD 6bSSS RRS REY LUSed PERERA LS
+Cel PETS ewes Af PET PS ERT PETES Nees ease) SOF" FRETS Eres KwwTe reT ) CESS ORE ws Oe
+piscissstisterterticctatsstetttrelitremtesssiiertiissitisiiersaetttsctitrets)
+eel beeed naeed ) (084 b0¢08 Peeks Lbaes lies) 16200 PEbed Loess bowed FS) $4 b0ee8 Ludee ta
+Sosa bssed dessa b. pes roses bese dessa savy Wages teass sates pease egy. \y bssss tease te
+SECU USRAAUNSST El UEC SSSEEPESES NSSS4 SG6U (AESR ROUSE SSESS SOESRESL) 4s ORSES BRS E Le
+SESs Te wey eee ts wer ress eres yew es peer eee reese reece reeves, a eeestrrreses
+SESS SSSSUNAESH HY) BOSE EAES RESES F588 8 eee S ese Specs tooes 6255s Sen! § egees sees ce
+SPSS OSGAH ARES OC LASER GOd PHEES IESES HRSSE SRE Rhee Rees KEEES OSL) 3 SSEt Rees em
+PISTIIIITIIICC CEM TIS LSUI AIST IS EN Tris es iil ict i itis ei ies ir
+OSs S004 BSSS8 Ut FE OOS SE PE EES FGSSSNGESS VATA REESE SSESS ESTOS EST HUSSES EESES OS
+SOO 1 FSU NE FOSS PKS Ie PSCRE ROSES INSEE FEET C, TFN FENG SE 8888s VEEEE DOF UV pense FHS ea Fe
+S5St PSSST FSSST HE? Le Fees ESET FSSSs ESSE S FSS FSES Ss FE SSs FSEES PSC) V PSSSs FFG SS Fe
+SPST SES Y FUSES EH SE SEPTS POSES PFSSS FEES S 849 F846 85Ses FaSes ESL! J Feees HEE es oe
+rteitetetietettrareteersdirredtecetbererirredaa eet: Siitrstistietisssnatiets,
+35n8 Gobed eases fH [ad baad PeSes $2222 hess > obs bEkae obese 2208 222) \ ovens bbbes oe
+TTT: na CERES PESTS PPS ES POSES USK | Lees PPE Te eres Cee eRETe ~ —< eeees oe
+brodirtgerererpiiietesreiy eset tetaseormrteleeise bi hiiestt rit ietrstpamhye hit hes
+lah aay soes Soebs PESTS RES=s 54, ~cee* Kegad SESS RSEE FEe. —P. jhesaee
+eh8s thes) FSEar py Loge tbs poets haa petty fey oes $24 beens 6257 (ak thane be
+Sees neces sees hoe et peses imesdteeds re _ Shed beds bees Sea) Fees sense
+BEE er ren oo ORE BREESE EERE eee pee CRESS OO ETT BEER | wees mn 3 ESSE SE ESS ES TT
+Seed (fad based sheuteneesnpen Saga igeaa snags cegga ited ostisiisissstei tiie
+S555 1 OSd BS 5E HOHE S ESE) BO EEN POSES P48 C4055 F 0644 5456 | 65588 FG Hd hoes FRbeS Ce
+Seat hheet Ba t4s mdad Foeet Heeed boone heans sees RO hae Hts | Seeet Hee hd haead Chews te
+$5581 tess ceed Shee ae Bdsd baell ceens cheeses bores bee | Gaeed ehebe bOs2s 25253 88
+A
+The Hectrocardiogram 109
+ve cane T. rs rere en ee feds wes fog ee) feee oe veseeefoe ope tn inh tent os ees ee
+Sfe = =Seeee = =— sees Sea
+Bbe ieee eee SS sees SSeS eee
+Philpires if SILIDTS nS aed) a oe a eaeen peege seeee fries bees oe on ae a
+pieepesss waite: pa pare pmane matin paperanes iestaenss Weiienenas Remneperes mnneaeeied i arts pe seurany " pecs ewees newer pe eee: saan an we
+Lo piesbipicibeserpe dp ouuibomipiers ind cere sie seuee ayes kanes seeweueved Soon See
+Twa faaee ? gene pa is pas qeens gecee necesmeese! — {f= 4 pep on EnGereE oF Sraraney CDEDETY ,
+pet pe eas dee Ow ee arene eoeierend: Sreearines ppeneretes apes iran WOreetn BarEren,| . ae rare eae — A eee
+eg a
+wr ee a te Ia ets Songs Gnnea TEnUs SORES RWNES DnSan ESTES HERES Same Se eee ee —
+rare Senay serene we se ereres ne St ——<—— -
+
+Seb woSee See o a sae Tes Sees ===
+eae epeces Hy eee Weacee Geers wrerstany Beni tooet cases stee wenay H pecs ives feeteteernen pre paeeare are ——-
+— PEEaaE Sees Seay ;onue Sagem payas seansunguy suns sawes! Sous sous Fpgetestessrsaa opeplbosts =< we
+pee geGee sees 2 === ==22= = a=
+pS es es a eee
+Sees coe Seer eer as SOe note Eierer erat mentenee ss Seenenmees 4 oe Sree abe. htt tether FP onnees aera =
+an Serra Ne Perea enenanes ve en Sees re Sere eeeedon cone fy pcos cased trans oot ecasaestaneS? Lo a ane eeeeeien Sane
+preoene pean ~ ee. cena fp teecace Peabo poem bt he feed te are
+SS ee
+nee yee eres . ak oeres WeOENeNES SENET — eee ee ene eerie — fot are Snare Eanes EneneT — .
+1 ESE Ves BS BESS eee ee
+tebe ee bie eb dee federal nibtbass eentiistl Gikikine cases cee, Dame Gees pomeeas aeael eeedeoe paren es ane ae LASS Sey
+BSS 222222 See S=== === ==s=—ae
+papenents ieee: MOIDANES Set = = ceeren GUE pareneee prevenaben innirs ae mews borat ate }——f _ SN eS eee meee
+Ge au Ee eee eee See SSS Sass SeeS
+paar Coenen ene. ee ee ~~ —— aan i Sonne SEs Senas ovens eenea ores pene anne: I
+eee eeres GT coos Coral bot meet one SES ESE SSS Spey =
+oe eee ee Seas SSeS Se
+are! enna 4 a oo coeeseoee  wewseeee arene jouune eee apeaE Sancpnees Sneeane SmnIEONS HN
+tebe ary en ere eewer egensewene! [ope errata | es OS. SS ap
+gig 22 SSeS See SSS SSeS SSS Sa
+PSG se0sSen= 25 S==SS======S2=
+nae aaa 4 UES, sees neces Seseuaneen! seus suena penCarel GUUDOAENEN COEDENTET cotee maces woe =< aves eae
+re ne anes S wit POSee peuws Pee eens pe Serene tt — 2 op ed o- Ee UP 3 peenennts Ieee
+weaaobeaae sy ae ote Pe ee epee ee pares errs cakenr preps eee ee teas eterets meen Ens En EE oy es ene wera we
+Se Eee Sa =
+Se ss ee
+SU UL Ss wom Seceares Meemenenes NCnEENES | SL mena SUPURONNES SAO ee ae aoe co —
+da ace Farevenel Shaiavera: eevararen Ieararsees peerarere: musenenes lnGreranes Spupiiaves mvqsesepes Grentpens 2. oie Poe detenoe bisa spon ce wee —
+eS eee ee Se oa aa See Sees Se
+BGb 2 fae SSeS SaaS SS Saas a=
+ewe pee ‘ome cnsrenen eee earas Garenanes Gras peat Bee ee Pe ee oF ed eles ereree reread erase eee aes 2 aie coe ees
+sufi SEES | Soop S| pea oe eer eee ee
+Pee EGS e eee 2s 22S SEES Scea=
+ee ef ee ee ee
+gop Eee SSS oS SSae SEs === eee
+Be: S28 Ses 2s2=s2== se == Sea
+— <= —= ape De Shoo See ws — we
+tee be . br —. ate pe He earreres oleae bee are Pees re ts tren
+ae | pened j-——+ |
+re Perera ee eet peaetes al pen Lan Eeeee Seeen gegen se — arenes Rees Be pate taf sen. ——| 3 --| ane Pt
+Bee) Se oe See SSS SS2e See Sa a=
+SEER pee eee
+pubes Ganenene SESS nevada NS NOE ee EDN = t——{-— =| fp -= = =| aoe eneneres Eeeebenel ees entree Genie = -—
+Saou GE See! sea a=S==eS2==r-===
+Soe. f= Sa= See 2==S== SS == SS
+Se Sere Ee ee EE
+eet Pea : Pepapne me arene srerepute ame Pare ed oh a peerend
+SSE SEES +S orice —=
+Bus 2525S Se = s==esS===r==
+Sau: Soe See Sas 2 S=S==sS = SSS
+fern era ewes eereree weer com uae rnes sae pa aan CTR ce as
+280) SSeS SS2 Ses == Ses Saas == ae
+paete east ental tees eees paw sa hoses Wanres Sage aewee saers EVES E See EC vonpae oe 4 a
+eiatets mevasees Mere iies tierra pereneres sare pth ee bo. aa. pane ware =? —-— > oe ett anenen SoeSEDES OUENN eine foe na teens a
+Se San sabes raved Getta wee ewes Seats ewes beugs aeewsoseren bepet Geees eesdeah sites oot peckabcoeseeess fees Seres eeeee oe See ——
+Cd wer dent — = cea ten alt
+22S 2 Seo aS eae aS eS
+ba Sees ietenie bet nies fee feng terete be
+ane cause ackut saaeecunwa wer pocke poy pte ee et Pies = pgens vases cuewe pares uasecouees =I a
+The Hectrocardiogram 111
+ae eee eee
+ry i tie eye te PE PTE EE
+PHU TT TT TTT TT A TT
+UT ey yo OT et
+SE} awe va
+Sel Se Bee
+LT tT Tt tty Te eet ee ET TE TT TE TE TT ET TE EEE TET ET
+Lt tT tet tee ee ee PP TE TT eT
+IT tT tT tT ite ete et eT tT PTT TE TT TE PT PT PT TE ET TE TT ET TT ET TT
+Lt tT tet tee ee ee PP TE TT eT
+PT itty eee ey TP PE TT TT TT ET ET
+ry itty eit ey ee Pe Pe
+O0) S08 S08 eee een eere see! seen ee
+ak en i eh (| a |
+eee) ee ee Cee
+eee eee ee ee Eee
+aaa ee ee eee
+Pitti ttt et ty ty et ey Pe ee
+SEP SReeneeee pees eee eee eee seer eee eee
+| ee ae | A ON PRS PS Pea Pann) eae
+Cigp PT ape Pa I eg
+beret ey eee et ey Pee te
+HGURE4-36. 12-lead KGG(abnormal). Rhythm: normal sinus. Rate: 62 bpm. Intervals: PR, 0.14; QRS, 0.10;
+QE 0.52 (corrected QE 0.53, which is prolonged). Axis: +95 degrees (right axis deviation [RAD]). QRS: pattern
+of left posterior fascicular block (LPFB), with small R wave in leads I and aVL, small Q wave in leads II, III,
+and aVE and RAD (see Kg. 4-20 for further description of LPFB). The prolonged QT interval in this patient is
+the result of antiarrhythmic medication.
+
+Acknowledgments
+Contributors to previous editions of this chapter were Stephen R. Pomedli, MD; Lilit Garibyan,
+MD; Kyle Low, MD; and Price Kerfoot, MD.
+Additional Reading
+Goldberger AL, Goldberger ZD, Shvilkin A. Goldberger’s Surawicz B, Childers R, Deal BJ, et al. AHA/ ACC/ HRS recom-
+Clinical Electrocardiography: A Simplif ed Approach. 8th ed. mendations for the standardization and interpretation
+Philadelphia, PA: Elsevier Saunders; 2013. of the electrocardiogram (Parts I-VI). J Am Coll Cardiol.
+O’Keefe JH Jr, Hammill SC, Freed MS, et al. The Complete 2007;49:1109-1135 and 2009;53:976-1011.
+Guide to ECGs. 3rd ed. Sudbury, MA: Jones and Bartlett Thaler MS. The Only EKG Book You’ll Ever Need. 7th ed.
+Publishers; 2008. Philadelphia, PA: Lippincott Williams & Wilkins; 2012.
+Surawicz B, Knilans TK. Chou’s Electrocardiography in Wagner GS, Strauss DG. Marriott’s Practical
+Clinical Practice. 6th ed. Philadelphia, PA: Saunders Electrocardiography. 12th ed. Baltimore, MD: Lippincott
+Elsevier; 2008. Williams & Wilkins; 2014.
+.
+ioe
+1a
+Atherosclerosis
+é
+|.
+Sarrah Shahawy \ a
+Peter Libby
+a
+Chapter Outline A therosclerosis is the leading cause of mortality and
+morbidity in developed nations. Through its major mani-
+Vascular Biology of Atherosclerosis festations of myocardial infarction and stroke, it has also become
+Normal Arterial Wall ; ,
+Atherosclerotic Arterial Wall a major cause of death in the developing world. Gmmonly
+Qmplications of Atherosclerosis known as “hardening of the arteries,” atherosclerosis derives
+Atherosclerosis Risk Factors its name from the Geek roots athere-, meaning “gruel,” and
+Genetics -skleros, meaning “hardness.” Recent evidence has demon-
+Traditional RISK FaCtOrs strated that chronic inflammation drives the atherosclerotic
+fom ers MNCL process and transduces traditional risk factors (such as hyper-
+a cholesterolemia) into altered behavior of vascular wall cells,
+contributing to the disease and its thrombotic complications.
+The course of atherogenesis can smolder throughout adult-
+hood, punctuated by acute cardiovascular events.
+describes the normal arterial wall, the pathogenesis of ather-
+osclerotic plaque formation, and the complications that lead
+to clinical manifestations of the disease. The second section
+describes fndings from population studies that have identi-
+fed specifc risk factors for atherosclerotic events, thereby
+offering opportunities for prevention and treatment.
+VASCULAR BIOLOGY OF ATHEROSCLEROSIS
+iii

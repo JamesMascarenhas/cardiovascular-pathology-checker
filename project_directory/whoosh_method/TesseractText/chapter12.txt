@@ -1,0 +1,1134 @@
+' J ] a
+Ginical Aspects of ia
+p ti
+Cardiac Arrhythmias | |)
+I : a
+y i
+Morgan J. Prust
+William G. Stevenson .
+Leonard S. Lilly é
+—
+Chapter Outline Ce 11 presented the mechanisms by which abnormal
+heart rhythms develop. This chapter describes how to rec-
+EB mad vary tbmias ognize and treat specifc arrhythmias. Table 12-1 categorizes
+Sinoatrial Node : : a
+BR the common rhythm disorders considered in this chapter.
+cape Rhythms :
+ey ae reer There are f ve basic questions to consider when confronted
+System with a patient with an abnormal heart rhythm, as detailed in
+Tachyarrhythmias the sections that follow:
+Supraventrictlar Arrhythmias
+Ventricular Arrhythmias 1. Identif cation: What is arrhythmia?
+2. Pathogenesis: What is the underlying mechanism?
+3. Precipitating factors: What conditions provoke it?
+4. Cinical presentation: What symptoms and signs accompany
+the arrhythmia?
+BRADYARRHYTHMIAS
+The normal resting heart rate, resulting from repetitive depo-
+larization of the sinus node, ranges from 60 to 100 bpm.
+Bradyarrhythmias are rhythms in which the heart rate is less
+than 60 bpm. They arise from disorders of impulse formation
+or impaired impulse conduction, as described in Chapter 11.
+a Sinus Bradycardia
+288 (Chapter 12
+Location Bradyarrhythmias Tachyarrhythmias
+SA node Sinus bradycardia Sinus tachycardia
+Sick sinus syndrome
+Atria Atrial premature beats
+Atrial f utter
+Atrial fibrillation
+Paroxysmal supraventricular tachycardias
+Focal atrial tachycardia
+Multifocal atrial tachycardia
+AV node Qnduction blocks Paroxysmal reentrant tachycardias
+Junctional escape rhythm (AV or AV nodal)
+Ventricles Ventricular escape rhythm Ventricular premature beats
+Ventricular tachycardia
+Torsades de pointes
+Ventricular fibrillation
+ee
+AV, atrioventricular; SA, sinoatrial.
+atrium, including ischemic heart disease or cardiomyopathy. Extrinsic factors that suppress
+SA nodal activity include medications (e.g., B-blockers and certain calcium channel blockers)
+and metabolic causes (e.g., hypothyroidism).
+
+Trained athletes often have elevated vagal tone, which results in physiologic and
+asymptomatic resting sinus bradycardia. Transient periods of high vagal tone can also
+occur in individuals as a ref ex response to pain or fear, resulting in inappropriate sinus
+bradycardia.
+
+Mild sinus bradycardia is usually asymptomatic and does not require treatment.
+However, a pronounced reduction of the heart rate can produce a fall in cardiac output
+with fatigue, light-headedness, confusion, or syncope. In such cases, any extrinsic pro-
+vocative factors should be corrected, and specific therapy, as described in the next section,
+may be needed.
+
+Sick Sinus Syndrome
+Intrinsic SA node dysfunction that causes periods of inappropriate bradycardia is known as
+sick sinus syndrome (SSS). This condition often produces symptoms of dizziness, confusion,
+or syncope. Patients with this syndrome (or any cause of symptomatic sinus bradycardia) can
+be treated acutely with intravenous anticholinergic drugs (e.g., atropine) or B-adrenergic agents
+(e.g., isoproterenol), which transiently accelerate the heart rate. If the problem is chronic and not
+corrected by removal of aggravating factors, placement of a permanent pacemaker is required.
+SE eat eee ee eee ere ee eee ea ee uae EE
+RSGHEGHGHHOR | HORGEHOTGG4 edH04 cuSEySOROMIEVEGD ) Gu tuete oats ontstEateHeateiterl ; eal itaststandsteuiGeteiGafestetl | stestasts
+BSGG# SEEESGSEHUSESEE tras SHnrs SOSSH SEEGE Setés Goes] UGGeN SUuGceRUGGEEE™ SEGGEENSEGGGEES CSGEs SuaGeCoaSCcESSUSEELTEOGS ct=a04gEEa
+H@GURE 12-1. Sinus bradycardia. The P wave and QRS complexes are normal, but the rate is less than 60 bpm.
+Clinical Aspects of Gardiac Arrhythmias 289
+Gara fasus pects aces ceacy cones veces coue crane casts Gray E#Tas OUNaT F0n0E0Qra enue Cane Ceaiy Coxid rune] CagUt COGsC#TeRt ESEEEAEEED
+BEES Sonzy HEGES ORES ESSE; GEES FnEEs Gans Se05e senns e000 Seana 0ane¢ coves ace! er7 00 ceeed Fl nT00ee0 F200 canes CEaGeGeees S000! GEu00
+TPES ag erect ee ee Ee ee Te EE ey
+Eee eeereeertti err eee ee eee tee teeter tee eee eee ee
+EERE HE EEE CEE EEE EEE EEE CCC EEE CECE CEE EE EEE EEE CECE EERE CREE EEE CEE
+FETSOGEETLG;EEH FEGEESET SS GOSS ]000/ S000 Gouna cess duGed SuGEE Gens s lead” 25008 EHSGECGENS SGEEH Sa0GeEnTE0 ERTS GSEESSEGEH SUUEEGERET
+HGURE 12-2. Bradycardia—tachycardia syndrome. A brief irregular tachycardia is followed by slow sinus
+node discharge.
+
+SSS is common in elderly patients, who are also susceptible to supraventricular tachycar-
+dias (SVTs), most commonly atrial fibrillation (AF). This combination of slow and fast dys-
+rhythmias is known as the bradycardia—tachycardia syndrome (Fig. 12-2) and is thought
+to result from atrial fibrosis that impairs function of the SA node and predisposes to AF and
+atrial futter. During the tachyarrhythmia, overdrive suppression of the SA node occurs (as
+described in Chapter 11), and when the tachycardia terminates, a period of profound sinus
+bradycardia may ensue. Treatment generally requires the combination of antiarrhythmic
+drug therapy to suppress the tachyarrhythmias plus a permanent pacemaker to prevent
+bradycardia.
+
+Fscape Rhythms
+Cells in the atrioventricular (AV) node and His—Purkinje system are capable of automaticity
+but typically have slower firing rates than do those in the sinus node and are therefore sup-
+pressed during normal sinus rhythm. However, if SA node activity becomes impaired or if
+there is conduction block of the impulse from the SA node, escape rhythms can emerge from
+the more distal latent pacemakers (Fig. 12-3).
+
+Junctional escape beats arise from the AV node or proximal bundle of His. They are
+characterized by a normal, narrow QRS complex, and when they occur in sequence
+(termed a junctional escape rhythm), appear at a rate of 40 to 60 bpm. The QRS com-
+plexes are not preceded by normal P waves because the impulse originates below the
+
+| 1 ; t cee Pett tt t t } iti ii
+
+ETS ES fn ee
+
+EE ES erect eee ee Tee HL
+
+EE eae (eae eu au eu | Ge AE oR EU EE eu ee |
+
+i iE Ev EEE a
+Pee a
+
+EREEEESEESEEESU LESSEE Pee in iii : sass: niin
+
+ESSERE ESHER EEE ESSE SLES ESE EEE
+
+Gah i
+
+SET TT TE Te ee Cee EE EE ine tae iae cH aeeiem eee
+
+GEUEE EERSTE BR DSU SSSEE EERE PEER ESET EEE ED SPECS SESE daca cnet (ud tte, net Gane catego
+
+sossesesetaaeesrfetaeedt tbssscssronerazect urea seedl tones ittasecazsecaztezatsauseszetsietessthal senna eee aaaeaes
+B CSREES ES EEE eS ESE TETSU ESTES PETES EE
+HGURE12-3 Escape rhythms. No P waves are evident. A. Junctional escape rhythm with normal-width QRS
+complexes. B. Wde QRS complexes typical of a ventricular escape rhythm.
+290 chapter 12
+atria. However, retrograde P waves may be observed as an impulse propagates from the
+more distal pacemaker backward to the atrium. Retrograde P waves typically follow the
+QRS complex and are abnormally inverted (negative def ection on the electrocardiogram
+[ECG]) in limb leads I, II, and aVF, indicating activation of the atria from the inferior
+direction.
+
+Ventricular escape rhythms are characterized by even slower rates (30 to 40 bpm) and
+abnormally widened QRS complexes. The complexes are wide because the ventricles are
+not depolarized by the normal rapid simultaneous conduction over the right and left bundle
+branches but rather from a more distal point in the conduction system. The morphology that
+the QRS shows depends on the site of origin of the escape rhythm. For example, an escape
+rhythm originating from the left bundle branch will cause a right bundle branch block QRS
+pattern, because the impulse depolarizes the left ventricle first and then spreads more slowly
+through the right ventricle (RV). Conversely, an escape rhythm originating in the right bun-
+dle branch causes the QRS to appear with a left bundle branch block configuration. Escape
+rhythms that originate more distally, in the ventricular myocardium itself, are characterized
+by even wider QRS complexes because such impulses are conducted outside the rapidly
+propagating Purkinje fibers.
+
+Junctional and ventricular escape rhythms are protective backup mechanisms that main-
+tain a heartbeat and cardiac output when the sinus node or normal AV conduction fails. The
+clinical findings and treatment of bradycardia associated with escape rhythms are identical to
+those of SSS described earlier.
+
+Atrioventricular Gonduction System
+The AV conduction system includes the AV node, bundle of His, and the left and right bundle
+branches. Impaired conduction between the atria and ventricles can result in three degrees
+(types) of AV conduction block.
+
+Kirst-Degree AV Block
+First-degree AV block, shown in Figure 12-4, indicates prolongation of the normal delay
+between atrial and ventricular depolarization, such that the PR interval is lengthened (>0.2
+seconds, which is >5 small boxes on the ECG). In this situation, the 1:1 relationship between
+P waves and QRS complexes is preserved. The impairment of conduction is usually within
+the AV node itself and can be caused by a transient reversible inf uence or a structural defect.
+Reversible causes include heightened vagal tone, transient AV nodal ischemia, and drugs
+that depress conduction through the AV node, including B-blockers, certain calcium channel
+antagonists, digitalis, and other antiarrhythmic medications. Structural causes of first-degree
+AV block include myocardial infarction and chronic degenerative diseases of the conduction
+system, which commonly occur with aging.
+a i
+Este ae lar ane nen ae eeefaeain Gee eee eerste seeaseel et oT) erat ae
+ae A I A
+pide ee
+Ear eae le lee ae eee gen a ae ae bene ane aed oe ecco eer ee Ge eet Peg
+HGURE 12-4. First-degree AV block. The PR interval is prolonged.
+Cinical Aspects of Cardiac Arrhythmias 291
+SUA OIA AREAS
+UIA A IAEA A
+pepe veitcfeet certs |) fetesret jeesre| destetr crea
+Pott, P Fe +4 Pp eae iS a P feeei coord Perr -P } poh P ps enatd snes . 28 Senne eee
+HGURE12-5. Second-degree AV block: type I (Wenckebach). The P-wave rate is constant, but the PR
+interval progressively lengthens until a QRS is completely blocked (after the fourth P wave).
+
+Generally, frst-degree AV block is a benign, asymptomatic condition that does not
+require treatment. However, it can indicate disease in the AV node associated with sus-
+ceptibility to higher degrees of AV block if drugs are administered that further impair AV
+conduction or if the conduction disease progresses.
+
+Second-Degree AV Block
+
+Second-degree AV block is characterized by intermittent failure of AV conduction, resulting
+in some P waves that are not followed by a QRS complex. There are two forms of second-
+degree AV block. In type I block (also termed Wenckebach block), shown in Figure 12-5,
+the degree of AV delay gradually increases with each beat until an impulse is completely
+blocked, such that there is no QRS after the P wave for a single beat. Therefore, the ECG
+shows a progressive increase in the PR interval from one beat to the next until a single QRS
+complex is absent, after which the PR interval shortens to its initial length, and the cycle
+starts anew. Type I block almost always results from impaired conduction in the AV node
+(rather than more distally in the conduction system). It is usually benign and may be seen
+in children, trained athletes, and people with high vagal tone, particularly during sleep. It
+may also occur during an acute myocardial infarction because of increased vagal tone or
+ischemia of the AV node, but the block is usually temporary. Treatment of type I block is
+typically not necessary, but in symptomatic cases, administration of intravenous atropine
+or isoproterenol usually improves AV conduction transiently. Occasionally, placement of a
+permanent pacemaker is required for symptomatic block that does not resolve spontane-
+ously or persists despite the correction of aggravating factors.
+
+In contrast, type II second-degree AV block is a more dangerous condition. It is character-
+ized by the sudden intermittent loss of AV conduction, without preceding gradual lengthening
+of the PR interval (Fig. 12-6). The block may persist for two or more beats (i.e., two sequen-
+tial P waves not followed by QRS complexes), in which case it is known as high-grade AV
+VE oa i
+Sf Goes Che gases mae
+
+Ei Lal A ee oR
+pI LAN LAL Sere el | 3 case onaasasaas are me LAS
+Pt peceettes | ferre TE P 3 ieee CoA p cehoretero aah p pe tes p perp
+ee ee a Gen eg ge
+HGURE 12-6. Second-degree AV block: type II. A QRS complex is blocked (after the fourth P wave) without
+gradual lengthening of the preceding PR intervals. While the QRS width in this example is normal, it is often
+widened in patients with type IT block.
+292 chapter 12
+EE Ga a eee et EE Ean EP ae a Ee
+pelea GU Lishihrctaed sete ieee deeb bette act Ul
+PUR EASA oot tat IGA
+LALA A ALAA UA
+fee eee eet eee sete, a
+Ee p TEE hel P dee ttoat: P ca dsatetite P sede ba P bie P erahin
+ees a ee en Gen
+HGURE12-7. High-grade AV block. Sequential QRS complexes are blocked (after the second and third
+P waves).
+block (Fig. 12-7). Type I block is usually caused by conduction block distal to the AV node
+(in the bundle of His or more distally in the Purkinje system), and the QRS pattern often is
+widened in a pattern of right or left bundle branch block. This type of block may arise from
+extensive myocardial infarction involving the septum or from chronic degeneration of the
+His—Purkinje system. It usually indicates severe disease and may progress to complete heart
+block without warning; therefore, a pacemaker is usually warranted, even in asymptomatic
+patients.
+
+Third-Degree AV Block
+Third-degree AV block, also termed complete heart block (Fig. 12-8), is present when
+there is complete failure of conduction between the atria and ventricles. In adults, the
+most common causes are acute myocardial infarction and chronic degeneration of the
+conduction pathways with advanced age. Third-degree AV block electrically disconnects
+the atria and ventricles; there is no relationship between the P waves and QRS complexes
+because the atria depolarize in response to SA node activity, while a more distal escape
+rhythm drives the ventricles independently. Thus, the P waves “march out” at a rate that
+is not related to the intervals at which QRS complexes appear. Depending on the site of
+the escape rhythm, the QRS complexes may be of normal width and occur at 40 to 60 bpm
+(originating from the AV node) or may be widened and occur at slower rates (originating
+from the His—Purkinje system). As a result of the slow rate, patients frequently experi-
+ence light-headedness or syncope. Permanent pacemaker implantation is almost always
+necessary.
+
+The term AV dissociation is a general description that refers to any situation in which the
+atria and ventricles beat independently, without any direct relationship between P waves and
+QRS complexes. Third-degree AV block is one example of AV dissociation.
+
+EERE seat ue ae tau ems et pee anna ene red ey eet ane ae nee ee Ta
+Sg ee ee
+Se) Ghee (Sneee Wena wees
+Sac SUcese ees eae reee at ceat Teo gaat eet er WE DU Eea aut eat taeda
+eo ee ee LJ Gee | ee
+Sng gp a ae Ee ee ef bencect deca donno meee | te ee a ees Be sae iu. - —- : deen
+citht p Aas p peice p pepe p pro p Se p Se p SH  p ee
+
+Heb EEE EEE peas eene; eebep ir ip rpppdce fd Seene sone So00e Sass Seenn eee eeenes Sonos sueasbenen San oH
+HGURE12-8. Third-degree AV block. The P wave and QRS rhythms are independent of one another. The QRS
+complexes are widened as they originate within the distal ventricular conduction system, not at the bundle of
+His. The second and fourth P waves are superimposed on normal T waves.
+Clinical Aspects of Gardiac Arrhythmias 293
+TACHYARRHYTHMIAS
+When the heart rate is greater than 100 bpm for three beats or more, a tachyarrhythmia is
+present. Tachyarrhythmias result from one of the three mechanisms described in Chapter 11:
+enhanced automaticity, reentry, or triggered activity. Tachyarrhythmias are categorized into
+those that arise above the ventricles (supraventricular) and those that arise within the ventricles.
+Supraventricular Arrhythmias
+Figure 12-9 presents a schema to help organize the common supraventricular tachyarrhyth-
+mias presented in this section.
+Sinus Tachycardia
+Sinus tachycardia is characterized by an SA node discharge rate greater than 100 bpm (typi-
+cally 100 to 180 bpm) with normal P waves and QRS complexes (Fig. 12-10). This rhythm
+most often results from increased sympathetic and/or decreased vagal tone. Sinus tachy-
+cardia is an appropriate physiologic response to exercise. However, it may also result from
+sympathetic stimulation in pathologic conditions, including fever, hypoxemia, hyperthyroid-
+ism, hypovolemia, and anemia. In disease states, sinus tachycardia is usually a sign of the
+severity of the primary pathophysiologic process, and treatment should be directed at the
+underlying cause.
+= 3 P wave No distinct
+shapes P waves
+Atrial P-wave Response to carotid
+rate (bpm) morphology sinus massage
+100-180 Normal Atria] rate
+may slow
+140-250 Hidden or May abruptly
+retrograde terminate
+. AV block may
+130-250 Differs from increase; doesn’
+normal P
+usually revert
+180-350 “Saw-toothed” AV block may
+Increase
+HGURE12-9. Differentiation of common supraventricular tachyarrhythmias.
+294 (Chapter 12
+Se ee ee eee eee
+AIOKATTANITAATTANIAATIT ARI TANITARIAATTORS
+HGURE 12-10. Sinus tachycardia. The P wave and QRS complexes are normal, but the rate is greater than
+100 bpm.
+
+Atrial Premature Beats
+Atrial premature beats (APBs) are common in healthy as well as diseased hearts (Fig. 12-11).
+They originate from automaticity or reentry in an atrial focus outside the SA node and are
+often exacerbated by sympathetic stimulation. APBs are usually asymptomatic but may cause
+palpitations. On the ECG, an APB appears as an earlier-than-expected P wave with an abnor-
+mal shape (the impulse does not arise from the SA node, resulting in an abnormal sequence
+of conduction through the atria). The QRS complex that follows the P wave is usually normal,
+resembling the QRS during sinus rhythm, because ventricular conduction is not impaired.
+However, if the abnormal atrial focus fires very soon after the previous beat, the impulse may
+encounter an AV node that is still refractory to excitation, resulting in a blocked impulse that
+does not conduct to the ventricles. In that case, the premature P wave is not followed by a
+QRS complex and is termed a blocked APB. Similarly, if the ectopic focus fires just a bit later
+in diastole, it may conduct through the AV node but encounter portions of the His—Purkinje
+system (typically the right or left bundle branch) that are still refractory. As a result of failure
+of conduction in one of the bundle branches, the impulse is conducted through a portion of
+the ventricles more slowly than normal, producing QRS complexes that are abnormally wide
+(termed an APB with aberrant conduction).
+
+APBs require treatment only if they are symptomatic. Because caffeine, alcohol, and adren-
+ergic stimulation (e.g., emotional stress) can all predispose to APBs, it is important to address
+these factors. B-Blockers are the initial preferred pharmacologic treatment if needed.
+
+Atrial Hutter
+
+Atrial futter is characterized by rapid, regular atrial activity at a rate of 180 to 350 bpm
+(Fig. 12-12). Many of these fast impulses reach the AV node during its refractory period and
+do not conduct to the ventricles, resulting in a slower ventricular rate, often an even frac-
+tion of the atrial rate. Thus, if the atrial rate is 300 bpm and 2:1 block occurs at the AV node
+(i.e., every other atrial impulse finds the AV node refractory), the ventricular rate is 150 bpm.
+Because vagal maneuvers (e.g., carotid sinus massage) decrease AV nodal conduction, they
+increase the degree of block, temporarily slowing the ventricular rate, which allows better
+visualization of the underlying atrial activity. In general, atrial futter is caused by reentry
+over a large anatomically fixed circuit. In the common form of atrial f utter, this circuit is the
+gh eet
+
+Pea CN Ce eee
+plea eer or et an PVF Ug gga ete Pe et NRE eet
+Te soe eee
+H@GURE12-11. Atrial premature beat (APB). The P wave occurs earlier than expected, and its shape is abnormal.
+Clinical Aspects of Gardiac Arrhythmias 295
+
+S| poh gg beet
+Segoe cee eee eee aoe gee sees ee Gee
+Seg eed ee ia Sees ears =
+Lahn MAAS ANN AR AAAI
+eee Gia | Gn ange Gans J
+eae ste a eos lire oy me ede eee eg Meee a
+HGURE 12-12. Atrial flutter is typif ed by rapid “saw-toothed” atrial activity (arrows).
+atrial tissue along the tricuspid valve annulus: the circulating depolarization wave propagates
+up the interatrial septum, across the roof and down the free wall of the right atrium, and
+finally along the foor of the right atrium between the tricuspid valve annulus and inferior
+vena cava. Because large parts of the atrium are depolarized throughout the cycle, P waves
+often have a sinusoidal or “sawtooth” appearance. Large futter circuits can occur in other
+parts of the right or left atrium as well, usually associated with areas of atrial scarring from
+disease, prior heart surgery, or ablation procedures.
+
+Atrial f utter generally occurs in patients with preexisting heart disease. It may be paroxysmal
+and transient, persistent (lasting for days or weeks), or permanent. Symptoms of atrial f ut-
+ter depend on the accompanying ventricular rate. If the rate is less than 100 bpm, the patient
+may be asymptomatic. Conversely, faster rates often cause palpitations, dyspnea, or weakness.
+Paradoxically, antiarrhythmic medications that reduce the rate of atrial futter by slowing con-
+duction in the atrium may make the rhythm more dangerous by allowing the AV node more
+time to recover between impulses. In this situation, the AV node may begin to conduct in a 1:1
+fashion, producing very rapid ventricular rates. For example, a patient with atrial f utter at a rate
+of 280 bpm and 2:1 conduction block at the AV node would have a ventricular rate of 140 bpm.
+If the atrial rate then slows to 220 bpm, the AV node may be able to recover sufficiently between
+depolarizations to conduct every atrial impulse, causing the ventricular rate to accelerate to 220
+bpm. In patients with limited cardiac reserve, this acceleration may result in a profound reduc-
+tion of cardiac output and hypotension. Atrial f utter also predisposes to atrial thrombus forma-
+tion, and anticoagulation therapy is often appropriate, as described below for atrial fibrillation.
+
+Several approaches for the conversion of atrial f utter to sinus rhythm are available:
+
+1. For symptomatic patients with recent-onset atrial futter, the most expeditious therapy
+is electrical cardioversion to restore sinus rhythm. This technique is also used to revert
+chronic atrial f utter that has not responded to other approaches.
+
+2. Flutter can be terminated by rapid atrial stimulation (burst pacing) using a temporary or
+permanent pacemaker (see Chapter 11). This procedure can be used when temporary atrial
+pacing wires are already present, as in the days following cardiac surgery. In addition,
+certain types of permanent pacemakers and implanted defibrillators can be programmed to
+perform burst pacing automatically when atrial f utter occurs.
+
+3. Patients without an immediate need for cardioversion can begin pharmacologic therapy.
+First, the ventricular rate is slowed by drugs that increase AV block: B-blockers, certain cal-
+cium channel blockers (e.g., verapamil, diltiazem), or digoxin. Once the rate is effectively
+slowed, attempts can be made to restore sinus rhythm using antiarrhythmic drugs that slow
+conduction or prolong the refractory period of the atrial myocardium (usually class IC or
+class III agents; see Chapter 17). Should these drugs fail to convert the rhythm, electrical
+cardioversion can be undertaken. Once sinus rhythm has been restored, antiarrhythmic
+drugs may be administered chronically to prevent recurrences.
+296 Chapter 12
+4. When chronic therapy is required to prevent recurrences, catheter ablation is often a bet-
+ter alternative than pharmacologic approaches. In this method, an electrode catheter is
+inserted into the femoral vein, passed via the inferior vena cava to the right atrium, and
+used to localize and cauterize (ablate) part of the reentrant loop to permanently interrupt
+the f utter circuit.
+Atrial Fibrillation
+AF is a chaotic rhythm with an atrial rate so fast (350 to 600 discharges/ min) that distinct P
+waves are not discernible on the ECG (Fig. 12-13). As with atrial futter, many of the atrial
+impulses encounter refractory tissue at the AV node, allowing only some of the depolariza-
+tions to be conducted to the ventricles in a very irregular fashion (indicated by a characteristic
+“irregularly irregular” rhythm). The average ventricular rate in untreated AF is approximately
+140 to 160 bpm. Because discrete P waves are not visible on the ECG, the baseline shows
+low-amplitude undulations punctuated by QRS complexes and T waves.
+
+The mechanism of AF likely involves multiple wandering reentrant circuits within the
+atria, and in some patients, the rhythm repetitively shifts between fibrillation and atrial fut-
+ter. When fibrillation is paroxysmal (1.e., sudden, unpredictable episodes), it is often initiated
+by rapid firing of foci in sleeves of atrial muscle that extend into the pulmonary veins. To sus-
+tain AF, a minimum number of reentrant circuits is needed, and an enlarged atrium increases
+the potential for this to occur. Thus, AF is often associated with right or left atrial enlarge-
+ment. Accordingly, diseases that increase atrial pressure and size promote AF, including heart
+failure, hypertension, coronary artery disease, and pulmonary disease. Thyrotoxicosis and
+alcohol consumption can also precipitate AF in some individuals. In addition, AF is a com-
+mon rhythm disturbance in the elderly.
+
+As with atrial futter, when the ventricular rate is less than 100 beats/min, AF may be
+asymptomatic. When the rate is faster, as may occur before treatment is instituted and when
+AV nodal conduction is facilitated by elevated sympathetic tone during illness, the rapid
+ventricular rate may compromise cardiac output, resulting in hypotension and pulmonary
+congestion (especially in patients with a hypertrophied or “stiff” left ventricle in whom the
+loss of normal atrial contraction can significantly reduce left ventricular filling and stroke
+volume). AF is also an important cause of stroke. The absence of organized atrial contrac-
+tion promotes blood stasis in the atria, increasing the risk of thrombus formation in the left
+atrial appendage (LAA), which can embolize to the cerebral circulation and other systemic
+sites. Thus, treatment of AF is directed at three aspects of the arrhythmia: (1) ventricular rate
+control, (2) assessment of the need for anticoagulation to prevent thromboembolism, and (3)
+consideration of methods to restore sinus rhythm.
+
+Antiarrhythmic drug treatment of AF is similar to that of atrial f utter. B-Blockers or certain
+Ca** channel antagonists (diltiazem, verapamil) are administered to promote block at the AV
+node so as to reduce the ventricular rate. Digitalis is less effective for this purpose, although
+it may be useful in patients with accompanying impairment of ventricular contractile func-
+tion. For those who remain symptomatic despite adequate rate control, conversion to sinus
+rhythm is usually attempted, as described in the next paragraph. AF that has been present
+HGURE12-13. Atrial f brillation is characterized by chaotic atrial activity without organized P waves
+and by irregularity of the ventricular (QRS) rate.
+Clinical Aspects of Gardiac Arrhythmias 297
+for more than 48 hours may predispose to atrial thrombus formation, and systemic antico-
+agulation (for at least 3 weeks) is usually warranted prior to cardioversion to reduce the risk
+of thromboembolism. Alternatively, a transesophageal echocardiogram can be performed to
+evaluate for the presence of thrombus; if none is found, cardioversion may proceed directly,
+with minimum thromboembolic risk, provided that anticoagulation is instituted for several
+weeks thereafter (since recovery of normal atrial contraction may be delayed for a period of
+time following cardioversion). Anticoagulant drugs are described in Chapter 17.
+
+Cardioversion to sinus rhythm can be attempted chemically by administration of class IC,
+IA, or III antiarrhythmic drugs (see Chapter 17 for descriptions of these classes). Alternatively,
+electrical cardioversion can be undertaken. Following successful conversion to sinus rhythm,
+antiarrhythmic drugs are often continued in an attempt to prevent recurrences. Note that
+these drugs have the capacity to cause serious, sometimes lethal, side effects (see Chapter
+17). Thus, in patients with asymptomatic AF, it is often appropriate to simply control the ven-
+tricular rate and continue anticoagulation therapy chronically, rather than to pursue cardio-
+version. Such an approach is supported by clinical trials of AF that have assessed long-term
+clinical outcomes.
+
+Because the effcacies and toxicities of antiarrhythmic drugs have been disappointing,
+nonpharmacologic options for the management of AF have been devised. For example, the
+surgical maze procedure places multiple incisions in the left and right atria to prevent the for-
+mation of reentry circuits and is sometimes performed in patients undergoing cardiac surgery
+for coronary artery or valve disease who also have AF. A less invasive approach is percutane-
+ous catheter ablation. In this approach, areas of the left atrium around the pulmonary veins
+are cauterized to interrupt potential reentry circuits and foci that initiate AF. Doing so requires
+extensive catheter manipulation and ablation in the left atrium, and risks of the procedure
+includes stroke from systemic thromboembolism and cardiac perforation that can cause peri-
+cardial tamponade. Thus, catheter ablation for AF is usually reserved for patients who remain
+symptomatic despite pharmacologic approaches. When sinus rhythm cannot be maintained
+and the heart rate cannot be controlled adequately with medications, catheter ablation of the
+AV node is another available procedure. This method intentionally creates complete heart
+block as a means to permanently slow the ventricular rate. Permanent ventricular pacemaker
+placement is then also required to generate an adequate ventricular rate.
+
+Left atrial appendage (LAA) ligation or occlusion, which can be performed through open
+surgical or percutaneous techniques, excludes the LAA from the circulation, removing it as
+a source of thrombi that can embolize to cause strokes. The advantages and risks of such
+approaches to prevent stroke in AF are still being def ned.
+
+Paroxysmal Supraventricular Tachycardias
+
+Paroxysmal supraventricular tachycardias (PSVTs) are manifested by (1) sudden onset and ter-
+mination, (2) atrial rates between 140 and 250 bpm, and (3) narrow (normal) QRS complexes
+(Fig. 12-14), unless aberrant conduction is present, as summarized later. The mechanism of
+FS Ete a fae Epa in Ga
+Ez Ed Emer eal Gaal Ga'ceeea Comes le (eames (enna b (eeu en) deeees| Geaices Ga face: Conmace (eu lues |Oeend | \eeaces Wesabe Greate 0
+1 a a a
+(COCO SIC SII
+Ff EG EG EE ES EG TES EGE GS GS
+HGURE 12-14. Paroxysmal supraventricular tachycardia caused by AV nodal reentry. Retrograde P waves in
+this example occur simultaneously with, and are “hidden” in, the QRS complexes.
+298 (chapter 12
+PSVTs is most often reentry involving the AV node, atrium, or an accessory pathway between
+an atrium and a ventricle. Enhanced automaticity and triggered activity in the atrium or AV
+node are less common causes.
+
+AV Nodal Reentrant Tachycardia
+Atrioventricular nodal reentrant tachycardia (AVNRT) is the most common form of PSVT in
+adults. In the normal heart, the AV node is a lobulated structure that consists of a compact
+portion and several atrial extensions. The latter constitute two (or more) potential pathways
+for conduction through the AV node (Fig. 12-15). In some people, these extensions have dif-
+ferent conduction times, providing both slow- and fast-conducting pathways. The fast path-
+way is characterized by a rapid conduction velocity, whereas the slow pathway demonstrates
+slower conduction but typically has a shorter refractory period than does the fast pathway.
+Thus, although the fast pathway conducts rapidly, it takes longer to recover between impulses
+compared with the slow pathway. Normally, a stimulus arriving at the AV node travels down
+both pathways, but the impulse traveling down the fast pathway reaches the bundle of His
+first. By the time the impulse traversing the slow pathway reaches the bundle of His, it
+encounters refractory tissue and is extinguished. Thus, under normal conditions, only the fast
+pathway impulse makes its way forward to the ventricles (see Fig. 12-15A).
+
+In contrast, consider what happens when an APB spontaneously occurs (Fig. 12-15B).
+Because the refractory period of the fast pathway is relatively long, an APB would find that
+pathway unexcitable and unable to conduct the impulse. However, the impulse is able to
+conduct over the slow pathway (which is excitable because it has a shorter refractory period
+than does the fast pathway and has already repolarized when the APB arrives). By the time
+this impulse travels down the slowly conducting pathway and reaches the compact portion
+of the AV node, the distal end of the fast pathway may have had time to repolarize, and the
+impulse is able to propagate both distally (to the bundle of His and ventricles) and backward
+to the atria, up the fast pathway in a retrograde direction. On reaching the atria, the impulse
+can then circulate back down the slow pathway, completing the reentrant loop and initiating
+tachycardia as this sequence repeats. Thus, the fundamental conditions for reentry in AVNRT
+in this example are transient unidirectional block in the fast pathway (an APB encountering
+refractory tissue) and relatively slow conduction through the other pathway.
+
+The ECG in AVNRT shows a regular tachycardia with normal-width QRS complexes. P
+waves may not be apparent, because retrograde atrial depolarization typically occurs simul-
+taneously with ventricular depolarization (see Fig. 12-14). Thus, the retrograde P wave and
+QRS are inscribed at the same time, and the P is typically “hidden” in the QRS complex. When
+P waves are visible, they are superimposed on the terminal portion of the QRS complex and
+inverted (negative def ection) in limb leads II, III, and aVF, because of the caudocranial direc-
+tion of atrial activation.
+
+Rarely, the reentrant loop revolves in the reverse direction, with anterograde conduction
+down the fast pathway and retrograde conduction up the slow pathway. This is known as
+uncommon AVNRT and, unlike the more common rhythm, typically results in clearly visible
+retrograde P waves following the QRS complex on the ECG.
+
+AVNRT often presents in teenagers or young adults. It is usually well tolerated but causes
+palpitations that many patients find frightening, and rapid tachycardias can cause light-
+headedness or shortness of breath. In elderly patients or those with underlying heart disease,
+more severe symptoms may result, such as syncope, angina, or pulmonary edema.
+
+Acute treatment of AVNRT is aimed at terminating reentry by impairing conduction in the
+AV node. Transient increases in vagal tone produced by the Valsalva maneuver or carotid
+sinus massage (see Chapter 11) may block AV conduction, stopping the tachycardia. The
+most rapidly effective pharmacologic treatment is intravenous adenosine, which impairs AV
+Cinical Aspects of Cardiac Arrhythmias 299
+Compact
+AV node
+i
+l Bundle of His
+Right atrium
+i
+l
+| IVS
+Impulse from
+SA node
+Ae Tricus pid valve
+A
+i
+Unidi .
+a Bundle of His
+Atrial
+premature
+beat
+B
+HGURE12-15. G@mmon mechanism of AV nodal reentry. In most patients, the AVnode is a lobulated
+structure consisting proximally of several atrial extensions and distally of a compact node portion. A. In
+patients with AVnodal reentry, two functionally distinct tracts exist within the AVnode (termed the slow and
+fast pathways). The slow pathway conducts slowly and has a short refractory period, whereas the fast pathway
+conducts more rapidly but has a long refractory period. Impulses from above conduct down both pathways;
+because the fast pathway impulse reaches the distal common pathway frst, it continues to the bundle of His.
+Qnversely, the slow pathway impulse arrives later and encounters refractory tissue. B An atrial premature beat
+arrives at the entrance of the two pathways. The fast pathway is still refractory from the preceding beat and the
+impulse is blocked, but the slow pathway has repolarized and is able to conduct. When the impulse reaches the
+distal portion of the fast pathway after traveling down the slower pathway, the fast pathway has repolarized and
+is able to conduct the impulse in a retrograde direction (exemplifying unidirectional block) as shown by the green
+pathway. The impulse can then travel back to the slow pathway, and a reentrant loop is initiated.
+nodal conduction and often aborts the reentrant rhythm (see Chapter 17). Other drug options
+include intravenous calcium channel antagonists (verapamil and diltiazem) or B-blockers.
+Most patients with AVNRT have infrequent episodes that terminate with vagal maneuvers and
+do not require other specif c interventions. Frequent symptomatic episodes, particularly when
+requiring visits to the emergency department for treatment, warrant preventive therapy: oral
+300 chapter 12
+B-blockers, calctum channel blockers, or digoxin is often successful for this purpose. Catheter
+ablation of the slow AV nodal pathway is usually curative and recommended when pharmaco-
+logic therapy fails or is not desired by the patient, but has a small risk (<2%) of heart block owing
+to unintended damage to the fast AV nodal pathway, a complication that requires permanent
+pacemaker implantation. Chronic class IC or IA antiarrhythmic drugs are also effective but are
+often less desirable than catheter ablation, because of associated potential drug toxicities.
+
+Atrioventricular Reentrant Tachycardias
+Atrioventricular reentrant tachycardias (AVRTs) are similar to AVNRTs except that in the for-
+mer, one limb of the reentrant loop is constituted by an accessory pathway (bypass tract),
+rather than by separate fast and slow pathways within the AV node itself. As described in
+Chapter 11, an accessory pathway is an abnormal band of myocytes that spans the AV groove
+and connects atrial to ventricular tissue separately from the normal conduction system (see
+Fig. 11-10). Approximately 1 in 1,500 people has such a pathway.
+
+Accessory pathways allow an impulse to conduct from atrium to ventricle (anterograde con-
+duction), from ventricle to atrium (retrograde conduction), or in both directions. Depending
+on the characteristics of the pathway, one of two characteristic entities can result: (1) the ven-
+tricular preexcitation syndrome or (2) PSVT resulting from a concealed accessory pathway.
+Some pathways do not conduct impulses at rates suff cient to cause tachycardias and cause
+no symptoms at all.
+
+Ventricular Preexcitation Syndrome
+In patients with ventricular preexcitation (also termed Wolff—Parkinson—White [WPW] syn-
+drome; see Chapter 11), atrial impulses can pass in an anterograde direction to the ventricles
+through both the AV node and the accessory pathway. Because conduction through the acces-
+sory pathway is usually faster than that via the AV node, the ventricles are stimulated earlier
+than by normal conduction over the AV node. During sinus rhythm, activation of the ventricle
+from the accessory pathway causes a characteristic ECG appearance: (1) the PR interval is
+shortened (less than 0.12 seconds) because ventricular stimulation begins earlier than nor-
+mal through the accessory pathway, (2) the QRS has a slurred rather than a sharp upstroke
+(referred to as a delta wave) because the initial ventricular activation by the accessory path-
+way is slower than activation over the Purkinje system, and (3) the QRS complex is widened
+because it represents fusion of two excitation wave fronts through the ventricles, one from
+the accessory pathway and one from the normal His—Purkinje system (Figs. 12-16 and 12-17).
+
+Patients with WPW syndrome are predisposed to PSVTs because the accessory pathway
+provides a potential limb of a reentrant loop. The most common PSVT in these patients is ortho-
+dromic AVRT. During this tachycardia, an impulse travels anterogradely down the AV node to
+the ventricles and then retrogradely up the accessory tract back to the atria (see Fig. 12-17B).
+
+Seay Seoes Suuuseueusseeauenstusuecesessesesane sere SaaEgeEe
+Ea ae ee
+SE eee ere arate Ee at a rao
+Se ae a
+HAL ae NO ee ee
+srdur diff fSutanoususneasocang ect] CoMfaQovayshentaggus eats volta afat inset tags socezcahct # agestateqausesseassqes(incts fatOietEN{ di
+Seca ata daste ceded eta nual oed teas ease set] fed gana] TTA TT aaRGeeee teed erence a PELE TTL
+HGURE 12-16. Wolff—Parkinson—White syndrome. The delta wave (arrow) indicates preexcitation of the
+ventricles. Note the shortened PR interval.
+Cinical Aspects of Cardiac Arrhythmias 301
+A B Ortho dro mic C Antidro mic
+Sinus Rhythm Atrioventricular Atrioventricular
+Reentrant Reentrant
+Tachycardia Tachycardia
+ag SA node O O
+< '
+Fa . Atria a ~ ni a
+‘ ‘ v 1 \
+; i
+! ! 1
+i ' ' +
+¥ BAS Ventricles ' AP \ 4
+/NX 1 ON \ LZ\N
+aS ,a
+Delta | i |
+ALE hn NU
+\ 7 N17
+Retrograde Retrograde
+P waves P waves
+HGURE 12-17. Wolff—Parkinson—White syndrome. A. During normal sinus rhythm, the shortened PR
+interval, delta wave, and widened QRS complex indicate fusion of ventricular activation via the AVnode and
+accessory pathway (AP). B An atrial premature beat can trigger an orthodromic atrioventricular reentrant
+tachycardia, in which impulses are conducted anterogradely down the AVnode and retrogradely up the
+accessory pathway. Retrograde P waves are visible immediately after the QRS complex. There is no delta
+wave because anterograde ventricular stimulation passes exclusively through the AVnode. C Antidromic
+atrioventricular reentrant tachycardia in which impulses are conducted anterogradely down the accessory tract
+and retrogradely up the AVnode. The QRS complex is greatly widened because the ventricles are stimulated by
+abnormal conduction through the accessory pathway rather than via the His-Purkinje system. SA, sinoatrial.
+Because the ventricles in this situation are depolarized exclusively via the normal conduction
+system (through the AV node and the bundle of His), there is no delta wave during the tachy-
+cardia and the width of the QRS is usually normal. Retrograde P waves are often visible soon
+after each QRS complex because the atria are stimulated from below via retrograde conduction
+through the accessory pathway.
+
+In fewer than 10% of patients with AVRT involving an accessory pathway, the reentrant
+arrhythmia travels in the opposite direction. Impulses travel anterogradely down the acces-
+sory pathway and retrogradely up the AV node (see Fig. 12-17C). Termed antidromic AVRT,
+its ECG pattern is characterized by a wide QRS complex because the ventricles are activated
+entirely from anterograde conduction over the accessory pathway. From the ECG alone, such
+antidromic tachycardia is difficult to distinguish from ventricular tachycardia (described later
+in the chapter).
+
+A third type of arrhythmia encountered in patients with WPW syndrome is anterograde
+conduction over the accessory pathway when AF or atrial f utter is present. Some accessory
+pathways have short refractory periods that allow faster rates of ventricular stimulation than
+does the AV node. Thus, during AF or atrial futter, ventricular rates as fast as 300 bpm may
+result. Such rates are poorly tolerated and can lead to ventricular fibrillation and cardiac
+arrest, even in a young, otherwise healthy patient.
+
+Pharmacologic management of arrhythmias in patients with the WPW syndrome requires
+greater caution than that of those with AVNRTs. Although digitalis, B-blockers, and certain
+302 chapter 12
+
+calcium channel blockers are effective at blocking conduction through the AV node, they do
+not slow conduction over most accessory pathways. Sometimes these drugs actually shorten
+the refractory period of the accessory pathway, thus speeding conduction. Therefore, the drugs
+could precipitate even faster ventricular rates (and hemodynamic collapse) when adminis-
+tered to patients with WPW syndrome who develop AF or f utter. In contrast, sodium chan-
+nel blockers (specifically, class IA and IC antiarrhythmics) and some class III antiarrhythmic
+drugs slow conduction and prolong the refractory period of accessory pathways as well as the
+AV node; therefore, these are the preferred pharmacologic agents for this condition.
+
+When a patient with WPW presents with a wide QRS tachycardia, acute therapy depends
+on the patient’s tolerance of the arrhythmia. If accompanied by hemodynamic collapse,
+immediate cardioversion is required. Conversely, if the patient is hemodynamically stable,
+intravenous administration of procainamide (a class IA agent that slows conduction in the
+accessory pathway) or ibutilide (a class III agent that prolongs refractoriness in the accessory
+pathway) will often terminate the arrhythmia.
+
+Patients who have WPW with symptomatic arrhythmias should generally undergo an inva-
+sive electrophysiologic study with radiofrequency ablation of the accessory pathway. Ablation
+abolishes conduction over the pathway, curing the condition. If this procedure is not an
+option, chronic oral therapy should include a drug that slows accessory pathway conduction
+(i.e., a class IA, IC, or III agent).
+
+The Lown—Ganong-—Levine syndrome is also characterized by a short PR interval but a
+normal, narrow QRS complex (i.e., no delta wave during sinus rhythm). It used to be consid-
+ered a form of preexcitation, but most patients just have enhanced conduction through the
+normal AV node, thus shortening the PR interval. When PSVT occurs in these patients, it is
+usually simply due to AV nodal reentry.
+
+Qoncealed Accessory Pathways
+Accessory pathways do not always result in ECG findings of ventricular preexcitation (i.e.,
+short PR, delta wave). Many are capable of only retrograde conduction. In this case, during
+sinus rhythm, the ventricles are depolarized normally through the AV node alone and the ECG
+is normal (i.e., the accessory pathway is concealed). However, because the accessory pathway
+is capable of retrograde conduction, it can form a limb ofa reentrant circuit under appropriate
+circumstances and result in orthodromic AVRT.
+
+Management of patients with tachycardia involving a concealed accessory pathway is the
+same as for patients with AVNRT. Because the reentrant circuit travels anterogradely down the AV
+node, vagal maneuvers and drugs that interrupt conduction over the AV node (e.g., adenosine,
+verapamil, diltiazem, and B-blockers) can terminate the tachycardia. Another option for recur-
+rent episodes is catheter ablation of the accessory pathway, which is curative in most patients.
+
+Focal Atrial Tachycardia
+Focal atrial tachycardia (AT) results from either automaticity of an atrial ectopic site or reentry.
+The ECG has the appearance of sinus tachycardia, with a P wave before each QRS complex,
+but the P-wave morphology is different from that of sinus rhythm, indicating depolarization
+of the atrium from an abnormal location. The arrhythmia can be paroxysmal and of limited
+duration, or it can persist. Short, asymptomatic bursts of AT are commonly observed on
+24-hour ECG recordings, even in otherwise healthy people.
+
+AT can be caused by digitalis toxicity and is also aggravated by elevated sympathetic
+tone (e.g., during exertion or periods of illness). Initial treatment includes correction of any
+contributing factors. Unlike AVNRT or AVRT, vagal maneuvers (such as carotid sinus mas-
+sage) may have no effect on atrial discharges from an ectopic pacemaker focus. However,
+Clinical Aspects of Gardiac Arrhythmias 303
+gS SE EP i
+SE SU UU SUE GH SE VES
+i GAUGE an | Ln SP ii Ge 2
+= sl a atte ae 1 PR aut Alm tn tld dll a
+fertebe pear apna retin Peder t
+HGURE 12-18. Multifocal atrial tachycardia. The rhythm is irregular, and each QRS is preceded by a P wave
+of varying morphology.
+B-blockers, calcium channel blockers, and class IC, IA, and III antiarrhythmic drugs can be
+effective. Catheter ablation is also a useful option for symptomatic patients.
+Multifocal Atrial Tachycardia
+In multifocal atrial tachycardia (MAT), the ECG shows an irregular rhythm with multiple (at
+least three different) P-wave morphologies, and the average atrial rate is greater than 100 bpm
+(Fig. 12-18). An isoelectric (1.e., “f at”) baseline between P waves distinguishes MAT from the chaotic
+baseline of AF. This rhythm is likely caused by either abnormal automaticity in several foci within
+the atria or triggered activity and occurs most often in the setting of severe pulmonary disease and
+hypoxemia. Because patients with this rhythm are often critically ill from the underlying disease,
+the mortality rate is high, and treatment is aimed at the causative disorder. The calcium chan-
+nel blocker verapamil is often effective at slowing the ventricular rate as a temporizing measure.
+Ventricular Arrhythmias
+Ventricular arrhythmias include (1) ventricular premature beats (VPBs), (2) ventricular
+tachycardia (VT), and (3) ventricular fibrillation (VF). Ventricular arrhythmias are usually
+more dangerous than supraventricular rhythm disorders and are responsible for many of the
+approximately 300,000 sudden cardiac deaths that occur every year in the United States.
+Ventricular Premature Beats
+A VPB arises when an ectopic ventricular focus fires an action potential. On the ECG, a VPB
+appears as a widened QRS complex, because the impulse travels from its ectopic site through the
+ventricles via slow cell-to-cell connections rather than through the normal rapidly conducting His—
+Purkinje system (Fig. 12-19). Furthermore, the ectopic beat is not related to a preceding P wave.
+VPBs can also occur in repeating patterns. When every alternate beat is a VPB, the rhythm
+is termed bigeminy. When two normal beats precede every VPB, trigeminy is present.
+Consecutive VPBs are referred to as couplets (two in a row) or triplets (three in a row).
+Similar to APBs, VPBs are common even among healthy people and are often asymptom-
+atic and benign. Specific precipitants of VPBs include medications (e.g., B-adrenergic receptor
+HGURE 12-19. Ventricular premature beats (arrows).
+304 chapter 12
+
+ACA a ae ae pa a
+ee ee ee a ee
+eee eee
+RAV AVAVAVAVAVAVAVATAVAAIVAVAVAVALY:
+Fle a lee ee ea (eee dee a anon ded a a nat tal ae a
+HGURE 12-20. Mbonomorphic ventricular tachycardia.
+
+agonists), caffeine, electrolyte abnormalities (e.g., hypokalemia, hypomagnesemia), and
+hypoxia. VPBs are not dangerous by themselves, and in patients without heart disease, they
+confer no added risk of a life-threatening arrhythmia. They can, however, be an indication of
+an underlying cardiac disorder and take on added signif cance in that case. For example, in
+patients with structural heart disease, VPBs generally increase in frequency in relation to the
+severity of depressed ventricular contractility. They have been associated with an increased
+risk of sudden death in patients with heart failure or prior myocardial infarction.
+
+In otherwise healthy persons, treatment of VPBs mainly involves reassurance and, if
+needed, symptomatic control using B-blockers. In patients with advanced structural heart
+disease with features that place them at risk of life-threatening ventricular arrhythmias, place-
+ment of an implantable cardioverter—def brillator (ICD) is typically recommended.
+
+Ventricular Tachycardia
+
+VT is a series of three or more consecutive VPBs (Fig. 12-20). VT is divided arbitrarily into
+two categories. If it persists for more than 30 seconds, produces severe symptoms, such as
+syncope, or requires termination by cardioversion or administration of an antiarrhythmic
+drug, it is designated as sustained VT; shorter, self-terminating episodes are termed non-
+sustained VT. Both forms of VT are found most commonly in patients with structural heart
+disease, including myocardial ischemia and infarction, heart failure, ventricular hypertrophy,
+primary electrical diseases (e.g., long-QT syndromes [LQTS]; see Box 12-1), valvular heart
+diseases, and congenital cardiac abnormalities.
+
+De
+
+BOX12-1 Genetic Mutations and Ventricular Arrhythmias
+
+Genetic causes of arrhythmias occur either in association with various types of structural heart
+
+disease or as isolated conditions. Examples of inherited structural disease that can be complicated
+
+by life-threatening ventricular arrhythmias include hypertrophic cardiomyopathy, the familial
+dilated cardiomyopathies, and arrhythmogenic right ventricular cardiomyopathy (ARVO,
+
+which are all described in Chapter 10. ARVC may be suspected on
+
+routine BOG by the presence of inverted T waves in leads V, through vy, HHECE psilon wave dee
+
+V, and occasionally an epsilon wave, a terminal notch of the QRS Beeeae (aua7 4a geEEEEEEETEa ISETESEEEEE
+
+complex in lead V, (see arrow in the adjacent figure), which ref ects Basa | PNGUGGDGEEESRTOPSO®  PUETEEDSE
+
+Several other inherited arrhythmic disorders occur in the saesaa {SSSSaGUEESVGEET008 (SETGETENE
+absence of structural cardiac disease. These occur infrequently but
+
+are important because they can cause life-threatening polymorphic VI or VF in young, otherwise
+
+healthy people without prior warning. The most common of these conditions are (1) the Brugada
+
+syndrome, (2) the congenital LOIS, and (3) familial catecholaminergic polymorphic VE
+The Brugada syndrome is inherited in an autosomal dominant fashion and has been linked in
+some (but not all) families to mutations in a sodium channel subunit gene (SCNSA). Aclue to the
+Clinical Aspects of Cardiac Arrhythmias 305
+BOX12-1 Genetic Mutations and Ventricular Arrhythmias (continued)
+presence of this syndrome is a specific ECG finding of prominent ST elevation in leads V, through
+V; (see adjacent figure). This pattern may be present chronically or intermittently; in the latter
+case, the syndrome may be unmasked by administering sodium channel blocking antiarrhythmic
+drugs (e.g., f ecainide, procainamide, which are described in Chapter 17). Brugada syndrome
+is a potentially lethal condition, and I@ implantation is the most effective way to prevent an
+arrhythmic death.
+
+The congenital long Ql syndromes are associated with ee
+prolonged ventricular repolarization (hence the long QT interval), vi os Eves ies Extensis ESSOCraes
+which can lead to life-threatening polymorphic VI (i.e., torsades Bead cat, Care) AGU ass eenUnee< CEELEES
+de pointes). Mutations in a number of different genes result in BEEP ert tatafadatosecener' fof vated
+prolonging the action potential duration. Mbst identified mutations sous :oesezazazataanazssasaeazazazsea2
+alter ion channel function to either enhance the depolarizing
+Ne current or impair the repolarizing K current. Autosomal dominant and recessive patterns of
+inheritance occur.
+
+Gene penetrance and symptomatology of patients with LOIS is highly variable, even for
+individuals with the same mutation. The degree of QI prolongation and, in some cases, the patient’s
+gender are predictors of arrhythmic risk when a mutation is present. An affected patient may be
+asymptomatic and come to medical attention only as a result of the abnormal ECGor because of a
+family member who died suddenly. Others present with syncope or sudden death caused by torsades
+de pointes. The most common forms (LQI and LQ) are associated with ventricular arrhythmias
+during physical exercise (particularly swimming) or emotional stress. Gonversely, those with LQT3 are
+much more likely to experience cardiac events at rest or during sleep.
+
+Other acquired conditions that further prolong the QT interval can trigger life-threatening
+arrhythmias in patients with LOTS, including hypokalemia, hypomagnesemia, hypocalcemia,
+and several medications (including many antiarrhythmic drugs). Gonversely, B-blockers reduce
+the risk of arrhythmias in many forms of congenital LOTS, even though they do not shorten
+the QT interval. For patients at high risk of life-threatening arrhythmias, ICD implantation is
+warranted.
+
+Familial catecholaminergic polymorphic VI, inherited in autosomal dominant and recessive
+patterns, is marked by VI and/or VF during exercise or emotional arousal. The mechanism is
+thought to be triggered activity resulting from delayed afterdepolarizations (described in Chapter
+11). Matations in affected families have been demonstrated in at least two genes involved
+in intracellular calcium handling, including a missense mutation in the locus that codes for
+the cardiac ryanodine receptor (see Chapter 1). Treatment with a B-blocker, calctum channel
+blocker, and/or drug that inhibits ryanodine receptor—mediated calcium release (e.g., the class
+ICantiarrhythmic f ecainide has this additional attribute) may be effective; an ICDis also often
+recommended.
+
+(enetic Basis of the Three Vbst @mmon On¢genital Long QF Syndromes
+Type Gne Protein Mechanism of Prolonged Inheritance
+(Location) Repolarization
+
+LOM = KCNOI (11p15) ~~ KVLOM (a subunit of | Outward K* current ADand AR
+
+Ix, K channel)
+LO KCNF2 (7935) HERG (o subunit of Ix. | Outward K’ current AD
+
+K channel)
+LOB SANSA (3p21) Nav 1.5 (Ne channel) ? Inward Na* current AD
+LT
+AD, autosomal dominant; AR, autosomal recessive.
+306 Chapter 12
+
+The QRS complexes of VT are typically wide (greater than 0.12 seconds) and occur at a rate
+of 100 to 200 bpm or sometimes faster. VT is further categorized according to its QRS morphol-
+ogy. When every QRS complex appears the same and the rate is regular, it is referred to as
+monomorphic VT (see Fig. 12-20). Sustained monomorphic VT usually indicates a structural
+abnormality that supports a reentry circuit, most commonly a region of myocardial scar from an
+old infarction or cardiomyopathy. Occasionally, sustained monomorphic VT occurs as a result
+of an ectopic ventricular focus in an otherwise healthy person (referred to as idiopathic VT).
+
+When the QRS complexes continually change in shape and the rate varies from beat to beat,
+the VT is referred to as polymorphic. Multiple ectopic foci or a continually changing reentry
+circuit is the cause. Torsades de pointes (discussed later in the chapter) and acute myocar-
+dial ischemia or infarction are the most common causes of polymorphic VT. Rare, inherited
+predispositions to polymorphic VT and sudden death arise from abnormalities of cardiac ion
+channels or calcium handling (e.g., the long QT syndromes, the Brugada syndrome, familial
+catecholaminergic polymorphic VT), as described in Box 12-1. Sustained polymorphic VT
+usually degenerates to VF.
+
+The symptoms of VT vary depending on the rate of the tachycardia, its duration, and the
+underlying condition of the heart. Sustained VT can cause low cardiac output resulting in loss
+of consciousness (syncope), pulmonary edema, or progress to cardiac arrest. These severe
+consequences of VT are most likely in patients who have underlying depressed contractile
+function. Conversely, if sustained VT is at a relatively slow rate (e.g., less than 130 bpm), it
+may be well tolerated and cause only palpitations.
+
+Distinguishing Monomorphic VI from Supraventricular Tachycardia
+
+VT can usually be distinguished from SVT by the width of the QRS complex: it is routinely
+wide in the former and narrow (i.e., normal) in the latter. However, under certain circum-
+stances, arrhythmias that originate from sites above the ventricles can result in wide QRS
+complexes and may appear similar to monomorphic VT. This situation is termed SVT with
+aberrant ventricular conduction, or simply SVT with aberrancy, and may arise in three
+scenarios: (1) a patient has an underlying conduction abnormality (e.g., a bundle branch
+block), such that the QRS is abnormally wide even when in normal sinus rhythm; (2)
+repetitive rapid ventricular stimulation during SVT finds one of the bundle branches refrac-
+tory (because of insufficient time to recover from the previous depolarization), such that
+the impulse propagates abnormally through the ventricles, causing the QRS to be distorted
+and wide; or (3) a patient develops antidromic tachycardia through an accessory pathway
+(described earlier).
+
+Certain clinical and electrocardiographic features can help to distinguish wide QRS com-
+plexes of monomorphic VT from those of supraventricular rhythms with aberrant conduction.
+In patients with a history of prior myocardial infarction, congestive heart failure, or left ven-
+tricular dysfunction, a wide complex tachycardia is more likely to be VT rather than SVT with
+aberrancy. At the bedside, SVT is more probable if vagal maneuvers (such as carotid sinus
+massage) affect the rhythm (see Fig. 12-9).
+
+Electrocardiographically, a supraventricular tachyarrhythmia is more likely if the morphol-
+ogy of the QRS at the rapid rate is similar to that on the patient’s ECG tracing obtained while
+in sinus rhythm (i.e., the complex is widened because of an underlying bundle branch block).
+Conversely, VT is more likely if (1) there is no relationship between the QRS complexes and
+any observed P waves (AV dissociation) or (2) the QRS complexes in each of the chest leads
+(V, through V,.) have a similar appearance, with a dominant positive or negative def ection
+(i.e., there is “concordance” of the precordial QRS complexes). These features are summa-
+rized in Table 12-2. Other morphologic ECG features have been used to distinguish VT from
+SVT with aberrancy, but the distinction is often very difficult. Most patients with wide QRS
+tachycardia should be managed as though they have VT until proven otherwise.
+Clinical Aspects of Gardiac Arrhythmias 307
+TABLE 12-2
+Supports SVI' with Aberrant @nduction Supports Ventricular Tachycardia
+QRS morphology same as when in sinus History of prior MI or heart failure
+thythm No relationship between P waves and QRS complexes
+Rhythm responds to vagal maneuvers Q@ncordance of QRS complexes in the chest leads
+(see Hg. 12-9) (V-V.)
+a
+M, myocardial infarction; SVE supraventricular tachycardia.
+Management of Patients with VI
+Sustained episodes of VT are dangerous because they can produce syncope or deteriorate into
+VE, which is fatal if not quickly corrected. Acute treatment usually consists of electrical car-
+dioversion. Intravenous administration of certain antiarrhythmic drugs, such as amiodarone,
+procainamide, or lidocaine, can be considered if the patient is hemodynamically stable.
+
+After sinus rhythm is restored, a patient who has had sustained VT requires careful evalu-
+ation to define whether underlying structural heart disease is present and to correct any
+ageravating factors, such as myocardial ischemia, electrolyte disturbances, or drug toxicities.
+Patients who have suffered VT in the setting of structural heart disease have a high risk of
+recurrence and sudden cardiac death; implantation of an ICD is usually warranted to auto-
+matically and promptly terminate future episodes.
+
+Patients who experience VT in the absence of underlying structural heart disease are usu-
+ally found to have idiopathic VT. This type of arrhythmia tends to originate from foci in the
+right ventricular outfow tract or in the septal portion of the left ventricle. It is rarely life
+threatening. B-Blockers, calcium channel blockers, or catheter ablation is commonly effective
+to control symptomatic episodes of idiopathic VT.
+
+Torsades de Pointes
+Torsades de pointes (“twisting of the points”) is a form of polymorphic VT that presents
+as varying amplitudes of the QRS, as if the complexes were “twisting” about the baseline
+(Fig. 12-21). It can result from early afterdepolarizations (triggered activity), particularly
+in patients who have a prolonged QT interval. QT prolongation (which indicates a length-
+ened action potential duration) can result from electrolyte disturbances (hypokalemia
+or hypomagnesemia), persistent bradycardia, and drugs that block cardiac potassium
+currents, including many antiarrhythmic agents (particularly the class III drugs sotalol,
+ibutilide, and dofetilide and some class I drugs, including quinidine, procainamide, and
+disopyramide). Many medications administered for noncardiac illnesses can also prolong
+STS SS aS st fsbo ne ene qe bee tee Hse shinpest=: Stee tie }secatsss SEs af
+FRY ESPSSES TPES EEE SRE fh pS Ee Eee ae yeahs dee Sad oeee amet bee = sua}
+let A tn ear ST cn for bopenhe, Prods tas pe tr an RIT eth as erie capbpmubiiotes spain
+ree y oEtey oo a i ron poms © Sn Toe one ew + : : 7 os on -
+HGURE12-21. Torsade de pointes. The widened polymorphic QRS complexes demonstrate a waxing and
+waning pattern.
+308 chapter 12
+
+FS EUS ESS eae eee eta ee ue ane ane ane ane ane at ae ane asta at ae ae
+
+FS ES ESSE FESS Eps Fos Ets ne coa cone ened fone lrses enone fetes tne coed oo cosa fonedCoses tenes fneoseneoco
+
+Sta ARES RSE Seen Same els
+
+|e
+
+HGURE 12-22. Ventricular f brillation.
+
+the QT interval and predispose to torsades de pointes, including erythromycin, pheno-
+
+thiazines, haloperidol, and methadone. A rare group of hereditary ion channel abnor-
+
+malities produces congenital QT prolongation, which can also lead to torsades de pointes
+
+(see Box 12-1).
+
+Torsades de pointes is usually symptomatic, causing light-headedness or syncope, but is
+frequently self-limited. Its main danger results from degeneration into VF. When it is drug or
+electrolyte induced, correcting the underlying trigger abolishes recurrences, but measures to
+suppress episodes are required to allow time to address the cause. Administration of intra-
+venous magnesium often suppresses repeated episodes. Additional preventive strategies are
+aimed at shortening the QT interval by increasing the underlying heart rate with intravenous
+B-adrenergic stimulating agents (e.g., isoproterenol) or an artif cial pacemaker. When tors-
+ades de pointes results from congenital prolongation of the QT interval (i.e., in the long QT
+syndromes), B-blocking drugs are the treatment of choice, because sympathetic stimulation
+actually aggravates the arrhythmia.
+
+Ventricular Hbnillation
+
+VF is an immediately life-threatening arrhythmia (Fig. 12-22). It results in disordered, rapid
+
+stimulation of the ventricles with no coordinated contractions. The result is essentially ces-
+
+sation of cardiac output and death if not quickly reversed. This rhythm most often occurs in
+patients with severe underlying heart disease and is the major cause of mortality in acute
+myocardial infarction.
+
+VF is often initiated by an episode of VT, which degenerates, it is believed, by the breakup
+of excitation waves into multiple smaller wavelets of reentry that wander through the myo-
+cardium. On the ECG, VF is characterized by a chaotic irregular appearance without discrete
+QRS waveforms.
+
+Untreated, VF rapidly leads to death. The only effective therapy is prompt electrical def bril-
+lation. As soon as the heart has been converted to a safe rhythm, the underlying precipitant
+of the arrhythmia (e.g., myocardial ischemia, electrolyte imbalances, hypoxemia, or acidosis)
+should be sought and corrected to prevent further episodes. Intravenous antiarrhythmic drug
+therapy may be administered to prevent immediate recurrences. If no reversible inciting pre-
+cipitant is found, survivors of VF usually receive an ICD.
+
+SUMMARY
+
+° Disorders of impulse formation and conduction result in bradyarrhythmias (heart rate <60
+bpm) and tachyarrhythmias (heart rate > 100 bpm for three beats or more).
+
+° The f ve basic considerations when confronted with a patient with an abnormal heart
+rhythm are (1) identif cation, (2) pathogenesis, (3) precipitating factors, (4) clinical presenta-
+tion, and (5) treatment.
+
+e When evaluating a patient with a slow heart rhythm, two key questions should be
+addressed: (1) are P waves present? and (2) what is the relationship between the P waves
+and the QRS complexes?
+Clinical Aspects of Gardiac Arrhythmias 309
+° Differentiation of tachyarrhythmias requires assessment of (1) the width of the QRS complex
+(normal or wide), (2) the morphology and rate of the P waves, (3) the relationship between
+the P waves and the QRS complexes, and (4) the response to vagal maneuvers.
+e The ECG texts listed at the end of Chapter 4 provide multiple examples of arrhythmias and
+are suited for practicing the principles described in this chapter.
+Acknowledgments
+Contributors to previous editions of this chapter were Ranliang Hu, MD; Hillary K. Rolls, MD;
+Wendy Armstrong, MD; Nicholas Boulis, MD; Jennifer E. Ho, MD; Marc S. Sabatine, MD;
+Elliott M. Antman, MD; and Leonard I. Ganz, MD.
+Additional Reading
+January CT, Wann LS, Alpert JS, et al. 2014 AHA/ ACC/ HRS a Wolff-Parkinson-White (WPW, ventricular preexci-
+guideline for the management of patients with atrial f bril- tation) electrocardiographic pattern. Heart Rhythm.
+lation: A report of the American College of Cardiology/ 2012;9:1006—-1024.
+American Heart Association Task Force on Practice Roden DM. Clinical practice. Long-QT syndrome. N Engl J
+Guidelines and the Heart Rhythm Society. Circulation. Med. 2008;358:169-176.
+2014; 130(23):2071—2104. Stevenson WG. Current treatment of ventricular arrhythmias:
+Link MS. Clinical practice. Evaluation and initial treat- State of the art. Heart Rhythm. 2013;10:1919-1926.
+ment of supraventricular tachycardia. N Engl J Med. Tracy CM, Epstein AE, Darbar D, et al. 2012 ACCF/ AHA/ HRS
+2012;367:1438-1448. focused update of the 2008 guidelines for device-based
+Pediatric Congenital Electrophysiology Society, Heart Rhythm therapy of cardiac rhythm abnormalities: A report of the
+Society, American College of Cardiology Foundation, American College of Cardiology Foundation/ American Heart
+et al. PACES/ HRS expert consensus statement on the Association Task Force on Practice Guidelines. J Am Coll
+management of the asymptomatic young patient with Cardiol. 2012;60:1297-1313.
+.
+i i
+Hypertension via
+oe
+Joshua Drago \ i
+Gordon H. Williams iv
+Leonard S. Lilly
+Chapter Outline O ver 70 million Americans, and 1 billion people through-
+Nee out the world, have hypertension—a blood pressure (BP)
+ahhat Is Hypertension: high enough to be a danger to their well-being. This number
+semen will undoubtedly rise; data from the Hamingham Heart Study
+Hemodynamic Factors indicate that 90% of people over age 55 will develop hyper-
+Blood Pressure Reflexes tension during their lifetimes. Thus, this condition represents
+Fssential Hypertension a great public health concern because it is a major risk factor
+Genetics and Epidemiology for coronary artery disease, stroke, heart failure, renal disease,
+Expeumental Findings and peripheral vascular disease. Surprisingly, two thirds of
+Natural History . . .
+————— hypertensive persons are either unaware of their elevated BP
+a or are not treated adequately to minimize the cardiovascu-
+Exogenous Causes lar risk. Moreover, because elevated BP is usually asymptom-
+Renal Gauses atic until an acute cardiovascular event strikes, screening for
+Mechanical Causes hypertension is a critical aspect of preventive medicine.
+Cinical Signs and Symptoms cee IDS, PEPSI OLE ELIE OS
+Organ Damage Caused by cause of the BP elevation is unknown, a condition termed
+Hypertension primary or essential hypertension (EH). Evidence suggests
+Hypertensive Cisis that the causes of FH are multiple and diverse, but considera-
+Treatment of Hypertension ble insight into those causes can be achieved by studying the
+ae iceman normal physiology of BP control, as examined in this chapter.
+gic lreatment High BP attributed to a defnable cause is termed
+secondary hypertension. Although far less common than
+FH, conditions that cause secondary hypertension are impor-
+tant because many are amenable to permanent cure. Notably,
+310
