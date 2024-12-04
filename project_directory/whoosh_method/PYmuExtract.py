@@ -4,12 +4,13 @@ from fuzzywuzzy import fuzz
 from pathlib import Path
 import enchant
 
-#This script extracts the pdf into text with a straightforward pymupdf script. However, the library seems to miss a certain font version of f. 
-#additionally, the documnet itself missed the letter L for some reason. Becuase of this, some post processing on the document needs to be used. 
-#The rest of the script will be processing the text document to match up to 3 words against a single word using a fuzzy search library. 
-#i.e. for all words -> fuzzy("ala el", word) -> bestmatch = falafel 
-#If the above method causes errors, it is expected to be much less than the original data. 
-
+'''
+This script extracts the pdf into text with a straightforward pymupdf script. However, the library seems to miss a certain font version of f. 
+Additionally, the document itself missed the letter L for some reason. Because of this, some post-processing on the document needs to be used. 
+The rest of the script will be processing the text document to match up to 3 words against a single word using a fuzzy search library. 
+i.e. for all words -> fuzzy("ala el", word) -> best-match = falafel 
+If the above method causes errors, it is expected to be much less than the original data. 
+'''
 
 def main():
     current_dir = Path(__file__).parent
