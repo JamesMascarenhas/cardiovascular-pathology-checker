@@ -63,13 +63,13 @@ save_text_to_file(text_content, output_file_path)
 
 print(f"Text content from pages {start_page} to {end_page} saved to {output_file_path}")
 
-
-# reader = PdfReader(file_path)
-
-# # Attempt to extract text from the first page
-# page = reader.pages[11]
-# text = page.extract_text()
-# print(text)
+'''
+reader = PdfReader(file_path)
+Attempt to extract text from the first-page
+page = reader.pages[11]
+text = page.extract_text()
+print(text)
+'''
 
 for i in range(len(chapterindex)-1):
     text_content = extract_text_from_pdf_with_ocr(file_path, chapterindex[i], chapterindex[i+1])
