@@ -9,7 +9,7 @@ from pdf2image import convert_from_path
 file_path = r"C:\coding\projects\Pathology finder\Cardiology Textbook.pdf"
 
 chapter1 = 12
-chapter2=37
+chapter2 = 37
 chapter3 = 44
 chapter4 = 85
 chapter5 = 123
@@ -18,7 +18,7 @@ chapter7 = 173
 chapter8 = 203
 chapter9 = 231
 chapter10 = 260
-chapter11 =279
+chapter11 = 279
 chapter12 = 298
 chapter13 = 321
 chapter14 = 345
