@@ -27,6 +27,6 @@ def search_index(query_str, ix):
             print("-" * 80)
 
 # Example search query
-search_query = "erectile dysfunction"  # Replace with your search term
+search_query = "Heart"  # Replace with your search term
 ix = open_dir("index")  # Open the existing index
 search_index(search_query, ix)
